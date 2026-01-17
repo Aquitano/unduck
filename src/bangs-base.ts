@@ -2,18 +2,9 @@
 
 export const bangs = [
   {
-    c: "AI",
-    d: "www.t3.chat",
-    r: 0,
-    s: "T3 Chat",
-    sc: "AI",
-    t: "t3",
-    u: "https://www.t3.chat/new?q={{{s}}}",
-  },
-  {
     c: "Tech",
     d: "www.01net.com",
-    r: 4,
+    r: 0,
     s: "01net",
     sc: "Downloads (apps)",
     t: "01net",
@@ -22,7 +13,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.bmw2002faq.com",
-    r: 0,
+    r: 3,
     s: "BMW 2002 FAQ",
     sc: "Forum",
     t: "02faq",
@@ -40,7 +31,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "0to255.com",
-    r: 3,
+    r: 4,
     s: "0to255",
     sc: "Tools",
     t: "0to255",
@@ -94,7 +85,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.1177.se",
-    r: 0,
+    r: 6,
     s: "1177 V\u00e5rdguiden",
     sc: "Health",
     t: "1177",
@@ -103,7 +94,7 @@ export const bangs = [
   {
     c: "Research",
     d: "11870.com",
-    r: 3,
+    r: 0,
     s: "11870",
     sc: "Food",
     t: "11870",
@@ -130,7 +121,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.11st.co.kr",
-    r: 3,
+    r: 0,
     s: "11\ubc88\uac00",
     sc: "Online (intl)",
     t: "11st",
@@ -184,7 +175,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.17track.net",
-    r: 11,
+    r: 18,
     s: "17TRACK",
     sc: "Tracking",
     t: "17t",
@@ -202,7 +193,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.1881.no",
-    r: 28,
+    r: 20,
     s: "1881.no",
     sc: "Tools",
     t: "1881",
@@ -220,7 +211,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "1d4chan.org",
-    r: 3,
+    r: 4,
     s: "1d4chan",
     sc: "Games (general)",
     t: "1d4chan",
@@ -229,7 +220,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "onedrive.live.com",
-    r: 10,
+    r: 20,
     s: "OneDrive",
     sc: "General",
     t: "1dr",
@@ -355,7 +346,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.2ememain.be",
-    r: 3,
+    r: 0,
     s: "2ememain.be",
     sc: "Online (marketplace)",
     t: "2ememain",
@@ -364,7 +355,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "2gis.ru",
-    r: 6,
+    r: 3,
     s: "2gis.ru",
     sc: "Maps",
     t: "2gis",
@@ -400,7 +391,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.2nn.jp",
-    r: 24,
+    r: 0,
     s: "2NN",
     sc: "Online",
     t: "2nn",
@@ -481,7 +472,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.3bmeteo.com",
-    r: 41,
+    r: 24,
     s: "3Bmeteo",
     sc: "Weather",
     t: "3bm",
@@ -589,7 +580,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "profile.intra.42.fr",
-    r: 122,
+    r: 147,
     s: "42 Intra",
     sc: "Programming",
     t: "42",
@@ -598,7 +589,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.4fitnessrules.com",
-    r: 70,
+    r: 54,
     s: "4 Fitness Rules",
     sc: "Video",
     t: "4",
@@ -634,7 +625,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "4chan.org",
-    r: 748,
+    r: 826,
     s: "4chan Board",
     sc: "Forum",
     t: "4ch",
@@ -652,7 +643,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "duckduckgo.com",
-    r: 17,
+    r: 13,
     s: "4chan",
     sc: "Images",
     t: "4chan",
@@ -661,7 +652,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "4chan.org",
-    r: 28,
+    r: 39,
     s: "4chan Boards",
     sc: "Misc",
     t: "4chanb",
@@ -670,7 +661,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "boards.4chan.org",
-    r: 44,
+    r: 81,
     s: "4chan Catalog",
     sc: "Social",
     t: "4chc",
@@ -688,7 +679,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "boards.4chan.org",
-    r: 0,
+    r: 4,
     s: "4chan technology board",
     sc: "Blogs",
     t: "4chg",
@@ -778,7 +769,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "4chan.org",
-    r: 29,
+    r: 17,
     s: "4chan - /g/ - Technology",
     sc: "Blogs",
     t: "4g",
@@ -787,7 +778,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "archive.rebeccablacktech.com",
-    r: 11,
+    r: 7,
     s: "4chan /g/ archive",
     sc: "Tools",
     t: "4ga",
@@ -796,7 +787,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "4pda.ru",
-    r: 4,
+    r: 0,
     s: "4pda",
     sc: "Forum",
     t: "4pda",
@@ -823,7 +814,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "archive.4plebs.org",
-    r: 372,
+    r: 250,
     s: "4plebs Archive",
     sc: "Search",
     t: "4plebs",
@@ -877,7 +868,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "prime.500px.com",
-    r: 0,
+    r: 18,
     s: "500px",
     sc: "Images",
     t: "500",
@@ -886,7 +877,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "500px.com",
-    r: 3,
+    r: 0,
     s: "500px",
     sc: "Images",
     t: "500px",
@@ -895,7 +886,7 @@ export const bangs = [
   {
     c: "Research",
     d: "food52.com",
-    r: 7,
+    r: 0,
     s: "Food52",
     sc: "Food",
     t: "52",
@@ -904,7 +895,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fivethirtyeight.com",
-    r: 26,
+    r: 0,
     s: "fivethirtyeight.com",
     sc: "Academic",
     t: "538",
@@ -922,7 +913,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "find.5ch.net",
-    r: 216,
+    r: 99,
     s: "5\u3061\u3083\u3093\u306d\u308b",
     sc: "Social",
     t: "5ch",
@@ -931,7 +922,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "find.5ch.net",
-    r: 6,
+    r: 0,
     s: "5channel",
     sc: "Forum",
     t: "5channel",
@@ -940,7 +931,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "engl393-dnd5th.wikia.com",
-    r: 5,
+    r: 4,
     s: "D&D 5e Wiki",
     sc: "Games (general)",
     t: "5e",
@@ -949,7 +940,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dnd5e.wikidot.com",
-    r: 0,
+    r: 6,
     s: "D&D 5e Wikidot",
     sc: "Games (offline)",
     t: "5ew",
@@ -958,7 +949,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "fiverr.com",
-    r: 54,
+    r: 37,
     s: "Fiverr",
     sc: "Jobs",
     t: "5",
@@ -1021,7 +1012,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.7tv.de",
-    r: 0,
+    r: 7,
     s: "7TV",
     sc: "Video",
     t: "7tv",
@@ -1030,7 +1021,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "800notes.com",
-    r: 17,
+    r: 25,
     s: "800notes.com",
     sc: "Search",
     t: "800",
@@ -1075,7 +1066,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "8ch.net",
-    r: 0,
+    r: 5,
     s: "8chan Boards",
     sc: "Misc",
     t: "8chb",
@@ -1102,7 +1093,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.911tabs.com",
-    r: 0,
+    r: 5,
     s: "911tabs",
     sc: "Music",
     t: "911",
@@ -1120,7 +1111,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.91mobiles.com",
-    r: 3,
+    r: 0,
     s: "91 mobiles",
     sc: "Tech",
     t: "91",
@@ -1192,7 +1183,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "9pp.co",
-    r: 36,
+    r: 22,
     s: "9pp.co",
     sc: "Games (general)",
     t: "9",
@@ -1210,7 +1201,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "9gag.com",
-    r: 213,
+    r: 202,
     s: "9gag",
     sc: "Comics",
     t: "9g",
@@ -1219,7 +1210,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "9gag.com",
-    r: 305,
+    r: 206,
     s: "9gag",
     sc: "Comics",
     t: "9gag",
@@ -1228,7 +1219,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "alternativeto.net",
-    r: 198,
+    r: 221,
     s: "AlternativeTo.net",
     sc: "Downloads",
     t: "a2",
@@ -1264,7 +1255,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "careers-calstate.aaa.com",
-    r: 3,
+    r: 6,
     s: "AAA",
     sc: "Jobs",
     t: "aaa",
@@ -1282,7 +1273,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 12,
+    r: 17,
     s: "Amazon Automotive",
     sc: "Online",
     t: "aa",
@@ -1336,7 +1327,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 33856,
+    r: 41153,
     s: "Amazon.com",
     sc: "Online",
     t: "a",
@@ -1390,7 +1381,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.getty.edu",
-    r: 0,
+    r: 3,
     s: "Art & Architecture Thesaurus\u00ae Online",
     sc: "Reference (words)",
     t: "aat",
@@ -1399,7 +1390,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com.au",
-    r: 244,
+    r: 160,
     s: "Amazon Australia",
     sc: "Online",
     t: "aau",
@@ -1408,7 +1399,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "aceattorney.wikia.com",
-    r: 3,
+    r: 0,
     s: "Ace Attorney Wiki",
     sc: "Games (specific)",
     t: "aaw",
@@ -1453,7 +1444,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "airbitz.co",
-    r: 3,
+    r: 8,
     s: "Airbitz",
     sc: "Search",
     t: "ab",
@@ -1489,7 +1480,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.abbreviations.com",
-    r: 27,
+    r: 19,
     s: "Abbreviations.com",
     sc: "Reference (words)",
     t: "abbr",
@@ -1507,7 +1498,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "abcnotation.com",
-    r: 0,
+    r: 3,
     s: "abcnotation",
     sc: "Music (Folk)",
     t: "abc",
@@ -1543,7 +1534,7 @@ export const bangs = [
   {
     c: "News",
     d: "abcnews.go.com",
-    r: 62,
+    r: 54,
     s: "ABCNews",
     sc: "Broadcast",
     t: "abcnews",
@@ -1570,7 +1561,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.abesmarket.com",
-    r: 13,
+    r: 3,
     s: "Abe's Market",
     sc: "Online",
     t: "abe",
@@ -1579,7 +1570,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.abebooks.com",
-    r: 67,
+    r: 65,
     s: "abebooks",
     sc: "Learning",
     t: "abebooks",
@@ -1606,7 +1597,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.abebooks.co.uk",
-    r: 14,
+    r: 3,
     s: "abebooks uk",
     sc: "Online",
     t: "abeuk",
@@ -1615,7 +1606,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mobile.bahn.de",
-    r: 5,
+    r: 0,
     s: "Abfahrtsplan Deutsche Bahn",
     sc: "Tools",
     t: "abfahrt",
@@ -1633,7 +1624,7 @@ export const bangs = [
   {
     c: "Research",
     d: "abr.business.gov.au",
-    r: 0,
+    r: 6,
     s: "ABN Lookup",
     sc: "Government",
     t: "abn",
@@ -1660,7 +1651,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.about.com",
-    r: 0,
+    r: 3,
     s: "About.com",
     sc: "Search",
     t: "about",
@@ -1669,7 +1660,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com.br",
-    r: 400,
+    r: 407,
     s: "Amazon Brazil",
     sc: "Online",
     t: "abr",
@@ -1714,7 +1705,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.abuseipdb.com",
-    r: 15,
+    r: 18,
     s: "AbuseIPDB",
     sc: "Sysadmin",
     t: "abuseip",
@@ -1723,7 +1714,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "wall.alphacoders.com",
-    r: 0,
+    r: 3,
     s: "Wallpaper Abyss",
     sc: "Images",
     t: "abyss",
@@ -1732,7 +1723,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.ca",
-    r: 686,
+    r: 739,
     s: "Amazon.ca",
     sc: "Online (intl)",
     t: "aca",
@@ -1741,7 +1732,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.academia.edu",
-    r: 8,
+    r: 0,
     s: "academia.edu",
     sc: "Academic",
     t: "academia",
@@ -1768,7 +1759,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.allocine.fr",
-    r: 22,
+    r: 11,
     s: "Allocin\u00e9",
     sc: "Movies",
     t: "ac",
@@ -1822,7 +1813,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.accuweather.com",
-    r: 17,
+    r: 26,
     s: "AccuWeather",
     sc: "Weather",
     t: "accuweather",
@@ -1831,7 +1822,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.acehardware.com",
-    r: 9,
+    r: 5,
     s: "Ace Hardware",
     sc: "Big box/department",
     t: "ace",
@@ -1867,7 +1858,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.archchinese.com",
-    r: 3,
+    r: 4,
     s: "Arch Chinese",
     sc: "Reference (words intl)",
     t: "ach",
@@ -1885,7 +1876,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.aclweb.org",
-    r: 4,
+    r: 6,
     s: "ACL Anthology",
     sc: "Academic (math/cs)",
     t: "acl",
@@ -1912,7 +1903,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dl.acm.org",
-    r: 3,
+    r: 0,
     s: "ACM Digital Library",
     sc: "Academic",
     t: "acmdl",
@@ -1975,7 +1966,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.acronymfinder.com",
-    r: 5,
+    r: 4,
     s: "Acronym Finder",
     sc: "Reference (words)",
     t: "acr",
@@ -1984,7 +1975,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.acronymfinder.com",
-    r: 51,
+    r: 25,
     s: "Acronyms",
     sc: "Reference (words)",
     t: "acro",
@@ -1993,7 +1984,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.acronymfinder.com",
-    r: 16,
+    r: 20,
     s: "Acronyms",
     sc: "Reference (words)",
     t: "acronym",
@@ -2002,7 +1993,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.acronymfinder.com",
-    r: 0,
+    r: 4,
     s: "Acronyms",
     sc: "Reference (words)",
     t: "acronyms",
@@ -2047,7 +2038,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "animalcrossing.wikia.com",
-    r: 0,
+    r: 4,
     s: "Animal Crossing Wikia ",
     sc: "Games (general)",
     t: "acw",
@@ -2092,7 +2083,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.adafruit.com",
-    r: 7,
+    r: 15,
     s: "Adafruit",
     sc: "Tech",
     t: "adafruit",
@@ -2137,7 +2128,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.addgene.org",
-    r: 3,
+    r: 0,
     s: "Addgene",
     sc: "Reference (science)",
     t: "addgene",
@@ -2182,7 +2173,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 38,
+    r: 59,
     s: "Amazon.de",
     sc: "Online",
     t: "a.de",
@@ -2191,7 +2182,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 4167,
+    r: 4683,
     s: "Amazon.de",
     sc: "Online (intl)",
     t: "ade",
@@ -2218,7 +2209,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.de",
-    r: 8,
+    r: 5,
     s: "Amazon.de Smile",
     sc: "Online",
     t: "ades",
@@ -2227,7 +2218,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.apple.com",
-    r: 50,
+    r: 51,
     s: "Apple Developer",
     sc: "Programming",
     t: "adev",
@@ -2272,7 +2263,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.adlibris.com",
-    r: 4,
+    r: 0,
     s: "Adlibris",
     sc: "Online",
     t: "adlibris",
@@ -2344,7 +2335,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.adobe.com",
-    r: 0,
+    r: 3,
     s: "Adobe",
     sc: "Companies",
     t: "adobe",
@@ -2353,7 +2344,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.ansible.com",
-    r: 6,
+    r: 0,
     s: "Ansible Docs",
     sc: "Sysadmin",
     t: "adoc",
@@ -2380,7 +2371,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "adrenaline.uol.com.br",
-    r: 4,
+    r: 10,
     s: "Adrenaline",
     sc: "Blogs",
     t: "adr",
@@ -2389,7 +2380,7 @@ export const bangs = [
   {
     c: "Research",
     d: "adsabs.harvard.edu",
-    r: 0,
+    r: 4,
     s: "SAO/NASA Astrophysics Data System",
     sc: "Reference (science)",
     t: "adsabs",
@@ -2398,7 +2389,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ui.adsabs.harvard.edu",
-    r: 142,
+    r: 65,
     s: "ADS bumblebee",
     sc: "Academic",
     t: "ads",
@@ -2515,7 +2506,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.aliexpress.com",
-    r: 502,
+    r: 516,
     s: "aliexpress.com",
     sc: "Online (marketplace)",
     t: "ae",
@@ -2533,7 +2524,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.aemet.es",
-    r: 39,
+    r: 49,
     s: "AEMET",
     sc: "Weather",
     t: "aemet",
@@ -2578,7 +2569,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.es",
-    r: 14,
+    r: 28,
     s: "Amazon ES",
     sc: "Online (marketplace)",
     t: "a.es",
@@ -2587,7 +2578,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.es",
-    r: 929,
+    r: 1201,
     s: "Amazon.es",
     sc: "Online (intl)",
     t: "aes",
@@ -2596,7 +2587,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.acronymfinder.com",
-    r: 40,
+    r: 21,
     s: "Acronym Finder",
     sc: "Reference (words)",
     t: "af",
@@ -2641,7 +2632,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "learn.adafruit.com",
-    r: 0,
+    r: 3,
     s: "Adafruit Learn",
     sc: "Design",
     t: "afl",
@@ -2686,7 +2677,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.fr",
-    r: 1756,
+    r: 2292,
     s: "Amazon.fr",
     sc: "Online (intl)",
     t: "afr",
@@ -2695,7 +2686,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.adafruit.com",
-    r: 5,
+    r: 21,
     s: "Adafruit",
     sc: "Tech",
     t: "aft",
@@ -2704,7 +2695,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "track.aftership.com",
-    r: 5,
+    r: 8,
     s: "Aftership",
     sc: "Tracking",
     t: "aftership",
@@ -2722,7 +2713,7 @@ export const bangs = [
   {
     c: "Research",
     d: "af.wikipedia.org",
-    r: 4,
+    r: 0,
     s: "Afrikaans Wikipedia",
     sc: "Learning",
     t: "afwiki",
@@ -2749,7 +2740,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.android.gs",
-    r: 12,
+    r: 17,
     s: "Android Geeks",
     sc: "Blogs",
     t: "ag",
@@ -2767,7 +2758,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 24,
+    r: 8,
     s: "Amazon Germany",
     sc: "Online",
     t: "age",
@@ -2776,7 +2767,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 8,
+    r: 4,
     s: "Amazon Germany",
     sc: "Online",
     t: "ager",
@@ -2848,7 +2839,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ah.nl",
-    r: 32,
+    r: 44,
     s: "Albert Heijn",
     sc: "Online",
     t: "ah",
@@ -2857,7 +2848,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ahdictionary.com",
-    r: 43,
+    r: 33,
     s: "american heritage dictionary",
     sc: "Reference (words)",
     t: "ahd",
@@ -2866,7 +2857,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "arkhamdb.com",
-    r: 19,
+    r: 8,
     s: "ArkhamDB",
     sc: "Games (specific)",
     t: "ahdb",
@@ -2875,7 +2866,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.autohotkey.com",
-    r: 4,
+    r: 0,
     s: "AutoHotkey",
     sc: "Programming",
     t: "ahk",
@@ -2920,7 +2911,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.duckduckgo.com",
-    r: 152,
+    r: 30,
     s: "Duck.ai",
     sc: "Reference",
     t: "aichat",
@@ -2992,7 +2983,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.in",
-    r: 93,
+    r: 43,
     s: "Amazon India",
     sc: "Online",
     t: "a.in",
@@ -3001,7 +2992,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.in",
-    r: 1237,
+    r: 1131,
     s: "Amazon India",
     sc: "Online (intl)",
     t: "ain",
@@ -3037,7 +3028,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.airbnb.com",
-    r: 20,
+    r: 21,
     s: "airbnb",
     sc: "Online",
     t: "airbnb",
@@ -3091,7 +3082,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "airnav.com",
-    r: 19,
+    r: 17,
     s: "AirNav",
     sc: "Tools",
     t: "airn",
@@ -3100,7 +3091,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "airnav.com",
-    r: 0,
+    r: 5,
     s: "Airnav",
     sc: "Tools",
     t: "airnav",
@@ -3127,7 +3118,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "archive.is",
-    r: 756,
+    r: 976,
     s: "archive.is",
     sc: "Tools (URLs)",
     t: "ais",
@@ -3154,7 +3145,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.it",
-    r: 855,
+    r: 1066,
     s: "Amazon.it",
     sc: "Online (intl)",
     t: "ait",
@@ -3163,7 +3154,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.it",
-    r: 15,
+    r: 27,
     s: "Amazon IT",
     sc: "Online",
     t: "a.it",
@@ -3181,7 +3172,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.duckduckgo.com",
-    r: 8351,
+    r: 7163,
     s: "Duck.ai",
     sc: "Reference",
     t: "ai",
@@ -3199,7 +3190,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.alljapaneseallthetime.com",
-    r: 0,
+    r: 5,
     s: "All Japanese All the Time",
     sc: "Blogs",
     t: "ajatt",
@@ -3217,7 +3208,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.aljazeera.com",
-    r: 18,
+    r: 14,
     s: "Al Jazeera (English)",
     sc: "International",
     t: "aje",
@@ -3226,7 +3217,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.jp",
-    r: 598,
+    r: 685,
     s: "http://amazon.co.jp",
     sc: "Online (marketplace)",
     t: "aj",
@@ -3235,7 +3226,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.jp",
-    r: 0,
+    r: 14,
     s: "Amazon.co.jp",
     sc: "Online",
     t: "ajl",
@@ -3244,7 +3235,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.jp",
-    r: 492,
+    r: 737,
     s: "Amazon.co.jp",
     sc: "Online (intl)",
     t: "ajp",
@@ -3262,7 +3253,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.akakce.com",
-    r: 49,
+    r: 98,
     s: "Akak\u00e7e",
     sc: "Online (deals)",
     t: "akakce",
@@ -3280,7 +3271,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "akizukidenshi.com",
-    r: 30,
+    r: 28,
     s: "akizukidenshi",
     sc: "Online (marketplace)",
     t: "akiduki",
@@ -3289,7 +3280,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.allkeyshop.com",
-    r: 69,
+    r: 66,
     s: "AllKeyShop",
     sc: "Online (deals)",
     t: "aks",
@@ -3334,7 +3325,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.aladin.co.kr",
-    r: 10,
+    r: 15,
     s: "aladin",
     sc: "Online",
     t: "aladin",
@@ -3343,7 +3334,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "anilist.co",
-    r: 471,
+    r: 426,
     s: "AniList",
     sc: "TV",
     t: "al",
@@ -3442,7 +3433,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "bendodson.com",
-    r: 20,
+    r: 12,
     s: "iTunes Album Artwork Finder",
     sc: "Images",
     t: "albumart",
@@ -3451,7 +3442,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.allmusic.com",
-    r: 0,
+    r: 3,
     s: "AllMusic Albums",
     sc: "Misc",
     t: "albums",
@@ -3460,7 +3451,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eow.alc.co.jp",
-    r: 76,
+    r: 93,
     s: "Alc Japanese English Dictionary",
     sc: "Reference (words intl)",
     t: "alc",
@@ -3487,7 +3478,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "alexa.com",
-    r: 0,
+    r: 3,
     s: "Alexa",
     sc: "Companies",
     t: "alexa",
@@ -3568,7 +3559,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.aliexpress.com",
-    r: 1487,
+    r: 1226,
     s: "Aliexpress",
     sc: "Online",
     t: "ali",
@@ -3577,7 +3568,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.alibaba.com",
-    r: 13,
+    r: 28,
     s: "Alibaba",
     sc: "Online (marketplace)",
     t: "alibaba",
@@ -3631,7 +3622,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.aliexpress.com",
-    r: 8,
+    r: 63,
     s: "Aliexpress",
     sc: "Online (intl)",
     t: "aliexp",
@@ -3640,7 +3631,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.aliexpress.com",
-    r: 382,
+    r: 421,
     s: "Aliexpress",
     sc: "Online (marketplace)",
     t: "aliexpress",
@@ -3703,7 +3694,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.allabolag.se",
-    r: 6,
+    r: 0,
     s: "Alla Bolag",
     sc: "Tools",
     t: "allabolag",
@@ -3730,7 +3721,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "all-io.net",
-    r: 9,
+    r: 8,
     s: "All in One",
     sc: "Search",
     t: "all",
@@ -3757,7 +3748,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "allegro.pl",
-    r: 367,
+    r: 465,
     s: "Allegro",
     sc: "Online (intl)",
     t: "allegro",
@@ -3820,7 +3811,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "allmovie.com",
-    r: 8,
+    r: 0,
     s: "AllMovie",
     sc: "Movies",
     t: "allmovie",
@@ -3838,7 +3829,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.allmusic.com",
-    r: 173,
+    r: 231,
     s: "AllMusic",
     sc: "Misc",
     t: "allmusic",
@@ -3847,7 +3838,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.allocine.fr",
-    r: 9,
+    r: 6,
     s: "Allocin\u00e9",
     sc: "Movies",
     t: "allo",
@@ -3856,7 +3847,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.allocine.fr",
-    r: 30,
+    r: 26,
     s: "Allocine.com",
     sc: "Movies",
     t: "allocine",
@@ -3973,7 +3964,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 309,
+    r: 561,
     s: "Arch Linux Packages",
     sc: "Sysadmin (Arch)",
     t: "alp",
@@ -3982,7 +3973,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wolframalpha.com",
-    r: 113,
+    r: 74,
     s: "Wolfram|Alpha",
     sc: "Search",
     t: "alpha",
@@ -3991,7 +3982,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pkgs.alpinelinux.org",
-    r: 145,
+    r: 141,
     s: "Alpine packages",
     sc: "Sysadmin (packages)",
     t: "alpine",
@@ -4000,7 +3991,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "alternativeto.net",
-    r: 822,
+    r: 729,
     s: "alternativeTo",
     sc: "Tools",
     t: "alt",
@@ -4009,7 +4000,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.alternate.be",
-    r: 0,
+    r: 8,
     s: "Alternate Belgi\u00eb",
     sc: "Tech",
     t: "altbe",
@@ -4018,7 +4009,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.alternate.de",
-    r: 7,
+    r: 0,
     s: "Alternate",
     sc: "Online (deals)",
     t: "alternate",
@@ -4036,7 +4027,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "alternativeto.net",
-    r: 74,
+    r: 78,
     s: "AlternativeTo.net",
     sc: "Downloads (software)",
     t: "alternative",
@@ -4045,7 +4036,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "alternativeto.net",
-    r: 362,
+    r: 257,
     s: "alternativeto.net",
     sc: "Domains",
     t: "alternativeto",
@@ -4081,7 +4072,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "alternativeto.net",
-    r: 308,
+    r: 232,
     s: "Alternative To",
     sc: "Downloads (software)",
     t: "alto",
@@ -4108,7 +4099,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "alternativeto.net",
-    r: 81,
+    r: 92,
     s: "alternativeTo",
     sc: "Search",
     t: "altto",
@@ -4135,7 +4126,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.alpinelinux.org",
-    r: 16,
+    r: 29,
     s: "alpine linux wiki",
     sc: "Sysadmin",
     t: "alw",
@@ -4144,7 +4135,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.alza.cz",
-    r: 28,
+    r: 66,
     s: "Alza.cz",
     sc: "Online",
     t: "alza",
@@ -4153,7 +4144,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 414,
+    r: 536,
     s: "Amazon Deutschland",
     sc: "Online",
     t: "ama",
@@ -4180,7 +4171,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 1168,
+    r: 1350,
     s: "Amazon.com",
     sc: "Online",
     t: "am",
@@ -4198,7 +4189,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.apple.com",
-    r: 10,
+    r: 45,
     s: "Apple Maps",
     sc: "Maps",
     t: "amaps",
@@ -4216,7 +4207,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com.au",
-    r: 63,
+    r: 60,
     s: "amazon.com.au",
     sc: "Online",
     t: "amau",
@@ -4225,7 +4216,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 3537,
+    r: 3703,
     s: "Amazon.com",
     sc: "Online",
     t: "amazon",
@@ -4234,7 +4225,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com.au",
-    r: 73,
+    r: 76,
     s: "Amazon.com.au",
     sc: "Online",
     t: "amazonau",
@@ -4243,7 +4234,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.ca",
-    r: 224,
+    r: 198,
     s: "Amazon.ca",
     sc: "Online (intl)",
     t: "amazonca",
@@ -4270,7 +4261,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 396,
+    r: 409,
     s: "Amazon.de",
     sc: "Online (intl)",
     t: "amazonde",
@@ -4279,7 +4270,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.es",
-    r: 176,
+    r: 130,
     s: "Amazon.es",
     sc: "Online (intl)",
     t: "amazones",
@@ -4288,7 +4279,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.fr",
-    r: 129,
+    r: 194,
     s: "Amazon.fr",
     sc: "Online (intl)",
     t: "amazonfr",
@@ -4297,7 +4288,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.in",
-    r: 136,
+    r: 118,
     s: "Amazon India",
     sc: "Online (intl)",
     t: "amazonin",
@@ -4306,7 +4297,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.in",
-    r: 50,
+    r: 31,
     s: "Amazon India",
     sc: "Online",
     t: "amazon.in",
@@ -4315,7 +4306,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.it",
-    r: 5,
+    r: 0,
     s: "Amazon.it",
     sc: "Online",
     t: "amazon.it",
@@ -4324,7 +4315,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.it",
-    r: 114,
+    r: 189,
     s: "Amazon.it",
     sc: "Online (intl)",
     t: "amazonit",
@@ -4351,7 +4342,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com.mx",
-    r: 66,
+    r: 40,
     s: "Amazon M\u00e9xico",
     sc: "Online",
     t: "amazonmx",
@@ -4360,7 +4351,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.nl",
-    r: 50,
+    r: 84,
     s: "Amazon Nederland",
     sc: "Online",
     t: "amazonnl",
@@ -4378,7 +4369,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com.tr",
-    r: 21,
+    r: 16,
     s: "Amazon.com.tr",
     sc: "Online",
     t: "amazontr",
@@ -4387,7 +4378,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.uk",
-    r: 274,
+    r: 273,
     s: "Amazon.co.uk",
     sc: "Online (intl)",
     t: "amazonuk",
@@ -4396,7 +4387,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.ca",
-    r: 103,
+    r: 99,
     s: "Amazon.ca",
     sc: "Online (intl)",
     t: "amca",
@@ -4414,7 +4405,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.amctv.com",
-    r: 0,
+    r: 4,
     s: "AMC TV",
     sc: "TV",
     t: "amc",
@@ -4441,7 +4432,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.amd.com",
-    r: 7,
+    r: 6,
     s: "AMD",
     sc: "Companies",
     t: "amd",
@@ -4450,7 +4441,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 343,
+    r: 409,
     s: "Amazon.de",
     sc: "Online (intl)",
     t: "amde",
@@ -4495,7 +4486,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.es",
-    r: 139,
+    r: 192,
     s: "Amazon.es",
     sc: "Online (intl)",
     t: "ames",
@@ -4513,7 +4504,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ask.metafilter.com",
-    r: 3,
+    r: 0,
     s: "Ask Metafilter",
     sc: "Topical",
     t: "amf",
@@ -4522,7 +4513,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.fr",
-    r: 263,
+    r: 112,
     s: "Amazon.fr",
     sc: "Online (intl)",
     t: "amfr",
@@ -4531,7 +4522,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.allmusic.com",
-    r: 110,
+    r: 89,
     s: "Allmusic",
     sc: "Music",
     t: "amg",
@@ -4558,7 +4549,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "slist.amiami.com",
-    r: 28,
+    r: 0,
     s: "Amiami",
     sc: "Online",
     t: "amiami",
@@ -4567,7 +4558,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.in",
-    r: 245,
+    r: 234,
     s: "Amazon India",
     sc: "Online",
     t: "amin",
@@ -4594,7 +4585,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.it",
-    r: 94,
+    r: 121,
     s: "Amazon.it",
     sc: "Online (intl)",
     t: "amit",
@@ -4603,7 +4594,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.jp",
-    r: 157,
+    r: 96,
     s: "Amazon.co.jp",
     sc: "Online (intl)",
     t: "amjp",
@@ -4657,7 +4648,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "addons.mozilla.org",
-    r: 131,
+    r: 141,
     s: "Firefox Add-ons",
     sc: "Downloads (add-ons)",
     t: "amo",
@@ -4666,7 +4657,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 0,
+    r: 4,
     s: "Amazon MP3 Store",
     sc: "Online",
     t: "amp3",
@@ -4711,7 +4702,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.amp-what.com",
-    r: 0,
+    r: 6,
     s: "&what;",
     sc: "Programming",
     t: "ampwhat",
@@ -4720,7 +4711,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.com",
-    r: 18,
+    r: 27,
     s: "Amazon Smile",
     sc: "Online",
     t: "ams",
@@ -4729,7 +4720,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.co.uk",
-    r: 0,
+    r: 7,
     s: "Amazon Smile (UK)",
     sc: "Online",
     t: "amsuk",
@@ -4738,7 +4729,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.uk",
-    r: 411,
+    r: 545,
     s: "Amazon.co.uk",
     sc: "Online (intl)",
     t: "amuk",
@@ -4756,7 +4747,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 4,
+    r: 6,
     s: "Amazon.com",
     sc: "Online",
     t: "amus",
@@ -4765,7 +4756,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "music.amazon.com",
-    r: 7,
+    r: 9,
     s: "Amazon Music",
     sc: "Audio",
     t: "amusic",
@@ -4810,7 +4801,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com.mx",
-    r: 462,
+    r: 334,
     s: "Amazon M\u00e9xico",
     sc: "Online",
     t: "amx",
@@ -4819,7 +4810,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 271,
+    r: 250,
     s: "Amazon",
     sc: "Online",
     t: "amz",
@@ -4828,7 +4819,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 3,
+    r: 24,
     s: "Amazon Books",
     sc: "Online",
     t: "amzbks",
@@ -4837,7 +4828,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 0,
+    r: 10,
     s: "Amazon.de",
     sc: "Online",
     t: "amznde",
@@ -4846,7 +4837,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.in",
-    r: 16,
+    r: 34,
     s: "Amazon India",
     sc: "Online (marketplace)",
     t: "amznin",
@@ -4864,7 +4855,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "anaconda.org",
-    r: 7,
+    r: 4,
     s: "Anaconda Cloud",
     sc: "Downloads (software)",
     t: "anaconda",
@@ -4873,7 +4864,7 @@ export const bangs = [
   {
     c: "Research",
     d: "new.wordsmith.org",
-    r: 0,
+    r: 6,
     s: "Internet Anagram Server",
     sc: "Reference (fun)",
     t: "anag",
@@ -4918,7 +4909,7 @@ export const bangs = [
   {
     c: "News",
     d: "anilist.co",
-    r: 4,
+    r: 12,
     s: "AniList",
     sc: "Specialty",
     t: "an",
@@ -4963,7 +4954,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ancestry.com",
-    r: 9,
+    r: 0,
     s: "Ancestry",
     sc: "Topical",
     t: "ancestry",
@@ -5008,7 +4999,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.android.com",
-    r: 31,
+    r: 39,
     s: "Android Developers",
     sc: "Programming",
     t: "android",
@@ -5107,7 +5098,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.angrymetalguy.com",
-    r: 9,
+    r: 12,
     s: "Angry Metal Guy",
     sc: "Music",
     t: "angry",
@@ -5143,7 +5134,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "anilist.co",
-    r: 40,
+    r: 67,
     s: "Anilist",
     sc: "TV",
     t: "ani",
@@ -5170,7 +5161,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "anidb.net",
-    r: 184,
+    r: 193,
     s: "AniDB",
     sc: "Misc",
     t: "anidb",
@@ -5188,7 +5179,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "anilist.co",
-    r: 145,
+    r: 123,
     s: "anilist.co",
     sc: "Movies",
     t: "anilist",
@@ -5206,7 +5197,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "anidb.net",
-    r: 52,
+    r: 68,
     s: "AniDB",
     sc: "General",
     t: "anime",
@@ -5251,7 +5242,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.anime-planet.com",
-    r: 3,
+    r: 0,
     s: "Anime Planet",
     sc: "Misc",
     t: "anime-planet",
@@ -5287,7 +5278,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.anisearch.com",
-    r: 4,
+    r: 6,
     s: "aniSearch",
     sc: "Video",
     t: "anisearch",
@@ -5305,7 +5296,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ankiweb.net",
-    r: 0,
+    r: 7,
     s: "Ankiweb",
     sc: "Academic",
     t: "anki",
@@ -5339,7 +5330,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.animenewsnetwork.com",
-    r: 203,
+    r: 206,
     s: "Anime News Network",
     sc: "Misc",
     t: "ann",
@@ -5348,7 +5339,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.animenewsnetwork.com",
-    r: 3,
+    r: 4,
     s: "AnimeNewsNetwork Encyclopedia",
     sc: "Comics",
     t: "anne",
@@ -5411,7 +5402,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.ansa.it",
-    r: 57,
+    r: 37,
     s: "Ansa",
     sc: "Newspaper",
     t: "ansa",
@@ -5420,7 +5411,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.ansible.com",
-    r: 46,
+    r: 18,
     s: "docs.ansible.com",
     sc: "Sysadmin",
     t: "ansible",
@@ -5519,7 +5510,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.synonyms.net",
-    r: 7,
+    r: 8,
     s: "Synonyms.net",
     sc: "Reference (words)",
     t: "antonym",
@@ -5564,7 +5555,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "archiveofourown.org",
-    r: 1040,
+    r: 1274,
     s: "Archive of our Own",
     sc: "Misc",
     t: "ao3",
@@ -5582,7 +5573,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 122,
+    r: 132,
     s: "Amazon Orders",
     sc: "Online",
     t: "ao",
@@ -5600,7 +5591,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ageofempires.wikia.com",
-    r: 3,
+    r: 0,
     s: "Age of Empires Wiki",
     sc: "Games (specific)",
     t: "aoe",
@@ -5618,7 +5609,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.artofmanliness.com",
-    r: 17,
+    r: 47,
     s: "Art of Manliness",
     sc: "Blogs",
     t: "aom",
@@ -5627,7 +5618,7 @@ export const bangs = [
   {
     c: "Research",
     d: "artofproblemsolving.com",
-    r: 9,
+    r: 25,
     s: "Art of Problem Solving [Wiki]",
     sc: "Academic (math/cs)",
     t: "aops",
@@ -5645,7 +5636,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.albumoftheyear.org",
-    r: 182,
+    r: 236,
     s: "Album of The Year",
     sc: "Music",
     t: "aoty",
@@ -5663,7 +5654,7 @@ export const bangs = [
   {
     c: "Research",
     d: "apastyle.org",
-    r: 0,
+    r: 4,
     s: "APA Style",
     sc: "Reference (science)",
     t: "apa",
@@ -5681,7 +5672,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 4,
+    r: 3,
     s: "ArchLinux Packages",
     sc: "Languages (other)",
     t: "apackages",
@@ -5690,7 +5681,7 @@ export const bangs = [
   {
     c: "News",
     d: "ap.org",
-    r: 27,
+    r: 31,
     s: "AP",
     sc: "Broadcast",
     t: "ap",
@@ -5726,7 +5717,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 7,
+    r: 8,
     s: "Archlinux packages",
     sc: "Sysadmin (Arch)",
     t: "apck",
@@ -5778,7 +5769,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "api.duckduckgo.com",
-    r: 3,
+    r: 4,
     s: "DuckDuckGo API",
     sc: "Search (DDG)",
     t: "api",
@@ -5832,7 +5823,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "apps.evozi.com",
-    r: 21,
+    r: 6,
     s: "APK Downloader",
     sc: "Tools",
     t: "apk",
@@ -5850,7 +5841,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 412,
+    r: 397,
     s: "Arch Package Search",
     sc: "Sysadmin (Arch)",
     t: "apkg",
@@ -5859,7 +5850,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.apkmirror.com",
-    r: 26,
+    r: 18,
     s: "APKMirror",
     sc: "Downloads (apps)",
     t: "apkm",
@@ -5868,7 +5859,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.apkmirror.com",
-    r: 21,
+    r: 16,
     s: "APK Mirror",
     sc: "Downloads (apps)",
     t: "apkmirror",
@@ -5877,7 +5868,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "apkpure.com",
-    r: 5,
+    r: 9,
     s: "APKPure",
     sc: "Downloads (apps)",
     t: "apkpure",
@@ -5895,7 +5886,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "aplcart.info",
-    r: 6,
+    r: 4,
     s: "APLcart",
     sc: "Languages (other)",
     t: "aplcart",
@@ -5931,7 +5922,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.apmex.com",
-    r: 13,
+    r: 0,
     s: "APMEX",
     sc: "Online",
     t: "apmex",
@@ -5940,7 +5931,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wq.apnic.net",
-    r: 6,
+    r: 3,
     s: "APNIC Whois",
     sc: "Tools",
     t: "apnic",
@@ -5976,7 +5967,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 6,
+    r: 3,
     s: "Amazon Prime Pantry",
     sc: "Online",
     t: "app",
@@ -6003,7 +5994,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.winehq.org",
-    r: 0,
+    r: 3,
     s: "WineHQ AppDB",
     sc: "Downloads (apps)",
     t: "appdb",
@@ -6057,7 +6048,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.apple.com",
-    r: 47,
+    r: 58,
     s: "Apple",
     sc: "Tech",
     t: "apple",
@@ -6102,7 +6093,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.apple.com",
-    r: 0,
+    r: 3,
     s: "Apple Developer",
     sc: "Languages (cocoa)",
     t: "appledev",
@@ -6138,7 +6129,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.apple.com",
-    r: 14,
+    r: 24,
     s: "Apple Maps",
     sc: "Maps",
     t: "applemaps",
@@ -6147,7 +6138,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "itunes.apple.com",
-    r: 11,
+    r: 5,
     s: "Apple Music",
     sc: "Music",
     t: "applemusic",
@@ -6201,7 +6192,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "duckduckgo.com",
-    r: 3,
+    r: 0,
     s: "Apple TV",
     sc: "TV",
     t: "appletv",
@@ -6255,7 +6246,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "",
-    r: 12,
+    r: 6,
     s: "App Store on iTunes",
     sc: "Tech",
     t: "appstore",
@@ -6300,7 +6291,7 @@ export const bangs = [
   {
     c: "Research",
     d: "journals.aps.org",
-    r: 8,
+    r: 20,
     s: "APS Journals",
     sc: "Academic",
     t: "aps",
@@ -6318,7 +6309,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "en.aptoide.com",
-    r: 0,
+    r: 3,
     s: "Aptoide.com",
     sc: "Downloads (apps)",
     t: "aptoide",
@@ -6327,7 +6318,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.ubuntu.com",
-    r: 91,
+    r: 47,
     s: "Ubuntu Packages Search",
     sc: "Sysadmin (Ubuntu)",
     t: "apt",
@@ -6336,7 +6327,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.amazon.de",
-    r: 6,
+    r: 0,
     s: "Amazon Prime Video Germany",
     sc: "Video",
     t: "apvde",
@@ -6390,7 +6381,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.arabnews.com",
-    r: 7,
+    r: 0,
     s: "Arab News",
     sc: "Newspaper (intl)",
     t: "arabnews",
@@ -6399,7 +6390,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.ara.cat",
-    r: 4,
+    r: 0,
     s: "Diari Ara",
     sc: "Newspaper",
     t: "ara",
@@ -6534,7 +6525,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.archlinux.org",
-    r: 3840,
+    r: 3705,
     s: "ArchLinux Wiki",
     sc: "Sysadmin (Arch)",
     t: "arch",
@@ -6543,7 +6534,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "aur.archlinux.org",
-    r: 12,
+    r: 23,
     s: "ArchLinux User Repository",
     sc: "Languages (other)",
     t: "archaur",
@@ -6597,7 +6588,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bbs.archlinux.org",
-    r: 6,
+    r: 0,
     s: "Arch Linux Forums",
     sc: "Sysadmin (Arch)",
     t: "archforums",
@@ -6642,7 +6633,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "archived.moe",
-    r: 7,
+    r: 0,
     s: "Archived.Moe",
     sc: "Misc",
     t: "archivedmoe",
@@ -6651,7 +6642,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "web.archive.org",
-    r: 57,
+    r: 39,
     s: "Wayback Machine",
     sc: "Tools (URLs)",
     t: "archived",
@@ -6660,7 +6651,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "archive.org",
-    r: 845,
+    r: 921,
     s: "Internet ",
     sc: "Tools",
     t: "archive",
@@ -6669,7 +6660,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "archive.is",
-    r: 252,
+    r: 216,
     s: "Archive.is",
     sc: "Tools (URLs)",
     t: "archiveis",
@@ -6696,7 +6687,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "web.archive.org",
-    r: 23,
+    r: 19,
     s: "Archive.org",
     sc: "Tools",
     t: "archiveweb",
@@ -6705,7 +6696,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.archlinux.jp",
-    r: 49,
+    r: 32,
     s: "ArchWikiJP",
     sc: "Sysadmin (Arch)",
     t: "archjp",
@@ -6714,7 +6705,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bbs.archlinux.org",
-    r: 26,
+    r: 25,
     s: "Archlinux Forums",
     sc: "Languages (other)",
     t: "archlinux",
@@ -6741,7 +6732,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "man.archlinux.org",
-    r: 282,
+    r: 359,
     s: "Arch manual pages",
     sc: "Sysadmin (man)",
     t: "archman",
@@ -6750,7 +6741,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 58,
+    r: 34,
     s: "ArchLinux Package Search",
     sc: "Sysadmin (Arch)",
     t: "archpackages",
@@ -6759,7 +6750,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 926,
+    r: 839,
     s: "Arch Linux Packages",
     sc: "Sysadmin (Arch)",
     t: "archpkg",
@@ -6777,7 +6768,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.archlinux.org",
-    r: 902,
+    r: 977,
     s: "Arch Linux Wiki",
     sc: "Sysadmin (Arch)",
     t: "archwiki",
@@ -6786,7 +6777,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.ardmediathek.de",
-    r: 68,
+    r: 21,
     s: "ARD Mediathek",
     sc: "Video",
     t: "ard",
@@ -6840,7 +6831,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "haku.yle.fi",
-    r: 6,
+    r: 0,
     s: "YLE Areena",
     sc: "Video",
     t: "areena",
@@ -6867,7 +6858,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 4,
+    r: 0,
     s: "ar15.com",
     sc: "Social",
     t: "arf",
@@ -6885,7 +6876,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.argos.co.uk",
-    r: 33,
+    r: 40,
     s: "http://www.argos.co.uk",
     sc: "Online",
     t: "argos",
@@ -6930,7 +6921,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "ark.intel.com",
-    r: 48,
+    r: 16,
     s: "Intel Processor Specification",
     sc: "Companies",
     t: "ark",
@@ -7029,7 +7020,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ffxiv.gamerescape.com",
-    r: 27,
+    r: 0,
     s: "GamerEscape",
     sc: "Games (specific)",
     t: "arr",
@@ -7056,7 +7047,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "arstechnica.com",
-    r: 192,
+    r: 214,
     s: "Ars Technica",
     sc: "Blogs",
     t: "ars",
@@ -7065,7 +7056,7 @@ export const bangs = [
   {
     c: "News",
     d: "arstechnica.com",
-    r: 3,
+    r: 15,
     s: "Ars Technica",
     sc: "Specialty",
     t: "arstechnica",
@@ -7110,7 +7101,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.arte.tv",
-    r: 45,
+    r: 39,
     s: "Arte TV",
     sc: "TV",
     t: "arte",
@@ -7128,7 +7119,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.aparatorul.md",
-    r: 3,
+    r: 0,
     s: "https://www.aparatorul.md",
     sc: "Online",
     t: "art",
@@ -7164,7 +7155,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.artstation.com",
-    r: 101,
+    r: 33,
     s: "Artstation",
     sc: "Design",
     t: "artstation",
@@ -7200,7 +7191,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.arukereso.hu",
-    r: 14,
+    r: 27,
     s: "\u00c1rukeres\u0151",
     sc: "Online",
     t: "aru",
@@ -7218,7 +7209,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.arukereso.hu",
-    r: 38,
+    r: 33,
     s: "Arukereso",
     sc: "Online (intl)",
     t: "arukereso",
@@ -7227,7 +7218,7 @@ export const bangs = [
   {
     c: "Research",
     d: "arxiv.org",
-    r: 20,
+    r: 42,
     s: "arXiv.org",
     sc: "Academic",
     t: "arx",
@@ -7236,7 +7227,7 @@ export const bangs = [
   {
     c: "Research",
     d: "arxiv.org",
-    r: 258,
+    r: 264,
     s: "arXiv",
     sc: "Reference (science)",
     t: "arxiv",
@@ -7263,7 +7254,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.com",
-    r: 218,
+    r: 300,
     s: "Amazon Smile",
     sc: "Online",
     t: "as",
@@ -7272,7 +7263,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "app.asana.com",
-    r: 3,
+    r: 0,
     s: "Asana",
     sc: "Tools",
     t: "asana",
@@ -7317,7 +7308,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "groceries.asda.com",
-    r: 8,
+    r: 5,
     s: "Asda Groceries",
     sc: "Big box/department",
     t: "asda",
@@ -7344,7 +7335,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "asearchoficeandfire.com",
-    r: 0,
+    r: 7,
     s: "A Search of Ice and Fire",
     sc: "Books",
     t: "asearchoficeandfire",
@@ -7362,7 +7353,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.de",
-    r: 22,
+    r: 24,
     s: "Amazon Smile (Germany)",
     sc: "Online",
     t: "asg",
@@ -7389,7 +7380,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "asianwiki.com",
-    r: 6,
+    r: 5,
     s: "AsianWiki",
     sc: "Movies",
     t: "asianwiki",
@@ -7398,7 +7389,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.asihablamos.com",
-    r: 3,
+    r: 0,
     s: "As\u00edHablamos",
     sc: "Reference (words intl)",
     t: "asi",
@@ -7425,7 +7416,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 0,
+    r: 18,
     s: "Amazon (ASIN)",
     sc: "Online",
     t: "asin",
@@ -7443,7 +7434,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ask.com",
-    r: 0,
+    r: 97,
     s: "Ask.com",
     sc: "Social",
     t: "ask",
@@ -7578,7 +7569,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.co.uk",
-    r: 5,
+    r: 0,
     s: "Amazon Smile (UK)",
     sc: "Online",
     t: "asmuk",
@@ -7596,7 +7587,7 @@ export const bangs = [
   {
     c: "Research",
     d: "awoiaf.westeros.org",
-    r: 3,
+    r: 15,
     s: "A Wiki of Ice and Fire",
     sc: "Topical",
     t: "asoiaf",
@@ -7614,11 +7605,20 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.com",
-    r: 4,
+    r: 0,
     s: "Amazon Subscribe & Save",
     sc: "Online",
     t: "ass",
     u: "https://smile.amazon.com/s?url=srs%3D5856181011&field-keywords={{{s}}}",
+  },
+  {
+    c: "Online Services",
+    d: "",
+    r: 33,
+    s: "DuckDuckGo Assist",
+    sc: "Search (DDG)",
+    t: "assist",
+    u: "/?q={{{s}}}&assiston=1",
   },
   {
     c: "Tech",
@@ -7668,7 +7668,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.co.uk",
-    r: 12,
+    r: 22,
     s: "Amazon Smile (UK)",
     sc: "Online",
     t: "asuk",
@@ -7677,7 +7677,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.asus.com",
-    r: 0,
+    r: 5,
     s: "Asus",
     sc: "Tech",
     t: "asus",
@@ -7704,7 +7704,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.addictivetips.com",
-    r: 11,
+    r: 20,
     s: "Addictive Tips",
     sc: "Blogs",
     t: "at",
@@ -7740,7 +7740,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.athletic.net",
-    r: 0,
+    r: 5,
     s: "Athletic.net",
     sc: "Tools",
     t: "ath",
@@ -7776,7 +7776,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.americastestkitchen.com",
-    r: 16,
+    r: 18,
     s: "America's Test Kitchen",
     sc: "Food",
     t: "atk",
@@ -7821,7 +7821,7 @@ export const bangs = [
   {
     c: "Research",
     d: "atlwiki.net",
-    r: 8,
+    r: 0,
     s: "ATL Wiki",
     sc: "Reference",
     t: "atl",
@@ -7866,7 +7866,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "alternativeto.net",
-    r: 158,
+    r: 142,
     s: "AlternativeTo",
     sc: "Downloads (software)",
     t: "ato",
@@ -7920,7 +7920,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.abovetopsecret.com",
-    r: 0,
+    r: 3,
     s: "Above Top Secret",
     sc: "Forum",
     t: "ats",
@@ -7929,7 +7929,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.advancedtautactica.com",
-    r: 0,
+    r: 4,
     s: "Advanced Tau Tactica",
     sc: "Games (general)",
     t: "att",
@@ -7956,7 +7956,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "aur.archlinux.org",
-    r: 41,
+    r: 47,
     s: "Arch Linux User Repository",
     sc: "Downloads (software)",
     t: "au",
@@ -8028,7 +8028,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.audible.com",
-    r: 54,
+    r: 74,
     s: "Audible.com",
     sc: "Online",
     t: "audible",
@@ -8064,7 +8064,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.audible.co.uk",
-    r: 4,
+    r: 0,
     s: "Audible UK",
     sc: "Online",
     t: "audibleuk",
@@ -8082,7 +8082,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "fr.audiofanzine.com",
-    r: 3,
+    r: 0,
     s: "Audiofanzine",
     sc: "Music",
     t: "audiofanzine",
@@ -8154,7 +8154,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.uk",
-    r: 2466,
+    r: 2872,
     s: "Amazon.co.uk",
     sc: "Online (intl)",
     t: "auk",
@@ -8172,7 +8172,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.aulete.com.br",
-    r: 3,
+    r: 0,
     s: "iDicion\u00e1rio Aulete",
     sc: "Reference (words)",
     t: "aulete",
@@ -8199,7 +8199,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "aur.archlinux.org",
-    r: 3999,
+    r: 4533,
     s: "Arch User Repository",
     sc: "Sysadmin (Arch)",
     t: "aur",
@@ -8208,7 +8208,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "aur.archlinux.org",
-    r: 0,
+    r: 3,
     s: "Arch User Repository Package",
     sc: "Sysadmin (Arch)",
     t: "aurp",
@@ -8217,7 +8217,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 93,
+    r: 125,
     s: "Amazon.com",
     sc: "Online",
     t: "aus",
@@ -8253,7 +8253,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "auspost.com.au",
-    r: 3,
+    r: 4,
     s: "Australia Post",
     sc: "Tracking",
     t: "auspost",
@@ -8298,7 +8298,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "seznam-autobusu.cz",
-    r: 0,
+    r: 3,
     s: "seznam-autobusu.cz",
     sc: "General",
     t: "autobus",
@@ -8334,7 +8334,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.autozone.com",
-    r: 6,
+    r: 11,
     s: "AutoZone",
     sc: "Big box/department",
     t: "autozone",
@@ -8352,7 +8352,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.avanza.se",
-    r: 0,
+    r: 5,
     s: "Avanza",
     sc: "Business",
     t: "avanza",
@@ -8361,7 +8361,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "avatar.wikia.com",
-    r: 0,
+    r: 5,
     s: "Avatar Wiki",
     sc: "TV",
     t: "avatar",
@@ -8379,7 +8379,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.avclub.com",
-    r: 11,
+    r: 0,
     s: "A.V. Club",
     sc: "Movies",
     t: "av",
@@ -8487,7 +8487,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.avito.ru",
-    r: 13,
+    r: 21,
     s: "Avito",
     sc: "Online (deals)",
     t: "avito",
@@ -8550,7 +8550,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.archlinux.org",
-    r: 7284,
+    r: 7168,
     s: "Arch Linux Wiki",
     sc: "Sysadmin (Arch)",
     t: "aw",
@@ -8622,7 +8622,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.augsburgwiki.de",
-    r: 0,
+    r: 3,
     s: "Augsburgwiki",
     sc: "General",
     t: "awiki",
@@ -8649,7 +8649,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "awoiaf.westeros.org",
-    r: 16,
+    r: 21,
     s: "A Wiki of Ice and Fire",
     sc: "TV",
     t: "awoiaf",
@@ -8658,7 +8658,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.aws.amazon.com",
-    r: 34,
+    r: 20,
     s: "Amazon Web Services",
     sc: "Sysadmin (man)",
     t: "aws",
@@ -8685,7 +8685,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.aboutyou.de",
-    r: 0,
+    r: 3,
     s: "AboutYou",
     sc: "Online (marketplace)",
     t: "ay",
@@ -8703,7 +8703,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 1546,
+    r: 1779,
     s: "Amazon.com",
     sc: "Online",
     t: "az",
@@ -8712,7 +8712,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.de",
-    r: 61,
+    r: 49,
     s: "Amazon Deutschland",
     sc: "Online",
     t: "azd",
@@ -8721,7 +8721,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.es",
-    r: 10,
+    r: 22,
     s: "Amazon Spain",
     sc: "Online",
     t: "aze",
@@ -8730,7 +8730,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.fr",
-    r: 177,
+    r: 127,
     s: "Amazon fr",
     sc: "Online",
     t: "azf",
@@ -8748,7 +8748,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "azurlane.koumakan.jp",
-    r: 10,
+    r: 0,
     s: "Azur Lane Wiki",
     sc: "Games (specific)",
     t: "azlane",
@@ -8757,7 +8757,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "search.azlyrics.com",
-    r: 39,
+    r: 13,
     s: "Az Lyrics",
     sc: "Misc",
     t: "azl",
@@ -8766,7 +8766,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "search.azlyrics.com",
-    r: 51,
+    r: 22,
     s: "AZLyrics",
     sc: "Music (Lyrics)",
     t: "azlyrics",
@@ -8775,7 +8775,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.azom.com",
-    r: 3,
+    r: 0,
     s: "AZoM",
     sc: "Reference",
     t: "azm",
@@ -8811,7 +8811,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.uk",
-    r: 480,
+    r: 574,
     s: "Amazon UK",
     sc: "Online",
     t: "azuk",
@@ -8820,7 +8820,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "azure.microsoft.com",
-    r: 3,
+    r: 0,
     s: "Azure Documentation",
     sc: "Domains",
     t: "azure",
@@ -8874,7 +8874,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.alibaba.com",
-    r: 0,
+    r: 3,
     s: "Alibaba",
     sc: "Search",
     t: "baba",
@@ -8883,7 +8883,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.babla.fr",
-    r: 0,
+    r: 11,
     s: "Bab.la FR",
     sc: "Reference (words)",
     t: "bab",
@@ -8910,7 +8910,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "beeradvocate.com",
-    r: 4,
+    r: 9,
     s: "Beer Advocate",
     sc: "Misc",
     t: "ba",
@@ -8937,7 +8937,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.bab.la",
-    r: 0,
+    r: 5,
     s: "en.bab.la/dictionary/english-german/",
     sc: "Reference (words intl)",
     t: "babende",
@@ -8991,7 +8991,7 @@ export const bangs = [
   {
     c: "Research",
     d: "pl.bab.la",
-    r: 27,
+    r: 7,
     s: "Bab.la",
     sc: "Reference (words)",
     t: "babpl",
@@ -9009,7 +9009,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "sv.bab.la",
-    r: 4,
+    r: 0,
     s: "bab.la",
     sc: "Tools",
     t: "babsv",
@@ -9036,7 +9036,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "buenosairesconnect.com",
-    r: 0,
+    r: 9,
     s: "BuenosAiresConnect",
     sc: "Blogs (intl)",
     t: "bac",
@@ -9045,7 +9045,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "backpack.tf",
-    r: 5,
+    r: 7,
     s: "BackPack.tf",
     sc: "Tools",
     t: "backpack",
@@ -9099,7 +9099,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.baidu.com",
-    r: 123,
+    r: 106,
     s: "Baidu",
     sc: "Search (non-US)",
     t: "baidu",
@@ -9189,7 +9189,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "bandcamp.com",
-    r: 436,
+    r: 619,
     s: "Bandcamp",
     sc: "Music",
     t: "bandcamp",
@@ -9225,7 +9225,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.banggood.com",
-    r: 3,
+    r: 0,
     s: "Bang good",
     sc: "Online (deals)",
     t: "banggood",
@@ -9252,7 +9252,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "",
-    r: 843,
+    r: 806,
     s: "Search all !bangs",
     sc: "Search (DDG)",
     t: "bang",
@@ -9261,7 +9261,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 614,
+    r: 701,
     s: "Search all !bangs",
     sc: "Search (DDG)",
     t: "bangs",
@@ -9315,7 +9315,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.barnesandnoble.com",
-    r: 5,
+    r: 7,
     s: "Barnes & Noble",
     sc: "Big box/department",
     t: "barnesandnoble",
@@ -9324,7 +9324,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.barnivore.com",
-    r: 4,
+    r: 0,
     s: "Barnivore",
     sc: "Food",
     t: "barnivore",
@@ -9378,7 +9378,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.base-search.net",
-    r: 0,
+    r: 5,
     s: "Base Search",
     sc: "Academic",
     t: "base",
@@ -9432,7 +9432,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "bato.to",
-    r: 42,
+    r: 0,
     s: "Batoto",
     sc: "Books",
     t: "bato",
@@ -9522,7 +9522,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bazos.cz",
-    r: 16,
+    r: 10,
     s: "Bazo\u0161.cz",
     sc: "Online (deals)",
     t: "bazos",
@@ -9531,7 +9531,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.basketball-reference.com",
-    r: 9,
+    r: 0,
     s: "Basketball Reference",
     sc: "Reference",
     t: "bballref",
@@ -9558,7 +9558,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.bbb.org",
-    r: 4,
+    r: 0,
     s: "Better Business Bureau",
     sc: "Local",
     t: "bbb",
@@ -9567,7 +9567,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bitbucket.org",
-    r: 32,
+    r: 64,
     s: "Bitbucket",
     sc: "Programming",
     t: "bb",
@@ -9576,7 +9576,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bbc.co.uk",
-    r: 685,
+    r: 582,
     s: "BBC.co.uk",
     sc: "International",
     t: "bbc",
@@ -9585,7 +9585,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bbc.co.uk",
-    r: 3,
+    r: 0,
     s: "BBC Food",
     sc: "International",
     t: "bbcfood",
@@ -9630,7 +9630,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bbc.co.uk",
-    r: 5,
+    r: 6,
     s: "BBC News",
     sc: "International",
     t: "bbcnews",
@@ -9657,7 +9657,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bitbucket.org",
-    r: 16,
+    r: 3,
     s: "Bitbucket Code Search",
     sc: "Programming",
     t: "bbcs",
@@ -9675,7 +9675,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bbc.co.uk",
-    r: 70,
+    r: 23,
     s: "BBC Weather",
     sc: "Weather",
     t: "bbcw",
@@ -9693,7 +9693,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.bbfc.co.uk",
-    r: 7,
+    r: 4,
     s: "British Board of Film Classification",
     sc: "Movies",
     t: "bbfc",
@@ -9702,7 +9702,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 8248,
+    r: 5852,
     s: "Bing",
     sc: "Search",
     t: "b",
@@ -9747,7 +9747,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.basketball-reference.com",
-    r: 100,
+    r: 67,
     s: "Basketball-Reference ",
     sc: "Reference",
     t: "bbr",
@@ -9756,7 +9756,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.baseball-reference.com",
-    r: 241,
+    r: 242,
     s: "Baseball Reference",
     sc: "Sports",
     t: "bbref",
@@ -9810,7 +9810,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bestbuy.com",
-    r: 70,
+    r: 34,
     s: "Bestbuy",
     sc: "Tech",
     t: "bby",
@@ -9819,7 +9819,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "m.bestbuy.ca",
-    r: 9,
+    r: 18,
     s: "Bestbuy.ca",
     sc: "Big box/department",
     t: "bbyc",
@@ -9828,7 +9828,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "bandcamp.com",
-    r: 208,
+    r: 168,
     s: "Bandcamp",
     sc: "Online (marketplace)",
     t: "bcamp",
@@ -9846,7 +9846,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "blockchain.info",
-    r: 13,
+    r: 24,
     s: "Blockchain",
     sc: "Online (marketplace)",
     t: "bc",
@@ -10017,7 +10017,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.baidu.com",
-    r: 103,
+    r: 111,
     s: "baidu",
     sc: "Search",
     t: "bd",
@@ -10188,7 +10188,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.beatport.com",
-    r: 30,
+    r: 22,
     s: "Beatport",
     sc: "Music",
     t: "beatport",
@@ -10224,7 +10224,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "blockexplorer.com",
-    r: 4,
+    r: 0,
     s: "Block Explorer",
     sc: "Tools",
     t: "be",
@@ -10251,7 +10251,7 @@ export const bangs = [
   {
     c: "Research",
     d: "beck-online.beck.de",
-    r: 30,
+    r: 66,
     s: "beck-online",
     sc: "Law",
     t: "beck",
@@ -10260,7 +10260,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.beck-shop.de",
-    r: 0,
+    r: 7,
     s: "beck-shop.de",
     sc: "Online",
     t: "beckshop",
@@ -10350,7 +10350,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "beforeiplay.com",
-    r: 0,
+    r: 4,
     s: "Before I Play",
     sc: "Games (general)",
     t: "beforeiplay",
@@ -10368,7 +10368,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.behance.net",
-    r: 5,
+    r: 4,
     s: "behance",
     sc: "Design",
     t: "behance",
@@ -10386,7 +10386,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.behindthename.com",
-    r: 20,
+    r: 21,
     s: "Behind the Name",
     sc: "Reference (words)",
     t: "behindthename",
@@ -10484,7 +10484,7 @@ export const bangs = [
   },
   {
     d: "dict.tu-chemnitz.de",
-    r: 4,
+    r: 0,
     s: "Beolingus De-en",
     t: "beo",
     u: "http://dict.tu-chemnitz.de/dings.cgi?service=deen&query={{{s}}}",
@@ -10614,7 +10614,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "conjugueur.bescherelle.com",
-    r: 0,
+    r: 3,
     s: "Bescherelle",
     sc: "Tools",
     t: "besch",
@@ -10632,7 +10632,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bestbuy.com",
-    r: 140,
+    r: 215,
     s: "BestBuy",
     sc: "Big box/department",
     t: "bestbuy",
@@ -10641,7 +10641,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bestbuy.ca",
-    r: 8,
+    r: 15,
     s: "Best Buy Canada",
     sc: "Tech",
     t: "bestbuyca",
@@ -10659,7 +10659,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bestprice.gr",
-    r: 8,
+    r: 9,
     s: "BestPrice",
     sc: "Online (marketplace)",
     t: "bestprice",
@@ -10713,7 +10713,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bever.nl",
-    r: 3,
+    r: 0,
     s: "Bever",
     sc: "Online",
     t: "bever",
@@ -10740,7 +10740,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.buzzfeed.com",
-    r: 13,
+    r: 10,
     s: "BuzzFeed",
     sc: "Events",
     t: "bf",
@@ -10776,7 +10776,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bergfex.at",
-    r: 18,
+    r: 9,
     s: "Bergfex",
     sc: "Weather",
     t: "bfx",
@@ -10785,7 +10785,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.biblegateway.com",
-    r: 206,
+    r: 210,
     s: "BibleGateway",
     sc: "Tools",
     t: "bg",
@@ -10812,7 +10812,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "boardgamegeek.com",
-    r: 2203,
+    r: 2442,
     s: "Board Game Geek",
     sc: "Games (offline)",
     t: "bgg",
@@ -10839,7 +10839,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.biblegateway.com",
-    r: 35,
+    r: 0,
     s: "BibleGateway: King James Version",
     sc: "Reference (religion)",
     t: "bgkjv",
@@ -10857,7 +10857,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "bgm.tv",
-    r: 0,
+    r: 18,
     s: "Bangumi \u756a\u7ec4\u8ba1\u5212",
     sc: "Tools",
     t: "bgm",
@@ -10884,7 +10884,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bgp.he.net",
-    r: 52,
+    r: 50,
     s: "Hurricane Electrics Internet Services",
     sc: "Sysadmin (network)",
     t: "bgp",
@@ -10893,7 +10893,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "boardgameprices.co.uk",
-    r: 4,
+    r: 25,
     s: "BoardGamePrices",
     sc: "Online (deals)",
     t: "bgpuk",
@@ -10920,7 +10920,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.biblegateway.com",
-    r: 45,
+    r: 47,
     s: "BibleGateway",
     sc: "Reference (religion)",
     t: "bgw",
@@ -10938,7 +10938,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bhphotovideo.com",
-    r: 265,
+    r: 346,
     s: "B&H Photo Video",
     sc: "Big box/department",
     t: "bh",
@@ -11010,7 +11010,7 @@ export const bangs = [
   {
     c: "Research",
     d: "biblehub.net",
-    r: 0,
+    r: 4,
     s: "BibleHub",
     sc: "Learning (intl)",
     t: "bibhub",
@@ -11019,7 +11019,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 2157,
+    r: 2061,
     s: "Bing Images",
     sc: "Search",
     t: "bi",
@@ -11037,7 +11037,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.biblegateway.com",
-    r: 280,
+    r: 247,
     s: "BibleGateway",
     sc: "Reference (religion)",
     t: "bible",
@@ -11046,7 +11046,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.bible.com",
-    r: 0,
+    r: 3,
     s: "Bible YouVersion",
     sc: "Reference (religion)",
     t: "biblecom",
@@ -11055,7 +11055,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.biblegateway.com",
-    r: 17,
+    r: 23,
     s: "BibleGateway",
     sc: "Reference (religion)",
     t: "biblegateway",
@@ -11064,7 +11064,7 @@ export const bangs = [
   {
     c: "Research",
     d: "biblemenus.com",
-    r: 5,
+    r: 4,
     s: "BibleHub",
     sc: "Academic",
     t: "biblehub",
@@ -11100,7 +11100,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "biblio.com",
-    r: 8,
+    r: 18,
     s: "Biblio",
     sc: "Online (marketplace)",
     t: "biblio",
@@ -11316,7 +11316,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bike24.com",
-    r: 6,
+    r: 0,
     s: "Bike24",
     sc: "Online",
     t: "bike24",
@@ -11352,7 +11352,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.billiger.de",
-    r: 5,
+    r: 0,
     s: "Billiger.de",
     sc: "Services",
     t: "bil",
@@ -11361,7 +11361,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "search.bilibili.com",
-    r: 116,
+    r: 105,
     s: "bilibili",
     sc: "Video",
     t: "bilibili",
@@ -11370,7 +11370,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.bilibili.com",
-    r: 123,
+    r: 225,
     s: "bilibili",
     sc: "Video",
     t: "bili",
@@ -11379,7 +11379,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bilka.dk",
-    r: 0,
+    r: 3,
     s: "Bilka",
     sc: "Online (marketplace)",
     t: "bilka",
@@ -11433,7 +11433,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 59,
+    r: 55,
     s: "Bing Images",
     sc: "Search",
     t: "bimages",
@@ -11442,7 +11442,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.bing.com",
-    r: 18,
+    r: 6,
     s: "Bing Images",
     sc: "Images",
     t: "bim",
@@ -11451,7 +11451,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "bin.arnastofnun.is",
-    r: 13,
+    r: 12,
     s: "Beygingarl\u00fdsing \u00edslensks n\u00fat\u00edmam\u00e1ls",
     sc: "Search",
     t: "bin",
@@ -11460,7 +11460,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 1409,
+    r: 1140,
     s: "Bing",
     sc: "Search",
     t: "bing",
@@ -11478,7 +11478,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 25,
+    r: 43,
     s: "Bing Images",
     sc: "Search",
     t: "bingimages",
@@ -11505,7 +11505,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 38,
+    r: 12,
     s: "Bing",
     sc: "Search",
     t: "bingvideos",
@@ -11541,7 +11541,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.biography.com",
-    r: 0,
+    r: 3,
     s: "Biography",
     sc: "Academic",
     t: "bio",
@@ -11595,7 +11595,7 @@ export const bangs = [
   {
     c: "Research",
     d: "biorxiv.org",
-    r: 4,
+    r: 6,
     s: "bioRxiv",
     sc: "Academic",
     t: "biorxiv",
@@ -11676,7 +11676,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "bitbucket.org",
-    r: 19,
+    r: 30,
     s: "BitBucket.org",
     sc: "Tools",
     t: "bitbucket",
@@ -11703,7 +11703,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.bitchute.com",
-    r: 28,
+    r: 30,
     s: "www.bitchute.com",
     sc: "Misc",
     t: "bitchute",
@@ -11712,7 +11712,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "blockchain.info",
-    r: 3,
+    r: 0,
     s: "Blockchain.info",
     sc: "Tools",
     t: "bitcoin",
@@ -11892,7 +11892,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.basketball-reference.com",
-    r: 31,
+    r: 20,
     s: "Basketball Reference",
     sc: "Reference",
     t: "bkr",
@@ -11901,7 +11901,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.basketball-reference.com",
-    r: 97,
+    r: 41,
     s: "Basketball Reference",
     sc: "Sports",
     t: "bkref",
@@ -11964,7 +11964,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "blackwells.co.uk",
-    r: 12,
+    r: 6,
     s: "Blackwell's",
     sc: "Online",
     t: "blackwells",
@@ -11973,7 +11973,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bladehq.com",
-    r: 4,
+    r: 0,
     s: "BladeHQ",
     sc: "Online",
     t: "bladehq",
@@ -12000,7 +12000,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.blb.org",
-    r: 129,
+    r: 111,
     s: "Blue Letter Bible",
     sc: "Reference (religion)",
     t: "blb",
@@ -12009,7 +12009,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.bilibili.com",
-    r: 27,
+    r: 53,
     s: "\u54d4\u54e9\u54d4\u54e9\u5f39\u5e55\u7f51",
     sc: "Video",
     t: "blbl",
@@ -12063,7 +12063,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.bleepingcomputer.com",
-    r: 17,
+    r: 0,
     s: "Bleeping Computer",
     sc: "Learning",
     t: "bleepingpc",
@@ -12090,7 +12090,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.blender.org",
-    r: 0,
+    r: 5,
     s: "Blender Manual",
     sc: "Design",
     t: "blender",
@@ -12216,7 +12216,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "blockchair.com",
-    r: 4,
+    r: 0,
     s: "Blockchair",
     sc: "Tracking",
     t: "blockchair",
@@ -12224,7 +12224,7 @@ export const bangs = [
   },
   {
     d: "www.blocket.se",
-    r: 11,
+    r: 4,
     s: "Blocket",
     t: "blocket",
     u: "http://www.blocket.se/hela_sverige?q={{{s}}}&cg=0&w=3&st=s&st=u&st=b&ca=11&l=0&md=th",
@@ -12241,7 +12241,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 0,
+    r: 3,
     s: "DuckDuckGo blog",
     sc: "Blogs",
     t: "blog",
@@ -12250,7 +12250,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "",
-    r: 0,
+    r: 3,
     s: "Blogspot",
     sc: "Search (DDG)",
     t: "blogspot",
@@ -12295,7 +12295,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bloomberg.com",
-    r: 19,
+    r: 27,
     s: "Bloomberg",
     sc: "Business",
     t: "bloom",
@@ -12304,7 +12304,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "bloons.wikia.com",
-    r: 10,
+    r: 0,
     s: "Bloons Wiki",
     sc: "Games (specific)",
     t: "bloonswiki",
@@ -12313,7 +12313,7 @@ export const bangs = [
   {
     c: "Research",
     d: "explore.bl.uk",
-    r: 6,
+    r: 5,
     s: "The British Library Catalogue",
     sc: "Academic",
     t: "bl",
@@ -12376,7 +12376,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.blu-ray.com",
-    r: 70,
+    r: 96,
     s: "Blu-ray.com",
     sc: "Movies",
     t: "bluray",
@@ -12394,7 +12394,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 21,
+    r: 18,
     s: "Bing Maps",
     sc: "Search",
     t: "bmaps",
@@ -12403,7 +12403,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 157,
+    r: 103,
     s: "bing maps",
     sc: "Maps",
     t: "bm",
@@ -12412,7 +12412,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.brickmerge.de",
-    r: 0,
+    r: 13,
     s: "BrickMerge",
     sc: "Online (deals)",
     t: "bmde",
@@ -12448,7 +12448,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugzilla.mozilla.org",
-    r: 0,
+    r: 3,
     s: "Mozilla Bugzilla",
     sc: "Programming",
     t: "bmo",
@@ -12493,7 +12493,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "in.bookmyshow.com",
-    r: 7,
+    r: 22,
     s: "BookMY Show",
     sc: "Misc",
     t: "bms",
@@ -12529,7 +12529,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.barnesandnoble.com",
-    r: 64,
+    r: 82,
     s: "Barnes and Noble",
     sc: "Online",
     t: "bn",
@@ -12547,7 +12547,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "bandcamp.com",
-    r: 148,
+    r: 92,
     s: "Bandcamp",
     sc: "Music",
     t: "bndc",
@@ -12565,7 +12565,7 @@ export const bangs = [
   {
     c: "Research",
     d: "catalogue.bnf.fr",
-    r: 0,
+    r: 5,
     s: "Catalogue BNF",
     sc: "Reference",
     t: "bnf",
@@ -12574,7 +12574,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "bokunoheroacademia.wikia.com",
-    r: 4,
+    r: 0,
     s: "Boku no Hero Academia Wiki",
     sc: "Comics",
     t: "bnha",
@@ -12601,7 +12601,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.bnrmetal.com",
-    r: 3,
+    r: 0,
     s: "BNR Metal Pages",
     sc: "Reference (fun)",
     t: "bnr",
@@ -12619,7 +12619,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "boardgamegeek.com",
-    r: 5,
+    r: 0,
     s: "Boardgamegeek",
     sc: "Games (offline)",
     t: "boardgame",
@@ -12628,7 +12628,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "boardgamegeek.com",
-    r: 0,
+    r: 15,
     s: "BoardGameGeek",
     sc: "Games (offline)",
     t: "boardgamegeek",
@@ -12673,7 +12673,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.boerse-online.de",
-    r: 14,
+    r: 4,
     s: "Boerse Online",
     sc: "Business",
     t: "bo",
@@ -12745,7 +12745,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "bindingofisaacrebirth.gamepedia.com",
-    r: 18,
+    r: 16,
     s: "Binding of Isaac: Rebirth Wiki",
     sc: "Games (general)",
     t: "boi",
@@ -12772,7 +12772,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bokus.com",
-    r: 3,
+    r: 0,
     s: "Bokus",
     sc: "Online",
     t: "bokus",
@@ -12799,7 +12799,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bol.com",
-    r: 159,
+    r: 201,
     s: "bol.com",
     sc: "Online",
     t: "bol",
@@ -12826,7 +12826,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.boxofficemojo.com",
-    r: 17,
+    r: 20,
     s: "Box Office Mojo",
     sc: "Movies",
     t: "bom",
@@ -12889,7 +12889,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.booking.com",
-    r: 54,
+    r: 61,
     s: "booking.com",
     sc: "Services",
     t: "book",
@@ -12943,7 +12943,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.bookfinder.com",
-    r: 36,
+    r: 6,
     s: "Book Finder",
     sc: "Books",
     t: "bookfinder",
@@ -12961,7 +12961,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.booking.com",
-    r: 16,
+    r: 12,
     s: "Booking",
     sc: "Online",
     t: "booking",
@@ -12979,7 +12979,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "booklive.jp",
-    r: 6,
+    r: 24,
     s: "BookLive!",
     sc: "Online",
     t: "booklive",
@@ -12988,7 +12988,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.booklooker.de",
-    r: 7,
+    r: 3,
     s: "Booklooker",
     sc: "Online (marketplace)",
     t: "booklooker",
@@ -13015,7 +13015,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "booko.com.au",
-    r: 17,
+    r: 18,
     s: "Booko",
     sc: "Books",
     t: "booko",
@@ -13024,7 +13024,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.amazon.com",
-    r: 17,
+    r: 15,
     s: "Amazon.com",
     sc: "Books",
     t: "books",
@@ -13060,7 +13060,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugzilla.opensuse.org",
-    r: 54,
+    r: 116,
     s: "openSUSE Bugzilla",
     sc: "Sysadmin",
     t: "boo",
@@ -13069,7 +13069,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "",
-    r: 8,
+    r: 4,
     s: "Boost.org",
     sc: "Languages (c++)",
     t: "boost",
@@ -13078,7 +13078,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "getbootstrap.com",
-    r: 5,
+    r: 0,
     s: "Boostrap",
     sc: "Libraries/Frameworks",
     t: "boot",
@@ -13096,7 +13096,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "borderlands.wikia.com",
-    r: 0,
+    r: 4,
     s: "Borderlands Wiki",
     sc: "Games (specific)",
     t: "borderlands",
@@ -13105,7 +13105,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bostonglobe.com",
-    r: 3,
+    r: 23,
     s: "Boston Globe",
     sc: "Newspaper",
     t: "bostonglobe",
@@ -13141,7 +13141,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "boto3.readthedocs.io",
-    r: 7,
+    r: 11,
     s: "Boto 3 Docs",
     sc: "Programming",
     t: "boto3",
@@ -13150,7 +13150,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.boulanger.com",
-    r: 4,
+    r: 3,
     s: "Boulanger",
     sc: "Tech",
     t: "boulanger",
@@ -13195,7 +13195,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "boxoh.com",
-    r: 6,
+    r: 9,
     s: "Boxoh",
     sc: "Tracking",
     t: "boxoh",
@@ -13213,7 +13213,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "bulbapedia.bulbagarden.net",
-    r: 53,
+    r: 34,
     s: "Bulbapedia",
     sc: "Games (Pokemon)",
     t: "bpa",
@@ -13231,7 +13231,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.bpb.de",
-    r: 4,
+    r: 0,
     s: "Bundeszentrale f\u00fcr politische Bildung",
     sc: "Government",
     t: "bpb",
@@ -13240,7 +13240,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "beautifulpixels.com",
-    r: 4,
+    r: 10,
     s: "Beautiful Pixels",
     sc: "Blogs",
     t: "bp",
@@ -13249,7 +13249,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "bulbapedia.bulbagarden.net",
-    r: 34,
+    r: 8,
     s: "Bulbapedia",
     sc: "Games (Pokemon)",
     t: "bpedia",
@@ -13375,7 +13375,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.brack.ch",
-    r: 3,
+    r: 0,
     s: "Brack",
     sc: "Online",
     t: "brack",
@@ -13438,7 +13438,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.brave.com",
-    r: 2971,
+    r: 2791,
     s: "Brave Search",
     sc: "Google",
     t: "brave",
@@ -13447,7 +13447,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.baseball-reference.com",
-    r: 95,
+    r: 69,
     s: "Baseball-Reference",
     sc: "Reference",
     t: "br",
@@ -13465,7 +13465,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.breitbart.com",
-    r: 10,
+    r: 6,
     s: "Breitbart News",
     sc: "International",
     t: "breitbart",
@@ -13474,7 +13474,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.brettspiel-angebote.de",
-    r: 0,
+    r: 14,
     s: "Brettspiel Angebote",
     sc: "Online (deals)",
     t: "brettspiele",
@@ -13483,7 +13483,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "formulae.brew.sh",
-    r: 15,
+    r: 27,
     s: "Homebrew",
     sc: "Downloads (software)",
     t: "brewf",
@@ -13492,7 +13492,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 142,
+    r: 118,
     s: "Homebrew",
     sc: "Downloads (software)",
     t: "brew",
@@ -13510,7 +13510,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 22,
+    r: 14,
     s: "Bing Reverse Image Search",
     sc: "Search",
     t: "bri",
@@ -13519,7 +13519,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bricklink.com",
-    r: 5,
+    r: 6,
     s: "Bricklink",
     sc: "Online",
     t: "bricklink",
@@ -13528,7 +13528,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.bricklink.com",
-    r: 11,
+    r: 16,
     s: "Bricklink",
     sc: "Reference (fun)",
     t: "bricklinkcat",
@@ -13546,7 +13546,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "brickset.com",
-    r: 18,
+    r: 23,
     s: "Brickset",
     sc: "Misc",
     t: "brickset",
@@ -13582,7 +13582,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.britannica.com",
-    r: 11,
+    r: 10,
     s: "Britannica.com",
     sc: "Reference",
     t: "britannica",
@@ -13618,7 +13618,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.britannica.com",
-    r: 9,
+    r: 21,
     s: "Encyclopaedia Brittanica",
     sc: "Academic",
     t: "brit",
@@ -13798,7 +13798,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "w2.brreg.no",
-    r: 4,
+    r: 3,
     s: "Br\u00f8nn\u00f8ysundregistrene",
     sc: "Search",
     t: "brreg",
@@ -13816,7 +13816,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.britannica.com",
-    r: 5,
+    r: 0,
     s: "Britannyca",
     sc: "Reference",
     t: "brt",
@@ -13906,7 +13906,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bing.com",
-    r: 25,
+    r: 22,
     s: "Bing Shopping",
     sc: "Online",
     t: "bs",
@@ -13915,7 +13915,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.freebsd.org",
-    r: 0,
+    r: 3,
     s: "FreeBSD",
     sc: "Sysadmin (FreeBSD)",
     t: "bsdman",
@@ -13924,7 +13924,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.businessinsider.com",
-    r: 5,
+    r: 17,
     s: "Business Insider",
     sc: "Business",
     t: "bsi",
@@ -13951,7 +13951,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 4,
+    r: 0,
     s: "Bing Social",
     sc: "Social",
     t: "bsocial",
@@ -13969,7 +13969,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.blueskyrotor.com",
-    r: 16,
+    r: 13,
     s: "BlueSkyRotor",
     sc: "Companies",
     t: "bsr",
@@ -14032,7 +14032,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.blockchain.com",
-    r: 21,
+    r: 11,
     s: "Blockchain.com",
     sc: "Tools",
     t: "btc",
@@ -14041,7 +14041,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bitcoinity.org",
-    r: 28,
+    r: 84,
     s: "Bitcoinity Markets",
     sc: "Cryptocurrency",
     t: "btcm",
@@ -14050,7 +14050,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 41,
+    r: 50,
     s: "Microsoft/Bing Translator",
     sc: "Tools",
     t: "bt",
@@ -14059,7 +14059,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.behindthename.com",
-    r: 21,
+    r: 55,
     s: "Behind the Name",
     sc: "Reference (words)",
     t: "btname",
@@ -14077,7 +14077,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugs.debian.org",
-    r: 3,
+    r: 5,
     s: "Debian Bug Tracking System",
     sc: "Sysadmin (debian)",
     t: "bts",
@@ -14095,7 +14095,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.microsofttranslator.com",
-    r: 36,
+    r: 0,
     s: "Microsoft/Bing Translator URL",
     sc: "Tools",
     t: "bturl",
@@ -14113,7 +14113,7 @@ export const bangs = [
   {
     c: "Research",
     d: "bulbapedia.bulbagarden.net",
-    r: 450,
+    r: 727,
     s: "Bulbapedia",
     sc: "Reference (fun)",
     t: "bu",
@@ -14158,7 +14158,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.budgetbytes.com",
-    r: 0,
+    r: 9,
     s: "Budget Bytes",
     sc: "Food",
     t: "budgetbytes",
@@ -14203,7 +14203,7 @@ export const bangs = [
   {
     c: "Research",
     d: "bugguide.net",
-    r: 3,
+    r: 0,
     s: "Bug Guide",
     sc: "Reference (science)",
     t: "bugguide",
@@ -14212,7 +14212,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugzilla.mozilla.org",
-    r: 3,
+    r: 0,
     s: "Bugzilla",
     sc: "Programming",
     t: "bugzilla",
@@ -14230,7 +14230,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.build.com",
-    r: 0,
+    r: 3,
     s: "Build.com",
     sc: "Big box/department",
     t: "build",
@@ -14248,7 +14248,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "builtwith.com",
-    r: 10,
+    r: 9,
     s: "BuiltWith",
     sc: "Domains",
     t: "builtwith",
@@ -14284,7 +14284,7 @@ export const bangs = [
   {
     c: "Research",
     d: "bulbapedia.bulbagarden.net",
-    r: 1148,
+    r: 1133,
     s: "Bulbapedia",
     sc: "Reference (fun)",
     t: "bulba",
@@ -14293,7 +14293,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "bulbapedia.bulbagarden.net",
-    r: 97,
+    r: 200,
     s: "Bulbapedia",
     sc: "Games (Pokemon)",
     t: "bulbapedia",
@@ -14311,7 +14311,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.bullmoose.com",
-    r: 7,
+    r: 0,
     s: "Bull Moose",
     sc: "Misc",
     t: "bullmoose",
@@ -14320,7 +14320,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mangaupdates.com",
-    r: 128,
+    r: 82,
     s: "Baka-Updates Manga",
     sc: "Comics",
     t: "bum",
@@ -14338,7 +14338,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bundlephobia.com",
-    r: 15,
+    r: 4,
     s: "BundlePhobia",
     sc: "Downloads (code)",
     t: "bundle",
@@ -14347,7 +14347,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bundlephobia.com",
-    r: 8,
+    r: 0,
     s: "BundlePhobia",
     sc: "Libraries/Frameworks",
     t: "bundlephobia",
@@ -14365,7 +14365,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.lawyersaroundme.com",
-    r: 0,
+    r: 4,
     s: "Lawyers Around Me",
     sc: "Business",
     t: "bung",
@@ -14374,7 +14374,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.bunnings.com.au",
-    r: 6,
+    r: 4,
     s: "Bunnings Warehouse",
     sc: "Big box/department",
     t: "bunnings",
@@ -14464,7 +14464,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 32,
+    r: 16,
     s: "Amazon.com",
     sc: "Online",
     t: "buy",
@@ -14509,7 +14509,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.buzzfeed.com",
-    r: 11,
+    r: 13,
     s: "Buzzfeed",
     sc: "Blogs",
     t: "buzzfeed",
@@ -14527,7 +14527,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 1297,
+    r: 1243,
     s: "Bing Videos",
     sc: "Search",
     t: "bv",
@@ -14545,7 +14545,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 11,
+    r: 9,
     s: "Bing Videos",
     sc: "Search",
     t: "bvideo",
@@ -14554,7 +14554,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.bing.com",
-    r: 3,
+    r: 10,
     s: "Bing Videos",
     sc: "Search",
     t: "bvideos",
@@ -14572,7 +14572,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bing.com",
-    r: 4,
+    r: 3,
     s: "Bing Weather",
     sc: "Weather",
     t: "bw",
@@ -14698,7 +14698,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.chrono24.com",
-    r: 0,
+    r: 12,
     s: "Chrono24",
     sc: "Online (intl)",
     t: "c24",
@@ -14743,7 +14743,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 4,
+    r: 0,
     s: "Google Translate (Czech to English)",
     sc: "Google",
     t: "c2e",
@@ -14752,7 +14752,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "c2.com",
-    r: 10,
+    r: 0,
     s: "Wiki Wiki Web",
     sc: "Blogs",
     t: "c2",
@@ -14806,7 +14806,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.ca",
-    r: 431,
+    r: 435,
     s: "Amazon Canada",
     sc: "Online",
     t: "ca",
@@ -14824,7 +14824,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "webcache.googleusercontent.com",
-    r: 7,
+    r: 5,
     s: "Google Cache",
     sc: "Google",
     t: "cached",
@@ -14833,7 +14833,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "webcache.googleusercontent.com",
-    r: 13,
+    r: 7,
     s: "Google Cached Pages",
     sc: "Google",
     t: "cachedview",
@@ -14842,7 +14842,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "webcache.googleusercontent.com",
-    r: 498,
+    r: 271,
     s: "Google Cache",
     sc: "Google",
     t: "cache",
@@ -14878,7 +14878,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.caddetails.com",
-    r: 3,
+    r: 0,
     s: "CADdetails",
     sc: "Downloads",
     t: "cad",
@@ -14914,7 +14914,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.cagematch.net",
-    r: 16,
+    r: 13,
     s: "Cagematch - The Internet Wrestling Database",
     sc: "Sports",
     t: "cagematch",
@@ -14923,7 +14923,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "michaelyingling.com",
-    r: 4,
+    r: 0,
     s: "Calvin and Hobbes Search Engine",
     sc: "Comics",
     t: "cah",
@@ -14995,7 +14995,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 58,
+    r: 42,
     s: "DuckDuckGo Calculator",
     sc: "Tools",
     t: "calc",
@@ -15004,7 +15004,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 3,
+    r: 0,
     s: "DuckDuckGo Calculator",
     sc: "Tools",
     t: "calculator",
@@ -15013,7 +15013,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.cambridge.org",
-    r: 189,
+    r: 129,
     s: "Cambridge Dictionary",
     sc: "Reference",
     t: "cald",
@@ -15022,7 +15022,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 32,
+    r: 25,
     s: "Google Calendar",
     sc: "Google",
     t: "calendar",
@@ -15076,7 +15076,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.cambridge.org",
-    r: 277,
+    r: 221,
     s: "Cambridge Dictionary",
     sc: "Reference (words)",
     t: "cambridge",
@@ -15085,7 +15085,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.cambridge.org",
-    r: 386,
+    r: 539,
     s: "http://dictionary.cambridge.org",
     sc: "Reference",
     t: "camd",
@@ -15094,7 +15094,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "camelcamelcamel.com",
-    r: 62,
+    r: 78,
     s: "CamelCamelCamel",
     sc: "Online",
     t: "camel",
@@ -15202,7 +15202,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "dictionary.cambridge.org",
-    r: 40,
+    r: 89,
     s: "Cambridge Traditional Chinese",
     sc: "General",
     t: "camtw",
@@ -15211,7 +15211,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.cam.ac.uk",
-    r: 6,
+    r: 4,
     s: "University of Cambridge",
     sc: "Academic",
     t: "cam",
@@ -15229,7 +15229,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.canadacomputers.com",
-    r: 6,
+    r: 8,
     s: "Canada Computers",
     sc: "Tech",
     t: "canadacomputers",
@@ -15238,7 +15238,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.canadapost.ca",
-    r: 4,
+    r: 3,
     s: "Canada Post Tracking",
     sc: "Tracking",
     t: "canadapost",
@@ -15247,7 +15247,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.canadiantire.ca",
-    r: 3,
+    r: 0,
     s: "Canadian Tire",
     sc: "Big box/department",
     t: "canadiantire",
@@ -15256,7 +15256,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "recherche-search.gc.ca",
-    r: 7,
+    r: 15,
     s: "Canada.ca",
     sc: "Search",
     t: "can",
@@ -15319,7 +15319,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "caniuse.com",
-    r: 153,
+    r: 141,
     s: "Can I use...",
     sc: "Languages (html)",
     t: "caniuse",
@@ -15328,7 +15328,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.canlii.ca",
-    r: 0,
+    r: 4,
     s: "CanLII",
     sc: "Law",
     t: "canlii",
@@ -15373,7 +15373,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "cantonese.org",
-    r: 0,
+    r: 36,
     s: "CC-Canto - A Cantonese Dictionary",
     sc: "Google",
     t: "canto",
@@ -15382,7 +15382,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.cantonese.sheik.co.uk",
-    r: 10,
+    r: 52,
     s: "CantoDict",
     sc: "Reference (words intl)",
     t: "cantodict",
@@ -15391,7 +15391,7 @@ export const bangs = [
   {
     c: "News",
     d: "coinmarketcap.com",
-    r: 19,
+    r: 23,
     s: "CoinMarketCap",
     sc: "Business",
     t: "cap",
@@ -15490,7 +15490,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "crates.io",
-    r: 855,
+    r: 732,
     s: "Cargo",
     sc: "Languages (other)",
     t: "cargo",
@@ -15499,7 +15499,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "carjam.co.nz",
-    r: 8,
+    r: 0,
     s: "CarJam",
     sc: "Tools",
     t: "carjam",
@@ -15544,7 +15544,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.carsales.com.au",
-    r: 0,
+    r: 9,
     s: "Carsales",
     sc: "Online (marketplace)",
     t: "carsales",
@@ -15571,7 +15571,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.commonchemistry.org",
-    r: 4,
+    r: 0,
     s: "Common Chemistry (CAS Registry Number)",
     sc: "Academic",
     t: "cas",
@@ -15670,7 +15670,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.sports-reference.com",
-    r: 5,
+    r: 4,
     s: "College Basketball Reference",
     sc: "Sports",
     t: "cbbr",
@@ -15679,7 +15679,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.cbc.ca",
-    r: 4,
+    r: 14,
     s: "CBC News",
     sc: "Broadcast",
     t: "cbc",
@@ -15688,7 +15688,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.crunchbase.com",
-    r: 30,
+    r: 71,
     s: "CrunchBase",
     sc: "Tools",
     t: "cb",
@@ -15850,7 +15850,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "ca.camelcamelcamel.com",
-    r: 4,
+    r: 11,
     s: "CamelCamelCamel (Canada)",
     sc: "Online",
     t: "cccca",
@@ -15859,7 +15859,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "camelcamelcamel.com",
-    r: 242,
+    r: 390,
     s: "CamelCamelCamel",
     sc: "Online",
     t: "ccc",
@@ -15886,7 +15886,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.creativecommons.org",
-    r: 12,
+    r: 8,
     s: "CreativeCommons.org",
     sc: "Search",
     t: "cc",
@@ -15895,7 +15895,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "uk.camelcamelcamel.com",
-    r: 7,
+    r: 16,
     s: "Camelcamelcamel",
     sc: "Online",
     t: "cccuk",
@@ -15967,7 +15967,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "colorcodedlyrics.com",
-    r: 14,
+    r: 3,
     s: "Color Coded Lyrics",
     sc: "Music (Lyrics)",
     t: "ccly",
@@ -15985,7 +15985,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.cnet.com",
-    r: 165,
+    r: 189,
     s: "CNET",
     sc: "Downloads",
     t: "c",
@@ -16066,7 +16066,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "ccsearch.creativecommons.org",
-    r: 8,
+    r: 0,
     s: "Creative commons search",
     sc: "Images",
     t: "ccsearch",
@@ -16138,7 +16138,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "chess-db.com",
-    r: 0,
+    r: 3,
     s: "Chess-DB",
     sc: "Search",
     t: "cdb",
@@ -16156,7 +16156,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.collinsdictionary.com",
-    r: 118,
+    r: 84,
     s: "Collins Dictionary",
     sc: "Reference (words intl)",
     t: "cd",
@@ -16228,7 +16228,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "dictionary.cambridge.org",
-    r: 0,
+    r: 5,
     s: "Cambridge Dictionary English-Spanish",
     sc: "General",
     t: "cdenes",
@@ -16246,7 +16246,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.cambridge.org",
-    r: 76,
+    r: 59,
     s: "Cambridge Dictionary",
     sc: "Reference (words)",
     t: "cdic",
@@ -16282,7 +16282,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cdiscount.com",
-    r: 11,
+    r: 7,
     s: "Cdiscount",
     sc: "Online",
     t: "cdiscount",
@@ -16300,7 +16300,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cdjapan.co.jp",
-    r: 10,
+    r: 0,
     s: "CDJapan",
     sc: "Online",
     t: "cdj",
@@ -16309,7 +16309,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cdkeys.com",
-    r: 21,
+    r: 8,
     s: "CDKeys",
     sc: "Online",
     t: "cdkeys",
@@ -16354,7 +16354,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "cdnjs.com",
-    r: 9,
+    r: 3,
     s: "cdnjs",
     sc: "Languages (javascript)",
     t: "cdnjs",
@@ -16444,7 +16444,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.collinsdictionary.com",
-    r: 0,
+    r: 3,
     s: "Collins Thesaurus",
     sc: "Reference (words)",
     t: "cdt",
@@ -16471,7 +16471,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cdw.com",
-    r: 11,
+    r: 5,
     s: "CDW",
     sc: "Online",
     t: "cdw",
@@ -16489,7 +16489,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "forum.cheatengine.org",
-    r: 3,
+    r: 0,
     s: "Cheat Engine Forums",
     sc: "Downloads",
     t: "ce",
@@ -16561,7 +16561,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ceneo.pl",
-    r: 71,
+    r: 140,
     s: "Ceneo",
     sc: "Services",
     t: "ceneo",
@@ -16579,7 +16579,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.collinsdictionary.com",
-    r: 10,
+    r: 5,
     s: "Collins French Dictionary (to French)",
     sc: "Search",
     t: "cenfr",
@@ -16642,7 +16642,7 @@ export const bangs = [
   {
     c: "Research",
     d: "phonebook.cern.ch",
-    r: 3,
+    r: 0,
     s: "CERN Phonebook",
     sc: "Local",
     t: "cern",
@@ -16669,7 +16669,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "uk.webuy.com",
-    r: 38,
+    r: 58,
     s: "CeX",
     sc: "Online (deals)",
     t: "cex",
@@ -16687,7 +16687,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "store.channelfireball.com",
-    r: 0,
+    r: 4,
     s: "Channel Fireball",
     sc: "Online",
     t: "cfb",
@@ -16696,7 +16696,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.sports-reference.com",
-    r: 0,
+    r: 8,
     s: "College Football Reference",
     sc: "Sports",
     t: "cfbr",
@@ -16705,7 +16705,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "cfdocs.org",
-    r: 14,
+    r: 23,
     s: "Cold Fusion Docs",
     sc: "Languages (coldfusion)",
     t: "cfd",
@@ -16723,7 +16723,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.aws.amazon.com",
-    r: 15,
+    r: 0,
     s: "AWS CloudFormation Documentation",
     sc: "Programming",
     t: "cfn",
@@ -16750,7 +16750,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.collinsdictionary.com",
-    r: 14,
+    r: 11,
     s: "Collins French Dictionary (to English)",
     sc: "Search",
     t: "cfren",
@@ -16768,7 +16768,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hub.culturegraph.org",
-    r: 4,
+    r: 9,
     s: "CultureGraph",
     sc: "Academic",
     t: "cg",
@@ -16795,7 +16795,7 @@ export const bangs = [
   {
     c: "Research",
     d: "catalog.gpo.gov",
-    r: 0,
+    r: 3,
     s: "Catalog of Government Publications",
     sc: "Government",
     t: "cgp",
@@ -16804,7 +16804,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.cgtrader.com",
-    r: 0,
+    r: 8,
     s: "cgtrader",
     sc: "Design",
     t: "cgt",
@@ -16867,7 +16867,7 @@ export const bangs = [
   {
     c: "Research",
     d: "chambers.co.uk",
-    r: 7,
+    r: 0,
     s: "Chambers",
     sc: "Reference (words)",
     t: "chambers",
@@ -16903,7 +16903,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.change.org",
-    r: 4,
+    r: 3,
     s: "https://www.change.org",
     sc: "Social",
     t: "change",
@@ -16948,7 +16948,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "charcod.es",
-    r: 7,
+    r: 0,
     s: "charcode.es",
     sc: "Languages (other)",
     t: "char",
@@ -17011,7 +17011,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.duckduckgo.com",
-    r: 3580,
+    r: 2040,
     s: "Duck.ai",
     sc: "Reference",
     t: "chat",
@@ -17029,7 +17029,7 @@ export const bangs = [
   {
     c: "Research",
     d: "chequeado.com",
-    r: 7,
+    r: 5,
     s: "Chequeado",
     sc: "Government",
     t: "ch",
@@ -17074,7 +17074,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "devhints.io",
-    r: 9,
+    r: 0,
     s: "https://devhints.io/",
     sc: "Programming",
     t: "cheat",
@@ -17083,7 +17083,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.cheatography.com",
-    r: 3,
+    r: 0,
     s: "Cheatography",
     sc: "Reference",
     t: "cheatography",
@@ -17092,7 +17092,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "chrome.google.com",
-    r: 17,
+    r: 20,
     s: "Chrome Web Store Extensions",
     sc: "Google",
     t: "che",
@@ -17110,7 +17110,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "check-host.net",
-    r: 39,
+    r: 23,
     s: "Check-host.net",
     sc: "Tools",
     t: "checkhost",
@@ -17146,7 +17146,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.chefkoch.de",
-    r: 12,
+    r: 7,
     s: "Chefkoch",
     sc: "Search",
     t: "chef",
@@ -17173,7 +17173,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.chefkoch.de",
-    r: 35,
+    r: 40,
     s: "chefkoch.de",
     sc: "Misc",
     t: "chefkoch",
@@ -17245,7 +17245,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.chess.com",
-    r: 55,
+    r: 41,
     s: "Chess.com",
     sc: "Games (specific)",
     t: "chess",
@@ -17263,7 +17263,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.chewy.com",
-    r: 7,
+    r: 5,
     s: "chewy.com",
     sc: "Online",
     t: "chewy",
@@ -17299,7 +17299,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.call-cc.org",
-    r: 0,
+    r: 3,
     s: "Chicken Scheme",
     sc: "Languages (scheme)",
     t: "chicken",
@@ -17308,7 +17308,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.chiefdelphi.com",
-    r: 6,
+    r: 22,
     s: "Chief Delphi",
     sc: "Learning",
     t: "chief",
@@ -17425,7 +17425,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "chocolatey.org",
-    r: 264,
+    r: 124,
     s: "Chocolatey",
     sc: "Downloads (software)",
     t: "choco",
@@ -17452,7 +17452,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.chollometro.com",
-    r: 6,
+    r: 12,
     s: "chollometro",
     sc: "Online (deals)",
     t: "chollo",
@@ -17470,7 +17470,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "chordify.net",
-    r: 0,
+    r: 6,
     s: "Chordify",
     sc: "Music",
     t: "chordify",
@@ -17542,7 +17542,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "chrome.google.com",
-    r: 94,
+    r: 54,
     s: "Chrome Web Store",
     sc: "Downloads (add-ons)",
     t: "chrome",
@@ -17560,7 +17560,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "chrome.google.com",
-    r: 14,
+    r: 4,
     s: "Chrome Web Store",
     sc: "Tools",
     t: "chromewebstore",
@@ -17605,7 +17605,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "beta.companieshouse.gov.uk",
-    r: 17,
+    r: 11,
     s: "Companies House",
     sc: "Search (non-US)",
     t: "chuk",
@@ -17632,7 +17632,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.cia.gov",
-    r: 3,
+    r: 0,
     s: "CIA World Factbook",
     sc: "Reference",
     t: "cia",
@@ -17668,7 +17668,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.codeigniter.com",
-    r: 3,
+    r: 0,
     s: "CodeIgniter",
     sc: "Libraries/Frameworks",
     t: "ci",
@@ -17695,7 +17695,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.cifraclub.com.br",
-    r: 7,
+    r: 3,
     s: "Cifra Club",
     sc: "Music (Lyrics)",
     t: "cifraclub",
@@ -17740,7 +17740,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "chocolatey.org",
-    r: 6,
+    r: 5,
     s: "Chocolatey",
     sc: "Downloads (software)",
     t: "cinst",
@@ -17830,7 +17830,7 @@ export const bangs = [
   {
     c: "Research",
     d: "citizendium.org",
-    r: 3,
+    r: 0,
     s: "Citizendium",
     sc: "Learning",
     t: "citi",
@@ -17866,7 +17866,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "caniusepython3.com",
-    r: 4,
+    r: 0,
     s: "Can I Use Python 3?",
     sc: "Languages (python)",
     t: "ciupy3",
@@ -17884,7 +17884,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "civilization.wikia.com",
-    r: 3,
+    r: 0,
     s: "Civilization Wikia",
     sc: "Games (specific)",
     t: "civ",
@@ -18100,7 +18100,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.craigslist.org",
-    r: 143,
+    r: 119,
     s: "Craigslist",
     sc: "Online (marketplace)",
     t: "cl",
@@ -18145,7 +18145,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.clearwebstats.com",
-    r: 0,
+    r: 3,
     s: "ClearWebStats",
     sc: "Domains",
     t: "clearweb",
@@ -18172,7 +18172,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.lispworks.com",
-    r: 39,
+    r: 8,
     s: "CommonLisp HyperSpec",
     sc: "Languages (lisp)",
     t: "clhs",
@@ -18199,7 +18199,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.clien.net",
-    r: 26,
+    r: 4,
     s: "Clien",
     sc: "Blogs",
     t: "clien",
@@ -18316,7 +18316,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "clojuredocs.org",
-    r: 45,
+    r: 51,
     s: "ClojureDocs",
     sc: "Languages (clojure)",
     t: "clj",
@@ -18352,7 +18352,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "clojars.org",
-    r: 0,
+    r: 11,
     s: "Clojars",
     sc: "Languages (clojure)",
     t: "clojars",
@@ -18361,7 +18361,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "clojuredocs.org",
-    r: 23,
+    r: 56,
     s: "Clojure Docs",
     sc: "Languages (other)",
     t: "clojure",
@@ -18370,7 +18370,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "clojuredocs.org",
-    r: 15,
+    r: 3,
     s: "Clojure Docs",
     sc: "Languages (other)",
     t: "clojuredocs",
@@ -18433,7 +18433,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "clearlinux.org",
-    r: 3,
+    r: 0,
     s: "Clear Linux* Project",
     sc: "Sysadmin",
     t: "clr",
@@ -18451,7 +18451,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.clubic.com",
-    r: 0,
+    r: 17,
     s: "Clubic",
     sc: "Downloads (software)",
     t: "clubic",
@@ -18487,7 +18487,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "cmake.org",
-    r: 118,
+    r: 68,
     s: "CMake documentation",
     sc: "Programming",
     t: "cmake",
@@ -18505,7 +18505,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "coinmarketcap.com",
-    r: 294,
+    r: 101,
     s: "CoinMarketCap",
     sc: "Tools",
     t: "cmc",
@@ -18541,7 +18541,7 @@ export const bangs = [
   {
     c: "Research",
     d: "catalog.clcohio.org",
-    r: 9,
+    r: 0,
     s: "Columbus Metropolitan Library",
     sc: "Learning",
     t: "cml",
@@ -18622,7 +18622,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cndic.naver.com",
-    r: 16,
+    r: 8,
     s: "Naver Chinese Dictionary",
     sc: "Learning",
     t: "cndic",
@@ -18631,7 +18631,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.cnet.com",
-    r: 16,
+    r: 14,
     s: "CNET",
     sc: "Blogs",
     t: "cnet",
@@ -18676,7 +18676,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.cnn.com",
-    r: 240,
+    r: 88,
     s: "CNN",
     sc: "Broadcast",
     t: "cnn",
@@ -18721,7 +18721,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.cnrtl.fr",
-    r: 238,
+    r: 203,
     s: "Centre national de ressources textuelles et lexicales",
     sc: "Tools",
     t: "cnrtl",
@@ -18766,7 +18766,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.cnrtl.fr",
-    r: 13,
+    r: 0,
     s: "cnrtl synonymie",
     sc: "Reference (words)",
     t: "cnrtls",
@@ -18784,7 +18784,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.cnrtl.fr",
-    r: 18,
+    r: 19,
     s: "Centre National de Ressources Textuelles et Lexicales",
     sc: "Reference (words)",
     t: "cntrl",
@@ -18946,7 +18946,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "codeforces.com",
-    r: 34,
+    r: 0,
     s: "Codeforces",
     sc: "Programming",
     t: "codeforces",
@@ -18991,7 +18991,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.searchco.de",
-    r: 15,
+    r: 35,
     s: "Search Code",
     sc: "Search (non-US)",
     t: "code",
@@ -19018,7 +19018,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.collinsdictionary.com",
-    r: 0,
+    r: 3,
     s: "collinsdictionary",
     sc: "Search",
     t: "codi",
@@ -19090,7 +19090,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "coinmarketcap.com",
-    r: 16,
+    r: 6,
     s: "CoinMarketCap",
     sc: "Search",
     t: "coin",
@@ -19099,7 +19099,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.coingecko.com",
-    r: 29,
+    r: 109,
     s: "CoinGecko",
     sc: "Tools",
     t: "coingecko",
@@ -19108,7 +19108,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "coinmarketcap.com",
-    r: 4,
+    r: 0,
     s: "Coinmarketcap",
     sc: "Tracking",
     t: "coinmarketcap",
@@ -19135,7 +19135,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.colourbox.com",
-    r: 5,
+    r: 3,
     s: "Colourbox",
     sc: "Search",
     t: "col",
@@ -19153,7 +19153,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "shop.coles.com.au",
-    r: 8,
+    r: 10,
     s: "Coles",
     sc: "Online",
     t: "coles",
@@ -19180,7 +19180,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.collinsdictionary.com",
-    r: 100,
+    r: 54,
     s: "Collins Dictionary",
     sc: "Reference (words)",
     t: "collins",
@@ -19225,7 +19225,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.colorhexa.com",
-    r: 4,
+    r: 0,
     s: "ColorHexa",
     sc: "Design",
     t: "color",
@@ -19288,7 +19288,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.comicvine.com",
-    r: 0,
+    r: 4,
     s: "Comic Vine",
     sc: "Comics",
     t: "comicvine",
@@ -19297,7 +19297,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.comixology.com",
-    r: 0,
+    r: 3,
     s: "Comixology",
     sc: "Online",
     t: "comix",
@@ -19333,7 +19333,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.commonsensemedia.org",
-    r: 6,
+    r: 0,
     s: "Common Sense Media",
     sc: "Misc",
     t: "commonsensemedia",
@@ -19342,7 +19342,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "commons.wikimedia.org",
-    r: 197,
+    r: 143,
     s: "Wikimedia Commons",
     sc: "General",
     t: "commons",
@@ -19351,7 +19351,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "beta.companieshouse.gov.uk",
-    r: 9,
+    r: 17,
     s: "UK Companies House",
     sc: "Search (non-US)",
     t: "companieshouse",
@@ -19387,7 +19387,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.google.com",
-    r: 6,
+    r: 0,
     s: "Compose Email (Gmail)",
     sc: "Google",
     t: "compose",
@@ -19468,7 +19468,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "anaconda.org",
-    r: 52,
+    r: 41,
     s: "https://anaconda.org",
     sc: "Downloads",
     t: "conda",
@@ -19538,7 +19538,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "conjugueur.reverso.net",
-    r: 9,
+    r: 0,
     s: "conjugueur.reverso.net",
     sc: "Tools",
     t: "conjfr",
@@ -19547,7 +19547,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "leconjugueur.lefigaro.fr",
-    r: 23,
+    r: 26,
     s: "Le conjugueur",
     sc: "Search (non-US)",
     t: "conj",
@@ -19556,7 +19556,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.conjugacao.com.br",
-    r: 3,
+    r: 0,
     s: "conjuga\u00e7\u00e3o.com.br",
     sc: "Reference (words intl)",
     t: "conjugacao",
@@ -19574,7 +19574,7 @@ export const bangs = [
   {
     c: "Research",
     d: "leconjugueur.lefigaro.fr",
-    r: 0,
+    r: 4,
     s: "Le figaro",
     sc: "Learning",
     t: "conjuguer",
@@ -19601,7 +19601,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.conrad.de",
-    r: 3,
+    r: 0,
     s: "Conrad",
     sc: "Tech",
     t: "conrad",
@@ -19619,7 +19619,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.conservapedia.com",
-    r: 6,
+    r: 0,
     s: "Conservapedia",
     sc: "Reference (fun)",
     t: "conservapedia",
@@ -19655,7 +19655,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "contacts.google.com",
-    r: 26,
+    r: 6,
     s: "Google Contacts",
     sc: "Google",
     t: "contacts",
@@ -19691,7 +19691,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.clipconverter.cc",
-    r: 7,
+    r: 3,
     s: "ClipConverter.cc",
     sc: "Video",
     t: "convert",
@@ -19727,7 +19727,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.cooks.com",
-    r: 0,
+    r: 3,
     s: "Cooks.com",
     sc: "Food",
     t: "cook",
@@ -19745,7 +19745,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cookpad.com",
-    r: 0,
+    r: 5,
     s: "Cookpad",
     sc: "Food",
     t: "cookpad",
@@ -19790,7 +19790,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.coolblue.be",
-    r: 0,
+    r: 3,
     s: "Coolblue Belgi\u00eb",
     sc: "Online",
     t: "coolbluebe",
@@ -19799,7 +19799,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.coolblue.nl",
-    r: 6,
+    r: 5,
     s: "Coolblue",
     sc: "Online",
     t: "coolblue",
@@ -19817,7 +19817,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cooljugator.com",
-    r: 0,
+    r: 3,
     s: "CoolJugator Lithuanian",
     sc: "Reference (words intl)",
     t: "cool",
@@ -19853,7 +19853,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.coolstuffinc.com",
-    r: 0,
+    r: 44,
     s: "CoolStuffInc",
     sc: "Online",
     t: "coolstuffinc",
@@ -19934,7 +19934,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "coppermind.net",
-    r: 21,
+    r: 43,
     s: "The Coppermind",
     sc: "Misc",
     t: "coppermind",
@@ -19943,7 +19943,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "copr.fedoraproject.org",
-    r: 8,
+    r: 7,
     s: "Fedora Copr",
     sc: "Sysadmin (Fedora)",
     t: "copr",
@@ -19961,7 +19961,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "coq.inria.fr",
-    r: 0,
+    r: 4,
     s: "Coq",
     sc: "Languages (other)",
     t: "coq",
@@ -19970,7 +19970,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.cornishdictionary.org.uk",
-    r: 5,
+    r: 0,
     s: "Cornish-English Dictionary",
     sc: "General",
     t: "cor",
@@ -19988,7 +19988,7 @@ export const bangs = [
   {
     c: "Research",
     d: "core.ac.uk",
-    r: 0,
+    r: 3,
     s: "CORE",
     sc: "Academic",
     t: "core",
@@ -20006,7 +20006,7 @@ export const bangs = [
   {
     c: "Research",
     d: "opencorporates.com",
-    r: 44,
+    r: 0,
     s: "opencorporates",
     sc: "Law",
     t: "corp",
@@ -20015,7 +20015,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linkcorreios.com.br",
-    r: 0,
+    r: 3,
     s: "Correios",
     sc: "Tracking",
     t: "correios",
@@ -20024,7 +20024,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.correos.es",
-    r: 0,
+    r: 4,
     s: "Localizados Correos de Espa\u00f1a",
     sc: "Tools (URLs)",
     t: "correos",
@@ -20042,7 +20042,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "consequenceofsound.net",
-    r: 0,
+    r: 3,
     s: "Consequence of Sound",
     sc: "Audio",
     t: "cos",
@@ -20078,7 +20078,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.costco.com",
-    r: 187,
+    r: 157,
     s: "Costco.com",
     sc: "Big box/department",
     t: "costco",
@@ -20150,7 +20150,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.coupang.com",
-    r: 42,
+    r: 31,
     s: "\ucfe0\ud321",
     sc: "Online",
     t: "coupang",
@@ -20213,7 +20213,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.coursera.org",
-    r: 4,
+    r: 10,
     s: "Coursera",
     sc: "Academic",
     t: "coursera",
@@ -20258,7 +20258,7 @@ export const bangs = [
   {
     c: "Research",
     d: "combineoverwiki.net",
-    r: 10,
+    r: 5,
     s: "Combine OverWiki",
     sc: "Reference (fun)",
     t: "cow",
@@ -20294,7 +20294,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "metacpan.org",
-    r: 175,
+    r: 182,
     s: "MetaCPAN",
     sc: "Languages (perl)",
     t: "cpan",
@@ -20303,7 +20303,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "metacpan.org",
-    r: 4,
+    r: 30,
     s: "MetaCPAN",
     sc: "Languages (perl)",
     t: "cpanm",
@@ -20321,7 +20321,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.passmark.com",
-    r: 7,
+    r: 0,
     s: "Cpu Benchmarks",
     sc: "Tech",
     t: "cpb",
@@ -20330,7 +20330,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "cpc.farnell.com",
-    r: 16,
+    r: 0,
     s: "CPC",
     sc: "Tech",
     t: "cpc",
@@ -20366,7 +20366,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "coinpaprika.com",
-    r: 12,
+    r: 13,
     s: "https://coinpaprika.com/",
     sc: "Cryptocurrency",
     t: "cp",
@@ -20384,7 +20384,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.cplusplus.com",
-    r: 7,
+    r: 0,
     s: "Cplusplus.com",
     sc: "Languages (c++)",
     t: "cplusplus",
@@ -20401,57 +20401,48 @@ export const bangs = [
   },
   {
     c: "Tech",
-    d: "en.cppreference.com",
-    r: 2206,
+    d: "",
+    r: 1250,
     s: "cppreference.com",
     sc: "Languages (c++)",
     t: "cpp",
-    u: "http://en.cppreference.com/mwiki/index.php?search={{{s}}}",
+    u: "/?q={{{s}}}+site:cppreference.com",
   },
   {
     c: "Tech",
-    d: "de.cppreference.com",
+    d: "",
     r: 0,
-    s: "cppreference",
+    s: "cppreference.com",
     sc: "Languages (c++)",
     t: "cppde",
-    u: "http://de.cppreference.com/mwiki/index.php?title=Spezial%3ASuche&search={{{s}}}",
+    u: "/?q={{{s}}}+site:de.cppreference.com",
   },
   {
     c: "Tech",
-    d: "en.cppreference.com",
-    r: 139,
-    s: "Cppreference",
+    d: "",
+    r: 209,
+    s: "cppreference.com",
     sc: "Languages (c++)",
     t: "cppr",
-    u: "http://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go",
+    u: "/?q={{{s}}}+site:cppreference.com",
   },
   {
     c: "Tech",
-    d: "en.cppreference.com",
-    r: 133,
+    d: "",
+    r: 31,
     s: "cppreference.com",
     sc: "Languages (c++)",
     t: "cppref",
-    u: "http://en.cppreference.com/mwiki/index.php?title=Special:Search&search={{{s}}}",
+    u: "/?q={{{s}}}+site:cppreference.com",
   },
   {
     c: "Tech",
-    d: "cppreference.com",
-    r: 35,
-    s: "Cppreference",
+    d: "",
+    r: 32,
+    s: "cppreference.com",
     sc: "Languages (c++)",
     t: "cppreference",
-    u: "http://cppreference.com/w/?search={{{s}}}",
-  },
-  {
-    c: "Tech",
-    d: "www.cppsamples.com",
-    r: 0,
-    s: "C++\u200bSamples",
-    sc: "Languages (c++)",
-    t: "cppsamples",
-    u: "http://www.cppsamples.com/#/search/{{{s}}}",
+    u: "/?q={{{s}}}+site:cppreference.com",
   },
   {
     c: "Tech",
@@ -20573,7 +20564,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "finzi.psych.upenn.edu",
-    r: 7,
+    r: 3,
     s: "cran.r-project.org",
     sc: "Languages (r)",
     t: "cran",
@@ -20591,7 +20582,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "crate.io",
-    r: 54,
+    r: 46,
     s: "crate.io",
     sc: "Programming",
     t: "crate",
@@ -20600,7 +20591,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "crates.io",
-    r: 2332,
+    r: 1977,
     s: "The Rust community's crate host",
     sc: "Languages (other)",
     t: "crates",
@@ -20609,7 +20600,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "crawl.chaosforge.org",
-    r: 15,
+    r: 9,
     s: "CrawlWiki",
     sc: "Games (general)",
     t: "crawl",
@@ -20645,7 +20636,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "codereview.stackexchange.com",
-    r: 4,
+    r: 12,
     s: "codereview.stackexchange.com",
     sc: "Programming",
     t: "cr",
@@ -20716,12 +20707,12 @@ export const bangs = [
   },
   {
     c: "Tech",
-    d: "en.cppreference.com",
+    d: "",
     r: 0,
     s: "cppreference.com",
     sc: "Languages (c++)",
     t: "c++ref",
-    u: "http://en.cppreference.com/mwiki/index.php?search=Special%3ASearch&search={{{s}}}",
+    u: "/?q={{{s}}}+site:cppreference.com",
   },
   {
     c: "Research",
@@ -20744,7 +20735,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.cricbuzz.com",
-    r: 64,
+    r: 51,
     s: "Cricbuzz",
     sc: "Sports",
     t: "cricbuzz",
@@ -20762,7 +20753,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "search.espncricinfo.com",
-    r: 86,
+    r: 154,
     s: "Cricinfo",
     sc: "Sports",
     t: "cricinfo",
@@ -20789,7 +20780,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.criterion.com",
-    r: 5,
+    r: 0,
     s: "The Criterion Collection",
     sc: "Movies",
     t: "cri",
@@ -20798,7 +20789,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.criticker.com",
-    r: 0,
+    r: 6,
     s: "Criticker",
     sc: "Movies",
     t: "criticker",
@@ -20825,7 +20816,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "criticalrole.wikia.com",
-    r: 9,
+    r: 3,
     s: "Critical Role Wikia",
     sc: "Misc",
     t: "critrole",
@@ -20852,7 +20843,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "crontab.guru",
-    r: 4,
+    r: 3,
     s: "Crontab.guru",
     sc: "Sysadmin",
     t: "cron",
@@ -20879,7 +20870,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.codeweavers.com",
-    r: 5,
+    r: 0,
     s: "CodeWeavers",
     sc: "Games (general)",
     t: "crossover",
@@ -20942,7 +20933,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.crunchyroll.com",
-    r: 59,
+    r: 36,
     s: "Crunchyroll",
     sc: "Movies",
     t: "crs",
@@ -20960,7 +20951,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "crt.sh",
-    r: 23,
+    r: 18,
     s: "crt.sh",
     sc: "Domains",
     t: "crt",
@@ -20987,7 +20978,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.crunchyroll.com",
-    r: 31,
+    r: 16,
     s: "CrunchyRoll",
     sc: "Comics",
     t: "crunchyroll",
@@ -21023,7 +21014,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "chrome.google.com",
-    r: 16,
+    r: 8,
     s: "Chrome Extension Repository",
     sc: "Downloads (add-ons)",
     t: "crx",
@@ -21032,7 +21023,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "robwu.nl",
-    r: 3,
+    r: 0,
     s: "Extension Source Viewer",
     sc: "Downloads (add-ons)",
     t: "crxviewer",
@@ -21077,7 +21068,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "api.call-cc.org",
-    r: 0,
+    r: 165,
     s: "Chicken Scheme Chickadee",
     sc: "Languages (scheme)",
     t: "csc",
@@ -21086,7 +21077,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cheapshark.com",
-    r: 5,
+    r: 6,
     s: "CheapShark",
     sc: "Online (deals)",
     t: "cs",
@@ -21104,7 +21095,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.csfd.cz",
-    r: 232,
+    r: 224,
     s: "\u010cSFD",
     sc: "Video",
     t: "csfd",
@@ -21131,7 +21122,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "social.msdn.microsoft.com",
-    r: 10,
+    r: 4,
     s: "C# MSDN",
     sc: "Programming",
     t: "csharp",
@@ -21158,7 +21149,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamliquid.net",
-    r: 3,
+    r: 0,
     s: "Liquipedia Counter-Strike Wiki",
     sc: "Games (specific)",
     t: "cslq",
@@ -21167,7 +21158,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.commonsensemedia.org",
-    r: 54,
+    r: 48,
     s: "Common Sense Media",
     sc: "Misc",
     t: "csm",
@@ -21221,7 +21212,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 33,
+    r: 67,
     s: "CSS",
     sc: "Languages (html)",
     t: "css",
@@ -21284,7 +21275,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "checkshorturl.com",
-    r: 3,
+    r: 0,
     s: "CheckShortURL",
     sc: "Tools (URLs)",
     t: "csu",
@@ -21311,7 +21302,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.call-cc.org",
-    r: 0,
+    r: 25,
     s: "Chicken Scheme Wiki",
     sc: "Languages (scheme)",
     t: "csw",
@@ -21320,7 +21311,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "cs.wikipedia.org",
-    r: 4,
+    r: 0,
     s: "Wikipedia (cs)",
     sc: "Search (non-US)",
     t: "cswiki",
@@ -21329,7 +21320,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "ctan.org",
-    r: 243,
+    r: 182,
     s: "CTAN.org",
     sc: "Libraries/Frameworks",
     t: "ctan",
@@ -21338,7 +21329,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.canadiantire.ca",
-    r: 15,
+    r: 22,
     s: "Canadian Tire",
     sc: "Big box/department",
     t: "ct",
@@ -21356,7 +21347,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ctext.org",
-    r: 13,
+    r: 33,
     s: "Chinese Text Project Dictionary",
     sc: "Academic",
     t: "ctextd",
@@ -21464,7 +21455,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "caniuse.com",
-    r: 22,
+    r: 19,
     s: "CanIUse",
     sc: "Languages (other)",
     t: "cu",
@@ -21626,7 +21617,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 6,
+    r: 8,
     s: "Curse Forge",
     sc: "Downloads (add-ons)",
     t: "curseforge",
@@ -21662,7 +21653,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "cve.mitre.org",
-    r: 13,
+    r: 25,
     s: "Common Vulnerabilities and Exposures (CVE)",
     sc: "Libraries/Frameworks",
     t: "cve",
@@ -21671,7 +21662,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "cvedetails.com",
-    r: 10,
+    r: 7,
     s: "CVE Details",
     sc: "Sysadmin",
     t: "cved",
@@ -21734,7 +21725,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cvs.com",
-    r: 8,
+    r: 15,
     s: "CVS",
     sc: "Online",
     t: "cvs",
@@ -21743,7 +21734,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.codewars.com",
-    r: 7,
+    r: 0,
     s: "CodeWars",
     sc: "Programming",
     t: "cw",
@@ -21806,7 +21797,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "chrome.google.com",
-    r: 58,
+    r: 25,
     s: "Chrome Web Store",
     sc: "Downloads (add-ons)",
     t: "cws",
@@ -21824,7 +21815,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.cplusplus.com",
-    r: 0,
+    r: 3,
     s: "Cplusplus.com",
     sc: "Languages (c++)",
     t: "cxx",
@@ -21860,7 +21851,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cyberport.de",
-    r: 0,
+    r: 3,
     s: "Cyberport",
     sc: "Online",
     t: "cyberport",
@@ -22004,7 +21995,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.d20pfsrd.com",
-    r: 6,
+    r: 15,
     s: "Pathfinder SRD",
     sc: "Games (offline)",
     t: "d20pfsrd",
@@ -22022,7 +22013,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.d20srd.org",
-    r: 10,
+    r: 0,
     s: "The Hypertext d20 SRD",
     sc: "Games (specific)",
     t: "d20",
@@ -22040,7 +22031,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.light.gg",
-    r: 7,
+    r: 17,
     s: "Light.gg",
     sc: "Games (specific)",
     t: "d2",
@@ -22067,7 +22058,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dirty.ru",
-    r: 6,
+    r: 0,
     s: "dirty.ru",
     sc: "Forum",
     t: "d3",
@@ -22076,7 +22067,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "datasheet4u.com",
-    r: 5,
+    r: 0,
     s: "Datasheet4u",
     sc: "Design",
     t: "d4u",
@@ -22121,7 +22112,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.deviantart.com",
-    r: 729,
+    r: 411,
     s: "DeviantArt",
     sc: "Images",
     t: "da",
@@ -22139,7 +22130,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 5,
+    r: 0,
     s: "Google Translate da-en",
     sc: "Google",
     t: "daen",
@@ -22148,7 +22139,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.dafont.com",
-    r: 11,
+    r: 3,
     s: "DaFont",
     sc: "General",
     t: "dafont",
@@ -22202,7 +22193,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.dailymail.co.uk",
-    r: 7,
+    r: 0,
     s: "Daily Mail Online",
     sc: "Newspaper (intl)",
     t: "dailymail",
@@ -22220,7 +22211,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.dailymotion.com",
-    r: 42,
+    r: 30,
     s: "Dailymotion",
     sc: "Video",
     t: "dailymotion",
@@ -22283,7 +22274,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.danawa.com",
-    r: 46,
+    r: 45,
     s: "Danawa",
     sc: "Online (deals)",
     t: "danawa",
@@ -22292,7 +22283,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "danbooru.donmai.us",
-    r: 260,
+    r: 211,
     s: "Danbooru",
     sc: "Images",
     t: "danbooru",
@@ -22409,7 +22400,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 7,
+    r: 0,
     s: "DuckDuckGo Dark Theme",
     sc: "Search (DDG)",
     t: "dark",
@@ -22427,7 +22418,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.darklyrics.com",
-    r: 5,
+    r: 0,
     s: "DarkLyrics.com",
     sc: "Music (Lyrics)",
     t: "darklyrics",
@@ -22445,7 +22436,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.dartlang.org",
-    r: 0,
+    r: 3,
     s: "dartlang",
     sc: "Programming",
     t: "dart",
@@ -22463,7 +22454,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pub.dartlang.org",
-    r: 8,
+    r: 0,
     s: "Dart Packages",
     sc: "Programming",
     t: "dartpub",
@@ -22472,7 +22463,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.darty.com",
-    r: 0,
+    r: 3,
     s: "Darty",
     sc: "Online",
     t: "darty",
@@ -22544,7 +22535,7 @@ export const bangs = [
   {
     c: "Research",
     d: "toolbox.google.com",
-    r: 3,
+    r: 0,
     s: "Google Dataset Search",
     sc: "Academic",
     t: "data",
@@ -22634,7 +22625,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.daum.net",
-    r: 201,
+    r: 143,
     s: "Daum",
     sc: "Search (non-US)",
     t: "daum",
@@ -22643,7 +22634,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dic.daum.net",
-    r: 7,
+    r: 0,
     s: "Daum \uc5b4\ud559\uc0ac\uc804",
     sc: "Learning",
     t: "daumdic",
@@ -22724,7 +22715,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 7,
+    r: 6,
     s: "DuckDuckGo",
     sc: "Search",
     t: "dax",
@@ -22733,7 +22724,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 10,
+    r: 4,
     s: "DuckDuckGo",
     sc: "Search (DDG)",
     t: "day",
@@ -22751,7 +22742,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.dba.dk",
-    r: 17,
+    r: 28,
     s: "Den Bl\u00e5 Avis",
     sc: "Online (marketplace)",
     t: "dba",
@@ -22769,7 +22760,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "book.douban.com",
-    r: 3,
+    r: 0,
     s: "Douban",
     sc: "Books",
     t: "dbbook",
@@ -22778,7 +22769,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "deadbydaylight.gamepedia.com",
-    r: 17,
+    r: 20,
     s: "Dead by Daylight Wiki",
     sc: "Games (specific)",
     t: "dbd",
@@ -22841,7 +22832,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dblp.uni-trier.de",
-    r: 253,
+    r: 166,
     s: "DBLP Computer Science Bibliography",
     sc: "Academic",
     t: "dblp",
@@ -22859,7 +22850,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "movie.douban.com",
-    r: 23,
+    r: 16,
     s: "Douban Movie",
     sc: "Movies",
     t: "dbm",
@@ -22877,7 +22868,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "music.douban.com",
-    r: 0,
+    r: 12,
     s: "Douban Music",
     sc: "Misc",
     t: "dbmusic",
@@ -22958,7 +22949,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "danbooru.donmai.us",
-    r: 212,
+    r: 326,
     s: "Danbooru",
     sc: "Images",
     t: "dbr",
@@ -23003,7 +22994,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.dotabuff.com",
-    r: 0,
+    r: 82,
     s: "Dotabuff",
     sc: "Games (WOW)",
     t: "dbuff",
@@ -23012,7 +23003,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugs.debian.org",
-    r: 15,
+    r: 21,
     s: "Debian Bugs",
     sc: "Sysadmin (debian)",
     t: "dbugs",
@@ -23047,7 +23038,7 @@ export const bangs = [
   },
   {
     d: "www.dict.cc",
-    r: 1892,
+    r: 1705,
     s: "dict.cc",
     t: "dcc",
     u: "http://www.dict.cc/?s={{{s}}}",
@@ -23064,7 +23055,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duck.co",
-    r: 23,
+    r: 13,
     s: "DuckDuckGo Community",
     sc: "Search (DDG)",
     t: "dc",
@@ -23073,7 +23064,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "search.dcinside.com",
-    r: 28,
+    r: 12,
     s: "dcinside",
     sc: "Forum",
     t: "dcinside",
@@ -23100,7 +23091,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dictionary.reference.com",
-    r: 3,
+    r: 4,
     s: "Dictionary.com",
     sc: "Tools",
     t: "d.com",
@@ -23109,7 +23100,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dictionary.com",
-    r: 68,
+    r: 70,
     s: "Dictionary.com",
     sc: "Reference",
     t: "dcom",
@@ -23172,7 +23163,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dc.wikia.com",
-    r: 0,
+    r: 5,
     s: "DC Wiki",
     sc: "Comics",
     t: "dcwiki",
@@ -23181,7 +23172,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.deutsche-digitale-bibliothek.de",
-    r: 3,
+    r: 0,
     s: "Deutsche Digitale Bibliothek",
     sc: "Search",
     t: "ddb",
@@ -23199,7 +23190,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sli.uvigo.gal",
-    r: 4,
+    r: 3,
     s: "Dicionario de Dicionarios",
     sc: "Reference (words intl)",
     t: "ddd",
@@ -23208,7 +23199,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "devdocs.io",
-    r: 137,
+    r: 92,
     s: "DevDocs",
     sc: "Programming",
     t: "dd",
@@ -23217,7 +23208,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 166,
+    r: 19,
     s: "Duckduckgo Germany",
     sc: "Search (DDG)",
     t: "dde",
@@ -23262,7 +23253,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 3,
+    r: 8,
     s: "DuckDuckGo Brazilian Portuguese Search",
     sc: "Search (DDG)",
     t: "ddgbr",
@@ -23271,7 +23262,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 10,
+    r: 0,
     s: "DuckDuckGo Calculator",
     sc: "Search (DDG)",
     t: "ddgc",
@@ -23280,7 +23271,7 @@ export const bangs = [
   {
     c: "Research",
     d: "duckduckgo.com",
-    r: 3,
+    r: 4,
     s: "DuckDuckGo dictionary definitions",
     sc: "Reference (words)",
     t: "ddgd",
@@ -23289,7 +23280,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 19,
+    r: 12,
     s: "duckduckgo",
     sc: "Search",
     t: "ddgde",
@@ -23298,7 +23289,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 3693,
+    r: 3278,
     s: "DuckDuckGo",
     sc: "Search (DDG)",
     t: "ddg",
@@ -23325,7 +23316,7 @@ export const bangs = [
   {
     c: "Research",
     d: "duckduckgo.com",
-    r: 76,
+    r: 128,
     s: "DuckDuckgo France",
     sc: "Reference",
     t: "ddgf",
@@ -23343,7 +23334,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 883,
+    r: 787,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "ddgi",
@@ -23361,7 +23352,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 66,
+    r: 73,
     s: "DuckDuckGo Maps",
     sc: "Search (DDG)",
     t: "ddgm",
@@ -23370,7 +23361,7 @@ export const bangs = [
   {
     c: "News",
     d: "duckduckgo.com",
-    r: 12,
+    r: 5,
     s: "DuckDuckGo news",
     sc: "Aggregators",
     t: "ddgn",
@@ -23379,7 +23370,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 10,
+    r: 3,
     s: "DuckDuckGo",
     sc: "Search (DDG)",
     t: "ddgnl",
@@ -23406,7 +23397,7 @@ export const bangs = [
   {
     c: "Research",
     d: "duckduckgo.com",
-    r: 415,
+    r: 442,
     s: "Reddit search (via DuckDuckGo)",
     sc: "Reference (fun)",
     t: "ddgr",
@@ -23415,7 +23406,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "duckduckgo.com",
-    r: 65,
+    r: 35,
     s: "DuckDuckGo Video Search",
     sc: "Video",
     t: "ddgv",
@@ -23523,7 +23514,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duck.co",
-    r: 10,
+    r: 4,
     s: "DuckDuckHack",
     sc: "Programming",
     t: "ddh",
@@ -23532,7 +23523,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckhack.com",
-    r: 4,
+    r: 3,
     s: "DuckDuckHack",
     sc: "Search (DDG)",
     t: "ddhu",
@@ -23550,7 +23541,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dic.daum.net",
-    r: 7,
+    r: 20,
     s: "Daum Dictionary",
     sc: "Reference (words intl)",
     t: "ddic",
@@ -23559,7 +23550,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "duckduckgo.com",
-    r: 147,
+    r: 138,
     s: "DuckDuckGo Images",
     sc: "Images",
     t: "ddi",
@@ -23595,7 +23586,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ddnet.tw",
-    r: 10,
+    r: 0,
     s: "DDrace Network",
     sc: "Games (specific)",
     t: "ddnet",
@@ -23604,7 +23595,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ordnet.dk",
-    r: 115,
+    r: 116,
     s: "Den Danske Ordbog",
     sc: "Reference (words intl)",
     t: "ddo",
@@ -23613,7 +23604,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 12,
+    r: 0,
     s: "Stack Overflow via DuckDuckGo",
     sc: "Programming",
     t: "ddso",
@@ -23622,7 +23613,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
-    r: 9,
+    r: 45,
     s: "DuckDuckGo Tor url",
     sc: "Domains",
     t: "ddt",
@@ -23703,7 +23694,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.dealabs.com",
-    r: 11,
+    r: 31,
     s: "Dealabs",
     sc: "Online (deals)",
     t: "dealabs",
@@ -23775,7 +23766,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugs.debian.org",
-    r: 36,
+    r: 12,
     s: "Debian Bugs",
     sc: "Sysadmin (debian)",
     t: "debbug",
@@ -23802,7 +23793,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "packages.debian.org",
-    r: 485,
+    r: 482,
     s: "Debian Packages",
     sc: "Search",
     t: "deb",
@@ -23820,7 +23811,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.debian.org",
-    r: 0,
+    r: 3,
     s: "Debian",
     sc: "Sysadmin (debian)",
     t: "debfiles",
@@ -23838,7 +23829,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.debian.org",
-    r: 25,
+    r: 15,
     s: "Debian",
     sc: "Sysadmin (debian)",
     t: "debian",
@@ -23874,7 +23865,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.debian.org",
-    r: 24,
+    r: 38,
     s: "Debian Packages",
     sc: "Sysadmin (packages)",
     t: "debianpack",
@@ -23883,7 +23874,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "dyn.manpages.debian.org",
-    r: 53,
+    r: 38,
     s: "Debian Manpages",
     sc: "Sysadmin (debian)",
     t: "debman",
@@ -23910,7 +23901,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.debian.org",
-    r: 22,
+    r: 8,
     s: "Debian Packages",
     sc: "Downloads (software)",
     t: "debpackages",
@@ -23937,7 +23928,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "tracker.debian.org",
-    r: 8,
+    r: 3,
     s: "Debian Package Tracker",
     sc: "Sysadmin (debian)",
     t: "debtracker",
@@ -23946,7 +23937,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.debian.org",
-    r: 8,
+    r: 24,
     s: "debian.org",
     sc: "Sysadmin (debian)",
     t: "debwiki",
@@ -23955,7 +23946,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.decathlon.co.uk",
-    r: 3,
+    r: 6,
     s: "Decathlon",
     sc: "Online",
     t: "decathlon",
@@ -24027,7 +24018,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "urldecode.org",
-    r: 3,
+    r: 0,
     s: "UrlDecode.org",
     sc: "Domains",
     t: "decode",
@@ -24054,7 +24045,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.dict.cc",
-    r: 454,
+    r: 521,
     s: "dict.cc free dictionary (de<>en)",
     sc: "Tools",
     t: "deen",
@@ -24081,7 +24072,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 5488,
+    r: 3280,
     s: "DeepL Translator",
     sc: "General",
     t: "deepl",
@@ -24090,7 +24081,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 0,
+    r: 9,
     s: "DeepL ES-EN",
     sc: "General",
     t: "deepleen",
@@ -24108,7 +24099,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 0,
+    r: 4,
     s: "DeepL",
     sc: "General",
     t: "deepleg",
@@ -24117,7 +24108,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 30,
+    r: 17,
     s: "Deepl",
     sc: "General",
     t: "deeplen",
@@ -24126,7 +24117,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 35,
+    r: 64,
     s: "Deepl en-es",
     sc: "General",
     t: "deeplenes",
@@ -24135,7 +24126,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 0,
+    r: 3,
     s: "DeepL en-pt",
     sc: "General",
     t: "deeplenpt",
@@ -24144,7 +24135,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.deepl.com",
-    r: 23,
+    r: 6,
     s: "DeepL Translator",
     sc: "Tools",
     t: "deeples",
@@ -24153,7 +24144,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 13,
+    r: 9,
     s: "deepl.com",
     sc: "General",
     t: "deeplfr",
@@ -24162,7 +24153,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 11,
+    r: 3,
     s: "DeepL",
     sc: "General",
     t: "deeplge",
@@ -24171,7 +24162,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 7,
+    r: 3,
     s: "DeepL pt-en",
     sc: "General",
     t: "deeplpten",
@@ -24180,7 +24171,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 32,
+    r: 12,
     s: "DeepL Translator (RU)",
     sc: "Google",
     t: "deeplru",
@@ -24198,7 +24189,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dees.dict.cc",
-    r: 3,
+    r: 4,
     s: "Dict.cc Deutsch-Spanisch",
     sc: "Tools",
     t: "dees",
@@ -24207,7 +24198,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.deezer.com",
-    r: 90,
+    r: 69,
     s: "Deezer",
     sc: "Audio",
     t: "deezer",
@@ -24225,7 +24216,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thefreedictionary.com",
-    r: 642,
+    r: 471,
     s: "The Free Dictionary",
     sc: "Reference (words)",
     t: "define",
@@ -24243,7 +24234,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "defr.dict.cc",
-    r: 19,
+    r: 60,
     s: "dict.cc Deutsch-Franz\u00f6sisch",
     sc: "Tools",
     t: "defr",
@@ -24252,7 +24243,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thefreedictionary.com",
-    r: 211,
+    r: 226,
     s: "The Free Dictionary",
     sc: "Academic",
     t: "def",
@@ -24261,7 +24252,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dict.tu-chemnitz.de",
-    r: 52,
+    r: 56,
     s: "German",
     sc: "Reference (words intl)",
     t: "de",
@@ -24306,7 +24297,7 @@ export const bangs = [
   {
     c: "Research",
     d: "deit.dict.cc",
-    r: 3,
+    r: 13,
     s: "Dict CC DE <> IT",
     sc: "Learning",
     t: "deit",
@@ -24315,7 +24306,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dejure.org",
-    r: 81,
+    r: 25,
     s: "Dejure",
     sc: "Law",
     t: "dejure",
@@ -24378,7 +24369,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "delicious-fruit.com",
-    r: 16,
+    r: 12,
     s: "Delicious Fruit",
     sc: "Games (offline)",
     t: "delfruit",
@@ -24412,7 +24403,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.dell.com",
-    r: 0,
+    r: 4,
     s: "Dell",
     sc: "Companies",
     t: "dell",
@@ -24430,7 +24421,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.dell.com",
-    r: 3,
+    r: 8,
     s: "Dell Support Service Tag",
     sc: "Companies",
     t: "dellst",
@@ -24466,7 +24457,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dizionario.internazionale.it",
-    r: 6,
+    r: 5,
     s: "Dizionario Italiano De Mauro",
     sc: "Reference (words intl)",
     t: "demauro",
@@ -24493,7 +24484,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dict.cc",
-    r: 7,
+    r: 10,
     s: "Dict.cc english-german",
     sc: "Learning (intl)",
     t: "dende",
@@ -24511,7 +24502,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "denl.dict.cc",
-    r: 10,
+    r: 6,
     s: "Dict.cc Deutsch-Niederl\u00e4ndisch",
     sc: "Tools",
     t: "denl",
@@ -24520,7 +24511,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "deno.dict.cc",
-    r: 5,
+    r: 0,
     s: "dict.cc",
     sc: "Search",
     t: "deno",
@@ -24529,7 +24520,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.deepl.com",
-    r: 6,
+    r: 4,
     s: "Deepl English to Russian ",
     sc: "Tools",
     t: "denru",
@@ -24556,7 +24547,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 17,
+    r: 11,
     s: "google translate de-pl",
     sc: "Google",
     t: "depl",
@@ -24565,7 +24556,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.depop.com",
-    r: 5,
+    r: 9,
     s: "Depop",
     sc: "Online (marketplace)",
     t: "depop",
@@ -24592,7 +24583,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "derpibooru.org",
-    r: 0,
+    r: 3,
     s: "Derpibooru.org",
     sc: "Images",
     t: "derpibooruorg",
@@ -24601,7 +24592,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "derpibooru.org",
-    r: 52,
+    r: 114,
     s: "Derpibooru",
     sc: "Images",
     t: "derpi",
@@ -24610,7 +24601,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.derstandard.at",
-    r: 36,
+    r: 5,
     s: "derStandard.at",
     sc: "Newspaper",
     t: "derstandard",
@@ -24673,7 +24664,7 @@ export const bangs = [
   {
     c: "Research",
     d: "es.thefreedictionary.com",
-    r: 9,
+    r: 8,
     s: "The free dictionary ES",
     sc: "Reference (words)",
     t: "des",
@@ -24700,7 +24691,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "desv.dict.cc",
-    r: 3,
+    r: 4,
     s: "dict.cc",
     sc: "Search",
     t: "desv",
@@ -24736,7 +24727,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.apple.com",
-    r: 12,
+    r: 0,
     s: "Apple Developer",
     sc: "Languages (cocoa)",
     t: "devapple",
@@ -24745,7 +24736,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "devdocs.io",
-    r: 4,
+    r: 6,
     s: "DevDocs",
     sc: "Programming",
     t: "dev",
@@ -24754,7 +24745,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "devdocs.io",
-    r: 3,
+    r: 26,
     s: "DevDocs",
     sc: "Programming",
     t: "devdocs",
@@ -24781,7 +24772,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.deviantart.com",
-    r: 141,
+    r: 203,
     s: "DeviantArt",
     sc: "Images",
     t: "deviantart",
@@ -24844,7 +24835,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "dev.to",
-    r: 5,
+    r: 0,
     s: "DEV.to",
     sc: "Blogs",
     t: "devto",
@@ -24862,7 +24853,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wikipedia.org",
-    r: 14,
+    r: 16,
     s: "de.wikipedia.org",
     sc: "Academic",
     t: "dew",
@@ -24871,7 +24862,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wikipedia.org",
-    r: 58,
+    r: 123,
     s: "de.wikipedia.org",
     sc: "Topical",
     t: "dewiki",
@@ -24907,7 +24898,7 @@ export const bangs = [
   {
     c: "News",
     d: "index.hu",
-    r: 4,
+    r: 0,
     s: "Index",
     sc: "Newspaper",
     t: "dex",
@@ -24916,7 +24907,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dexonline.ro",
-    r: 47,
+    r: 66,
     s: "Dexonline",
     sc: "Reference (words)",
     t: "dexonline",
@@ -24934,7 +24925,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 14,
+    r: 10,
     s: "Daring Fireball",
     sc: "Search (DDG)",
     t: "df",
@@ -24943,7 +24934,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "downforeveryoneorjustme.com",
-    r: 0,
+    r: 3,
     s: "Down For Everyone Or Just Me",
     sc: "Tools",
     t: "dfeojm",
@@ -24952,7 +24943,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.debian.org",
-    r: 0,
+    r: 5,
     s: "Debian file search",
     sc: "Sysadmin (debian)",
     t: "dfiles",
@@ -24961,7 +24952,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "leaf.dragonflybsd.org",
-    r: 3,
+    r: 0,
     s: "DragonFly BSD manual pages",
     sc: "Programming",
     t: "dfman",
@@ -24979,7 +24970,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dwarffortresswiki.org",
-    r: 24,
+    r: 73,
     s: "DwarfFortress Wiki",
     sc: "Games (offline)",
     t: "dfw",
@@ -24988,7 +24979,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dwarffortresswiki.org",
-    r: 4,
+    r: 5,
     s: "DwarfFortress Wiki",
     sc: "Games (specific)",
     t: "dfwiki",
@@ -24997,7 +24988,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.desiringgod.org",
-    r: 15,
+    r: 28,
     s: "Desiring God",
     sc: "Blogs",
     t: "dg",
@@ -25006,7 +24997,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dejure.org",
-    r: 8,
+    r: 10,
     s: "GG - dejure.org",
     sc: "Law",
     t: "dgg",
@@ -25015,7 +25006,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "duckduckgo.com",
-    r: 34,
+    r: 51,
     s: "DuckDuckGo Images",
     sc: "Images",
     t: "dggi",
@@ -25024,7 +25015,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 175,
+    r: 224,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "dgi",
@@ -25033,7 +25024,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.digikey.com",
-    r: 56,
+    r: 22,
     s: "Digikey",
     sc: "Tech",
     t: "dgky",
@@ -25051,7 +25042,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.degulesider.dk",
-    r: 3,
+    r: 5,
     s: "De gule sider",
     sc: "Tools",
     t: "dgs",
@@ -25078,7 +25069,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hub.docker.com",
-    r: 630,
+    r: 546,
     s: "Docker Hub",
     sc: "Programming",
     t: "dh",
@@ -25114,7 +25105,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "nolp.dhl.de",
-    r: 17,
+    r: 32,
     s: "DHL German",
     sc: "Tracking",
     t: "dhlde",
@@ -25123,7 +25114,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.dhl-usa.com",
-    r: 25,
+    r: 18,
     s: "DHL",
     sc: "Tracking",
     t: "dhl",
@@ -25159,7 +25150,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hub.docker.com",
-    r: 18,
+    r: 31,
     s: "Docker Hub",
     sc: "Downloads (apps)",
     t: "dhub",
@@ -25168,7 +25159,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "diablo.wikia.com",
-    r: 0,
+    r: 6,
     s: "Diablo Wiki",
     sc: "Games (general)",
     t: "diablo",
@@ -25222,7 +25213,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.diccionari.cat",
-    r: 6,
+    r: 0,
     s: "Diccionari de la llengua Catalana",
     sc: "Academic",
     t: "diccionari",
@@ -25231,7 +25222,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.merriam-webster.com",
-    r: 186,
+    r: 133,
     s: "http://www.merriam-webster.com/",
     sc: "Academic",
     t: "dic",
@@ -25249,7 +25240,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dicio.com.br",
-    r: 92,
+    r: 137,
     s: "Dicio",
     sc: "Reference (words)",
     t: "dicio",
@@ -25258,7 +25249,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dic.nicovideo.jp",
-    r: 9,
+    r: 6,
     s: "\u30cb\u30b3\u30cb\u30b3\u5927\u767e\u79d1",
     sc: "Search (non-US)",
     t: "dicnico",
@@ -25312,7 +25303,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "dic.pixiv.net",
-    r: 93,
+    r: 24,
     s: "Pixiv Dictionary",
     sc: "General",
     t: "dicpixiv",
@@ -25330,7 +25321,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.infopedia.pt",
-    r: 6,
+    r: 8,
     s: "Dicion\u00e1rio Infop\u00e9dia da L\u00edngua Portuguesa",
     sc: "Reference (words)",
     t: "dicpt",
@@ -25339,7 +25330,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.dict.cc",
-    r: 1262,
+    r: 1106,
     s: "dict.cc",
     sc: "Tools",
     t: "dictcc",
@@ -25348,7 +25339,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dict.cc",
-    r: 215,
+    r: 164,
     s: "dict.cc",
     sc: "Academic",
     t: "dict.cc",
@@ -25357,7 +25348,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dict.org",
-    r: 195,
+    r: 152,
     s: "Dict.org",
     sc: "Academic",
     t: "dict",
@@ -25384,7 +25375,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thefreedictionary.com",
-    r: 184,
+    r: 110,
     s: "The Free Dictionary",
     sc: "Academic",
     t: "dictionary",
@@ -25393,7 +25384,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dict.leo.org",
-    r: 5,
+    r: 0,
     s: "Leo Translation EN<->DE",
     sc: "Search",
     t: "dictleode",
@@ -25447,7 +25438,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dictionary.com",
-    r: 472,
+    r: 306,
     s: "Dictionary.com",
     sc: "Reference (words)",
     t: "di",
@@ -25456,7 +25447,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dlc.iec.cat",
-    r: 52,
+    r: 56,
     s: "Institut d'Estudis Catalans",
     sc: "Reference (words)",
     t: "diec",
@@ -25465,7 +25456,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.die.net",
-    r: 16,
+    r: 10,
     s: "Linux.die.net man pages",
     sc: "Programming",
     t: "die",
@@ -25492,7 +25483,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 9,
+    r: 7,
     s: "DuckDuck",
     sc: "Search (DDG)",
     t: "diff",
@@ -25510,7 +25501,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "networking.ringofsaturn.com",
-    r: 15,
+    r: 7,
     s: "dig Lookup",
     sc: "Programming",
     t: "dig",
@@ -25519,7 +25510,7 @@ export const bangs = [
   {
     c: "News",
     d: "digg.com",
-    r: 16,
+    r: 12,
     s: "Digg",
     sc: "Aggregators",
     t: "digg",
@@ -25573,7 +25564,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.digikey.com",
-    r: 174,
+    r: 90,
     s: "Digi-Key",
     sc: "Tech",
     t: "digikey",
@@ -25618,7 +25609,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.digitec.ch",
-    r: 28,
+    r: 67,
     s: "Digitec",
     sc: "Tech",
     t: "digitec",
@@ -25645,7 +25636,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.diigo.com",
-    r: 3,
+    r: 0,
     s: "Diigo",
     sc: "Tools",
     t: "diigo",
@@ -25663,7 +25654,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.diki.pl",
-    r: 13,
+    r: 18,
     s: "diki.pl/slownik-niemieckiego",
     sc: "General",
     t: "dikide",
@@ -25672,7 +25663,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.diki.pl",
-    r: 450,
+    r: 478,
     s: "diki.pl",
     sc: "Reference (words intl)",
     t: "diki",
@@ -25690,7 +25681,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 27,
+    r: 7,
     s: "DuckDuckGo ",
     sc: "Search (DDG)",
     t: "dim",
@@ -25708,7 +25699,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dicionarioinformal.com.br",
-    r: 7,
+    r: 12,
     s: "Dicion\u00e1rio inFormal",
     sc: "Reference (words intl)",
     t: "din",
@@ -25735,7 +25726,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.monde-diplomatique.fr",
-    r: 0,
+    r: 6,
     s: "Le Monde Diplomatique",
     sc: "Newspaper",
     t: "diplo",
@@ -25789,7 +25780,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "disboard.org",
-    r: 14,
+    r: 0,
     s: "DISBOARD",
     sc: "Search",
     t: "disboard",
@@ -25807,7 +25798,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "discord.me",
-    r: 4,
+    r: 0,
     s: "Discord Me",
     sc: "Social",
     t: "discme",
@@ -25825,7 +25816,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.discogs.com",
-    r: 1495,
+    r: 1678,
     s: "Discogs",
     sc: "Music",
     t: "discogs",
@@ -25834,7 +25825,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.disconnect.me",
-    r: 6,
+    r: 3,
     s: "Disconnect Search",
     sc: "Search (Private)",
     t: "disconnect",
@@ -25852,7 +25843,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "discordapp.com",
-    r: 594,
+    r: 551,
     s: "Discord Invite",
     sc: "Social",
     t: "discord",
@@ -25906,7 +25897,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.discogs.com",
-    r: 470,
+    r: 311,
     s: "http://discogs.com/",
     sc: "Audio",
     t: "dis",
@@ -25915,7 +25906,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "search.disney.go.com",
-    r: 6,
+    r: 8,
     s: "Disney.com",
     sc: "TV",
     t: "disney",
@@ -25960,7 +25951,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "distrowatch.com",
-    r: 20,
+    r: 34,
     s: "DistroWatch",
     sc: "Downloads (software)",
     t: "distro",
@@ -25969,7 +25960,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "distrowatch.com",
-    r: 42,
+    r: 66,
     s: "DistroWatch",
     sc: "Downloads (software)",
     t: "distrowatch",
@@ -25978,7 +25969,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dizionario.internazionale.it",
-    r: 20,
+    r: 12,
     s: "Dizionario Internazionale De Mauro",
     sc: "Reference (words intl)",
     t: "dit",
@@ -26041,7 +26032,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.diynetwork.com",
-    r: 4,
+    r: 3,
     s: "DIY Network",
     sc: "TV",
     t: "diy",
@@ -26059,7 +26050,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dizionario.internazionale.it",
-    r: 3,
+    r: 0,
     s: "Internazionale.it",
     sc: "Reference (words)",
     t: "dizint",
@@ -26068,7 +26059,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.djangoproject.com",
-    r: 102,
+    r: 96,
     s: "Django Docs",
     sc: "Programming",
     t: "django",
@@ -26095,7 +26086,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.djangoproject.com",
-    r: 27,
+    r: 40,
     s: "Django documentation",
     sc: "Languages (python)",
     t: "dj",
@@ -26185,7 +26176,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.digikey.ca",
-    r: 19,
+    r: 42,
     s: "Digikey.ca",
     sc: "Tech",
     t: "dkc",
@@ -26194,7 +26185,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "store.docker.com",
-    r: 14,
+    r: 15,
     s: "docker hub",
     sc: "Sysadmin",
     t: "dk",
@@ -26239,7 +26230,7 @@ export const bangs = [
   {
     c: "Research",
     d: "diksiyonaryo.ph",
-    r: 9,
+    r: 0,
     s: "Diksiyonaryo",
     sc: "Reference (words intl)",
     t: "dkp",
@@ -26266,7 +26257,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.digikey.com",
-    r: 6,
+    r: 18,
     s: "Digi-Key",
     sc: "Tech",
     t: "dky",
@@ -26275,7 +26266,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 15,
+    r: 0,
     s: "D Programming Language",
     sc: "Languages (d)",
     t: "dlang",
@@ -26302,7 +26293,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.dlcompare.com",
-    r: 0,
+    r: 3,
     s: "DLCompare",
     sc: "Online (deals)",
     t: "dlc",
@@ -26311,7 +26302,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "blog.desdelinux.net",
-    r: 16,
+    r: 11,
     s: "DesdeLinux",
     sc: "Blogs",
     t: "dl",
@@ -26329,7 +26320,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dle.rae.es",
-    r: 220,
+    r: 216,
     s: "Diccionario de la lengua espa\u00f1ola, 23.\u00aa Edici\u00f3n, RAE",
     sc: "Reference (words)",
     t: "dle",
@@ -26347,7 +26338,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 23,
+    r: 7,
     s: "DeepL",
     sc: "General",
     t: "dles",
@@ -26401,7 +26392,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dict.leo.org",
-    r: 9,
+    r: 13,
     s: "dict.leo.org",
     sc: "Reference (words intl)",
     t: "dlo",
@@ -26419,7 +26410,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.priberam.pt",
-    r: 70,
+    r: 101,
     s: "Priberam",
     sc: "Reference (words intl)",
     t: "dlpo",
@@ -26446,7 +26437,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "dyn.manpages.debian.org",
-    r: 69,
+    r: 47,
     s: "Debian Manual Pages",
     sc: "Sysadmin (debian)",
     t: "dman",
@@ -26455,7 +26446,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "map.daum.net",
-    r: 0,
+    r: 6,
     s: "Daum Map",
     sc: "Maps",
     t: "dmap",
@@ -26473,7 +26464,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.dailymotion.com",
-    r: 72,
+    r: 43,
     s: "Daily Motion",
     sc: "Video",
     t: "dm",
@@ -26545,7 +26536,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.merriam-webster.com",
-    r: 58,
+    r: 17,
     s: "Merriam-Webster Dictionary",
     sc: "Reference (words)",
     t: "dmw",
@@ -26563,7 +26554,7 @@ export const bangs = [
   {
     c: "Research",
     d: "portal.dnb.de",
-    r: 26,
+    r: 4,
     s: "Deutsche National Bibliothek",
     sc: "Academic",
     t: "dnb",
@@ -26572,7 +26563,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.dn.se",
-    r: 4,
+    r: 0,
     s: "Dagens Nyheter",
     sc: "Newspaper",
     t: "dn",
@@ -26581,7 +26572,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.dndbeyond.com",
-    r: 0,
+    r: 6,
     s: "Dnd Beyond",
     sc: "Games (offline)",
     t: "dndbeyond",
@@ -26590,7 +26581,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.dndbeyond.com",
-    r: 104,
+    r: 66,
     s: "D&D Beyond",
     sc: "Games (offline)",
     t: "dnd",
@@ -26635,7 +26626,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "dnf.readthedocs.io",
-    r: 3,
+    r: 0,
     s: "DNF Documentation",
     sc: "Sysadmin (Fedora)",
     t: "dnf",
@@ -26653,7 +26644,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mxtoolbox.com",
-    r: 29,
+    r: 16,
     s: "MXToolbox",
     sc: "Tools",
     t: "dns",
@@ -26662,7 +26653,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.dns-shop.ru",
-    r: 0,
+    r: 21,
     s: "DNS",
     sc: "Online (marketplace)",
     t: "dnsshop",
@@ -26680,7 +26671,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.avl.gva.es",
-    r: 13,
+    r: 12,
     s: "Diccionari Normatiu Valenci\u00e0",
     sc: "Tools (URLs)",
     t: "dnv",
@@ -26689,7 +26680,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.danawa.com",
-    r: 16,
+    r: 18,
     s: "Danawa",
     sc: "Online",
     t: "dnw",
@@ -26770,7 +26761,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.doctorofcredit.com",
-    r: 21,
+    r: 33,
     s: "DoctorOfCredit",
     sc: "Travel",
     t: "doc",
@@ -26779,7 +26770,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "store.docker.com",
-    r: 949,
+    r: 686,
     s: "Docker Store",
     sc: "Sysadmin",
     t: "docker",
@@ -26788,7 +26779,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hub.docker.com",
-    r: 334,
+    r: 239,
     s: "Docker Hub",
     sc: "Sysadmin",
     t: "dockerhub",
@@ -26815,7 +26806,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.rs",
-    r: 843,
+    r: 901,
     s: "Docs.rs",
     sc: "Languages (other)",
     t: "docsrs",
@@ -26824,7 +26815,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.rs",
-    r: 85,
+    r: 53,
     s: "docs.rs",
     sc: "Programming",
     t: "docs.rs",
@@ -26833,7 +26824,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.scribd.com",
-    r: 56,
+    r: 35,
     s: "Scribd.com",
     sc: "Books",
     t: "docs",
@@ -26896,7 +26887,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.digitalocean.com",
-    r: 12,
+    r: 6,
     s: "DigitalOcean",
     sc: "Sysadmin",
     t: "do",
@@ -26923,7 +26914,7 @@ export const bangs = [
   {
     c: "Research",
     d: "canigivemydog.com",
-    r: 11,
+    r: 5,
     s: "CanIGiveMyDog",
     sc: "Health",
     t: "dog",
@@ -26968,7 +26959,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "results.dogpile.com",
-    r: 0,
+    r: 3,
     s: "Dogpile",
     sc: "Search",
     t: "dogpile",
@@ -26995,7 +26986,7 @@ export const bangs = [
   {
     c: "Research",
     d: "doi.org",
-    r: 216,
+    r: 245,
     s: "Digital Object Identifier",
     sc: "Reference",
     t: "doi",
@@ -27013,7 +27004,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.dolphin-emu.org",
-    r: 8,
+    r: 0,
     s: "Dolphin Emulator Wiki",
     sc: "Games (general)",
     t: "dolphin",
@@ -27031,7 +27022,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.namecheap.com",
-    r: 10,
+    r: 4,
     s: "NameCheap",
     sc: "Domains",
     t: "domain",
@@ -27076,7 +27067,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 11,
+    r: 6,
     s: "Mozilla Developer Network",
     sc: "Languages (javascript)",
     t: "dom",
@@ -27121,7 +27112,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "doomwiki.org",
-    r: 98,
+    r: 63,
     s: "Doom Wiki",
     sc: "Games (general)",
     t: "doom",
@@ -27184,7 +27175,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamliquid.net",
-    r: 16,
+    r: 12,
     s: "Teamliquid Wiki",
     sc: "Games (specific)",
     t: "dota2",
@@ -27193,7 +27184,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.dotabuff.com",
-    r: 14,
+    r: 3,
     s: "Dotabuff",
     sc: "Games (specific)",
     t: "dotabuff",
@@ -27202,7 +27193,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dota2.gamepedia.com",
-    r: 6,
+    r: 5,
     s: "Dota 2 Wiki",
     sc: "Games (specific)",
     t: "dota",
@@ -27220,7 +27211,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "evemaps.dotlan.net",
-    r: 12,
+    r: 13,
     s: "Dotlan EVE Maps",
     sc: "Games (specific)",
     t: "dotlan",
@@ -27265,7 +27256,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.douban.com",
-    r: 17,
+    r: 14,
     s: "Douban",
     sc: "Forum",
     t: "douban",
@@ -27346,7 +27337,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "downdetector.co.uk",
-    r: 8,
+    r: 10,
     s: "Downdetector",
     sc: "Tools (URLs)",
     t: "downd",
@@ -27355,7 +27346,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "downforeveryoneorjustme.com",
-    r: 49,
+    r: 40,
     s: "Down For Everyone Or Just Me",
     sc: "Tools (URLs)",
     t: "down",
@@ -27391,7 +27382,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "download.cnet.com",
-    r: 6,
+    r: 5,
     s: "Download.com",
     sc: "Downloads (software)",
     t: "download",
@@ -27418,7 +27409,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.debian.org",
-    r: 14,
+    r: 9,
     s: "Debian Packages",
     sc: "Sysadmin (debian)",
     t: "dpackages",
@@ -27454,7 +27445,7 @@ export const bangs = [
   {
     c: "Research",
     d: "lema.rae.es",
-    r: 17,
+    r: 7,
     s: "Diccionario panhisp\u00e1nico de dudas",
     sc: "Reference (words intl)",
     t: "dpd",
@@ -27472,7 +27463,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.duckduckgo.com",
-    r: 17,
+    r: 10,
     s: "D Reference",
     sc: "Search (DDG)",
     t: "dp",
@@ -27508,7 +27499,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.debian.org",
-    r: 397,
+    r: 367,
     s: "Debian Packages",
     sc: "Sysadmin (debian)",
     t: "dpkg",
@@ -27535,7 +27526,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.deepl.com",
-    r: 1551,
+    r: 1004,
     s: "DeepL",
     sc: "General",
     t: "dpl",
@@ -27544,7 +27535,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "dpldocs.info",
-    r: 0,
+    r: 3,
     s: "The D Programming Language's Unofficial Docs",
     sc: "Languages (d)",
     t: "dpldocs",
@@ -27598,7 +27589,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.dpreview.com",
-    r: 6,
+    r: 5,
     s: "DPReview",
     sc: "Specialty",
     t: "dpreview",
@@ -27616,7 +27607,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.dicio.com.br",
-    r: 5,
+    r: 4,
     s: "Dicio",
     sc: "Tools",
     t: "dpt",
@@ -27625,7 +27616,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "tracker.debian.org",
-    r: 42,
+    r: 23,
     s: "Debian Packages",
     sc: "Sysadmin (debian)",
     t: "dpts",
@@ -27652,7 +27643,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.dogpile.com",
-    r: 5,
+    r: 0,
     s: "Dogpile Web",
     sc: "Search",
     t: "dpw",
@@ -27661,7 +27652,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dragon-quest.org",
-    r: 0,
+    r: 8,
     s: "Dragon Quest Wiki",
     sc: "Games (specific)",
     t: "dq",
@@ -27679,7 +27670,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dle.rae.es",
-    r: 147,
+    r: 134,
     s: "Diccionario de la Lengua Espa\u00f1ola",
     sc: "Search",
     t: "drae",
@@ -27715,7 +27706,7 @@ export const bangs = [
   {
     c: "Research",
     d: "academia.gal",
-    r: 4,
+    r: 0,
     s: "Dicionario da Real Academia Galega",
     sc: "Reference (words)",
     t: "drag",
@@ -27796,7 +27787,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "dribbble.com",
-    r: 10,
+    r: 17,
     s: "Dribbble",
     sc: "Images",
     t: "dr",
@@ -27841,7 +27832,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.reference.com",
-    r: 10,
+    r: 0,
     s: "Dictionary at Reference.com",
     sc: "Reference",
     t: "dref",
@@ -27877,7 +27868,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.django-rest-framework.org",
-    r: 0,
+    r: 7,
     s: "Django REST Framework",
     sc: "Languages (python)",
     t: "drf",
@@ -27886,7 +27877,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "dribbble.com",
-    r: 16,
+    r: 17,
     s: "dribbble",
     sc: "Design",
     t: "dribbble",
@@ -27922,7 +27913,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "drive.google.com",
-    r: 2112,
+    r: 1712,
     s: "Google Drive",
     sc: "Google",
     t: "drive",
@@ -27967,7 +27958,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.dropbox.com",
-    r: 14,
+    r: 9,
     s: "Dropbox",
     sc: "Search",
     t: "dropbox",
@@ -27976,7 +27967,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.maildrop.cc",
-    r: 7,
+    r: 12,
     s: "MailDrop",
     sc: "Tools",
     t: "drop",
@@ -27994,7 +27985,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.rs",
-    r: 1042,
+    r: 936,
     s: "Docs.rs - Documentation for Rust packages",
     sc: "Programming",
     t: "drs",
@@ -28021,7 +28012,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.drugbank.ca",
-    r: 0,
+    r: 3,
     s: "drugbank.ca",
     sc: "Health",
     t: "drugbank",
@@ -28039,7 +28030,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.drugs.com",
-    r: 5,
+    r: 4,
     s: "Drugs",
     sc: "Health",
     t: "drugs",
@@ -28066,7 +28057,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "drupal.org",
-    r: 12,
+    r: 0,
     s: "Drupal",
     sc: "Languages (other)",
     t: "drupal",
@@ -28084,7 +28075,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "drupal.org",
-    r: 23,
+    r: 3,
     s: "drupal",
     sc: "Libraries/Frameworks",
     t: "drupp",
@@ -28102,7 +28093,7 @@ export const bangs = [
   {
     c: "Research",
     d: "darksouls.wiki.fextralife.com",
-    r: 14,
+    r: 5,
     s: "Dark Souls Wiki",
     sc: "Reference (fun)",
     t: "ds1",
@@ -28138,7 +28129,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki-aventurica.de",
-    r: 14,
+    r: 11,
     s: "Wiki Aventurica",
     sc: "Games (offline)",
     t: "dsa",
@@ -28183,7 +28174,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.standaard.be",
-    r: 19,
+    r: 8,
     s: "De Standaard",
     sc: "Newspaper (intl)",
     t: "ds",
@@ -28228,7 +28219,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "codesearch.debian.net",
-    r: 5,
+    r: 0,
     s: "Debian Code Search",
     sc: "Sysadmin (debian)",
     t: "dsource",
@@ -28255,7 +28246,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.disroot.org",
-    r: 32,
+    r: 5,
     s: "Disroot Search",
     sc: "Search",
     t: "dsrt",
@@ -28273,7 +28264,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dont-starve-game.wikia.com",
-    r: 5,
+    r: 0,
     s: "Don't Starve Wiki",
     sc: "Games (general)",
     t: "dstarve",
@@ -28381,7 +28372,7 @@ export const bangs = [
   {
     c: "Research",
     d: "deskthority.net",
-    r: 3,
+    r: 0,
     s: "Deskthority Wiki",
     sc: "Reference",
     t: "dt",
@@ -28417,7 +28408,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thefreedictionary.com",
-    r: 3014,
+    r: 2648,
     s: "The Free Dictionary",
     sc: "Academic",
     t: "d",
@@ -28444,7 +28435,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "tracker.debian.org",
-    r: 50,
+    r: 36,
     s: "Debian Package Tracker",
     sc: "Sysadmin (debian)",
     t: "dtr",
@@ -28453,7 +28444,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.drivethrurpg.com",
-    r: 117,
+    r: 32,
     s: "DriveThruRPG",
     sc: "Games (offline)",
     t: "dtrpg",
@@ -28489,7 +28480,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "code.dlang.org",
-    r: 12,
+    r: 7,
     s: "Dub Package Registry",
     sc: "Languages (d)",
     t: "dub",
@@ -28507,7 +28498,7 @@ export const bangs = [
   {
     c: "Research",
     d: "find.library.duke.edu",
-    r: 3,
+    r: 0,
     s: "Duke University Catalog",
     sc: "Academic",
     t: "duc",
@@ -28516,7 +28507,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.duckduckgo.com",
-    r: 26,
+    r: 282,
     s: "Duck.ai",
     sc: "Reference",
     t: "duckai",
@@ -28543,7 +28534,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "duckduckgo.com",
-    r: 57,
+    r: 70,
     s: "DuckDuckGo",
     sc: "Images",
     t: "duckduckgo",
@@ -28561,7 +28552,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 0,
+    r: 3,
     s: "Duck Duck Go Espa\u00f1ol",
     sc: "Search (DDG)",
     t: "duckgoes",
@@ -28579,7 +28570,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.duden.de",
-    r: 709,
+    r: 651,
     s: "Duden",
     sc: "Books",
     t: "duden",
@@ -28615,7 +28606,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 0,
+    r: 4,
     s: "DuckDuckGo UK",
     sc: "Search (DDG)",
     t: "duk",
@@ -28669,7 +28660,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.dumpert.nl",
-    r: 6,
+    r: 0,
     s: "Dumpert",
     sc: "Video",
     t: "dumpert",
@@ -28705,7 +28696,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.dustloop.com",
-    r: 23,
+    r: 20,
     s: "Dustloop Wiki",
     sc: "Games (specific)",
     t: "dustloop",
@@ -28741,7 +28732,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.dvdfr.com",
-    r: 6,
+    r: 0,
     s: "DVDFr",
     sc: "Movies",
     t: "dvdfr",
@@ -28750,7 +28741,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ikonet.com",
-    r: 0,
+    r: 4,
     s: "Dictionnaire visuel",
     sc: "Reference (words intl)",
     t: "dv",
@@ -28795,7 +28786,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dwarffortresswiki.org",
-    r: 14,
+    r: 42,
     s: "dwarf fortress wiki",
     sc: "Games (specific)",
     t: "dwarf",
@@ -28804,7 +28795,7 @@ export const bangs = [
   {
     c: "Research",
     d: "woerterbuchnetz.de",
-    r: 4,
+    r: 10,
     s: "Deutsches W\u00f6rterbuch von Jacob Grimm und Wilhelm Grimm",
     sc: "Reference (words)",
     t: "dwb",
@@ -28831,7 +28822,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.d-addicts.com",
-    r: 10,
+    r: 8,
     s: "DramaWiki",
     sc: "TV",
     t: "dw",
@@ -28840,7 +28831,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dwds.de",
-    r: 213,
+    r: 228,
     s: "DWDS",
     sc: "Reference (words intl)",
     t: "dwds",
@@ -28849,7 +28840,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.dw.com",
-    r: 3,
+    r: 0,
     s: "DW - Actualidad en espa\u00f1ol",
     sc: "Newspaper (intl)",
     t: "dwe",
@@ -28885,7 +28876,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tardis.wikia.com",
-    r: 0,
+    r: 20,
     s: "The Doctor Who Wiki",
     sc: "TV",
     t: "dww",
@@ -28903,7 +28894,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dictionary.com",
-    r: 33,
+    r: 21,
     s: "Dictionary.com",
     sc: "Reference (words)",
     t: "dxn",
@@ -28966,7 +28957,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dynasty-scans.com",
-    r: 40,
+    r: 28,
     s: "Dynasty Reader",
     sc: "Comics",
     t: "dyn",
@@ -28975,7 +28966,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.deezer.com",
-    r: 47,
+    r: 39,
     s: "Deezer",
     sc: "Music",
     t: "dz",
@@ -29002,7 +28993,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "everything2.com",
-    r: 4,
+    r: 23,
     s: "Everything 2",
     sc: "Forum",
     t: "e2",
@@ -29011,7 +29002,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "e2u.org.ua",
-    r: 6,
+    r: 0,
     s: " \u0410\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e-\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0441\u043b\u043e\u0432\u043d\u0438\u043a\u0438",
     sc: "General",
     t: "e2u",
@@ -29047,7 +29038,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ean-search.org",
-    r: 3,
+    r: 0,
     s: "EAN Search",
     sc: "Reference",
     t: "ean",
@@ -29092,7 +29083,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "earth.google.com",
-    r: 167,
+    r: 138,
     s: "Google Earth",
     sc: "Google",
     t: "earth",
@@ -29146,7 +29137,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.at",
-    r: 3,
+    r: 4,
     s: "ebay.at",
     sc: "Online (marketplace)",
     t: "eat",
@@ -29191,7 +29182,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.com.au",
-    r: 6,
+    r: 0,
     s: "Ebay Australia",
     sc: "Online",
     t: "e.au",
@@ -29200,7 +29191,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.com.au",
-    r: 79,
+    r: 78,
     s: "ebay.com.au",
     sc: "Online (marketplace)",
     t: "eau",
@@ -29236,7 +29227,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.com.au",
-    r: 208,
+    r: 52,
     s: "ebay.com.au",
     sc: "Online (marketplace)",
     t: "ebau",
@@ -29254,7 +29245,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.com.au",
-    r: 154,
+    r: 112,
     s: "ebay.com.au",
     sc: "Online (marketplace)",
     t: "ebayau",
@@ -29263,7 +29254,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.befr.ebay.be",
-    r: 6,
+    r: 0,
     s: "ebay.be",
     sc: "Online (marketplace)",
     t: "ebaybe",
@@ -29272,7 +29263,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.ca",
-    r: 102,
+    r: 72,
     s: "ebay.ca",
     sc: "Online (marketplace)",
     t: "ebayca",
@@ -29290,7 +29281,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.de",
-    r: 298,
+    r: 430,
     s: "ebay.de",
     sc: "Online (marketplace)",
     t: "ebayde",
@@ -29299,7 +29290,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.com",
-    r: 5669,
+    r: 5390,
     s: "eBay",
     sc: "Online (marketplace)",
     t: "ebay",
@@ -29308,7 +29299,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.es",
-    r: 15,
+    r: 32,
     s: "ebay (ES)",
     sc: "Online (marketplace)",
     t: "ebayes",
@@ -29317,7 +29308,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.fr",
-    r: 60,
+    r: 62,
     s: "ebay.fr",
     sc: "Online (marketplace)",
     t: "ebayfr",
@@ -29362,7 +29353,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.it",
-    r: 51,
+    r: 35,
     s: "ebay.it",
     sc: "Online (marketplace)",
     t: "ebayit",
@@ -29425,7 +29416,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.co.uk",
-    r: 528,
+    r: 474,
     s: "ebay.co.uk",
     sc: "Online (marketplace)",
     t: "ebayuk",
@@ -29434,7 +29425,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.befr.ebay.be",
-    r: 0,
+    r: 5,
     s: "ebay.be",
     sc: "Online (marketplace)",
     t: "ebbe",
@@ -29443,7 +29434,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.ca",
-    r: 41,
+    r: 12,
     s: "ebay.ca",
     sc: "Online (marketplace)",
     t: "ebca",
@@ -29452,7 +29443,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.ca",
-    r: 24,
+    r: 31,
     s: "ebay (Canada)",
     sc: "Online (intl)",
     t: "ebc",
@@ -29479,7 +29470,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.de",
-    r: 30,
+    r: 52,
     s: "ebay.de",
     sc: "Online (marketplace)",
     t: "ebde",
@@ -29488,7 +29479,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.com",
-    r: 1062,
+    r: 973,
     s: "eBay",
     sc: "Online (marketplace)",
     t: "eb",
@@ -29506,7 +29497,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.rogerebert.com",
-    r: 11,
+    r: 7,
     s: "RogerEbert.com",
     sc: "Movies",
     t: "ebert",
@@ -29515,7 +29506,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.es",
-    r: 5,
+    r: 15,
     s: "ebay (ES)",
     sc: "Online (marketplace)",
     t: "ebes",
@@ -29524,7 +29515,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.fr",
-    r: 17,
+    r: 14,
     s: "ebay.fr",
     sc: "Online (marketplace)",
     t: "ebfr",
@@ -29605,7 +29596,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.it",
-    r: 25,
+    r: 38,
     s: "ebay.it",
     sc: "Online (marketplace)",
     t: "ebit",
@@ -29695,7 +29686,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.com",
-    r: 0,
+    r: 5,
     s: "eBay",
     sc: "Online (marketplace)",
     t: "ebseller",
@@ -29713,7 +29704,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "ebay.com",
-    r: 3,
+    r: 55,
     s: "eBay Sold",
     sc: "Online",
     t: "ebsold",
@@ -29740,7 +29731,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "gpo.zugaina.org",
-    r: 0,
+    r: 8,
     s: "Gentoo Packages",
     sc: "Online (marketplace)",
     t: "ebuilds",
@@ -29758,7 +29749,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.co.uk",
-    r: 191,
+    r: 298,
     s: "ebay.co.uk",
     sc: "Online (marketplace)",
     t: "ebuk",
@@ -29785,7 +29776,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.ca",
-    r: 66,
+    r: 37,
     s: "ebay.ca",
     sc: "Online (marketplace)",
     t: "eca",
@@ -29794,7 +29785,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.encyclo.nl",
-    r: 0,
+    r: 3,
     s: "Encyclopedie",
     sc: "Search",
     t: "eccpd",
@@ -29812,7 +29803,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ecosia.org",
-    r: 297,
+    r: 262,
     s: "Ecosia",
     sc: "Search",
     t: "ec",
@@ -29839,7 +29830,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.elcorteingles.es",
-    r: 0,
+    r: 17,
     s: "El Corte Ingles",
     sc: "Online",
     t: "eci",
@@ -29902,7 +29893,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ecosia.org",
-    r: 47,
+    r: 134,
     s: "Ecosia",
     sc: "Reference (words)",
     t: "eco",
@@ -29974,7 +29965,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.economist.com",
-    r: 15,
+    r: 12,
     s: "The Economist",
     sc: "Business",
     t: "economist",
@@ -29992,7 +29983,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ecosia.org",
-    r: 51,
+    r: 73,
     s: "Ecosia",
     sc: "Search",
     t: "ecosia",
@@ -30046,7 +30037,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.exploit-db.com",
-    r: 0,
+    r: 3,
     s: "Exploits Database by Offensive Security (exploit-db.com)",
     sc: "Academic",
     t: "edb",
@@ -30082,7 +30073,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.de",
-    r: 877,
+    r: 842,
     s: "ebay.de",
     sc: "Online (marketplace)",
     t: "ede",
@@ -30100,7 +30091,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "encyclopediadramatica.rs",
-    r: 5,
+    r: 0,
     s: "Encyclopedia Dramatica",
     sc: "Misc",
     t: "ed",
@@ -30154,7 +30145,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "edhrec.com",
-    r: 57,
+    r: 20,
     s: "EDHREC",
     sc: "Games (specific)",
     t: "edhrec",
@@ -30289,7 +30280,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.com",
-    r: 7293,
+    r: 8110,
     s: "eBay",
     sc: "Online (marketplace)",
     t: "e",
@@ -30325,7 +30316,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.es",
-    r: 8,
+    r: 11,
     s: "ebay (ES)",
     sc: "Online (marketplace)",
     t: "ees",
@@ -30334,7 +30325,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.eff.org",
-    r: 0,
+    r: 3,
     s: "Electronic Frontier Foundation",
     sc: "Law",
     t: "eff",
@@ -30343,7 +30334,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.fr",
-    r: 36,
+    r: 24,
     s: "ebay.fr",
     sc: "Online (marketplace)",
     t: "efr",
@@ -30352,7 +30343,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "escapefromtarkov.gamepedia.com",
-    r: 30,
+    r: 26,
     s: "Escape From Tarkov Gamepedia",
     sc: "Games (general)",
     t: "eft",
@@ -30379,7 +30370,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "duckduckgo.com",
-    r: 13,
+    r: 4,
     s: "Epguides",
     sc: "TV",
     t: "eg",
@@ -30415,7 +30406,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "e.ggtimer.com",
-    r: 12,
+    r: 29,
     s: "Egg Timer",
     sc: "Tools",
     t: "eggtimer",
@@ -30424,7 +30415,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "extensions.gnome.org",
-    r: 0,
+    r: 7,
     s: "Gnome Extensions",
     sc: "Downloads (add-ons)",
     t: "ego",
@@ -30442,7 +30433,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.epicgames.com",
-    r: 46,
+    r: 56,
     s: "Epic Games Store",
     sc: "Games (specific)",
     t: "egs",
@@ -30514,7 +30505,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ecosia.org",
-    r: 19,
+    r: 20,
     s: "Ecosia Images",
     sc: "Search",
     t: "ei",
@@ -30523,7 +30514,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.ie",
-    r: 0,
+    r: 4,
     s: "ebay.ie",
     sc: "Online (marketplace)",
     t: "eie",
@@ -30532,7 +30523,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eow.alc.co.jp",
-    r: 18,
+    r: 10,
     s: "\u82f1\u8f9e\u90ce on the WEB",
     sc: "Learning",
     t: "eijirou",
@@ -30568,7 +30559,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.it",
-    r: 92,
+    r: 105,
     s: "ebay.it",
     sc: "Online (marketplace)",
     t: "eit",
@@ -30577,7 +30568,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 3,
+    r: 0,
     s: "Economics Job Market Rumors",
     sc: "Social news/links",
     t: "ejmr",
@@ -30631,7 +30622,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay-kleinanzeigen.de",
-    r: 161,
+    r: 235,
     s: "Ebay Kleinanzeigen",
     sc: "Online",
     t: "eka",
@@ -30640,7 +30631,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "kleinanzeigen.ebay.de",
-    r: 3,
+    r: 0,
     s: "eBay Kleinanzeigen Berlin",
     sc: "Online",
     t: "ekb",
@@ -30649,7 +30640,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.elektronik-kompendium.de",
-    r: 195,
+    r: 46,
     s: "Elektronik-Kompendium",
     sc: "Blogs",
     t: "ek",
@@ -30676,7 +30667,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay-kleinanzeigen.de",
-    r: 0,
+    r: 3,
     s: "ebay Kleinanzeigen K\u00f6ln",
     sc: "Online (marketplace)",
     t: "ekk",
@@ -30685,7 +30676,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay-kleinanzeigen.de",
-    r: 7,
+    r: 6,
     s: "eBay Kleinanzeigen Leipzig",
     sc: "Online (marketplace)",
     t: "ekl",
@@ -30712,7 +30703,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "eksisozluk.com",
-    r: 1165,
+    r: 1158,
     s: "eksi sozluk",
     sc: "Forum",
     t: "eksi",
@@ -30721,7 +30712,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.eksisozluk.com",
-    r: 5,
+    r: 0,
     s: "Ek\u015fi S\u00f6zl\u00fck",
     sc: "Search (non-US)",
     t: "eksisozluk",
@@ -30784,7 +30775,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.bibleserver.com",
-    r: 0,
+    r: 3,
     s: "Bibleserver",
     sc: "Topical",
     t: "elb",
@@ -30937,7 +30928,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hiztegiak.elhuyar.eus",
-    r: 0,
+    r: 4,
     s: "Elhuyar Hiztegia ES-->EU",
     sc: "Reference (words)",
     t: "elheseu",
@@ -30955,7 +30946,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hiztegiak.elhuyar.eus",
-    r: 0,
+    r: 4,
     s: "Elhuyar Hiztegia EU-->ES",
     sc: "Reference (words)",
     t: "elheues",
@@ -31009,7 +31000,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.eliteprospects.com",
-    r: 0,
+    r: 10,
     s: "EliteProspects",
     sc: "Sports",
     t: "elite",
@@ -31027,7 +31018,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.eliteprospects.com",
-    r: 0,
+    r: 3,
     s: "Elite Prospects",
     sc: "Sports",
     t: "eliteprospects",
@@ -31054,7 +31045,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hexdocs.pm",
-    r: 36,
+    r: 60,
     s: "Elixir Documentation",
     sc: "Languages (other)",
     t: "elixir",
@@ -31153,7 +31144,7 @@ export const bangs = [
   {
     c: "News",
     d: "elpais.com",
-    r: 0,
+    r: 20,
     s: "El Pais",
     sc: "Newspaper (intl)",
     t: "elpais",
@@ -31207,7 +31198,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 5,
+    r: 9,
     s: "EmacsWiki",
     sc: "Google",
     t: "emacs",
@@ -31216,7 +31207,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 3,
+    r: 0,
     s: "EmacsWiki.org",
     sc: "Programming",
     t: "emacswiki",
@@ -31297,7 +31288,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.gentoo.org",
-    r: 94,
+    r: 157,
     s: "Gentoo Packages",
     sc: "Sysadmin (Gentoo)",
     t: "emerge",
@@ -31333,7 +31324,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "emojipedia.org",
-    r: 229,
+    r: 215,
     s: "emojipedia",
     sc: "Search",
     t: "emoji",
@@ -31342,7 +31333,7 @@ export const bangs = [
   {
     c: "Research",
     d: "emojipedia.org",
-    r: 15,
+    r: 6,
     s: "Emojipedia",
     sc: "Reference",
     t: "emojipedia",
@@ -31423,7 +31414,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "emulation.gametechwiki.com",
-    r: 0,
+    r: 7,
     s: "Emulation General Wiki",
     sc: "Games (offline)",
     t: "emu",
@@ -31450,7 +31441,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 0,
+    r: 3,
     s: "Google Translate",
     sc: "Google",
     t: "en2ar",
@@ -31459,7 +31450,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 5,
+    r: 0,
     s: "Translate English to Danish",
     sc: "Google",
     t: "en2da",
@@ -31522,7 +31513,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 7,
+    r: 9,
     s: "translate.google.com",
     sc: "Google",
     t: "en2ru",
@@ -31558,7 +31549,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 17,
+    r: 0,
     s: "Google Translate Englsih to Arabic",
     sc: "Google",
     t: "enar",
@@ -31567,7 +31558,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.english-bangla.com",
-    r: 0,
+    r: 20,
     s: "English to Bangali Dictionary",
     sc: "General",
     t: "enbn",
@@ -31585,7 +31576,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.encyclo.nl",
-    r: 5,
+    r: 0,
     s: "encyclo",
     sc: "Reference",
     t: "enc",
@@ -31612,7 +31603,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.searchencrypt.com",
-    r: 4,
+    r: 7,
     s: "Search Encrypt",
     sc: "Search (Private)",
     t: "encrypt",
@@ -31630,7 +31621,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.encyclo.nl",
-    r: 3,
+    r: 5,
     s: "Encyclo",
     sc: "Tools",
     t: "encyclo",
@@ -31675,7 +31666,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 44,
+    r: 20,
     s: "Google Translate",
     sc: "Google",
     t: "ende",
@@ -31684,7 +31675,7 @@ export const bangs = [
   {
     c: "Research",
     d: "endic.naver.com",
-    r: 48,
+    r: 41,
     s: "endic.naver.com",
     sc: "Reference (words intl)",
     t: "endic",
@@ -31720,7 +31711,7 @@ export const bangs = [
   {
     c: "Research",
     d: "english.stackexchange.com",
-    r: 20,
+    r: 12,
     s: "English StackExchange",
     sc: "Learning",
     t: "en",
@@ -31738,7 +31729,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 208,
+    r: 116,
     s: "Google translate en-es",
     sc: "Google",
     t: "enes",
@@ -31756,7 +31747,7 @@ export const bangs = [
   {
     c: "Research",
     d: "translate.google.com",
-    r: 4,
+    r: 0,
     s: "Google Translate to Finnish",
     sc: "Reference (words)",
     t: "enfi",
@@ -31774,7 +31765,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 86,
+    r: 56,
     s: "Google translate en-fr",
     sc: "Google",
     t: "enfr",
@@ -31846,7 +31837,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cse.google.com",
-    r: 0,
+    r: 5,
     s: "Engineering Toolbox",
     sc: "Reference (science)",
     t: "engtb",
@@ -31873,7 +31864,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 13,
+    r: 0,
     s: "Google Translate en-hu",
     sc: "Google",
     t: "enhu",
@@ -31909,7 +31900,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "gulasidorna.eniro.se",
-    r: 8,
+    r: 0,
     s: "Eniro",
     sc: "Search",
     t: "eniro",
@@ -31918,7 +31909,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 28,
+    r: 31,
     s: "Google translate en-it",
     sc: "Google",
     t: "enit",
@@ -32008,7 +31999,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 12,
+    r: 13,
     s: "Google Translate (English to Polish)",
     sc: "Tools",
     t: "enpl",
@@ -32017,7 +32008,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 122,
+    r: 75,
     s: "google translate en-pt",
     sc: "Google",
     t: "enpt",
@@ -32026,7 +32017,7 @@ export const bangs = [
   {
     c: "Research",
     d: "translate.google.com",
-    r: 88,
+    r: 83,
     s: "Google Translate",
     sc: "Reference (words)",
     t: "enru",
@@ -32044,7 +32035,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ensembl.org",
-    r: 3,
+    r: 0,
     s: "Ensembl",
     sc: "Academic",
     t: "ensembl",
@@ -32089,7 +32080,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 14,
+    r: 8,
     s: "Google Translator (English -> Swedish)",
     sc: "Google",
     t: "ensv",
@@ -32143,7 +32134,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 9,
+    r: 0,
     s: "Google Translate",
     sc: "Tools",
     t: "entr",
@@ -32206,7 +32197,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eol.org",
-    r: 0,
+    r: 3,
     s: "Encyclopedia of Life",
     sc: "Learning",
     t: "eol",
@@ -32224,7 +32215,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.etymonline.com",
-    r: 148,
+    r: 156,
     s: "Online Etymology Dictionary",
     sc: "Reference (words intl)",
     t: "eo",
@@ -32251,7 +32242,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "eu.finalfantasyxiv.com",
-    r: 3,
+    r: 0,
     s: "Eorzea Database",
     sc: "Games (specific)",
     t: "eor",
@@ -32278,7 +32269,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eowp.alc.co.jp",
-    r: 35,
+    r: 9,
     s: "\u82f1\u8f9e\u90ce on the WEB Pro",
     sc: "Reference (words intl)",
     t: "eow",
@@ -32287,7 +32278,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nlquery.epa.gov",
-    r: 0,
+    r: 3,
     s: "US Environmental Protection Agency",
     sc: "Government",
     t: "epa",
@@ -32305,7 +32296,7 @@ export const bangs = [
   {
     c: "Research",
     d: "everipedia.org",
-    r: 4,
+    r: 0,
     s: "Everipedia",
     sc: "Learning",
     t: "ep",
@@ -32332,7 +32323,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.epfl.ch",
-    r: 0,
+    r: 4,
     s: "EPFL Directory",
     sc: "Academic",
     t: "epfldir",
@@ -32341,7 +32332,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.epfl.ch",
-    r: 18,
+    r: 15,
     s: "EPFL",
     sc: "Academic",
     t: "epfl",
@@ -32350,7 +32341,7 @@ export const bangs = [
   {
     c: "Research",
     d: "plan.epfl.ch",
-    r: 4,
+    r: 6,
     s: "EPFL Plan",
     sc: "Academic",
     t: "epflp",
@@ -32359,7 +32350,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "duckduckgo.com",
-    r: 5,
+    r: 0,
     s: "epguides.com",
     sc: "TV",
     t: "epg",
@@ -32377,7 +32368,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.epicgames.com",
-    r: 36,
+    r: 111,
     s: "Epic Games",
     sc: "Games (specific)",
     t: "epic",
@@ -32431,7 +32422,7 @@ export const bangs = [
   {
     c: "Research",
     d: "europepmc.org",
-    r: 12,
+    r: 0,
     s: "European Pubmed Central",
     sc: "Academic",
     t: "epmc",
@@ -32476,7 +32467,7 @@ export const bangs = [
   {
     c: "Research",
     d: "spatialreference.org",
-    r: 0,
+    r: 14,
     s: "Spatial Reference",
     sc: "Reference (science)",
     t: "epsg",
@@ -32530,7 +32521,7 @@ export const bangs = [
   {
     c: "Research",
     d: "equaldex.com",
-    r: 5,
+    r: 0,
     s: "Equaldex",
     sc: "Reference",
     t: "equaldex",
@@ -32548,7 +32539,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "equipboard.com",
-    r: 9,
+    r: 4,
     s: "Equipboard",
     sc: "Music",
     t: "equipboard",
@@ -32566,7 +32557,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.erowid.org",
-    r: 0,
+    r: 6,
     s: "Erowid",
     sc: "Health",
     t: "er",
@@ -32593,7 +32584,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 4,
+    r: 0,
     s: "Erlang Docs",
     sc: "Languages (other)",
     t: "erlang",
@@ -32602,7 +32593,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "erlang.org",
-    r: 13,
+    r: 0,
     s: "Erlang Docs",
     sc: "Languages (erlang)",
     t: "erl",
@@ -32629,7 +32620,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.erowid.org",
-    r: 3,
+    r: 5,
     s: "Erowid",
     sc: "Reference (science)",
     t: "erowid",
@@ -32665,7 +32656,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 0,
+    r: 3,
     s: "Word Reference Definicion",
     sc: "Reference (words)",
     t: "esdef",
@@ -32692,7 +32683,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 9,
+    r: 8,
     s: "duckduckgo",
     sc: "Search (non-US)",
     t: "es",
@@ -32710,7 +32701,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 82,
+    r: 46,
     s: "Google translate es-en",
     sc: "Google",
     t: "esen",
@@ -32755,7 +32746,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "explainshell.com",
-    r: 3,
+    r: 5,
     s: "explainshell.com",
     sc: "Sysadmin",
     t: "esh",
@@ -32782,7 +32773,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 0,
+    r: 5,
     s: "Google translate es-it",
     sc: "Google",
     t: "esit",
@@ -32809,7 +32800,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "eslint.org",
-    r: 3,
+    r: 0,
     s: "ESLint",
     sc: "Languages (javascript)",
     t: "eslint",
@@ -32827,7 +32818,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "esolangs.org",
-    r: 3,
+    r: 0,
     s: "Esolang",
     sc: "Languages (other)",
     t: "esolang",
@@ -32845,7 +32836,7 @@ export const bangs = [
   {
     c: "Research",
     d: "worldwide.espacenet.com",
-    r: 32,
+    r: 9,
     s: "Espacenet",
     sc: "Government",
     t: "espacenet",
@@ -32881,7 +32872,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.espn.com",
-    r: 275,
+    r: 295,
     s: "ESPN.com",
     sc: "Sports",
     t: "espn",
@@ -32908,7 +32899,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.esrb.org",
-    r: 0,
+    r: 19,
     s: "Entertainment Software Rating Board",
     sc: "Games (general)",
     t: "esrb",
@@ -32944,7 +32935,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 0,
+    r: 5,
     s: "Word Reference Sinonimos",
     sc: "Reference (words)",
     t: "essin",
@@ -32962,7 +32953,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.estantevirtual.com.br",
-    r: 0,
+    r: 6,
     s: "Estante Virtual",
     sc: "Online (marketplace)",
     t: "estantevirtual",
@@ -32980,7 +32971,7 @@ export const bangs = [
   {
     c: "Research",
     d: "estraviz.org",
-    r: 6,
+    r: 0,
     s: "Estraviz",
     sc: "Reference (words)",
     t: "estraviz",
@@ -32989,7 +32980,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.esvbible.org",
-    r: 56,
+    r: 30,
     s: "ESV Bible",
     sc: "Books",
     t: "esv",
@@ -33034,7 +33025,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.eltiempo.es",
-    r: 34,
+    r: 20,
     s: "El Tiempo",
     sc: "Weather",
     t: "et",
@@ -33043,7 +33034,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "en.excel-translator.de",
-    r: 4,
+    r: 0,
     s: "Excel Translator [EN]",
     sc: "Tools",
     t: "eten",
@@ -33079,7 +33070,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "enterthegungeon.gamepedia.com",
-    r: 0,
+    r: 16,
     s: "Enter the Gungeon Wiki",
     sc: "Games (general)",
     t: "etg",
@@ -33088,7 +33079,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "etherscan.io",
-    r: 8,
+    r: 48,
     s: "etherscan",
     sc: "Sysadmin",
     t: "etherscan",
@@ -33097,7 +33088,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "etherscan.io",
-    r: 33,
+    r: 52,
     s: "EtherScan",
     sc: "Tools",
     t: "eth",
@@ -33142,7 +33133,7 @@ export const bangs = [
   {
     c: "Research",
     d: "etimo.it",
-    r: 8,
+    r: 0,
     s: "Dizionario Etimologico",
     sc: "Reference (words)",
     t: "etimo",
@@ -33160,7 +33151,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.etools.ch",
-    r: 43,
+    r: 12,
     s: "eTools",
     sc: "Search",
     t: "etools",
@@ -33187,7 +33178,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.etsy.com",
-    r: 429,
+    r: 590,
     s: "Etsy",
     sc: "Online",
     t: "etsy",
@@ -33205,7 +33196,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.etymonline.com",
-    r: 373,
+    r: 300,
     s: "https://www.etymonline.com",
     sc: "Tools",
     t: "etym",
@@ -33214,7 +33205,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.etymonline.com",
-    r: 32,
+    r: 34,
     s: "EtymOnline.com",
     sc: "Academic",
     t: "etymology",
@@ -33223,7 +33214,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.etymonline.com",
-    r: 59,
+    r: 44,
     s: "Etymonline",
     sc: "Reference (words)",
     t: "etymonline",
@@ -33232,7 +33223,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.etymonline.com",
-    r: 11,
+    r: 13,
     s: "Online Etymology Dictionary",
     sc: "Reference (words)",
     t: "etymo",
@@ -33241,7 +33232,7 @@ export const bangs = [
   {
     c: "Research",
     d: "etymologiebank.nl",
-    r: 17,
+    r: 15,
     s: "Etymologiebank",
     sc: "Reference (words)",
     t: "etynl",
@@ -33250,7 +33241,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.etymonline.com",
-    r: 140,
+    r: 105,
     s: "Online Etymology Dictionary",
     sc: "Reference (words)",
     t: "ety",
@@ -33268,7 +33259,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "eu4.paradoxwikis.com",
-    r: 26,
+    r: 11,
     s: "EU4 Wiki",
     sc: "Games (specific)",
     t: "eu4",
@@ -33295,7 +33286,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.co.uk",
-    r: 1019,
+    r: 1272,
     s: "ebay.co.uk",
     sc: "Online (marketplace)",
     t: "euk",
@@ -33304,7 +33295,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay.co.uk",
-    r: 31,
+    r: 11,
     s: "Ebay UK",
     sc: "Online (marketplace)",
     t: "e.uk",
@@ -33358,7 +33349,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eur-lex.europa.eu",
-    r: 5,
+    r: 8,
     s: "EUR-Lex",
     sc: "Law",
     t: "eurlex",
@@ -33376,7 +33367,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.eurogamer.net",
-    r: 4,
+    r: 0,
     s: "Eurogamer.net",
     sc: "Games (general)",
     t: "eurogamer",
@@ -33421,7 +33412,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "europeana.eu",
-    r: 3,
+    r: 0,
     s: "Europeana.eu",
     sc: "General",
     t: "europeana",
@@ -33511,7 +33502,7 @@ export const bangs = [
   {
     c: "News",
     d: "cse.google.com",
-    r: 5,
+    r: 0,
     s: "Electrek",
     sc: "Online",
     t: "ev",
@@ -33556,7 +33547,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.eventim.de",
-    r: 3,
+    r: 0,
     s: "Eventim",
     sc: "Events",
     t: "eventim",
@@ -33592,7 +33583,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.evernote.com",
-    r: 0,
+    r: 5,
     s: "Evernote",
     sc: "Tools",
     t: "evernote",
@@ -33610,7 +33601,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.everyeye.it",
-    r: 11,
+    r: 0,
     s: "Everyeye",
     sc: "Games (general)",
     t: "everyeye",
@@ -33619,7 +33610,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.everymac.com",
-    r: 0,
+    r: 3,
     s: "EveryMac.com",
     sc: "Reference",
     t: "everymac",
@@ -33655,7 +33646,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.eveuniversity.org",
-    r: 5,
+    r: 16,
     s: "Eve University Wiki",
     sc: "Games (general)",
     t: "eveuni",
@@ -33673,7 +33664,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.eviq.org.au",
-    r: 3,
+    r: 0,
     s: "eviQ",
     sc: "Health",
     t: "eviq",
@@ -33781,7 +33772,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "duckduckgo.com",
-    r: 11,
+    r: 8,
     s: "Entertainment Weekly",
     sc: "Movies",
     t: "ew",
@@ -33790,7 +33781,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "e-words.jp",
-    r: 0,
+    r: 6,
     s: "IT\u7528\u8a9e\u8f9e\u5178 e-Words",
     sc: "Search",
     t: "e-words",
@@ -33826,7 +33817,7 @@ export const bangs = [
   {
     c: "Research",
     d: "examine.com",
-    r: 4,
+    r: 0,
     s: "Examine",
     sc: "Health",
     t: "examine",
@@ -33853,7 +33844,7 @@ export const bangs = [
   {
     c: "Research",
     d: "examine.com",
-    r: 10,
+    r: 7,
     s: "examine.com",
     sc: "Health",
     t: "ex",
@@ -33889,7 +33880,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.explainxkcd.com",
-    r: 28,
+    r: 43,
     s: "Explain xkcd",
     sc: "Comics",
     t: "exkcd",
@@ -33916,7 +33907,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "reports.exodus-privacy.eu.org",
-    r: 18,
+    r: 3,
     s: "\u03b5xodus Privacy",
     sc: "Tools",
     t: "exodus",
@@ -33925,7 +33916,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.expedia.com",
-    r: 5,
+    r: 0,
     s: "Expedia",
     sc: "Services",
     t: "expedia",
@@ -33934,7 +33925,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.expert.nl",
-    r: 39,
+    r: 19,
     s: "Expert",
     sc: "Online",
     t: "expert",
@@ -33952,7 +33943,7 @@ export const bangs = [
   {
     c: "Research",
     d: "irfantoor.com",
-    r: 3,
+    r: 6,
     s: "IrfanTOOR Exploits",
     sc: "Reference",
     t: "exp",
@@ -33961,7 +33952,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "explainshell.com",
-    r: 10,
+    r: 0,
     s: "ExplainShell",
     sc: "Sysadmin (man)",
     t: "explainshell",
@@ -33970,7 +33961,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.explainxkcd.com",
-    r: 29,
+    r: 35,
     s: "explain xkcd",
     sc: "Comics",
     t: "explainxkcd",
@@ -33997,7 +33988,7 @@ export const bangs = [
   {
     c: "Research",
     d: "explorecourses.stanford.edu",
-    r: 0,
+    r: 5,
     s: "Explore Courses",
     sc: "Learning",
     t: "explorecourses",
@@ -34006,7 +33997,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.expo.io",
-    r: 0,
+    r: 3,
     s: "Expo Documentation",
     sc: "Libraries/Frameworks",
     t: "expo",
@@ -34015,7 +34006,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.weltexporte.de",
-    r: 0,
+    r: 6,
     s: "Weltexporte",
     sc: "Business",
     t: "export",
@@ -34042,7 +34033,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "filext.com",
-    r: 3,
+    r: 6,
     s: "FILExt",
     sc: "Programming",
     t: "ext",
@@ -34105,7 +34096,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.f1zone.net",
-    r: 0,
+    r: 5,
     s: "F1Zone",
     sc: "International",
     t: "f1",
@@ -34159,7 +34150,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "fab.com",
-    r: 4,
+    r: 0,
     s: "Fab",
     sc: "Online",
     t: "fab",
@@ -34186,7 +34177,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.facebook.com",
-    r: 179,
+    r: 136,
     s: "Facebook",
     sc: "Social",
     t: "facebook",
@@ -34213,7 +34204,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 0,
+    r: 8,
     s: "Google Images (Faces)",
     sc: "Google",
     t: "faces",
@@ -34249,7 +34240,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.factorio.com",
-    r: 57,
+    r: 29,
     s: "Factorio wiki",
     sc: "Games (specific)",
     t: "factorio",
@@ -34267,7 +34258,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "addons.mozilla.org",
-    r: 49,
+    r: 36,
     s: "Firefox Addons",
     sc: "Downloads (add-ons)",
     t: "fad",
@@ -34276,7 +34267,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.filmaffinity.com",
-    r: 11,
+    r: 4,
     s: "Film Affinity",
     sc: "Movies",
     t: "faff",
@@ -34294,7 +34285,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.filmaffinity.com",
-    r: 333,
+    r: 390,
     s: "FilmAffinity",
     sc: "Movies",
     t: "fa",
@@ -34357,7 +34348,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.fakespot.com",
-    r: 16,
+    r: 0,
     s: "Fakespot",
     sc: "Online",
     t: "fake",
@@ -34366,7 +34357,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.fakespot.com",
-    r: 40,
+    r: 3,
     s: "Fakespot",
     sc: "Online",
     t: "fakespot",
@@ -34384,7 +34375,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "fallout.wikia.com",
-    r: 69,
+    r: 51,
     s: "Fallout Wikia",
     sc: "Games (specific)",
     t: "fallout",
@@ -34402,7 +34393,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "fanart.tv",
-    r: 0,
+    r: 3,
     s: "Fanart.tv",
     sc: "Images",
     t: "fanart",
@@ -34456,7 +34447,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fandango.com",
-    r: 6,
+    r: 5,
     s: "Fandango",
     sc: "Movies",
     t: "fandango",
@@ -34465,7 +34456,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fandom.com",
-    r: 32,
+    r: 50,
     s: "Fandom",
     sc: "Misc",
     t: "fandom",
@@ -34474,7 +34465,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.fanfiction.net",
-    r: 6,
+    r: 0,
     s: "Fanfiction",
     sc: "Books",
     t: "fanfiction",
@@ -34483,7 +34474,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.fangamer.com",
-    r: 0,
+    r: 5,
     s: "Fangamer",
     sc: "Online",
     t: "fangamer",
@@ -34492,7 +34483,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fangraphs.com",
-    r: 0,
+    r: 7,
     s: "Fangraphs",
     sc: "Sports",
     t: "fangraphs",
@@ -34609,7 +34600,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "uk.farnell.com",
-    r: 14,
+    r: 12,
     s: "Farnell (UK)",
     sc: "Design",
     t: "farnell",
@@ -34663,7 +34654,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "fontawesome.com",
-    r: 0,
+    r: 4,
     s: "Font Awesome",
     sc: "Tools",
     t: "fas",
@@ -34708,7 +34699,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.fastmail.com",
-    r: 11,
+    r: 3,
     s: "FastMail",
     sc: "Tools",
     t: "fastmail",
@@ -34753,7 +34744,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "furaffinity.net",
-    r: 35,
+    r: 44,
     s: "FurAffinity User",
     sc: "Images",
     t: "fauser",
@@ -34762,7 +34753,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "flightaware.com",
-    r: 9,
+    r: 48,
     s: "FlightAware",
     sc: "Search",
     t: "faw",
@@ -34771,7 +34762,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.faz.net",
-    r: 16,
+    r: 8,
     s: "Frankfurter Allgemeine",
     sc: "Newspaper (intl)",
     t: "faz",
@@ -34798,7 +34789,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.facebook.com",
-    r: 5129,
+    r: 4144,
     s: "Facebook",
     sc: "Social",
     t: "fb",
@@ -34825,7 +34816,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.facebook.com",
-    r: 0,
+    r: 3,
     s: "Facebook",
     sc: "Social (intl)",
     t: "fbk",
@@ -34834,7 +34825,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mbasic.facebook.com",
-    r: 0,
+    r: 3,
     s: "Facebook Lite",
     sc: "Misc",
     t: "fblite",
@@ -34843,7 +34834,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.facebook.com",
-    r: 5,
+    r: 11,
     s: "Facebook Messages",
     sc: "Social",
     t: "fbm",
@@ -34870,7 +34861,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.pro-football-reference.com",
-    r: 6,
+    r: 0,
     s: "Pro Football Reference",
     sc: "Sports",
     t: "fbr",
@@ -34888,7 +34879,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugs.freebsd.org",
-    r: 14,
+    r: 33,
     s: "FreeBSD Bugs",
     sc: "Sysadmin (FreeBSD)",
     t: "fbugs",
@@ -34897,7 +34888,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.frag-caesar.de",
-    r: 4,
+    r: 0,
     s: "Frag Caesar",
     sc: "Learning",
     t: "fcaesar",
@@ -34978,7 +34969,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.forocoches.com",
-    r: 21,
+    r: 10,
     s: "ForoCoches",
     sc: "Forum",
     t: "fcc",
@@ -34987,7 +34978,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 0,
+    r: 4,
     s: "FreeCAD",
     sc: "Design",
     t: "fc",
@@ -35050,7 +35041,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.usa.gov",
-    r: 3,
+    r: 0,
     s: "FDA",
     sc: "Government",
     t: "fda",
@@ -35104,7 +35095,7 @@ export const bangs = [
   {
     c: "Research",
     d: "freedictionary.org",
-    r: 12,
+    r: 8,
     s: "Free Dictionary",
     sc: "Academic",
     t: "fd",
@@ -35158,7 +35149,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.f-droid.org",
-    r: 120,
+    r: 110,
     s: "F-Droid search",
     sc: "Downloads (apps)",
     t: "fdroid",
@@ -35185,7 +35176,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.fedex.com",
-    r: 242,
+    r: 201,
     s: "FedEx",
     sc: "Tracking",
     t: "fedex",
@@ -35203,7 +35194,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "linuxmanpages.net",
-    r: 0,
+    r: 3,
     s: "Fedora Manuals",
     sc: "Sysadmin (Fedora)",
     t: "fedman",
@@ -35212,7 +35203,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "fedoraproject.org",
-    r: 3,
+    r: 7,
     s: "Fedora wiki",
     sc: "Sysadmin (Fedora)",
     t: "fedora",
@@ -35230,7 +35221,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "apps.fedoraproject.org",
-    r: 6,
+    r: 5,
     s: "Fedora Package DB",
     sc: "Sysadmin (Fedora)",
     t: "fedorapkg",
@@ -35247,12 +35238,12 @@ export const bangs = [
   },
   {
     c: "Tech",
-    d: "apps.fedoraproject.org",
-    r: 0,
+    d: "packages.fedoraproject.org",
+    r: 9,
     s: "Fedora Package Search",
     sc: "Sysadmin (Fedora)",
     t: "fedpack",
-    u: "https://apps.fedoraproject.org/packages/s/{{{s}}}",
+    u: "https://packages.fedoraproject.org/search?query={{{s}}}",
   },
   {
     c: "Research",
@@ -35302,7 +35293,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.wikifeet.com",
-    r: 51,
+    r: 45,
     s: "wikiFeet",
     sc: "Images",
     t: "feet",
@@ -35311,7 +35302,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "blog.fefe.de",
-    r: 64,
+    r: 10,
     s: "Fefes Blog",
     sc: "Blogs",
     t: "fefe",
@@ -35329,7 +35320,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "feheroes.gamepedia.com",
-    r: 26,
+    r: 38,
     s: "Fire Emblem Heroes Wiki",
     sc: "Games (general)",
     t: "feh",
@@ -35374,7 +35365,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.folklore.ee",
-    r: 6,
+    r: 3,
     s: "Eesti fraseologismide elektrooniline aluss\u00f5nastik",
     sc: "Learning",
     t: "fes",
@@ -35401,7 +35392,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "fireemblemwiki.org",
-    r: 44,
+    r: 72,
     s: "Fire Emblem Wiki",
     sc: "Games (specific)",
     t: "few",
@@ -35437,7 +35428,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "addons.mozilla.org",
-    r: 71,
+    r: 89,
     s: "Firefox Add-ons",
     sc: "Downloads (add-ons)",
     t: "ffa",
@@ -35473,7 +35464,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fanfiction.net",
-    r: 15,
+    r: 10,
     s: "fanfiction.net",
     sc: "Misc",
     t: "ff",
@@ -35500,7 +35491,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.flickr.com",
-    r: 841,
+    r: 730,
     s: "Flickr",
     sc: "Search",
     t: "f",
@@ -35518,7 +35509,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fanfiction.net",
-    r: 3,
+    r: 4,
     s: "FanFiction",
     sc: "Misc",
     t: "ffn",
@@ -35563,7 +35554,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "finalfantasy.wikia.com",
-    r: 11,
+    r: 4,
     s: "Final Fantasy Wiki",
     sc: "Games (specific)",
     t: "ffwiki",
@@ -35572,7 +35563,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ffxiv.consolegameswiki.com",
-    r: 161,
+    r: 158,
     s: "Final Fantasy XIV A Realm Reborn Wiki",
     sc: "Games (specific)",
     t: "ffxiv",
@@ -35608,7 +35599,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 0,
+    r: 5,
     s: "Gentoo Forums",
     sc: "Sysadmin (Gentoo)",
     t: "fgentoo",
@@ -35617,7 +35608,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fangraphs.com",
-    r: 254,
+    r: 161,
     s: "Fangraphs",
     sc: "Sports",
     t: "fg",
@@ -35626,7 +35617,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.flightgear.org",
-    r: 8,
+    r: 0,
     s: "Flightgear Forums",
     sc: "Games (general)",
     t: "fgf",
@@ -35653,7 +35644,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "filehippo.com",
-    r: 5,
+    r: 6,
     s: "Filehippo",
     sc: "Downloads (software)",
     t: "fh",
@@ -35716,7 +35707,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ratings.fide.com",
-    r: 4,
+    r: 0,
     s: "Fide - World Chess Federation",
     sc: "Sports",
     t: "fide",
@@ -35761,7 +35752,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.finanzen.net",
-    r: 12,
+    r: 16,
     s: "finanzen.net",
     sc: "Tools",
     t: "fi",
@@ -35806,7 +35797,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "filehippo.com",
-    r: 11,
+    r: 5,
     s: "FileHippo",
     sc: "Downloads (software)",
     t: "file",
@@ -35824,7 +35815,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "fileinfo.com",
-    r: 19,
+    r: 35,
     s: "File info",
     sc: "Libraries/Frameworks",
     t: "fileinfo",
@@ -35851,7 +35842,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.filmaffinity.com",
-    r: 3,
+    r: 6,
     s: "https://www.filmaffinity.com",
     sc: "Movies",
     t: "filmaffinity",
@@ -35878,7 +35869,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.filmaffinity.com",
-    r: 81,
+    r: 73,
     s: "filmaffinity",
     sc: "Video",
     t: "film",
@@ -35959,7 +35950,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.filmtv.it",
-    r: 14,
+    r: 15,
     s: "FilmTV.it",
     sc: "Movies",
     t: "filmtv",
@@ -35968,7 +35959,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.filmweb.pl",
-    r: 22,
+    r: 10,
     s: "Filmweb",
     sc: "Movies",
     t: "filmweb",
@@ -35995,7 +35986,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fimfiction.net",
-    r: 19,
+    r: 12,
     s: "FIMFiction",
     sc: "Misc",
     t: "fim",
@@ -36013,7 +36004,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.finanzen.net",
-    r: 3,
+    r: 0,
     s: "finanzen.net",
     sc: "Aggregators",
     t: "finanzennet",
@@ -36031,7 +36022,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.findchips.com",
-    r: 13,
+    r: 3,
     s: "FindChips",
     sc: "Design",
     t: "findchips",
@@ -36121,7 +36112,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.francetvinfo.fr",
-    r: 10,
+    r: 0,
     s: "France Info",
     sc: "Broadcast",
     t: "finfo",
@@ -36139,7 +36130,7 @@ export const bangs = [
   {
     c: "Research",
     d: "finlex.fi",
-    r: 23,
+    r: 3,
     s: "Finlex",
     sc: "Law",
     t: "finlex",
@@ -36157,7 +36148,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.finn.no",
-    r: 11,
+    r: 3,
     s: "Finn.no",
     sc: "Online (marketplace)",
     t: "finn",
@@ -36229,7 +36220,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "addons.mozilla.org",
-    r: 21,
+    r: 67,
     s: "Add-ons Firefox",
     sc: "Downloads (add-ons)",
     t: "firefoxaddons",
@@ -36238,7 +36229,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "addons.mozilla.org",
-    r: 151,
+    r: 110,
     s: "Firefox Add-ons",
     sc: "Downloads (add-ons)",
     t: "firefox",
@@ -36310,7 +36301,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "fishshell.com",
-    r: 12,
+    r: 3,
     s: "fishshell.com",
     sc: "Sysadmin",
     t: "fish",
@@ -36346,7 +36337,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "fontsinuse.com",
-    r: 14,
+    r: 40,
     s: "Fonts in Use",
     sc: "Tools",
     t: "fiu",
@@ -36364,7 +36355,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "funnyjunk.com",
-    r: 70,
+    r: 92,
     s: "Funnyjunk",
     sc: "Comics",
     t: "fj",
@@ -36382,7 +36373,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.flipkart.com",
-    r: 126,
+    r: 97,
     s: "Flipkart",
     sc: "Online",
     t: "fk",
@@ -36391,7 +36382,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "fkk-freunde.info",
-    r: 0,
+    r: 3,
     s: "fkk-freunde",
     sc: "Misc",
     t: "fkk",
@@ -36418,7 +36409,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.flashback.org",
-    r: 19,
+    r: 15,
     s: "Flashback",
     sc: "Social",
     t: "flashback",
@@ -36436,7 +36427,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "flathub.org",
-    r: 175,
+    r: 91,
     s: "Flatpak",
     sc: "Tools",
     t: "flat",
@@ -36445,7 +36436,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "flathub.org",
-    r: 485,
+    r: 345,
     s: "Flathub",
     sc: "Downloads (apps)",
     t: "flathub",
@@ -36454,7 +36445,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.flaticon.com",
-    r: 11,
+    r: 6,
     s: "FlatIcon",
     sc: "Images",
     t: "flaticon",
@@ -36481,7 +36472,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.frontlinedefenders.org",
-    r: 6,
+    r: 0,
     s: "Front Line Defenders",
     sc: "International",
     t: "fld",
@@ -36490,7 +36481,7 @@ export const bangs = [
   {
     c: "Research",
     d: "flexikon.doccheck.com",
-    r: 0,
+    r: 5,
     s: "DocCheck Flexikon",
     sc: "Reference (words)",
     t: "fle",
@@ -36499,7 +36490,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.flexjobs.com",
-    r: 0,
+    r: 4,
     s: "Flexjobs",
     sc: "Jobs",
     t: "flexjobs",
@@ -36508,7 +36499,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 170,
+    r: 62,
     s: "Google Feeling Lucky",
     sc: "Search",
     t: "fl",
@@ -36544,7 +36535,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "flickr.com",
-    r: 98,
+    r: 48,
     s: "Flickr",
     sc: "Images",
     t: "flickr",
@@ -36580,7 +36571,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "flightaware.com",
-    r: 21,
+    r: 18,
     s: "Flightaware",
     sc: "Tracking",
     t: "flightaware",
@@ -36589,7 +36580,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.flightradar24.com",
-    r: 0,
+    r: 5,
     s: "Flightradar24",
     sc: "Travel",
     t: "flightradar",
@@ -36598,7 +36589,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "spotterlead.net",
-    r: 6,
+    r: 8,
     s: "SpotterLead Flights",
     sc: "Search",
     t: "flight",
@@ -36607,7 +36598,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.flipkart.com",
-    r: 20,
+    r: 18,
     s: "Flipkart",
     sc: "Online",
     t: "flip",
@@ -36679,7 +36670,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "flutter.io",
-    r: 5,
+    r: 0,
     s: "Flutter",
     sc: "Libraries/Frameworks",
     t: "flt",
@@ -36688,7 +36679,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "flutter.io",
-    r: 3,
+    r: 0,
     s: "Flutter",
     sc: "Libraries/Frameworks",
     t: "flutter",
@@ -36706,7 +36697,7 @@ export const bangs = [
   {
     c: "Research",
     d: "flybase.org",
-    r: 0,
+    r: 7,
     s: "FlyBase",
     sc: "Reference (science)",
     t: "fly",
@@ -36724,7 +36715,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "freemusicarchive.org",
-    r: 0,
+    r: 3,
     s: "Free Music Archive",
     sc: "Music",
     t: "fma",
@@ -36733,7 +36724,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.freebsd.org",
-    r: 42,
+    r: 107,
     s: "FreeBSD Man Pages",
     sc: "Sysadmin (FreeBSD)",
     t: "fman",
@@ -36769,7 +36760,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "filmaster.com",
-    r: 18,
+    r: 12,
     s: "Filmaster",
     sc: "Video",
     t: "fm",
@@ -36778,7 +36769,7 @@ export const bangs = [
   {
     c: "News",
     d: "ilmatieteenlaitos.fi",
-    r: 14,
+    r: 8,
     s: "Ilmatieteen Laitos",
     sc: "Weather",
     t: "fmi",
@@ -36832,7 +36823,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "recherche.fnac.com",
-    r: 51,
+    r: 52,
     s: "fnac",
     sc: "Online",
     t: "fnac",
@@ -36850,7 +36841,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "freddy-fazbears-pizza.fandom.com",
-    r: 4,
+    r: 3,
     s: "FNAF Wiki",
     sc: "Games (general)",
     t: "fnaf",
@@ -36868,7 +36859,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "fnd.io",
-    r: 5,
+    r: 0,
     s: "fnd",
     sc: "Downloads",
     t: "fnd",
@@ -36877,7 +36868,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.finanzen.net",
-    r: 13,
+    r: 0,
     s: "finanzen.net",
     sc: "Business",
     t: "fnet",
@@ -36886,7 +36877,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.foodnetwork.com",
-    r: 8,
+    r: 9,
     s: "foodnetwork.com",
     sc: "Food",
     t: "fn",
@@ -36976,7 +36967,7 @@ export const bangs = [
   {
     c: "Research",
     d: "folkets-lexikon.csc.kth.se",
-    r: 8,
+    r: 6,
     s: "Folkets lexikon",
     sc: "Reference (words intl)",
     t: "folkets",
@@ -36994,7 +36985,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.folkwiki.se",
-    r: 0,
+    r: 11,
     s: "FolkWiki",
     sc: "Reference (fun)",
     t: "folkwiki",
@@ -37048,7 +37039,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "fontawesome.com",
-    r: 14,
+    r: 4,
     s: "Font Awesome",
     sc: "Design",
     t: "fontawesome",
@@ -37057,7 +37048,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.identifont.com",
-    r: 0,
+    r: 8,
     s: "Identifont",
     sc: "Reference",
     t: "font",
@@ -37075,7 +37066,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.fontsquirrel.com",
-    r: 0,
+    r: 4,
     s: "Font Squirrel",
     sc: "Design",
     t: "fonts",
@@ -37102,7 +37093,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.fontsquirrel.com",
-    r: 4,
+    r: 0,
     s: "Fontsquirrel ",
     sc: "Downloads",
     t: "fontsq",
@@ -37309,7 +37300,7 @@ export const bangs = [
   {
     c: "Research",
     d: "forvo.com",
-    r: 62,
+    r: 59,
     s: "Forvo",
     sc: "Reference (words)",
     t: "forvo",
@@ -37372,7 +37363,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fotmob.com",
-    r: 23,
+    r: 55,
     s: "FotMob",
     sc: "Sports",
     t: "fot",
@@ -37444,7 +37435,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.foxnews.com",
-    r: 66,
+    r: 35,
     s: "Fox News",
     sc: "Aggregators",
     t: "fox",
@@ -37462,7 +37453,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.foxnews.com",
-    r: 17,
+    r: 9,
     s: "FoxNews",
     sc: "Broadcast",
     t: "foxnews",
@@ -37516,7 +37507,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.fanpop.com",
-    r: 5,
+    r: 0,
     s: "Fanpop",
     sc: "Social",
     t: "fp",
@@ -37534,7 +37525,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.freebsd.org",
-    r: 12,
+    r: 51,
     s: "FreeBSD Ports",
     sc: "Sysadmin",
     t: "fports",
@@ -37543,7 +37534,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "apps.fedoraproject.org",
-    r: 0,
+    r: 4,
     s: "Fedora Packages Search",
     sc: "Programming",
     t: "fps",
@@ -37588,7 +37579,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.flightradar24.com",
-    r: 32,
+    r: 37,
     s: "Flight radar 24 - flights",
     sc: "Travel",
     t: "fr24",
@@ -37606,7 +37597,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 21,
+    r: 25,
     s: "GoogleTraduction",
     sc: "Google",
     t: "fr2en",
@@ -37633,7 +37624,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.fragrantica.com",
-    r: 4,
+    r: 0,
     s: "Fragrantica",
     sc: "Reference (fun)",
     t: "fragrantica",
@@ -37678,7 +37669,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.fran.si",
-    r: 7,
+    r: 17,
     s: "Slovarji In\u0161tituta za slovenski jezik Frana Ramov\u0161a ZRC SAZU",
     sc: "Reference (words intl)",
     t: "fran",
@@ -37732,7 +37723,7 @@ export const bangs = [
   {
     c: "Research",
     d: "research.stlouisfed.org",
-    r: 6,
+    r: 5,
     s: "FRED Economic Data",
     sc: "Academic",
     t: "fred",
@@ -37741,7 +37732,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.freebsd.org",
-    r: 37,
+    r: 23,
     s: "FreeBSD Ports",
     sc: "Sysadmin (FreeBSD)",
     t: "freebsd",
@@ -37750,7 +37741,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "man.freebsd.org",
-    r: 12,
+    r: 3,
     s: "FreeBSD Man Pages",
     sc: "Sysadmin (man)",
     t: "freebsdman",
@@ -37777,7 +37768,7 @@ export const bangs = [
   {
     c: "Research",
     d: "freedictionary.org",
-    r: 0,
+    r: 3,
     s: "Free Dictionary",
     sc: "Reference (words)",
     t: "freedictionary",
@@ -37858,7 +37849,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.freerepublic.com",
-    r: 3,
+    r: 0,
     s: "Freerepublic",
     sc: "Specialty",
     t: "freep",
@@ -37867,7 +37858,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.freepik.com",
-    r: 10,
+    r: 4,
     s: "Freepik",
     sc: "Images",
     t: "freepik",
@@ -37885,7 +37876,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.freesound.org",
-    r: 8,
+    r: 0,
     s: "Freesound",
     sc: "General",
     t: "freesound",
@@ -37903,7 +37894,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.freethesaurus.com",
-    r: 3,
+    r: 0,
     s: "The Free Dictionary (Thesaurus)",
     sc: "Reference (words)",
     t: "freethesaurus",
@@ -37921,7 +37912,7 @@ export const bangs = [
   {
     c: "Research",
     d: "french.stackexchange.com",
-    r: 3,
+    r: 0,
     s: "French Language and Usage",
     sc: "Learning",
     t: "french",
@@ -37930,7 +37921,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 92,
+    r: 59,
     s: "Google translate fr-en",
     sc: "Google",
     t: "fren",
@@ -37966,7 +37957,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.com",
-    r: 18,
+    r: 44,
     s: "Amazon Fresh",
     sc: "Online",
     t: "fresh",
@@ -37984,7 +37975,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.freshports.org",
-    r: 36,
+    r: 23,
     s: "FreshPorts",
     sc: "Downloads (software)",
     t: "freshports",
@@ -37993,7 +37984,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dictionnaire.reverso.net",
-    r: 0,
+    r: 3,
     s: "Reverso",
     sc: "Tools",
     t: "frge",
@@ -38047,7 +38038,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "frinkiac.com",
-    r: 29,
+    r: 39,
     s: "Frinkiac",
     sc: "TV",
     t: "frinkiac",
@@ -38074,7 +38065,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 3,
+    r: 0,
     s: "Google Translate French to Italian",
     sc: "Tools",
     t: "frit",
@@ -38101,7 +38092,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.larousse.fr",
-    r: 150,
+    r: 77,
     s: "Larousse French Dictionary",
     sc: "Programming",
     t: "fr",
@@ -38173,7 +38164,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.adafruit.com",
-    r: 3,
+    r: 0,
     s: "Adafruit",
     sc: "Companies",
     t: "fruit",
@@ -38200,7 +38191,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "forgottenrealms.fandom.com",
-    r: 19,
+    r: 27,
     s: "Forgotten Realms Wiki",
     sc: "Games (general)",
     t: "frwiki",
@@ -38254,7 +38245,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "directory.fsf.org",
-    r: 3,
+    r: 0,
     s: "Free Software Directory",
     sc: "Downloads (software)",
     t: "fsd",
@@ -38263,7 +38254,7 @@ export const bangs = [
   {
     c: "News",
     d: "factualsearch.news",
-    r: 11,
+    r: 3,
     s: "Factual News Search",
     sc: "Aggregators",
     t: "fs",
@@ -38353,7 +38344,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.ft.com",
-    r: 191,
+    r: 162,
     s: "Financial Times",
     sc: "Newspaper",
     t: "ft",
@@ -38371,7 +38362,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "flathub.org",
-    r: 4,
+    r: 9,
     s: "Flathub",
     sc: "Downloads (software)",
     t: "fthub",
@@ -38452,7 +38443,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.factorio.com",
-    r: 10,
+    r: 3,
     s: "Factorio Wiki",
     sc: "Games (general)",
     t: "ftw",
@@ -38524,7 +38515,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.funda.nl",
-    r: 3,
+    r: 0,
     s: "Funda",
     sc: "Online (intl)",
     t: "funda",
@@ -38596,7 +38587,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.furaffinity.net",
-    r: 158,
+    r: 164,
     s: "FurAffinity",
     sc: "General",
     t: "furaffinity",
@@ -38704,7 +38695,7 @@ export const bangs = [
   {
     c: "News",
     d: "finviz.com",
-    r: 159,
+    r: 77,
     s: "Finviz",
     sc: "Business",
     t: "fv",
@@ -38722,7 +38713,7 @@ export const bangs = [
   {
     c: "Research",
     d: "finviz.com",
-    r: 0,
+    r: 9,
     s: "Finviz",
     sc: "Topical",
     t: "fvz",
@@ -38749,7 +38740,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.forgottenweapons.com",
-    r: 4,
+    r: 3,
     s: "Forgotten Weapons",
     sc: "Blogs",
     t: "fw",
@@ -38794,7 +38785,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.fxp.co.il",
-    r: 0,
+    r: 3,
     s: "FXP",
     sc: "Forum",
     t: "fxp",
@@ -38839,7 +38830,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "fyyd.de",
-    r: 14,
+    r: 18,
     s: "fyyd",
     sc: "Audio",
     t: "fyyd",
@@ -38848,7 +38839,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "duckduckgo.com",
-    r: 3,
+    r: 0,
     s: "FZ",
     sc: "Games (general)",
     t: "fz",
@@ -38866,7 +38857,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 0,
+    r: 13,
     s: "Google Search 100 Results",
     sc: "Search",
     t: "g100",
@@ -38875,7 +38866,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 48,
+    r: 356,
     s: "Google (Past 24h)",
     sc: "Google",
     t: "g24",
@@ -38884,7 +38875,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.g2a.com",
-    r: 14,
+    r: 8,
     s: "G2A",
     sc: "Online (marketplace)",
     t: "g2a",
@@ -39001,7 +38992,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.gadventures.com",
-    r: 3,
+    r: 0,
     s: "G Adventures",
     sc: "Travel",
     t: "gadv",
@@ -39046,7 +39037,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.focloir.ie",
-    r: 3,
+    r: 0,
     s: "Focl\u00f3ir",
     sc: "Reference (words intl)",
     t: "gafoc",
@@ -39073,7 +39064,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.au",
-    r: 1428,
+    r: 1084,
     s: "Google Australia",
     sc: "Search (non-US)",
     t: "ga",
@@ -39109,7 +39100,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.galaxus.ch",
-    r: 27,
+    r: 54,
     s: "Galaxus.ch",
     sc: "Big box/department",
     t: "galaxus",
@@ -39161,7 +39152,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "direct3d.ir",
-    r: 3,
+    r: 0,
     s: "direct3d.ir",
     sc: "Games (general)",
     t: "gam",
@@ -39170,7 +39161,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "gamebanana.com",
-    r: 14,
+    r: 10,
     s: "GameBanana",
     sc: "Games (general)",
     t: "gamebanana",
@@ -39188,7 +39179,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gamefaqs.com",
-    r: 12,
+    r: 13,
     s: "GameFAQs.com",
     sc: "Games (general)",
     t: "gamefaqs",
@@ -39215,7 +39206,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.game.co.uk",
-    r: 3,
+    r: 8,
     s: "Game",
     sc: "Online",
     t: "game",
@@ -39224,7 +39215,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gameinformer.com",
-    r: 0,
+    r: 4,
     s: "GameInformer",
     sc: "Games (general)",
     t: "gameinformer",
@@ -39305,7 +39296,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.crazygames.com",
-    r: 16,
+    r: 29,
     s: "Games",
     sc: "Games (general)",
     t: "games",
@@ -39323,7 +39314,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gamespot.com",
-    r: 5,
+    r: 3,
     s: "GameSpot",
     sc: "Games (general)",
     t: "gamespot",
@@ -39350,7 +39341,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gamestop.com",
-    r: 12,
+    r: 9,
     s: "GameStop",
     sc: "Games (general)",
     t: "gamestop",
@@ -39413,7 +39404,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.gandi.net",
-    r: 9,
+    r: 0,
     s: "Gandi.net",
     sc: "Domains",
     t: "gandi",
@@ -39476,7 +39467,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.ar",
-    r: 117,
+    r: 197,
     s: "Google AR",
     sc: "Google",
     t: "gar",
@@ -39512,7 +39503,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.as",
-    r: 119,
+    r: 0,
     s: "Google American Samoa",
     sc: "Google",
     t: "gas",
@@ -39530,7 +39521,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.at",
-    r: 225,
+    r: 157,
     s: "Google AT",
     sc: "Google",
     t: "gat",
@@ -39539,7 +39530,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.at",
-    r: 3,
+    r: 0,
     s: "Google Austria",
     sc: "Search",
     t: "g.at",
@@ -39548,7 +39539,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "gatherer.wizards.com",
-    r: 23,
+    r: 20,
     s: "Gatherer",
     sc: "Games (specific)",
     t: "gatherer",
@@ -39557,7 +39548,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.au",
-    r: 475,
+    r: 387,
     s: "Google AU",
     sc: "Google",
     t: "gau",
@@ -39575,7 +39566,7 @@ export const bangs = [
   {
     c: "News",
     d: "gayburg.blogspot.com",
-    r: 0,
+    r: 3,
     s: "Gayburg",
     sc: "Newspaper (intl)",
     t: "gayburg",
@@ -39593,7 +39584,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.google.com",
-    r: 89,
+    r: 41,
     s: "Gmail by account",
     sc: "Google",
     t: "gba",
@@ -39620,7 +39611,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.greatbritishchefs.com",
-    r: 0,
+    r: 3,
     s: "Great British Chefs",
     sc: "Food",
     t: "gbc",
@@ -39629,7 +39620,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.be",
-    r: 235,
+    r: 269,
     s: "Google BE",
     sc: "Google",
     t: "gbe",
@@ -39647,7 +39638,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "gbf.wiki",
-    r: 373,
+    r: 188,
     s: "Granblue Fantasy Wiki",
     sc: "Games (specific)",
     t: "gbf",
@@ -39656,7 +39647,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.bg",
-    r: 10,
+    r: 21,
     s: "Google BG",
     sc: "Google",
     t: "gbg",
@@ -39665,7 +39656,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "books.google.com",
-    r: 406,
+    r: 414,
     s: "Google Books",
     sc: "Books",
     t: "gb",
@@ -39710,7 +39701,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "gamebanana.com",
-    r: 0,
+    r: 3,
     s: "GAMEBANANA",
     sc: "Games (general)",
     t: "gbn",
@@ -39728,7 +39719,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.google.com",
-    r: 73,
+    r: 72,
     s: "Books.google.com",
     sc: "Reference",
     t: "gbooks",
@@ -39773,7 +39764,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.br",
-    r: 800,
+    r: 741,
     s: "Google BR",
     sc: "Google",
     t: "gbr",
@@ -39791,7 +39782,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugs.gentoo.org",
-    r: 23,
+    r: 25,
     s: "Gentoo's Bugzilla",
     sc: "Programming",
     t: "gbugs",
@@ -39809,7 +39800,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.ca",
-    r: 710,
+    r: 773,
     s: "Google CA",
     sc: "Google",
     t: "gca",
@@ -39818,7 +39809,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "calendar.google.com",
-    r: 1491,
+    r: 1284,
     s: "Google Calendar",
     sc: "Google",
     t: "gcal",
@@ -39827,7 +39818,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.cat",
-    r: 0,
+    r: 5,
     s: "Google Catalan",
     sc: "Google",
     t: "gcat",
@@ -39863,7 +39854,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "contacts.google.com",
-    r: 90,
+    r: 103,
     s: "Google Contacts",
     sc: "Google",
     t: "gc",
@@ -39872,7 +39863,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.ch",
-    r: 224,
+    r: 145,
     s: "Google CH",
     sc: "Google",
     t: "gch",
@@ -39908,7 +39899,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.cl",
-    r: 442,
+    r: 457,
     s: "Google CL",
     sc: "Google",
     t: "gcl",
@@ -39962,7 +39953,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "contacts.google.com",
-    r: 4,
+    r: 11,
     s: "Google Contacts",
     sc: "Google",
     t: "gcontact",
@@ -39971,7 +39962,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "cloud.google.com",
-    r: 5,
+    r: 3,
     s: "Google Cloud Platform",
     sc: "Programming",
     t: "gcp",
@@ -39989,7 +39980,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "cloudsearch.google.com",
-    r: 75,
+    r: 46,
     s: "Google Cloud Search",
     sc: "Google",
     t: "gcs",
@@ -40043,7 +40034,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.cz",
-    r: 11,
+    r: 32,
     s: "Google CZ",
     sc: "Google",
     t: "gcz",
@@ -40070,7 +40061,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.godotengine.org",
-    r: 6,
+    r: 3,
     s: "Godot Engine Documentation",
     sc: "Programming",
     t: "gdd",
@@ -40088,7 +40079,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 63,
+    r: 55,
     s: "Google define",
     sc: "Google",
     t: "gdef",
@@ -40097,7 +40088,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.de",
-    r: 5731,
+    r: 4346,
     s: "Google DE",
     sc: "Google",
     t: "gde",
@@ -40133,7 +40124,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "docs.google.com",
-    r: 411,
+    r: 225,
     s: "Google Docs",
     sc: "Google",
     t: "gd",
@@ -40169,7 +40160,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.dk",
-    r: 55,
+    r: 88,
     s: "Google DK",
     sc: "Google",
     t: "gdk",
@@ -40205,7 +40196,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.google.com",
-    r: 377,
+    r: 320,
     s: "Google Docs",
     sc: "Startups",
     t: "gdocs",
@@ -40241,7 +40232,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "drive.google.com",
-    r: 1063,
+    r: 903,
     s: "Google Drive",
     sc: "Google",
     t: "gdrive",
@@ -40259,7 +40250,7 @@ export const bangs = [
   {
     c: "Research",
     d: "gdt.oqlf.gouv.qc.ca",
-    r: 11,
+    r: 8,
     s: "Grand Dictionnaire Terminologique",
     sc: "Reference (words intl)",
     t: "gdt",
@@ -40304,7 +40295,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ffxiv.gamerescape.com",
-    r: 0,
+    r: 10,
     s: "Gamers Escape FFXIV",
     sc: "Games (specific)",
     t: "gearr",
@@ -40313,7 +40304,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.google.com.ec",
-    r: 0,
+    r: 8,
     s: "Google Ecuador",
     sc: "Local",
     t: "gec",
@@ -40322,7 +40313,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.coingecko.com",
-    r: 261,
+    r: 50,
     s: "CoinGecko",
     sc: "Tools",
     t: "gecko",
@@ -40349,7 +40340,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.ee",
-    r: 0,
+    r: 4,
     s: "Google EE",
     sc: "Google",
     t: "gee",
@@ -40376,7 +40367,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.geeks-curiosity.net",
-    r: 0,
+    r: 4,
     s: "Geek's Curiosity",
     sc: "Misc",
     t: "geek",
@@ -40412,7 +40403,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 5,
+    r: 0,
     s: "Google Translate German to English",
     sc: "Google",
     t: "geen",
@@ -40439,7 +40430,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 72,
+    r: 67,
     s: "Google Encrypted",
     sc: "Google",
     t: "ge",
@@ -40448,7 +40439,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "geizhals.eu",
-    r: 198,
+    r: 210,
     s: "Geizhals",
     sc: "Online (deals)",
     t: "geiz",
@@ -40457,7 +40448,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "geizhals.at",
-    r: 6,
+    r: 0,
     s: "Geizhals",
     sc: "Online",
     t: "geizhalsat",
@@ -40466,7 +40457,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "geizhals.de",
-    r: 83,
+    r: 95,
     s: "geizhals.de",
     sc: "Online (deals)",
     t: "geizhalsde",
@@ -40475,7 +40466,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "geizhals.at",
-    r: 96,
+    r: 146,
     s: "Geizhals",
     sc: "Online (intl)",
     t: "geizhals",
@@ -40511,7 +40502,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "rubygems.org",
-    r: 431,
+    r: 392,
     s: "RubyGems",
     sc: "Languages (ruby)",
     t: "gem",
@@ -40520,7 +40511,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "rubygems.org",
-    r: 9,
+    r: 12,
     s: "RubyGems",
     sc: "Languages (ruby)",
     t: "gems",
@@ -40538,7 +40529,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 0,
+    r: 4,
     s: "GenBank Database",
     sc: "Academic",
     t: "genbank",
@@ -40574,7 +40565,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 6,
+    r: 12,
     s: "NCBI",
     sc: "Reference (science)",
     t: "gene",
@@ -40592,7 +40583,7 @@ export const bangs = [
   {
     c: "Research",
     d: "gen.lib.rus.ec",
-    r: 8,
+    r: 0,
     s: "Librery Genesis",
     sc: "Academic",
     t: "genesis",
@@ -40601,7 +40592,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "genius.com",
-    r: 828,
+    r: 767,
     s: "Genius",
     sc: "Audio",
     t: "gen",
@@ -40610,7 +40601,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.glosbe.com",
-    r: 4,
+    r: 0,
     s: "Glosbe",
     sc: "Reference (words intl)",
     t: "genhu",
@@ -40628,7 +40619,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "genius.com",
-    r: 2388,
+    r: 2192,
     s: "genius.com",
     sc: "Music (Lyrics)",
     t: "genius",
@@ -40646,7 +40637,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "packages.gentoo.org",
-    r: 21,
+    r: 32,
     s: "Gentoo Packages",
     sc: "Search",
     t: "genpkg",
@@ -40655,7 +40646,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.gentoo.org",
-    r: 234,
+    r: 206,
     s: "Gentoo Wiki",
     sc: "Sysadmin (Gentoo)",
     t: "gentoo",
@@ -40664,7 +40655,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.gentoo.org",
-    r: 51,
+    r: 93,
     s: "https://packages.gentoo.org/",
     sc: "Sysadmin (Gentoo)",
     t: "gentoopkg",
@@ -40673,7 +40664,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.gentoo.org",
-    r: 5,
+    r: 22,
     s: "gentoo wiki",
     sc: "Sysadmin (Gentoo)",
     t: "gentoowiki",
@@ -40727,7 +40718,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.infosniper.net",
-    r: 23,
+    r: 11,
     s: "InfoSniper",
     sc: "Sysadmin (packages)",
     t: "geoip",
@@ -40745,7 +40736,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.geonames.org",
-    r: 0,
+    r: 4,
     s: "GeoNames",
     sc: "Reference",
     t: "geonames",
@@ -40754,7 +40745,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 9,
+    r: 0,
     s: "NCBI Gene Expresion Omnibus",
     sc: "Academic",
     t: "geo",
@@ -40772,7 +40763,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.zeno.org",
-    r: 0,
+    r: 3,
     s: "Zeno.org - Georges 1913",
     sc: "Learning (intl)",
     t: "georges",
@@ -40781,7 +40772,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "iplookup.flagfox.net",
-    r: 4,
+    r: 0,
     s: "Geotool",
     sc: "Tools (URLs)",
     t: "geotool",
@@ -40799,7 +40790,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.es",
-    r: 1905,
+    r: 1273,
     s: "Google Spain",
     sc: "Google",
     t: "ges",
@@ -40817,7 +40808,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.getchu.com",
-    r: 0,
+    r: 29,
     s: "Getchu.com",
     sc: "Online",
     t: "getchu",
@@ -40880,7 +40871,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.gettyimages.com",
-    r: 18,
+    r: 6,
     s: "Getty Images",
     sc: "Online (marketplace)",
     t: "getty",
@@ -40934,7 +40925,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gamefaqs.com",
-    r: 0,
+    r: 5,
     s: "GameFAQS.com",
     sc: "Games (general)",
     t: "gfaqs",
@@ -40961,7 +40952,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "geriafurch.bzh",
-    r: 7,
+    r: 0,
     s: "Geriafurch",
     sc: "General",
     t: "gffb",
@@ -40970,7 +40961,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.geeksforgeeks.org",
-    r: 21,
+    r: 19,
     s: "geeksforgeeks",
     sc: "Programming",
     t: "gfg",
@@ -40979,11 +40970,11 @@ export const bangs = [
   {
     c: "Online Services",
     d: "finance.google.com",
-    r: 2021,
+    r: 1426,
     s: "Google Finance",
     sc: "Google",
     t: "gf",
-    u: "http://finance.google.com/?q={{{s}}}&sa=N&tab=fe",
+    u: "https://finance.google.com/?q={{{s}}}&sa=N&tab=fe",
   },
   {
     c: "News",
@@ -41006,7 +40997,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.fi",
-    r: 436,
+    r: 348,
     s: "Google finland",
     sc: "Google",
     t: "gfi",
@@ -41015,11 +41006,11 @@ export const bangs = [
   {
     c: "Online Services",
     d: "finance.google.com",
-    r: 38,
+    r: 14,
     s: "Google Finance",
     sc: "Google",
     t: "gfinance",
-    u: "http://finance.google.com/?q={{{s}}}&sa=N&tab=fe",
+    u: "https://finance.google.com/?q={{{s}}}&sa=N&tab=fe",
   },
   {
     c: "Tech",
@@ -41033,7 +41024,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 26,
+    r: 20,
     s: "Google Flights",
     sc: "Google",
     t: "gfl",
@@ -41042,7 +41033,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.google.com",
-    r: 44,
+    r: 30,
     s: "Google Flights",
     sc: "Travel",
     t: "gflights",
@@ -41051,7 +41042,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "fonts.google.com",
-    r: 0,
+    r: 13,
     s: "Google font",
     sc: "Google",
     t: "gfont",
@@ -41060,7 +41051,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "fonts.google.com",
-    r: 22,
+    r: 23,
     s: "Google Fonts",
     sc: "Design",
     t: "gfonts",
@@ -41069,7 +41060,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "greasyfork.org",
-    r: 4,
+    r: 8,
     s: "Greasy Fork",
     sc: "Tools",
     t: "gfork",
@@ -41087,7 +41078,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.fr",
-    r: 4095,
+    r: 3368,
     s: "Google FR",
     sc: "Google",
     t: "gfr",
@@ -41123,7 +41114,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.reddit.com",
-    r: 5,
+    r: 13,
     s: "/r/GfycatDepot",
     sc: "Images",
     t: "gfycatdepot",
@@ -41141,7 +41132,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.geogebra.org",
-    r: 3,
+    r: 10,
     s: "Geogebra",
     sc: "Design",
     t: "ggb",
@@ -41168,7 +41159,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.gp",
-    r: 0,
+    r: 4,
     s: "Google Guadeloupe",
     sc: "Google",
     t: "ggd",
@@ -41177,7 +41168,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "groups.google.com",
-    r: 209,
+    r: 219,
     s: "Google Groups",
     sc: "Google",
     t: "gg",
@@ -41186,7 +41177,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "google.com",
-    r: 54,
+    r: 114,
     s: "Google Images (Animated)",
     sc: "Images",
     t: "ggif",
@@ -41213,7 +41204,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 1942262,
+    r: 1742255,
     s: "Google",
     sc: "Google",
     t: "g",
@@ -41231,7 +41222,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.gr",
-    r: 23,
+    r: 19,
     s: "Google GR",
     sc: "Google",
     t: "ggr",
@@ -41249,7 +41240,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "groups.google.com",
-    r: 4,
+    r: 0,
     s: "Google Groups",
     sc: "Google",
     t: "ggroups",
@@ -41258,7 +41249,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.ghacks.net",
-    r: 21,
+    r: 24,
     s: "Ghacks",
     sc: "Blogs",
     t: "ghacks",
@@ -41276,7 +41267,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "geizhals.at",
-    r: 42,
+    r: 20,
     s: "Geizhals \u00d6sterreich",
     sc: "Online (deals)",
     t: "ghat",
@@ -41285,7 +41276,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 96,
+    r: 87,
     s: "GitHub Code",
     sc: "Programming",
     t: "ghc",
@@ -41294,7 +41285,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 49,
+    r: 43,
     s: "Github (code search)",
     sc: "Programming",
     t: "ghcode",
@@ -41303,7 +41294,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "geizhals.de",
-    r: 345,
+    r: 261,
     s: "Geizhals",
     sc: "Online",
     t: "ghde",
@@ -41312,7 +41303,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 15975,
+    r: 13956,
     s: "GitHub",
     sc: "Programming",
     t: "gh",
@@ -41339,7 +41330,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.hk",
-    r: 854,
+    r: 1582,
     s: "Google HK",
     sc: "Google",
     t: "ghk",
@@ -41375,7 +41366,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 8,
+    r: 4,
     s: "GitHub Repo",
     sc: "Programming",
     t: "ghrepo",
@@ -41384,7 +41375,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 26,
+    r: 139,
     s: "Github",
     sc: "Programming",
     t: "ghr",
@@ -41402,7 +41393,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 0,
+    r: 7,
     s: "GitHub Topic",
     sc: "Programming",
     t: "ghtopic",
@@ -41420,7 +41411,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.hu",
-    r: 28,
+    r: 22,
     s: "Google HU",
     sc: "Google",
     t: "ghu",
@@ -41429,7 +41420,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 3,
+    r: 0,
     s: "GitHub",
     sc: "Programming",
     t: "ghuser",
@@ -41438,7 +41429,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 42,
+    r: 58,
     s: "Github User",
     sc: "Programming",
     t: "ghus",
@@ -41465,7 +41456,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.giantbomb.com",
-    r: 3,
+    r: 0,
     s: "GiantBomb",
     sc: "Games (general)",
     t: "giantbomb",
@@ -41519,7 +41510,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "gibiru.com",
-    r: 18,
+    r: 19,
     s: "Gibiru",
     sc: "Search (Private)",
     t: "gib",
@@ -41546,7 +41537,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.id",
-    r: 5,
+    r: 9,
     s: "Google ID",
     sc: "Google",
     t: "gid",
@@ -41555,7 +41546,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.ie",
-    r: 60,
+    r: 29,
     s: "Google IE",
     sc: "Google",
     t: "gie",
@@ -41582,7 +41573,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "gifcities.org",
-    r: 3,
+    r: 0,
     s: "Gifcities",
     sc: "General",
     t: "gifcities",
@@ -41609,7 +41600,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "giphy.com",
-    r: 243,
+    r: 194,
     s: "Giphy",
     sc: "Images",
     t: "gif",
@@ -41618,7 +41609,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 0,
+    r: 101,
     s: "Google: I'm Feeling Lucky",
     sc: "Google",
     t: "gifl",
@@ -41672,7 +41663,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.gigantti.fi",
-    r: 4,
+    r: 0,
     s: "Gigantti Finland",
     sc: "Online",
     t: "gigantti",
@@ -41690,7 +41681,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 52329,
+    r: 46726,
     s: "Google Images",
     sc: "Google",
     t: "gi",
@@ -41699,7 +41690,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.gesetze-im-internet.de",
-    r: 30,
+    r: 14,
     s: "Gesetze im Internet",
     sc: "Law",
     t: "gii",
@@ -41708,7 +41699,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.il",
-    r: 0,
+    r: 3,
     s: "Google IL",
     sc: "Google",
     t: "gik",
@@ -41726,7 +41717,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 502,
+    r: 579,
     s: "Google Images",
     sc: "Google",
     t: "gimages",
@@ -41735,7 +41726,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 937,
+    r: 767,
     s: "Google Images",
     sc: "Google",
     t: "gimg",
@@ -41744,7 +41735,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 696,
+    r: 665,
     s: "Google Images",
     sc: "Google",
     t: "gim",
@@ -41753,7 +41744,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.in",
-    r: 276,
+    r: 27,
     s: "Google India",
     sc: "Google",
     t: "gin",
@@ -41762,7 +41753,7 @@ export const bangs = [
   {
     c: "Research",
     d: "glosbe.com",
-    r: 3,
+    r: 5,
     s: "Glosbe",
     sc: "Reference (words)",
     t: "gip",
@@ -41771,7 +41762,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "giphy.com",
-    r: 318,
+    r: 382,
     s: "Giphy",
     sc: "Images",
     t: "giphy",
@@ -41789,7 +41780,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dearcomputer.nl",
-    r: 4,
+    r: 0,
     s: "Dear Computer Google Image Ripper SFW",
     sc: "Search",
     t: "gir",
@@ -41798,7 +41789,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 6,
+    r: 0,
     s: "Google Images (Safe Off)",
     sc: "Google",
     t: "gisafeoff",
@@ -41807,7 +41798,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 357,
+    r: 405,
     s: "Google Image Search",
     sc: "Google",
     t: "gis",
@@ -41816,7 +41807,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 173,
+    r: 233,
     s: "Google Images (Safe Off)",
     sc: "Google",
     t: "gisoff",
@@ -41843,7 +41834,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "gist.github.com",
-    r: 48,
+    r: 72,
     s: "Github Gists",
     sc: "Programming",
     t: "gist",
@@ -41870,7 +41861,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 1965,
+    r: 1615,
     s: "Github",
     sc: "Programming",
     t: "git",
@@ -41879,7 +41870,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 2132,
+    r: 1583,
     s: "GitHub.com",
     sc: "Downloads (code)",
     t: "github",
@@ -41897,7 +41888,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 3,
+    r: 0,
     s: "Github Stars",
     sc: "Programming",
     t: "githubstars",
@@ -41906,7 +41897,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.gitignore.io",
-    r: 4,
+    r: 6,
     s: "gitignore.io",
     sc: "Programming",
     t: "gitignore",
@@ -41924,7 +41915,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "gitlab.com",
-    r: 52,
+    r: 46,
     s: "GitLab",
     sc: "Downloads (code)",
     t: "gitlab",
@@ -41933,7 +41924,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.it",
-    r: 104,
+    r: 90,
     s: "Google IT",
     sc: "Google",
     t: "gitl",
@@ -41951,7 +41942,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "git-scm.com",
-    r: 6,
+    r: 10,
     s: "Git",
     sc: "Programming",
     t: "git-scm",
@@ -41969,7 +41960,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.uk",
-    r: 0,
+    r: 4,
     s: "Google Images UK",
     sc: "Google",
     t: "giuk",
@@ -41978,7 +41969,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.google.com",
-    r: 0,
+    r: 3,
     s: "Google Image",
     sc: "Images",
     t: "giurl",
@@ -42032,7 +42023,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.jp",
-    r: 1247,
+    r: 1654,
     s: "Google Japan",
     sc: "Google",
     t: "gj",
@@ -42041,7 +42032,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.jp",
-    r: 142,
+    r: 150,
     s: "Google JP",
     sc: "Google",
     t: "gjp",
@@ -42050,7 +42041,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gamekult.com",
-    r: 12,
+    r: 9,
     s: "Gamekult",
     sc: "Games (general)",
     t: "gk",
@@ -42059,7 +42050,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.kr",
-    r: 140,
+    r: 13,
     s: "Google KR",
     sc: "Google",
     t: "gkr",
@@ -42068,7 +42059,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "gitlab.com",
-    r: 41,
+    r: 19,
     s: "GitLab",
     sc: "Programming",
     t: "glab",
@@ -42086,7 +42077,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.glassdoor.com",
-    r: 20,
+    r: 8,
     s: "Glassdoor",
     sc: "Jobs",
     t: "glassdoor",
@@ -42104,7 +42095,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.glassdoor.com",
-    r: 10,
+    r: 6,
     s: "Glassdoor",
     sc: "Jobs",
     t: "gld",
@@ -42167,7 +42158,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.globalresearch.ca",
-    r: 0,
+    r: 4,
     s: "Global Research",
     sc: "Newspaper (intl)",
     t: "global",
@@ -42203,7 +42194,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "local.google.com",
-    r: 6,
+    r: 0,
     s: "Google Local",
     sc: "Google",
     t: "glocal",
@@ -42212,7 +42203,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.opengl.org",
-    r: 49,
+    r: 32,
     s: "OpenGL",
     sc: "Libraries/Frameworks",
     t: "gl",
@@ -42284,7 +42275,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 9,
+    r: 4,
     s: "golang.org",
     sc: "Languages (go)",
     t: "gls",
@@ -42293,7 +42284,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.lt",
-    r: 0,
+    r: 3,
     s: "Google LT",
     sc: "Google",
     t: "glt",
@@ -42302,7 +42293,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 0,
+    r: 29,
     s: "Google Feeling Lucky",
     sc: "Google",
     t: "gluck",
@@ -42311,7 +42302,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.lu",
-    r: 30,
+    r: 6,
     s: "Google Luxembourg",
     sc: "Google",
     t: "glu",
@@ -42329,7 +42320,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.lv",
-    r: 3,
+    r: 0,
     s: "Google LV",
     sc: "Google",
     t: "glv",
@@ -42356,7 +42347,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.google.com",
-    r: 706,
+    r: 769,
     s: "Gmail",
     sc: "Google",
     t: "gma",
@@ -42365,7 +42356,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.google.com",
-    r: 7271,
+    r: 6510,
     s: "GMail.com",
     sc: "Google",
     t: "gmail",
@@ -42374,7 +42365,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.google.com",
-    r: 4,
+    r: 7,
     s: "Gmail",
     sc: "Google",
     t: "gmailh",
@@ -42401,7 +42392,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.google.com",
-    r: 2271,
+    r: 2329,
     s: "Google Maps",
     sc: "Google",
     t: "gmap",
@@ -42410,7 +42401,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.google.com",
-    r: 10576,
+    r: 10481,
     s: "Google Maps",
     sc: "Google",
     t: "gmaps",
@@ -42437,7 +42428,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.au",
-    r: 49,
+    r: 30,
     s: "Google Maps Australia",
     sc: "Maps",
     t: "gmau",
@@ -42446,7 +42437,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.ca",
-    r: 4,
+    r: 6,
     s: "Google Maps Canada",
     sc: "Maps",
     t: "gmca",
@@ -42455,7 +42446,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 0,
+    r: 24,
     s: "Google Maps Classic",
     sc: "Maps",
     t: "gmc",
@@ -42473,7 +42464,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.de",
-    r: 40,
+    r: 26,
     s: "Google Maps DE",
     sc: "Maps",
     t: "gmde",
@@ -42482,7 +42473,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 8,
+    r: 0,
     s: "Google Maps Directions With Two Addresses",
     sc: "Maps",
     t: "gmd",
@@ -42491,7 +42482,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 7,
+    r: 10,
     s: "Google Maps Directions",
     sc: "Maps",
     t: "gmdir",
@@ -42509,7 +42500,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.fr",
-    r: 39,
+    r: 20,
     s: "maps.google.com",
     sc: "Maps",
     t: "gmfr",
@@ -42527,7 +42518,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.greenmangaming.com",
-    r: 6,
+    r: 5,
     s: "greenmangaming.com",
     sc: "Online",
     t: "gmg",
@@ -42536,7 +42527,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 55096,
+    r: 53948,
     s: "Google Maps",
     sc: "Maps",
     t: "gm",
@@ -42545,7 +42536,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.il",
-    r: 5,
+    r: 8,
     s: "Google Maps Israel",
     sc: "Google",
     t: "gmil",
@@ -42554,7 +42545,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.it",
-    r: 3,
+    r: 6,
     s: "Google Maps",
     sc: "Google",
     t: "gmit",
@@ -42608,7 +42599,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 26,
+    r: 25,
     s: "Google (Past Month)",
     sc: "Google",
     t: "gmonth",
@@ -42617,7 +42608,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "geekmps.fr",
-    r: 5,
+    r: 4,
     s: "GeekMPS",
     sc: "Blogs",
     t: "gmps",
@@ -42635,7 +42626,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.si",
-    r: 4,
+    r: 0,
     s: "Google Maps SI",
     sc: "Maps",
     t: "gmsi",
@@ -42644,7 +42635,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.tw",
-    r: 43,
+    r: 33,
     s: "Google map (Taiwan)",
     sc: "Maps",
     t: "gmtw",
@@ -42671,7 +42662,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.mx",
-    r: 6,
+    r: 0,
     s: "Google",
     sc: "Google",
     t: "gmx",
@@ -42680,7 +42671,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.my",
-    r: 0,
+    r: 3,
     s: "Google MY",
     sc: "Google",
     t: "gmy",
@@ -42743,7 +42734,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 52,
+    r: 25,
     s: "Google No Country Redirect",
     sc: "Google",
     t: "gncr",
@@ -42761,7 +42752,7 @@ export const bangs = [
   {
     c: "News",
     d: "news.google.com",
-    r: 122,
+    r: 103,
     s: "Google News Germany",
     sc: "Aggregators",
     t: "gnde",
@@ -42770,7 +42761,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.google.es",
-    r: 0,
+    r: 3,
     s: "Google News Spain",
     sc: "Aggregators",
     t: "gnes",
@@ -42779,7 +42770,7 @@ export const bangs = [
   {
     c: "News",
     d: "news.google.com",
-    r: 1605,
+    r: 1107,
     s: "Google News",
     sc: "Aggregators",
     t: "gnews",
@@ -42788,7 +42779,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.fr",
-    r: 25,
+    r: 38,
     s: "Google News French",
     sc: "Google",
     t: "gnfr",
@@ -42797,7 +42788,7 @@ export const bangs = [
   {
     c: "News",
     d: "news.google.com",
-    r: 9757,
+    r: 8067,
     s: "Google News",
     sc: "Aggregators",
     t: "gn",
@@ -42806,7 +42797,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.google.it",
-    r: 20,
+    r: 23,
     s: "Google News Italian",
     sc: "Aggregators",
     t: "gnit",
@@ -42815,7 +42806,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.nl",
-    r: 454,
+    r: 392,
     s: "Google NL",
     sc: "Google",
     t: "gnl",
@@ -42833,7 +42824,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 0,
+    r: 5,
     s: "Google News (mobile)",
     sc: "Google",
     t: "gnm",
@@ -42851,7 +42842,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.no",
-    r: 77,
+    r: 51,
     s: "Google NO",
     sc: "Google",
     t: "gno",
@@ -42878,7 +42869,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "live.gnome.org",
-    r: 5,
+    r: 3,
     s: "GNOME Live",
     sc: "Sysadmin",
     t: "gnome",
@@ -42932,7 +42923,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.gnu.org",
-    r: 8,
+    r: 5,
     s: "GNU",
     sc: "Sysadmin",
     t: "gnu",
@@ -42941,7 +42932,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.google.co.uk",
-    r: 48,
+    r: 0,
     s: "Google News UK",
     sc: "Aggregators",
     t: "gnuk",
@@ -42950,7 +42941,7 @@ export const bangs = [
   {
     c: "News",
     d: "news.google.com",
-    r: 19,
+    r: 14,
     s: "Google News",
     sc: "Aggregators",
     t: "gnus",
@@ -42959,7 +42950,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.nz",
-    r: 120,
+    r: 138,
     s: "Google New Zealand",
     sc: "Google",
     t: "gnz",
@@ -43022,7 +43013,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.godaddy.com",
-    r: 4,
+    r: 0,
     s: "godaddy",
     sc: "Domains",
     t: "godaddy",
@@ -43040,7 +43031,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gutsofdarkness.com",
-    r: 3,
+    r: 6,
     s: "Guts of Darkness",
     sc: "Audio",
     t: "god",
@@ -43058,7 +43049,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "godoc.org",
-    r: 132,
+    r: 138,
     s: "GoDoc",
     sc: "Languages (go)",
     t: "godoc",
@@ -43067,7 +43058,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.godotengine.org",
-    r: 99,
+    r: 41,
     s: "Godot Docs",
     sc: "Programming",
     t: "godot",
@@ -43130,7 +43121,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gogdb.org",
-    r: 32,
+    r: 59,
     s: "GOG Database",
     sc: "Games (general)",
     t: "gogdb",
@@ -43139,7 +43130,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gog.com",
-    r: 189,
+    r: 211,
     s: "GOG.com",
     sc: "Games (general)",
     t: "gog",
@@ -43148,7 +43139,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "mail.google.com",
-    r: 1024,
+    r: 1088,
     s: "Gmail",
     sc: "Downloads (apps)",
     t: "go",
@@ -43184,7 +43175,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "golang.org",
-    r: 20,
+    r: 16,
     s: "Go Programming Language",
     sc: "Languages (go)",
     t: "golang",
@@ -43220,7 +43211,7 @@ export const bangs = [
   {
     c: "Research",
     d: "goldbook.iupac.org",
-    r: 3,
+    r: 0,
     s: "IUPAC Gold Book",
     sc: "Reference (science)",
     t: "gold",
@@ -43247,7 +43238,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gamingonlinux.com",
-    r: 37,
+    r: 12,
     s: "GamingOnLinux",
     sc: "Games (general)",
     t: "gol",
@@ -43283,7 +43274,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "m.banggood.com",
-    r: 5,
+    r: 32,
     s: "Banggood",
     sc: "Online",
     t: "good",
@@ -43337,7 +43328,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.goodreads.com",
-    r: 698,
+    r: 568,
     s: "GoodReads",
     sc: "Books",
     t: "goodreads",
@@ -43391,7 +43382,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "fonts.google.com",
-    r: 5,
+    r: 7,
     s: "Google Fonts",
     sc: "Google",
     t: "googlefonts",
@@ -43409,7 +43400,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 49174,
+    r: 40678,
     s: "Google",
     sc: "Google",
     t: "google",
@@ -43418,7 +43409,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 157,
+    r: 116,
     s: "Google Images",
     sc: "Google",
     t: "googleimages",
@@ -43427,7 +43418,7 @@ export const bangs = [
   {
     c: "Research",
     d: "google.com",
-    r: 28,
+    r: 6,
     s: "Google Image",
     sc: "Reference",
     t: "googleimg",
@@ -43454,7 +43445,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.jp",
-    r: 34,
+    r: 19,
     s: "Google Japan",
     sc: "Google",
     t: "googlejp",
@@ -43472,7 +43463,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.google.com",
-    r: 12,
+    r: 16,
     s: "Google Maps",
     sc: "Google",
     t: "googlemap",
@@ -43481,7 +43472,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.google.com",
-    r: 396,
+    r: 407,
     s: "Google Maps",
     sc: "Google",
     t: "googlemaps",
@@ -43499,7 +43490,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "play.google.com",
-    r: 11,
+    r: 10,
     s: "Google Play Store",
     sc: "Tech",
     t: "googleplay",
@@ -43517,7 +43508,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.pt",
-    r: 4,
+    r: 0,
     s: "Google Portugal",
     sc: "Google",
     t: "googlept",
@@ -43526,7 +43517,7 @@ export const bangs = [
   {
     c: "Research",
     d: "scholar.google.com",
-    r: 124,
+    r: 133,
     s: "Google Scholar",
     sc: "Academic",
     t: "googlescholar",
@@ -43553,7 +43544,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.google.com.tr",
-    r: 0,
+    r: 3,
     s: "Google Turkey",
     sc: "General",
     t: "googletr",
@@ -43562,7 +43553,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.uk",
-    r: 224,
+    r: 55,
     s: "Google UK",
     sc: "Google",
     t: "googleuk",
@@ -43571,7 +43562,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.goo.ne.jp",
-    r: 16,
+    r: 19,
     s: "goo\u691c\u7d22",
     sc: "Search (non-US)",
     t: "goo",
@@ -43580,7 +43571,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 91,
+    r: 148,
     s: "unencrypted google search",
     sc: "Google",
     t: "goog",
@@ -43589,7 +43580,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.goo.ne.jp",
-    r: 60,
+    r: 0,
     s: "Goo Jisho",
     sc: "Reference (words intl)",
     t: "gooj",
@@ -43598,7 +43589,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dictionary.goo.ne.jp",
-    r: 3,
+    r: 0,
     s: "Goo\u56fd\u8a9e\u8f9e\u5178\u691c\u7d22",
     sc: "Tools",
     t: "gookokugo",
@@ -43652,7 +43643,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "golang.org",
-    r: 165,
+    r: 129,
     s: "golang.org",
     sc: "Languages (go)",
     t: "gopkg",
@@ -43742,7 +43733,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "gathering.tweakers.net",
-    r: 24,
+    r: 22,
     s: "Gathering of Tweakers",
     sc: "Companies",
     t: "got",
@@ -43778,7 +43769,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.gotquestions.org",
-    r: 50,
+    r: 19,
     s: "GotQuestions",
     sc: "Reference (religion)",
     t: "gotquestions",
@@ -43841,7 +43832,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.gov.uk",
-    r: 14,
+    r: 11,
     s: "GOV.UK",
     sc: "Government",
     t: "govuk",
@@ -43868,7 +43859,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.gentoo.org",
-    r: 33,
+    r: 17,
     s: "Gentoo Packages",
     sc: "Sysadmin (Gentoo)",
     t: "gpackages",
@@ -43886,7 +43877,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "play.google.com",
-    r: 0,
+    r: 4,
     s: "Google Play Apps",
     sc: "Google",
     t: "gpa",
@@ -43895,7 +43886,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 82,
+    r: 36,
     s: "Google Patents",
     sc: "Google",
     t: "gpat",
@@ -43940,7 +43931,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "go.pkgdoc.org",
-    r: 4,
+    r: 0,
     s: "GoPkgDoc",
     sc: "Languages (go)",
     t: "gpd",
@@ -43976,7 +43967,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.pe",
-    r: 4,
+    r: 24,
     s: "Google PE",
     sc: "Google",
     t: "gpe",
@@ -44003,7 +43994,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "http-keys.gnupg.net",
-    r: 0,
+    r: 8,
     s: "GPG Key search",
     sc: "Search",
     t: "gpg",
@@ -44012,7 +44003,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "play.google.com",
-    r: 196,
+    r: 189,
     s: "Google Play",
     sc: "Downloads (apps)",
     t: "gp",
@@ -44030,7 +44021,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.ph",
-    r: 0,
+    r: 6,
     s: "Google Philippines",
     sc: "Google",
     t: "gph",
@@ -44039,7 +44030,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "photos.google.com",
-    r: 114,
+    r: 143,
     s: "Google Photos",
     sc: "Images",
     t: "gphotos",
@@ -44048,7 +44039,7 @@ export const bangs = [
   {
     c: "Research",
     d: "glosbe.com",
-    r: 0,
+    r: 3,
     s: "Glosbe",
     sc: "Reference (words)",
     t: "gpi",
@@ -44075,7 +44066,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "golang.org",
-    r: 23,
+    r: 35,
     s: "Go Package Reference",
     sc: "Languages (go)",
     t: "gpk",
@@ -44084,7 +44075,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "play.google.com",
-    r: 91,
+    r: 102,
     s: "Google Play Store",
     sc: "Google",
     t: "gplay",
@@ -44102,7 +44093,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.pl",
-    r: 394,
+    r: 386,
     s: "Google PL",
     sc: "Google",
     t: "gpl",
@@ -44156,7 +44147,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "gpo.zugaina.org",
-    r: 35,
+    r: 50,
     s: "Gentoo Portage Overlays",
     sc: "Sysadmin (Gentoo)",
     t: "gpo",
@@ -44192,7 +44183,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.google.com",
-    r: 12,
+    r: 43,
     s: "Google Product Search",
     sc: "Online",
     t: "gps",
@@ -44210,7 +44201,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.pt",
-    r: 223,
+    r: 210,
     s: "Google PT",
     sc: "Google",
     t: "gpt",
@@ -44237,7 +44228,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.gq.com",
-    r: 6,
+    r: 5,
     s: "GQ",
     sc: "Magazine (fashion)",
     t: "gq",
@@ -44309,7 +44300,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.grailed.com",
-    r: 66,
+    r: 0,
     s: "grailed",
     sc: "Online (marketplace)",
     t: "grailed",
@@ -44318,7 +44309,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.grainger.com",
-    r: 6,
+    r: 5,
     s: "Grainger",
     sc: "Services",
     t: "grainger",
@@ -44345,7 +44336,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "graphemica.com",
-    r: 8,
+    r: 0,
     s: "Graphemica",
     sc: "Tools",
     t: "graphemica",
@@ -44363,7 +44354,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "graphhopper.com",
-    r: 0,
+    r: 4,
     s: "GraphHopper Maps",
     sc: "Maps",
     t: "graphhopper",
@@ -44426,7 +44417,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.goodreads.com",
-    r: 27,
+    r: 3,
     s: "goodreads",
     sc: "Books",
     t: "greads",
@@ -44435,7 +44426,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "greasyfork.org",
-    r: 7,
+    r: 3,
     s: "Greasy Fork",
     sc: "Downloads (add-ons)",
     t: "greasyfork",
@@ -44453,7 +44444,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 1063,
+    r: 914,
     s: "Reddit Google search",
     sc: "Search",
     t: "greddit",
@@ -44525,7 +44516,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.goodreads.com",
-    r: 1792,
+    r: 1951,
     s: "Goodreads",
     sc: "Books",
     t: "gr",
@@ -44534,7 +44525,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "images.google.com",
-    r: 98,
+    r: 92,
     s: "Google Reverse Image Search",
     sc: "Images",
     t: "gri",
@@ -44579,7 +44570,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "duckduckgo.com",
-    r: 4,
+    r: 0,
     s: "Le Guide du r\u00f4liste galactique",
     sc: "Games (specific)",
     t: "grog",
@@ -44588,7 +44579,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.ro",
-    r: 26,
+    r: 8,
     s: "Google RO",
     sc: "Google",
     t: "gro",
@@ -44651,7 +44642,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.groupon.com",
-    r: 0,
+    r: 4,
     s: "Groupon",
     sc: "Online (marketplace)",
     t: "groupon",
@@ -44696,7 +44687,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.grubhub.com",
-    r: 6,
+    r: 4,
     s: "Grubhub",
     sc: "Online",
     t: "grub",
@@ -44714,7 +44705,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.ru",
-    r: 84,
+    r: 107,
     s: "Google RU",
     sc: "Google",
     t: "gru",
@@ -44759,7 +44750,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.google.com.au",
-    r: 10,
+    r: 8,
     s: "Google Shopping Australia",
     sc: "Online",
     t: "gsau",
@@ -44777,7 +44768,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "scholar.google.com",
-    r: 6169,
+    r: 4795,
     s: "Google Scholar",
     sc: "Google",
     t: "gsc",
@@ -44786,7 +44777,7 @@ export const bangs = [
   {
     c: "Research",
     d: "scholar.google.com",
-    r: 1062,
+    r: 976,
     s: "Google Scholar",
     sc: "Academic",
     t: "gsch",
@@ -44795,7 +44786,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "scholar.google.com",
-    r: 1051,
+    r: 888,
     s: "Google Scholar",
     sc: "Google",
     t: "gscholar",
@@ -44804,7 +44795,7 @@ export const bangs = [
   {
     c: "Research",
     d: "scholar.google.com",
-    r: 69,
+    r: 88,
     s: "Google Scholar",
     sc: "Academic",
     t: "gschol",
@@ -44813,7 +44804,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.se",
-    r: 248,
+    r: 233,
     s: "Google SE",
     sc: "Google",
     t: "gse",
@@ -44840,7 +44831,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 2245,
+    r: 2344,
     s: "Google Shopping",
     sc: "Google",
     t: "gs",
@@ -44849,7 +44840,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "docs.google.com",
-    r: 26,
+    r: 13,
     s: "Google Spreadsheets",
     sc: "Google",
     t: "gsheet",
@@ -44858,7 +44849,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "docs.google.com",
-    r: 41,
+    r: 35,
     s: "Google Sheets",
     sc: "Google",
     t: "gsheets",
@@ -44867,7 +44858,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "docs.google.com",
-    r: 19,
+    r: 25,
     s: "Google Spreadsheets",
     sc: "Google",
     t: "gsh",
@@ -44876,7 +44867,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 106,
+    r: 132,
     s: "Google Shopping",
     sc: "Google",
     t: "gshopping",
@@ -44885,7 +44876,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.si",
-    r: 4,
+    r: 0,
     s: "Google SI",
     sc: "Google",
     t: "gsi",
@@ -44903,7 +44894,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.sk",
-    r: 11,
+    r: 48,
     s: "Google SK",
     sc: "Google",
     t: "gsk",
@@ -44912,7 +44903,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.sl",
-    r: 7,
+    r: 0,
     s: "Google SL",
     sc: "Google",
     t: "gsl",
@@ -44921,7 +44912,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "slides.google.com",
-    r: 42,
+    r: 35,
     s: "Google Slides",
     sc: "Google",
     t: "gslides",
@@ -44930,7 +44921,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.gsmarena.com",
-    r: 31,
+    r: 29,
     s: "GSM Arena",
     sc: "Companies",
     t: "gsma",
@@ -44939,7 +44930,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.gsmarena.com",
-    r: 96,
+    r: 121,
     s: "GSMArena",
     sc: "Blogs",
     t: "gsmarena",
@@ -44948,7 +44939,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.gsmarena.com",
-    r: 201,
+    r: 238,
     s: "GSMArena",
     sc: "Reference",
     t: "gsm",
@@ -44984,7 +44975,7 @@ export const bangs = [
   {
     c: "News",
     d: "de.gegenstandpunkt.com",
-    r: 0,
+    r: 3,
     s: "GegenStandpunkt Verlage",
     sc: "Magazine",
     t: "gsp",
@@ -45002,7 +44993,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "docs.google.com",
-    r: 0,
+    r: 3,
     s: "Google Spreadsheets",
     sc: "Google",
     t: "gspreadsheets",
@@ -45020,7 +45011,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 528,
+    r: 307,
     s: "Google with SSL",
     sc: "Google",
     t: "gssl",
@@ -45038,7 +45029,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.google.co.uk",
-    r: 48,
+    r: 89,
     s: "Google Shopping UK",
     sc: "Online",
     t: "gsuk",
@@ -45065,7 +45056,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 5,
+    r: 4,
     s: "Google Swedish",
     sc: "Google",
     t: "gsv",
@@ -45092,7 +45083,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ultimate-guitar.com",
-    r: 8,
+    r: 0,
     s: "Ultimate Guitar",
     sc: "Search",
     t: "gtabs",
@@ -45164,7 +45155,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 4,
+    r: 5,
     s: "Detect language to Arabic",
     sc: "Google",
     t: "gtar",
@@ -45191,7 +45182,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.gumtree.com.au",
-    r: 9,
+    r: 0,
     s: "Gumtree Australia",
     sc: "Online",
     t: "gtau",
@@ -45299,7 +45290,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 36,
+    r: 13,
     s: "Detect language to Bulgarian",
     sc: "Google",
     t: "gtbg",
@@ -45362,7 +45353,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 4,
+    r: 0,
     s: "Detect language to Catalan",
     sc: "Google",
     t: "gtca",
@@ -45443,7 +45434,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 14,
+    r: 9,
     s: "Detect language to Chinese",
     sc: "Google",
     t: "gtchinese",
@@ -45470,7 +45461,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 21,
+    r: 8,
     s: "Detect language to Czech",
     sc: "Google",
     t: "gtcs",
@@ -45515,7 +45506,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 4,
+    r: 3,
     s: "Detect language to Danish",
     sc: "Google",
     t: "gtda",
@@ -45551,7 +45542,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 78,
+    r: 39,
     s: "Detect language to German",
     sc: "Google",
     t: "gtde",
@@ -45587,7 +45578,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 406,
+    r: 362,
     s: "Detect language to English",
     sc: "Google",
     t: "gten",
@@ -45614,7 +45605,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 5,
+    r: 0,
     s: "Detect language to English",
     sc: "Google",
     t: "gt-english",
@@ -45623,7 +45614,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 5,
+    r: 0,
     s: "Detect language to English",
     sc: "Google",
     t: "gtenglish",
@@ -45650,7 +45641,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 108,
+    r: 101,
     s: "Detect language to Spanish",
     sc: "Google",
     t: "gtes",
@@ -45695,7 +45686,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 5,
+    r: 0,
     s: "Detect language to Estonian",
     sc: "Google",
     t: "gtet",
@@ -45731,7 +45722,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 5,
+    r: 4,
     s: "Detect language to Finnish",
     sc: "Google",
     t: "gtfi",
@@ -45776,7 +45767,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 173,
+    r: 158,
     s: "Detect language to French",
     sc: "Google",
     t: "gtfr",
@@ -45857,7 +45848,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 0,
+    r: 5,
     s: "Detect language to German",
     sc: "Google",
     t: "gtgerman",
@@ -45875,7 +45866,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 17949,
+    r: 15363,
     s: "Google Translate",
     sc: "Google",
     t: "gt",
@@ -45992,7 +45983,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.th",
-    r: 10,
+    r: 16,
     s: "Google TH",
     sc: "Google",
     t: "gth",
@@ -46019,7 +46010,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 6,
+    r: 0,
     s: "Detect language to Hindi",
     sc: "Google",
     t: "gthindi",
@@ -46055,7 +46046,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 13,
+    r: 3,
     s: "Detect language to Croatian",
     sc: "Google",
     t: "gthr",
@@ -46073,7 +46064,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 10,
+    r: 7,
     s: "Detect language to Hungarian",
     sc: "Google",
     t: "gthu",
@@ -46235,7 +46226,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 25,
+    r: 19,
     s: "Detect language to Italian",
     sc: "Google",
     t: "gtit",
@@ -46244,7 +46235,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 5,
+    r: 3,
     s: "Google Translate it->en",
     sc: "Google",
     t: "gtiten",
@@ -46262,7 +46253,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 17,
+    r: 18,
     s: "Detect language to Japanese",
     sc: "Google",
     t: "gtja",
@@ -46280,7 +46271,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 3,
+    r: 0,
     s: "Detect language to Japanese",
     sc: "Google",
     t: "gtjapanese",
@@ -46307,7 +46298,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 35,
+    r: 24,
     s: "Google Translate to Japanese",
     sc: "Google",
     t: "gtjp",
@@ -46325,7 +46316,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 0,
+    r: 4,
     s: "Detect language to Georgian",
     sc: "Google",
     t: "gtka",
@@ -46442,7 +46433,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 3,
+    r: 0,
     s: "Google Translate to Korean",
     sc: "Google",
     t: "gtkr",
@@ -46496,7 +46487,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 0,
+    r: 8,
     s: "Detect language to Latin",
     sc: "Google",
     t: "gtlatin",
@@ -46550,7 +46541,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 0,
+    r: 5,
     s: "Detect language to Lithuanian",
     sc: "Google",
     t: "gtlt",
@@ -46703,7 +46694,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "fr.gta5-mods.com",
-    r: 4,
+    r: 15,
     s: "Gta5-mods",
     sc: "Games (general)",
     t: "gtm",
@@ -46721,7 +46712,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 3,
+    r: 0,
     s: "Detect language to Macedonian",
     sc: "Google",
     t: "gtmk",
@@ -46865,7 +46856,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 14,
+    r: 20,
     s: "Detect language to Dutch",
     sc: "Google",
     t: "gtnl",
@@ -46883,7 +46874,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 5,
+    r: 4,
     s: "Detect language to Norwegian",
     sc: "Google",
     t: "gtno",
@@ -46946,7 +46937,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 20,
+    r: 25,
     s: "Detect language to Polish",
     sc: "Google",
     t: "gtpl",
@@ -46991,7 +46982,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 140,
+    r: 71,
     s: "Detect language to Portuguese",
     sc: "Google",
     t: "gtpt",
@@ -47018,7 +47009,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 201,
+    r: 158,
     s: "Google Translate",
     sc: "Google",
     t: "gtrad",
@@ -47027,7 +47018,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 423,
+    r: 256,
     s: "Google Translate",
     sc: "Google",
     t: "gtranslate",
@@ -47036,7 +47027,7 @@ export const bangs = [
   {
     c: "Research",
     d: "trends.google.com",
-    r: 13,
+    r: 36,
     s: "Google Trends",
     sc: "Reference",
     t: "gtrends",
@@ -47045,7 +47036,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.tr",
-    r: 27,
+    r: 28,
     s: "Google TR",
     sc: "Google",
     t: "gtr",
@@ -47054,7 +47045,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 8,
+    r: 6,
     s: "Detect language to Romanian",
     sc: "Google",
     t: "gtro",
@@ -47081,7 +47072,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 88,
+    r: 50,
     s: "Detect language to Russian",
     sc: "Google",
     t: "gtru",
@@ -47270,7 +47261,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 9,
+    r: 11,
     s: "Google Translate to Spanish",
     sc: "Google",
     t: "gtsp",
@@ -47504,7 +47495,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 17,
+    r: 22,
     s: "Detect language to Turkish",
     sc: "Google",
     t: "gttr",
@@ -47531,7 +47522,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com.tw",
-    r: 6,
+    r: 10,
     s: "Google translate (Taiwan)",
     sc: "Search",
     t: "gttw",
@@ -47540,7 +47531,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 21,
+    r: 13,
     s: "Detect language to Ukrainian",
     sc: "Google",
     t: "gtuk",
@@ -47594,7 +47585,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 115,
+    r: 68,
     s: "Google Translate URL",
     sc: "Google",
     t: "gturl",
@@ -47630,7 +47621,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 5,
+    r: 8,
     s: "Detect language to Vietnamese",
     sc: "Google",
     t: "gtvi",
@@ -47675,7 +47666,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.tw",
-    r: 1380,
+    r: 1141,
     s: "Google TW",
     sc: "Google",
     t: "gtw",
@@ -47792,7 +47783,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.ua",
-    r: 92,
+    r: 81,
     s: "Google UA",
     sc: "Google",
     t: "gua",
@@ -47819,7 +47810,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.theguardian.com",
-    r: 247,
+    r: 107,
     s: "The Guardian",
     sc: "Newspaper",
     t: "guardian",
@@ -47909,7 +47900,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.uk",
-    r: 0,
+    r: 3,
     s: "Google UK",
     sc: "Search",
     t: "g.uk",
@@ -47918,7 +47909,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.uk",
-    r: 4030,
+    r: 4076,
     s: "Google UK",
     sc: "Google",
     t: "guk",
@@ -47963,7 +47954,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.gumtree.com.au",
-    r: 4,
+    r: 0,
     s: "Gumtree Australia",
     sc: "Online (marketplace)",
     t: "gumtreeau",
@@ -47972,7 +47963,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.gumtree.com.au",
-    r: 7,
+    r: 3,
     s: "gmtr",
     sc: "Online (marketplace)",
     t: "gumtree",
@@ -47990,7 +47981,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.gumtree.com",
-    r: 10,
+    r: 0,
     s: "Gumtree UK",
     sc: "Online (marketplace)",
     t: "gumtreeuk",
@@ -48008,7 +47999,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.gunbroker.com",
-    r: 22,
+    r: 4,
     s: "GunBroker",
     sc: "Online (marketplace)",
     t: "gunbroker",
@@ -48017,7 +48008,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "gundam.wikia.com",
-    r: 13,
+    r: 0,
     s: "Gundam Wikia",
     sc: "TV",
     t: "gundam",
@@ -48026,7 +48017,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "gun.deals",
-    r: 9,
+    r: 0,
     s: "gun.deals",
     sc: "Online (deals)",
     t: "gundeals",
@@ -48080,7 +48071,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 375,
+    r: 81,
     s: "Google US",
     sc: "Google",
     t: "gus",
@@ -48107,7 +48098,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.gutenberg.org",
-    r: 35,
+    r: 26,
     s: "Project Gutenberg",
     sc: "Books",
     t: "gutenberg",
@@ -48116,7 +48107,7 @@ export const bangs = [
   {
     c: "News",
     d: "duckduckgo.com",
-    r: 67,
+    r: 57,
     s: "theguardian.com",
     sc: "Newspaper",
     t: "gu",
@@ -48152,7 +48143,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com.au",
-    r: 6,
+    r: 0,
     s: "Google Videos Australia",
     sc: "Google",
     t: "gvau",
@@ -48161,7 +48152,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 44,
+    r: 8,
     s: "Google Verbatim",
     sc: "Google",
     t: "gvb",
@@ -48170,7 +48161,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.ve",
-    r: 12,
+    r: 17,
     s: "Google VE",
     sc: "Google",
     t: "gve",
@@ -48179,7 +48170,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 1893,
+    r: 1955,
     s: "Google Video",
     sc: "Google",
     t: "gv",
@@ -48242,7 +48233,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.gw2bltc.com",
-    r: 0,
+    r: 4,
     s: "GW2BLTC",
     sc: "Games (specific)",
     t: "gw2bltc",
@@ -48278,7 +48269,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.guildwars2.com",
-    r: 419,
+    r: 558,
     s: "Guild Wars 2 Wiki",
     sc: "Games (specific)",
     t: "gw2",
@@ -48305,7 +48296,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.guildwars2.com",
-    r: 22,
+    r: 9,
     s: "Guild Wars 2 Wiki",
     sc: "Games (general)",
     t: "gw2wiki",
@@ -48323,7 +48314,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 28,
+    r: 14,
     s: "Google (Past Week)",
     sc: "Google",
     t: "gweek",
@@ -48332,7 +48323,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "en.glyphwiki.org",
-    r: 5,
+    r: 7,
     s: "GlyphWiki English",
     sc: "Design",
     t: "gwen",
@@ -48368,7 +48359,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.gentoo.org",
-    r: 265,
+    r: 301,
     s: "Gentoo Wiki",
     sc: "Sysadmin (Gentoo)",
     t: "gw",
@@ -48386,7 +48377,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.gentoo.org",
-    r: 13,
+    r: 16,
     s: "Gentoo Wiki",
     sc: "Sysadmin (Gentoo)",
     t: "gwiki",
@@ -48404,7 +48395,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.girlswithmuscle.com",
-    r: 41,
+    r: 43,
     s: "Girls with muscle",
     sc: "Images",
     t: "gwm",
@@ -48431,7 +48422,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 9,
+    r: 8,
     s: "Google Wikipedia",
     sc: "Google",
     t: "gwp",
@@ -48440,7 +48431,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.guinnessworldrecords.com",
-    r: 3,
+    r: 0,
     s: "Guinness World Records",
     sc: "Reference (religion)",
     t: "gwr",
@@ -48449,7 +48440,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "chrome.google.com",
-    r: 0,
+    r: 4,
     s: "Google WebStore XT",
     sc: "Tools",
     t: "gws",
@@ -48485,7 +48476,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.guildwars.com",
-    r: 16,
+    r: 23,
     s: "Guild Wars Wiki",
     sc: "Games (general)",
     t: "gww",
@@ -48503,7 +48494,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 40,
+    r: 31,
     s: "Google (Past Year)",
     sc: "Google",
     t: "gyear",
@@ -48512,7 +48503,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 34,
+    r: 50,
     s: "Google",
     sc: "Google",
     t: "gy",
@@ -48530,7 +48521,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.genyoutube.net",
-    r: 8,
+    r: 10,
     s: "GenYouTube",
     sc: "Tools",
     t: "gyt",
@@ -48539,7 +48530,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.za",
-    r: 42,
+    r: 33,
     s: "Google ZA",
     sc: "Google",
     t: "gza",
@@ -48566,7 +48557,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.geizhals.at",
-    r: 16,
+    r: 10,
     s: "Geizhals",
     sc: "Online (deals)",
     t: "gzh",
@@ -48647,7 +48638,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "habr.com",
-    r: 34,
+    r: 10,
     s: "HabraHabr",
     sc: "Blogs",
     t: "habr",
@@ -48665,7 +48656,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hackaday.com",
-    r: 3,
+    r: 0,
     s: "HackADay",
     sc: "Blogs",
     t: "hackaday",
@@ -48674,7 +48665,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hackage.haskell.org",
-    r: 300,
+    r: 310,
     s: "Hackage",
     sc: "Libraries/Frameworks",
     t: "hackage",
@@ -48692,7 +48683,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "hn.algolia.com",
-    r: 10,
+    r: 14,
     s: "Hacker News",
     sc: "Social news/links",
     t: "hackernews",
@@ -48737,7 +48728,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hackaday.com",
-    r: 7,
+    r: 8,
     s: "Hackaday",
     sc: "Blogs",
     t: "had",
@@ -48818,7 +48809,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.halopedia.org",
-    r: 3,
+    r: 4,
     s: "Halopedia",
     sc: "Games (specific)",
     t: "halopedia",
@@ -48863,7 +48854,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hanja.naver.com",
-    r: 3,
+    r: 0,
     s: "Naver Hanja Dictionary",
     sc: "Reference (words intl)",
     t: "hanja",
@@ -48926,7 +48917,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.happycow.net",
-    r: 0,
+    r: 3,
     s: "HappyCow",
     sc: "Food",
     t: "happycow",
@@ -49007,7 +48998,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "twitter.com",
-    r: 3,
+    r: 0,
     s: "Twitter Hashtags",
     sc: "Social",
     t: "hashtag",
@@ -49034,7 +49025,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "b.hatena.ne.jp",
-    r: 138,
+    r: 60,
     s: "Hatena Bookmark",
     sc: "Social news/links",
     t: "hatebu",
@@ -49079,7 +49070,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "lib.haxe.org",
-    r: 0,
+    r: 6,
     s: "Haxelib",
     sc: "Programming",
     t: "haxelib",
@@ -49115,7 +49106,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.humblebundle.com",
-    r: 30,
+    r: 37,
     s: "Humblebundle",
     sc: "Games (general)",
     t: "hb",
@@ -49160,7 +49151,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.holidaycheck.de",
-    r: 3,
+    r: 0,
     s: "HolidayCheck",
     sc: "Games (WOW)",
     t: "hc",
@@ -49169,7 +49160,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hackage.haskell.org",
-    r: 0,
+    r: 3,
     s: "Hackage",
     sc: "Libraries/Frameworks",
     t: "hckg",
@@ -49178,7 +49169,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "hclib.bibliocommons.com",
-    r: 3,
+    r: 0,
     s: "Hennepin County Library",
     sc: "Books",
     t: "hclib",
@@ -49205,7 +49196,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.hockeydb.com",
-    r: 17,
+    r: 5,
     s: "Hockeydb.com",
     sc: "Sports",
     t: "hdb",
@@ -49214,7 +49205,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.hdblog.it",
-    r: 0,
+    r: 10,
     s: "Hdblog",
     sc: "Aggregators",
     t: "hdblog",
@@ -49223,7 +49214,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.homedepot.ca",
-    r: 7,
+    r: 13,
     s: "Home Depot Canada",
     sc: "Big box/department",
     t: "hdc",
@@ -49232,7 +49223,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hudoc.echr.coe.int",
-    r: 18,
+    r: 27,
     s: "HUDOC",
     sc: "Law",
     t: "hd",
@@ -49295,7 +49286,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.homedepot.com",
-    r: 127,
+    r: 142,
     s: "Home Depot",
     sc: "Big box/department",
     t: "hdx",
@@ -49304,7 +49295,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "hdyc.neis-one.org",
-    r: 3,
+    r: 0,
     s: "How did you contribute to OpenStreetMap?",
     sc: "Maps",
     t: "hdyc",
@@ -49394,7 +49385,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.heb.com",
-    r: 36,
+    r: 28,
     s: "HEB Grocery Company",
     sc: "Online",
     t: "heb",
@@ -49430,7 +49421,7 @@ export const bangs = [
   {
     c: "Research",
     d: "katalog.ub.uni-heidelberg.de",
-    r: 5,
+    r: 4,
     s: "Universit\u00e4tsbibliothek Heiedelberg OPAC",
     sc: "Reference",
     t: "heidi",
@@ -49457,7 +49448,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.heise.de",
-    r: 6,
+    r: 21,
     s: "heise online",
     sc: "Blogs (intl)",
     t: "heise",
@@ -49502,7 +49493,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "help.duckduckgo.com",
-    r: 13,
+    r: 20,
     s: "DuckDuckGo Help",
     sc: "Search (DDG)",
     t: "help",
@@ -49511,7 +49502,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.hema.nl",
-    r: 0,
+    r: 3,
     s: "HEMA",
     sc: "Big box/department",
     t: "hema",
@@ -49556,7 +49547,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.hepsiburada.com",
-    r: 0,
+    r: 6,
     s: "Hepsi Burada",
     sc: "Online",
     t: "hepsib",
@@ -49592,7 +49583,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wego.here.com",
-    r: 44,
+    r: 36,
     s: "Here WeGo",
     sc: "Maps",
     t: "here",
@@ -49655,7 +49646,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.heureka.cz",
-    r: 103,
+    r: 124,
     s: "Heureka!",
     sc: "Online",
     t: "heureka",
@@ -49664,7 +49655,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.heureka.sk",
-    r: 4,
+    r: 8,
     s: "Heureka.sk",
     sc: "Online",
     t: "heurekask",
@@ -49682,7 +49673,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.colorhexa.com",
-    r: 10,
+    r: 7,
     s: "Colorhexa",
     sc: "Design",
     t: "hex",
@@ -49691,7 +49682,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hexdocs.pm",
-    r: 229,
+    r: 156,
     s: "Hex Docs",
     sc: "Languages (erlang)",
     t: "hexdocs",
@@ -49700,7 +49691,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hex.pm",
-    r: 131,
+    r: 116,
     s: "Hex.pm",
     sc: "Languages (erlang)",
     t: "hexpm",
@@ -49727,7 +49718,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.hifishark.com",
-    r: 12,
+    r: 0,
     s: "Hifishark",
     sc: "Online (deals)",
     t: "hfs",
@@ -49736,7 +49727,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.harborfreight.com",
-    r: 31,
+    r: 15,
     s: "Harbor Freight Tools",
     sc: "Big box/department",
     t: "hft",
@@ -49781,7 +49772,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.haskell.org",
-    r: 3,
+    r: 16,
     s: "hoogle",
     sc: "Languages (haskell)",
     t: "hgle",
@@ -49790,7 +49781,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.haskell.org",
-    r: 17,
+    r: 5,
     s: "haskell.org/hoogle",
     sc: "Languages (haskell)",
     t: "hgl",
@@ -49799,7 +49790,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.mercurial-scm.org",
-    r: 57,
+    r: 52,
     s: "Mecurial",
     sc: "Programming",
     t: "hg",
@@ -49844,7 +49835,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.homehardware.ca",
-    r: 4,
+    r: 14,
     s: "Home Hardware",
     sc: "Online",
     t: "hh",
@@ -49853,7 +49844,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.haskell.org",
-    r: 2044,
+    r: 2441,
     s: "Hoogle",
     sc: "Languages (haskell)",
     t: "h",
@@ -49880,7 +49871,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "haveibeenpwned.com",
-    r: 12,
+    r: 3,
     s: "Have I Been Pwned",
     sc: "Tools",
     t: "hibp",
@@ -49889,7 +49880,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "hwikis25cffertqe.onion",
-    r: 5,
+    r: 7,
     s: "Hidden Wiki",
     sc: "Search (Private)",
     t: "hidden",
@@ -49961,7 +49952,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.thehindu.com",
-    r: 39,
+    r: 8,
     s: "The Hindu",
     sc: "Newspaper",
     t: "hindu",
@@ -49979,7 +49970,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "hinta.fi",
-    r: 9,
+    r: 5,
     s: "Hinta.fi",
     sc: "Services",
     t: "hintafi",
@@ -49988,7 +49979,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "hintaseuranta.fi",
-    r: 0,
+    r: 3,
     s: "Hintaseuranta",
     sc: "Services",
     t: "hinta",
@@ -50042,7 +50033,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.history.com",
-    r: 4186,
+    r: 5903,
     s: "History",
     sc: "Learning",
     t: "history",
@@ -50060,7 +50051,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.hitta.se",
-    r: 42,
+    r: 33,
     s: "Hitta.se",
     sc: "Search",
     t: "hitta",
@@ -50069,7 +50060,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.hive.co.uk",
-    r: 0,
+    r: 4,
     s: "Hive",
     sc: "Online (marketplace)",
     t: "hive",
@@ -50078,7 +50069,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.honestjohn.co.uk",
-    r: 3,
+    r: 0,
     s: "Honest John",
     sc: "Magazine (car)",
     t: "hj",
@@ -50114,7 +50105,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hackage.haskell.org",
-    r: 70,
+    r: 0,
     s: "Hackage",
     sc: "Languages (haskell)",
     t: "hkg",
@@ -50123,7 +50114,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hacktips.it",
-    r: 0,
+    r: 3,
     s: "HackTips",
     sc: "Blogs",
     t: "hk",
@@ -50168,7 +50159,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "hollowknight.wikia.com",
-    r: 0,
+    r: 3,
     s: "Hollow Knight Wiki",
     sc: "Games (specific)",
     t: "hkw",
@@ -50184,7 +50175,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "howlongtobeat.com",
-    r: 64,
+    r: 39,
     s: "How Long to Beat",
     sc: "Games (general)",
     t: "hlb",
@@ -50202,7 +50193,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "hugelol.com",
-    r: 5,
+    r: 4,
     s: "Hugelol",
     sc: "Misc",
     t: "hl",
@@ -50220,7 +50211,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.hln.be",
-    r: 102,
+    r: 127,
     s: "Het Laatste Nieuws",
     sc: "Newspaper",
     t: "hln",
@@ -50238,7 +50229,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "howlongtobeat.com",
-    r: 590,
+    r: 654,
     s: "How Long To Beat",
     sc: "Games (general)",
     t: "hltb",
@@ -50247,7 +50238,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.hltv.org",
-    r: 365,
+    r: 304,
     s: "HLTV.org",
     sc: "Games (specific)",
     t: "hltv",
@@ -50265,7 +50256,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wego.here.com",
-    r: 28,
+    r: 41,
     s: "HERE maps",
     sc: "Maps",
     t: "hm",
@@ -50283,7 +50274,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hn.algolia.com",
-    r: 0,
+    r: 8,
     s: "Hacker News",
     sc: "Programming",
     t: "hnd",
@@ -50301,7 +50292,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hn.algolia.com",
-    r: 3044,
+    r: 3204,
     s: "Hacker News",
     sc: "Startups",
     t: "hn",
@@ -50382,7 +50373,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.hockeydb.com",
-    r: 5,
+    r: 3,
     s: "hockeydb.com",
     sc: "Sports",
     t: "hockeydb",
@@ -50400,7 +50391,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.hockey-reference.com",
-    r: 0,
+    r: 11,
     s: "Hockey Reference",
     sc: "Sports",
     t: "hockeyref",
@@ -50409,7 +50400,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.homedepot.com",
-    r: 15,
+    r: 8,
     s: "Home Depot",
     sc: "Big box/department",
     t: "hode",
@@ -50427,7 +50418,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.haskell.org",
-    r: 40,
+    r: 9,
     s: "Hoogle",
     sc: "Languages (haskell)",
     t: "ho",
@@ -50445,7 +50436,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "hoi4.paradoxwikis.com",
-    r: 4,
+    r: 0,
     s: "Hearts of Iron IV wiki",
     sc: "Games (specific)",
     t: "hoi4",
@@ -50472,7 +50463,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hollis.harvard.edu",
-    r: 3,
+    r: 0,
     s: "HOLLIS",
     sc: "Academic",
     t: "hollis",
@@ -50499,7 +50490,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.homedepot.com",
-    r: 295,
+    r: 240,
     s: "The Home Depot",
     sc: "Big box/department",
     t: "homedepot",
@@ -50508,7 +50499,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.homeadvisor.com",
-    r: 10,
+    r: 15,
     s: "Home Advisor",
     sc: "Services",
     t: "home",
@@ -50526,7 +50517,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.homestuck.com",
-    r: 4,
+    r: 0,
     s: "Homestuck.com",
     sc: "Comics",
     t: "homestuck",
@@ -50553,7 +50544,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "honto.jp",
-    r: 0,
+    r: 3,
     s: "honto",
     sc: "Books",
     t: "hon",
@@ -50571,7 +50562,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hoogle.haskell.org",
-    r: 669,
+    r: 965,
     s: "hoogle",
     sc: "Languages (haskell)",
     t: "hoogle",
@@ -50589,7 +50580,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "hooktube.com",
-    r: 0,
+    r: 3,
     s: "HookTube",
     sc: "Video",
     t: "hooktube",
@@ -50616,7 +50607,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.hornbach.de",
-    r: 0,
+    r: 9,
     s: "Hornbach",
     sc: "Online",
     t: "hornbach",
@@ -50670,7 +50661,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.whoishostingthis.com",
-    r: 4,
+    r: 0,
     s: "WhoIsHostingThis",
     sc: "Sysadmin",
     t: "hosting",
@@ -50679,7 +50670,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "networking.ringofsaturn.com",
-    r: 5,
+    r: 8,
     s: "IP Lookup",
     sc: "Programming",
     t: "host",
@@ -50724,7 +50715,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "hotline.ua",
-    r: 0,
+    r: 7,
     s: "Hotline",
     sc: "Online (deals)",
     t: "hotline",
@@ -50832,7 +50823,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.hover.com",
-    r: 7,
+    r: 4,
     s: "Hover",
     sc: "Domains",
     t: "hover",
@@ -50850,7 +50841,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "howcode.org",
-    r: 40,
+    r: 47,
     s: "howCode",
     sc: "Programming",
     t: "how",
@@ -50868,7 +50859,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "howlongtobeat.com",
-    r: 34,
+    r: 76,
     s: "HowLongToBeat",
     sc: "Games (general)",
     t: "howlongtobeat",
@@ -50913,7 +50904,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.howtogeek.com",
-    r: 9,
+    r: 0,
     s: "How-To Geek",
     sc: "Blogs",
     t: "howtogeek",
@@ -50931,7 +50922,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.hpb.com",
-    r: 3,
+    r: 8,
     s: "Half Price Books",
     sc: "Books",
     t: "hpb",
@@ -50985,7 +50976,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.hp.com",
-    r: 0,
+    r: 8,
     s: "HP",
     sc: "Companies",
     t: "hp",
@@ -51048,7 +51039,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.heise.de",
-    r: 52,
+    r: 64,
     s: "Heise.de Preisvergleich",
     sc: "Services",
     t: "hpv",
@@ -51057,7 +51048,7 @@ export const bangs = [
   {
     c: "Research",
     d: "harrypotter.wikia.com",
-    r: 0,
+    r: 3,
     s: "Harry Potter Wikia",
     sc: "Reference (fun)",
     t: "hpwiki",
@@ -51084,7 +51075,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "hrwiki.org",
-    r: 5,
+    r: 4,
     s: "Homestar Runner Wiki",
     sc: "Misc",
     t: "hrwiki",
@@ -51120,7 +51111,7 @@ export const bangs = [
   {
     c: "Research",
     d: "honyakustar.com",
-    r: 9,
+    r: 4,
     s: "Honyaku Star",
     sc: "Reference (words intl)",
     t: "hs",
@@ -51210,7 +51201,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.howtogeek.com",
-    r: 51,
+    r: 39,
     s: "How-To Geek",
     sc: "Blogs",
     t: "htg",
@@ -51219,7 +51210,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "hooktube.com",
-    r: 16,
+    r: 25,
     s: "HookTube",
     sc: "Video",
     t: "ht",
@@ -51264,7 +51255,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 201,
+    r: 226,
     s: "DuckDuckGo (HTML)",
     sc: "Search (DDG)",
     t: "html",
@@ -51273,7 +51264,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "http.cat",
-    r: 4,
+    r: 5,
     s: "HTTP Status Cats",
     sc: "Design",
     t: "httpcat",
@@ -51282,7 +51273,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "httpstatuses.com",
-    r: 76,
+    r: 43,
     s: "HTTP Status Codes",
     sc: "Programming",
     t: "http",
@@ -51379,7 +51370,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 8,
+    r: 0,
     s: "Google Translate hu-en",
     sc: "Google",
     t: "huen",
@@ -51451,7 +51442,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.hotukdeals.com",
-    r: 154,
+    r: 188,
     s: "HotUKDeals",
     sc: "Online (deals)",
     t: "hukd",
@@ -51460,7 +51451,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.hulu.com",
-    r: 19,
+    r: 6,
     s: "Hulu",
     sc: "Video",
     t: "hulu",
@@ -51496,7 +51487,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.humblebundle.com",
-    r: 54,
+    r: 41,
     s: "Humble Store",
     sc: "Games (general)",
     t: "humble",
@@ -51514,7 +51505,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.humblebundle.com",
-    r: 16,
+    r: 14,
     s: "Humble Bundle",
     sc: "Games (general)",
     t: "hum",
@@ -51541,7 +51532,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.huuto.net",
-    r: 8,
+    r: 3,
     s: "Huuto",
     sc: "Online (marketplace)",
     t: "huuto",
@@ -51559,7 +51550,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.hinnavaatlus.ee",
-    r: 3,
+    r: 10,
     s: "Hinnavaatlus",
     sc: "Online (intl)",
     t: "hv",
@@ -51586,7 +51577,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "geofox.hvv.de",
-    r: 0,
+    r: 3,
     s: "HVV",
     sc: "Maps",
     t: "hvv",
@@ -51613,7 +51604,7 @@ export const bangs = [
   {
     c: "Research",
     d: "halo.umbc.edu",
-    r: 3,
+    r: 0,
     s: "HaloWeb",
     sc: "Reference (science)",
     t: "hw",
@@ -51622,7 +51613,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hi.wikipedia.org",
-    r: 0,
+    r: 3,
     s: "Hindi Wikipedia",
     sc: "Learning",
     t: "hwiki",
@@ -51631,7 +51622,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.hackingwithswift.com",
-    r: 27,
+    r: 26,
     s: "Hacking With Swift",
     sc: "Blogs",
     t: "hws",
@@ -51658,7 +51649,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "hex.pm",
-    r: 5,
+    r: 14,
     s: "Hex.pm",
     sc: "Languages (other)",
     t: "hx",
@@ -51667,7 +51658,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "hunterxhunter.wikia.com",
-    r: 0,
+    r: 5,
     s: "Hunterpedia",
     sc: "TV",
     t: "hxh",
@@ -51694,7 +51685,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hymnary.org",
-    r: 7,
+    r: 11,
     s: "Hymnary.org",
     sc: "Reference",
     t: "hymnary",
@@ -51784,7 +51775,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "hypixel.net",
-    r: 0,
+    r: 3,
     s: "Hypixel",
     sc: "Games (Minecraft)",
     t: "hypixel",
@@ -51793,7 +51784,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "hypixel-skyblock.fandom.com",
-    r: 40,
+    r: 12,
     s: "Hypixel Skyblock Wiki",
     sc: "Games (Minecraft)",
     t: "hysb",
@@ -51802,7 +51793,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.hytiva.com",
-    r: 7,
+    r: 3,
     s: "Hytiva",
     sc: "Misc",
     t: "hyt",
@@ -51820,7 +51811,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.hy-vee.com",
-    r: 42,
+    r: 0,
     s: "Hy-Vee",
     sc: "Online",
     t: "hyvee",
@@ -51865,7 +51856,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.iacr.org",
-    r: 3,
+    r: 0,
     s: "IACR",
     sc: "Academic (math/cs)",
     t: "iacr",
@@ -51874,7 +51865,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "web.archive.org",
-    r: 439,
+    r: 391,
     s: "Internet Archive",
     sc: "General",
     t: "ia",
@@ -51910,7 +51901,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.archive.org",
-    r: 15,
+    r: 18,
     s: "archive.org",
     sc: "General",
     t: "iarchive",
@@ -51928,7 +51919,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "airportcodes.aero",
-    r: 5,
+    r: 3,
     s: "IATA Airport Code",
     sc: "Tools",
     t: "iata",
@@ -52009,7 +52000,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.iberlibro.com",
-    r: 4,
+    r: 0,
     s: "Iberlibro",
     sc: "Online",
     t: "iberlibro",
@@ -52018,7 +52009,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ibge.gov.br",
-    r: 4,
+    r: 10,
     s: "IBGE",
     sc: "Government",
     t: "ibge",
@@ -52045,7 +52036,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.indiebound.org",
-    r: 0,
+    r: 3,
     s: "Indiebound.org",
     sc: "Books",
     t: "ib",
@@ -52072,7 +52063,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ibs.it",
-    r: 9,
+    r: 7,
     s: "Internet Bookshop Italia",
     sc: "Online (marketplace)",
     t: "ibs",
@@ -52144,7 +52135,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.icd-code.de",
-    r: 3,
+    r: 0,
     s: "Code Suche",
     sc: "Academic",
     t: "icd",
@@ -52180,7 +52171,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.iciba.com",
-    r: 3,
+    r: 12,
     s: "\u7231\u8bcd\u9738",
     sc: "Tools",
     t: "iciba",
@@ -52189,7 +52180,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.imperial.ac.uk",
-    r: 3,
+    r: 0,
     s: "Imperial College London",
     sc: "Academic",
     t: "ic",
@@ -52207,7 +52198,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.icheckmovies.com",
-    r: 4,
+    r: 0,
     s: "iCheckMovies",
     sc: "Movies",
     t: "icm",
@@ -52261,7 +52252,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.iconfinder.com",
-    r: 9,
+    r: 12,
     s: "IconFinder",
     sc: "Design",
     t: "icon",
@@ -52324,7 +52315,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.idealworld.tv",
-    r: 0,
+    r: 4,
     s: "IdealWorld.tv",
     sc: "Online",
     t: "ideal",
@@ -52333,7 +52324,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.idealo.de",
-    r: 72,
+    r: 61,
     s: "Idealo",
     sc: "Online",
     t: "idealode",
@@ -52342,7 +52333,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.idealo.es",
-    r: 32,
+    r: 0,
     s: "Idealo.es",
     sc: "Online (deals)",
     t: "idealoes",
@@ -52351,7 +52342,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.idealo.de",
-    r: 503,
+    r: 683,
     s: "idealo.de",
     sc: "Online (deals)",
     t: "idealo",
@@ -52387,7 +52378,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.idealo.de",
-    r: 87,
+    r: 110,
     s: "idealo",
     sc: "Services",
     t: "ide",
@@ -52423,7 +52414,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.idealo.fr",
-    r: 0,
+    r: 13,
     s: "Idealo France",
     sc: "Tech",
     t: "idfr",
@@ -52441,7 +52432,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.doomworld.com",
-    r: 8,
+    r: 3,
     s: "Doomworld/idgames",
     sc: "Games (specific)",
     t: "idg",
@@ -52450,7 +52441,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.idealo.de",
-    r: 74,
+    r: 116,
     s: "Idealo",
     sc: "Services",
     t: "id",
@@ -52468,7 +52459,7 @@ export const bangs = [
   {
     c: "Research",
     d: "idioms.thefreedictionary.com",
-    r: 7,
+    r: 12,
     s: "Idioms The Free Dictionary",
     sc: "Reference (words)",
     t: "idiom",
@@ -52504,7 +52495,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "jizdnirady.idnes.cz",
-    r: 3,
+    r: 0,
     s: "Idos",
     sc: "Maps",
     t: "idos",
@@ -52549,7 +52540,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "instantdomainsearch.com",
-    r: 7,
+    r: 5,
     s: "Instant Domain Search",
     sc: "Domains",
     t: "ids",
@@ -52558,7 +52549,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 14626,
+    r: 14472,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "i",
@@ -52567,7 +52558,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dlc.iec.cat",
-    r: 20,
+    r: 22,
     s: "Institut d'Estudis Catalans",
     sc: "Reference (words)",
     t: "iec",
@@ -52576,7 +52567,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 5,
+    r: 4,
     s: "duckduckgo",
     sc: "Search",
     t: "ie",
@@ -52585,7 +52576,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ieeexplore.ieee.org",
-    r: 24,
+    r: 14,
     s: "IEEE Xplore",
     sc: "Academic",
     t: "ieee",
@@ -52630,7 +52621,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.iep.utm.edu",
-    r: 4,
+    r: 3,
     s: "Internet Encyclopedia of Philosophy",
     sc: "Academic",
     t: "iep",
@@ -52639,7 +52630,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.eki.ee",
-    r: 11,
+    r: 3,
     s: "Inglise-eesti",
     sc: "Reference (words intl)",
     t: "ies",
@@ -52684,7 +52675,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ifdb.tads.org",
-    r: 0,
+    r: 11,
     s: "Interactive Fiction Database",
     sc: "Games (general)",
     t: "ifdb",
@@ -52702,7 +52693,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ifixit.com",
-    r: 15,
+    r: 17,
     s: "iFixit",
     sc: "Learning",
     t: "ifixit",
@@ -52747,7 +52738,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.igdb.com",
-    r: 49,
+    r: 32,
     s: "IGDB - Internet Game Database",
     sc: "Games (general)",
     t: "igdb",
@@ -52774,7 +52765,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "imgur.com",
-    r: 4,
+    r: 0,
     s: "Imgur \u2014\u00a0gifs",
     sc: "Misc",
     t: "igif",
@@ -52783,7 +52774,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.instagram.com",
-    r: 4816,
+    r: 5186,
     s: "Instagram",
     sc: "Social",
     t: "ig",
@@ -52792,7 +52783,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.ign.com",
-    r: 54,
+    r: 32,
     s: "IGN",
     sc: "Games (general)",
     t: "ign",
@@ -52819,7 +52810,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.instagram.com",
-    r: 107,
+    r: 16,
     s: "Instagram",
     sc: "Social",
     t: "igu",
@@ -52828,7 +52819,7 @@ export const bangs = [
   {
     c: "Research",
     d: "inspirehep.net",
-    r: 90,
+    r: 152,
     s: "InspireHEP",
     sc: "Academic",
     t: "ihep",
@@ -52837,7 +52828,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "iherb.com",
-    r: 13,
+    r: 6,
     s: "iHerb",
     sc: "Online (intl)",
     t: "iherb",
@@ -52864,7 +52855,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.isitdownrightnow.com",
-    r: 13,
+    r: 12,
     s: "Is It Down Right Now?",
     sc: "Tools (URLs)",
     t: "iidrn",
@@ -52927,7 +52918,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ikea.com",
-    r: 0,
+    r: 10,
     s: "Ikea Canada",
     sc: "Big box/department",
     t: "ikeaca",
@@ -52954,7 +52945,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ikea.com",
-    r: 15,
+    r: 24,
     s: "Ikea Germany",
     sc: "Big box/department",
     t: "ikeade",
@@ -52972,7 +52963,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ikea.com",
-    r: 4,
+    r: 0,
     s: "Ikea FR",
     sc: "Big box/department",
     t: "ikeafr",
@@ -52990,7 +52981,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ikea.com",
-    r: 68,
+    r: 71,
     s: "Ikea",
     sc: "Big box/department",
     t: "ikea",
@@ -52999,7 +52990,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ikea.com",
-    r: 0,
+    r: 6,
     s: "Ikea (Italia)",
     sc: "Online",
     t: "ikeait",
@@ -53026,7 +53017,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ikea.com",
-    r: 0,
+    r: 7,
     s: "IKEA UK",
     sc: "Big box/department",
     t: "ikeauk",
@@ -53062,7 +53053,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 33,
+    r: 25,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "il",
@@ -53071,7 +53062,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.ilfattoquotidiano.it",
-    r: 17,
+    r: 8,
     s: "Il Fatto Quotidiano",
     sc: "Newspaper",
     t: "ilfatto",
@@ -53098,7 +53089,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.ilmeteo.it",
-    r: 4,
+    r: 0,
     s: "ilmeteo.it",
     sc: "Weather",
     t: "ilm",
@@ -53168,7 +53159,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 248911,
+    r: 103995,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "image",
@@ -53213,7 +53204,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 1262,
+    r: 1113,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "images",
@@ -53276,7 +53267,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.imdb.com",
-    r: 62,
+    r: 41,
     s: "IMBD",
     sc: "Movies",
     t: "imbd",
@@ -53285,7 +53276,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.imbiomed.com.mx",
-    r: 6,
+    r: 5,
     s: "imbiomed",
     sc: "Academic",
     t: "imb",
@@ -53312,7 +53303,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.imdb.com",
-    r: 20846,
+    r: 21043,
     s: "IMDB",
     sc: "Movies",
     t: "imdb",
@@ -53330,7 +53321,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "m.imdb.com",
-    r: 47,
+    r: 39,
     s: "IMDb Mobile",
     sc: "Movies",
     t: "imdbm",
@@ -53339,7 +53330,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.imdb.com",
-    r: 13,
+    r: 9,
     s: "IMDB name",
     sc: "Movies",
     t: "imdbn",
@@ -53375,7 +53366,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.imdb.com",
-    r: 439,
+    r: 394,
     s: "IMDb",
     sc: "Movies",
     t: "imd",
@@ -53384,7 +53375,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.imfdb.org",
-    r: 43,
+    r: 39,
     s: "Internet Movie Firearms Database",
     sc: "Misc",
     t: "imfdb",
@@ -53393,7 +53384,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 2108,
+    r: 1588,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "img",
@@ -53402,7 +53393,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "imgflip.com",
-    r: 29,
+    r: 41,
     s: "Imgflip",
     sc: "Comics",
     t: "imgflip",
@@ -53411,7 +53402,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "imgops.com",
-    r: 10,
+    r: 15,
     s: "ImgOps",
     sc: "Tools",
     t: "imgops",
@@ -53420,7 +53411,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "google.com",
-    r: 3,
+    r: 12,
     s: "Google Image Search - Tagged for Reuse with modification",
     sc: "Images",
     t: "imgrwm",
@@ -53429,7 +53420,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 0,
+    r: 5,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "imgs",
@@ -53438,7 +53429,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "imgur.com",
-    r: 262,
+    r: 153,
     s: "Imgur",
     sc: "Images",
     t: "imgur",
@@ -53483,7 +53474,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.imperial.ac.uk",
-    r: 0,
+    r: 4,
     s: "Imperial College London",
     sc: "Academic",
     t: "imperial",
@@ -53519,7 +53510,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "imslp.org",
-    r: 71,
+    r: 112,
     s: "IMSLP",
     sc: "Music",
     t: "imslp",
@@ -53555,7 +53546,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.inaturalist.org",
-    r: 30,
+    r: 6,
     s: "iNaturalist",
     sc: "Reference",
     t: "inat",
@@ -53564,7 +53555,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "inbox.google.com",
-    r: 6,
+    r: 12,
     s: "Inbox by Gmail",
     sc: "Google",
     t: "inbox",
@@ -53582,7 +53573,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "inci.sozlukspot.com",
-    r: 3,
+    r: 0,
     s: "incisozluk",
     sc: "Search (non-US)",
     t: "inci",
@@ -53609,7 +53600,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.indeed.com",
-    r: 48,
+    r: 19,
     s: "Indeed",
     sc: "Jobs",
     t: "indeed",
@@ -53681,7 +53672,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "indieweb.org",
-    r: 5,
+    r: 4,
     s: "Indie Web Camp",
     sc: "Social",
     t: "indieweb",
@@ -53690,7 +53681,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.chapters.indigo.ca",
-    r: 12,
+    r: 9,
     s: "Indigo Books",
     sc: "Books",
     t: "indigo",
@@ -53726,7 +53717,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.inet.se",
-    r: 5,
+    r: 0,
     s: "Inet",
     sc: "Online",
     t: "inet",
@@ -53789,7 +53780,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.infopedia.pt",
-    r: 17,
+    r: 14,
     s: "Infop\u00e9dia",
     sc: "Tools",
     t: "infopedia",
@@ -53807,7 +53798,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "websearch.rakuten.co.jp",
-    r: 71,
+    r: 76,
     s: "Rakuten Infoseek",
     sc: "Search (non-US)",
     t: "infoseek",
@@ -53843,7 +53834,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ing.de",
-    r: 10,
+    r: 5,
     s: "ING DiBa",
     sc: "Search",
     t: "ing",
@@ -53870,7 +53861,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "invidio.us",
-    r: 379,
+    r: 459,
     s: "Invidio.us",
     sc: "Video",
     t: "in",
@@ -53897,7 +53888,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "inkbunny.net",
-    r: 10,
+    r: 0,
     s: "Inkbunny",
     sc: "Misc",
     t: "inkbun",
@@ -53915,7 +53906,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "splatoonwiki.org",
-    r: 9,
+    r: 3,
     s: "Inkipedia",
     sc: "Games (specific)",
     t: "inkipedia",
@@ -53933,7 +53924,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ivdnt.org",
-    r: 0,
+    r: 6,
     s: "Instituut voor de Nederlandse taal",
     sc: "Reference (words)",
     t: "inl",
@@ -53960,7 +53951,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.israelnationalnews.com",
-    r: 6,
+    r: 44,
     s: "Israel National News - Arutz Sheva 7",
     sc: "International",
     t: "inn",
@@ -53987,7 +53978,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.inoreader.com",
-    r: 18,
+    r: 0,
     s: "Inoreader",
     sc: "Search",
     t: "ino",
@@ -54068,7 +54059,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.instructables.com",
-    r: 4,
+    r: 32,
     s: "Instructables",
     sc: "Social",
     t: "ins",
@@ -54086,7 +54077,7 @@ export const bangs = [
   {
     c: "Research",
     d: "inspirehep.net",
-    r: 157,
+    r: 225,
     s: "Inspire HEP ",
     sc: "Academic",
     t: "inspire",
@@ -54095,7 +54086,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "instagram.com",
-    r: 341,
+    r: 322,
     s: "Instagram",
     sc: "Images",
     t: "instagram",
@@ -54104,7 +54095,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.instagram.com",
-    r: 1114,
+    r: 938,
     s: "Instagram",
     sc: "Social",
     t: "insta",
@@ -54122,7 +54113,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.instant-gaming.com",
-    r: 8,
+    r: 10,
     s: "Instant Gaming",
     sc: "Online (deals)",
     t: "instantgaming",
@@ -54176,7 +54167,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "software.intel.com",
-    r: 0,
+    r: 4,
     s: "Intel Intrinsics Guide",
     sc: "Programming",
     t: "inteli",
@@ -54275,7 +54266,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "invidio.us",
-    r: 65,
+    r: 94,
     s: "Invidious",
     sc: "Video",
     t: "invd",
@@ -54284,7 +54275,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.investing.com",
-    r: 9,
+    r: 0,
     s: "investing.com",
     sc: "Tracking",
     t: "investing",
@@ -54302,7 +54293,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.investopedia.com",
-    r: 0,
+    r: 5,
     s: "Investopedia",
     sc: "Learning",
     t: "investopedia",
@@ -54320,7 +54311,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "invidio.us",
-    r: 106,
+    r: 17,
     s: "Invidio.us",
     sc: "Video",
     t: "invid",
@@ -54329,7 +54320,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "invidio.us",
-    r: 4,
+    r: 8,
     s: "invidious",
     sc: "Video",
     t: "invidio",
@@ -54347,7 +54338,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "inventaire.io",
-    r: 17,
+    r: 6,
     s: "inventaire.io",
     sc: "Books",
     t: "inv",
@@ -54401,7 +54392,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.apple.com",
-    r: 8,
+    r: 5,
     s: "iOS Developer Library",
     sc: "Libraries/Frameworks",
     t: "ios",
@@ -54428,7 +54419,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ip-api.com",
-    r: 6,
+    r: 0,
     s: "IP-API.com",
     sc: "Tools",
     t: "ipapi",
@@ -54455,7 +54446,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.ipdb.org",
-    r: 3,
+    r: 0,
     s: "Internet Pinball Database",
     sc: "Games (general)",
     t: "ipdb",
@@ -54491,7 +54482,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "ipinfo.io",
-    r: 45,
+    r: 75,
     s: "ipinfo.io",
     sc: "Sysadmin",
     t: "ipinfo",
@@ -54500,7 +54491,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.bbc.co.uk",
-    r: 9,
+    r: 35,
     s: "BBC iPlayer",
     sc: "Broadcast",
     t: "iplayer",
@@ -54527,7 +54518,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.iplocation.net",
-    r: 18,
+    r: 7,
     s: "IP Location",
     sc: "Sysadmin (network)",
     t: "iplocation",
@@ -54545,7 +54536,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "iplookup.theel0ja.info",
-    r: 4,
+    r: 0,
     s: "theel0ja.info's IPLookup",
     sc: "Sysadmin",
     t: "iplookup",
@@ -54590,7 +54581,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ip-tracker.org",
-    r: 6,
+    r: 0,
     s: "IP Tracker",
     sc: "Tracking",
     t: "iptracker",
@@ -54617,7 +54608,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ipvoid.com",
-    r: 13,
+    r: 0,
     s: "Ipvoid",
     sc: "Tools",
     t: "ipvoid",
@@ -54626,7 +54617,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "whatismyipaddress.com",
-    r: 406,
+    r: 463,
     s: "WhatIsMyIPAddress.com",
     sc: "Sysadmin",
     t: "ip",
@@ -54635,7 +54626,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "iqdb.org",
-    r: 6,
+    r: 0,
     s: "iqdb",
     sc: "Images",
     t: "iqdb",
@@ -54644,7 +54635,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.irasutoya.com",
-    r: 0,
+    r: 4,
     s: "irasutoya",
     sc: "Images",
     t: "irasutoya",
@@ -54716,7 +54707,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.irs.gov",
-    r: 5,
+    r: 0,
     s: "IRS",
     sc: "Government",
     t: "irs",
@@ -54725,7 +54716,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "bindingofisaacrebirth.gamepedia.com",
-    r: 101,
+    r: 13,
     s: "The Binding of Isaac Rebirth Wiki",
     sc: "Games (specific)",
     t: "isaac",
@@ -54743,7 +54734,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.isbns.net",
-    r: 0,
+    r: 3,
     s: "isbns.net",
     sc: "Online (marketplace)",
     t: "isb",
@@ -54761,7 +54752,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "isbndb.com",
-    r: 22,
+    r: 15,
     s: "ISBNdb",
     sc: "Books",
     t: "isbn",
@@ -54779,7 +54770,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "isbnsearch.org",
-    r: 0,
+    r: 6,
     s: "ISBN Search",
     sc: "Books",
     t: "isbnsearch",
@@ -54833,7 +54824,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "is.gd",
-    r: 8,
+    r: 0,
     s: "is.gd",
     sc: "Domains",
     t: "isgd",
@@ -54860,7 +54851,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ilmainensanakirja.fi",
-    r: 34,
+    r: 37,
     s: "Ilmainen Sanakirja",
     sc: "Tools",
     t: "is",
@@ -54869,7 +54860,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "downforeveryoneorjustme.com",
-    r: 6,
+    r: 9,
     s: "Is It Down For Everyone Or Just Me?",
     sc: "Tools (URLs)",
     t: "isitdown",
@@ -54923,7 +54914,7 @@ export const bangs = [
   {
     c: "Research",
     d: "is.muni.cz",
-    r: 33,
+    r: 6,
     s: "Information system of Masaryk University",
     sc: "Academic",
     t: "ismu",
@@ -54941,7 +54932,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "distrowatch.com",
-    r: 49,
+    r: 26,
     s: "Distrowatch",
     sc: "Sysadmin",
     t: "iso",
@@ -54995,7 +54986,7 @@ export const bangs = [
   {
     c: "News",
     d: "issuu.com",
-    r: 7,
+    r: 0,
     s: "Issuu",
     sc: "Magazine",
     t: "issuu",
@@ -55004,7 +54995,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "isthereanydeal.com",
-    r: 21,
+    r: 31,
     s: "IsThereAnyDeal",
     sc: "Online (deals)",
     t: "isthereanydeal",
@@ -55013,7 +55004,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.istockphoto.com",
-    r: 41,
+    r: 7,
     s: "iStockPhoto",
     sc: "Images",
     t: "istock",
@@ -55040,7 +55031,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "downforeveryoneorjustme.com",
-    r: 24,
+    r: 37,
     s: "Is It Down For Everyone Or Just Me?",
     sc: "Tools",
     t: "isup",
@@ -55049,7 +55040,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.instantstreetview.com",
-    r: 0,
+    r: 4,
     s: "Instant Street View",
     sc: "Maps",
     t: "isw",
@@ -55058,7 +55049,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "isthereanydeal.com",
-    r: 391,
+    r: 513,
     s: "IsThereAnyDeal",
     sc: "Online (deals)",
     t: "itad",
@@ -55067,7 +55058,7 @@ export const bangs = [
   {
     c: "Research",
     d: "itaigi.tw",
-    r: 7,
+    r: 4,
     s: "iTaigi",
     sc: "Learning (intl)",
     t: "itaigi",
@@ -55076,7 +55067,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "itch.io",
-    r: 68,
+    r: 67,
     s: "itch.io",
     sc: "Games (general)",
     t: "itch",
@@ -55112,7 +55103,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 23,
+    r: 17,
     s: "Google translate it-en",
     sc: "Google",
     t: "iten",
@@ -55218,7 +55209,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "duckduckgo.com",
-    r: 0,
+    r: 9,
     s: "iTunes",
     sc: "Misc",
     t: "itunes",
@@ -55245,7 +55236,7 @@ export const bangs = [
   {
     c: "Research",
     d: "it.wikipedia.org",
-    r: 16,
+    r: 21,
     s: "Italian Wikipedia",
     sc: "Reference",
     t: "itwiki",
@@ -55281,7 +55272,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.italian-verbs.com",
-    r: 0,
+    r: 7,
     s: "Italian Verbs",
     sc: "Reference (words intl)",
     t: "iv",
@@ -55290,7 +55281,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.ivoox.com",
-    r: 9,
+    r: 11,
     s: "ivoox",
     sc: "Audio",
     t: "ivoox",
@@ -55326,7 +55317,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.theiphonewiki.com",
-    r: 3,
+    r: 0,
     s: "The iPhone Wiki",
     sc: "Reference",
     t: "iwiki",
@@ -55335,7 +55326,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "instantwatcher.com",
-    r: 3,
+    r: 0,
     s: "instantwatcher",
     sc: "Movies",
     t: "iw",
@@ -55389,7 +55380,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "yandex.com",
-    r: 139,
+    r: 94,
     s: "Yandex Images",
     sc: "Images",
     t: "iya",
@@ -55434,7 +55425,7 @@ export const bangs = [
   {
     c: "News",
     d: "jacobinmag.com",
-    r: 33,
+    r: 19,
     s: "Jacobin Magazine",
     sc: "Specialty",
     t: "jacobin",
@@ -55479,7 +55470,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.j-archive.com",
-    r: 4,
+    r: 3,
     s: "j-archive",
     sc: "TV",
     t: "ja",
@@ -55578,7 +55569,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.findjar.com",
-    r: 14,
+    r: 3,
     s: "FindJar.com",
     sc: "Languages (java)",
     t: "jar",
@@ -55596,7 +55587,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 3,
+    r: 0,
     s: "Jargon File",
     sc: "Search (DDG)",
     t: "jargon",
@@ -55695,7 +55686,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.oracle.com",
-    r: 33,
+    r: 19,
     s: "Oracle Java Docs",
     sc: "Languages (java)",
     t: "java",
@@ -55704,7 +55695,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 6,
+    r: 3,
     s: "JavaScript Docs",
     sc: "Companies",
     t: "javascript",
@@ -55722,7 +55713,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ja.wikipedia.org",
-    r: 11,
+    r: 21,
     s: "Japanese Wikipedia",
     sc: "Reference",
     t: "jawiki",
@@ -55731,7 +55722,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ja.wikipedia.org",
-    r: 101,
+    r: 53,
     s: "Japanese Wikipedia",
     sc: "Reference",
     t: "jawp",
@@ -55794,7 +55785,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.jbhifi.com.au",
-    r: 3,
+    r: 6,
     s: "JB Hi Fi",
     sc: "Tech",
     t: "jbhifi",
@@ -55902,7 +55893,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.oracle.com",
-    r: 0,
+    r: 5,
     s: "Java Docs",
     sc: "Languages (java)",
     t: "jdk",
@@ -55947,7 +55938,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.jd.com",
-    r: 0,
+    r: 5,
     s: "\u4eac\u4e1c\u7f51\u4e0a\u5546\u57ce",
     sc: "Online",
     t: "jd",
@@ -56001,7 +55992,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "items.jellyneo.net",
-    r: 0,
+    r: 5,
     s: "JellyNeo",
     sc: "Games (general)",
     t: "jellyneo",
@@ -56055,7 +56046,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.tanoshiijapanese.com",
-    r: 7,
+    r: 0,
     s: "Tanoshii Japanese",
     sc: "Reference (words)",
     t: "je",
@@ -56172,7 +56163,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "items.jellyneo.net",
-    r: 19,
+    r: 0,
     s: "Jellyneo Item Database",
     sc: "Games (specific)",
     t: "jid",
@@ -56190,7 +56181,7 @@ export const bangs = [
   {
     c: "Research",
     d: "jisho.org",
-    r: 1281,
+    r: 1030,
     s: "Jisho.org",
     sc: "Reference (words intl)",
     t: "ji",
@@ -56199,7 +56190,7 @@ export const bangs = [
   {
     c: "Research",
     d: "jisho.org",
-    r: 20,
+    r: 9,
     s: "Jisho (kanji search)",
     sc: "Learning (intl)",
     t: "jik",
@@ -56208,7 +56199,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.jimms.fi",
-    r: 37,
+    r: 7,
     s: "Jimm's",
     sc: "Tech",
     t: "jimms",
@@ -56226,7 +56217,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "jisho.org",
-    r: 2274,
+    r: 2351,
     s: "Jisho",
     sc: "Tools",
     t: "jisho",
@@ -56262,7 +56253,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "jet.com",
-    r: 126,
+    r: 103,
     s: "Jet.com",
     sc: "Online (marketplace)",
     t: "j",
@@ -56271,7 +56262,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "jinja.pocoo.org",
-    r: 3,
+    r: 0,
     s: "Jinja",
     sc: "Libraries/Frameworks",
     t: "jj",
@@ -56280,11 +56271,11 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.johnlewis.com",
-    r: 5,
+    r: 17,
     s: "John Lewis",
     sc: "Online",
     t: "jl",
-    u: "http://www.johnlewis.com/Search/Search.aspx?SearchTerm={{{s}}}",
+    u: "https://www.johnlewis.com/search?search-term={{{s}}}",
   },
   {
     c: "News",
@@ -56379,7 +56370,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "us.job2u.org",
-    r: 0,
+    r: 3,
     s: "JOBS IN USA",
     sc: "Jobs",
     t: "job2u",
@@ -56424,7 +56415,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.indeed.com",
-    r: 0,
+    r: 4,
     s: "Indeed",
     sc: "Jobs",
     t: "jobs",
@@ -56496,11 +56487,11 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.johnlewis.com",
-    r: 0,
+    r: 4,
     s: "John Lewis",
     sc: "Online",
     t: "johnlewis",
-    u: "http://www.johnlewis.com/Search/Search.aspx?SearchTerm={{{s}}}",
+    u: "https://www.johnlewis.com/search?search-term={{{s}}}",
   },
   {
     c: "Research",
@@ -56586,7 +56577,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.jorudan.co.jp",
-    r: 62,
+    r: 38,
     s: "Jorudan",
     sc: "Tools",
     t: "jorudan",
@@ -56622,7 +56613,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.jpc.de",
-    r: 48,
+    r: 31,
     s: "JPC",
     sc: "Online",
     t: "jpc",
@@ -56631,7 +56622,7 @@ export const bangs = [
   {
     c: "Research",
     d: "jpdic.naver.com",
-    r: 11,
+    r: 16,
     s: "Naver Japanese Dictionary",
     sc: "Learning",
     t: "jpdic",
@@ -56640,7 +56631,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.japandict.com",
-    r: 36,
+    r: 66,
     s: "Japan Dict",
     sc: "Tools",
     t: "jpd",
@@ -56658,7 +56649,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.jetpens.com",
-    r: 15,
+    r: 11,
     s: "Jet Pens",
     sc: "Online",
     t: "jp",
@@ -56685,7 +56676,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "trackings.post.japanpost.jp",
-    r: 10,
+    r: 15,
     s: "Japan Post Tracking",
     sc: "Tracking",
     t: "jpost",
@@ -56712,7 +56703,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "api.jquery.com",
-    r: 0,
+    r: 11,
     s: "jQuery Docs",
     sc: "Languages (java)",
     t: "jq",
@@ -56730,7 +56721,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "api.jquery.com",
-    r: 16,
+    r: 8,
     s: "jQuery Docs",
     sc: "Languages (java)",
     t: "jquery",
@@ -56766,7 +56757,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.jra.go.jp",
-    r: 13,
+    r: 12,
     s: "JRA",
     sc: "Search",
     t: "jra",
@@ -56784,7 +56775,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "joyreactor.cc",
-    r: 27,
+    r: 32,
     s: "JoyReactor",
     sc: "Comics",
     t: "jr",
@@ -56820,7 +56811,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.jsdelivr.com",
-    r: 7,
+    r: 8,
     s: "jsDelivr",
     sc: "Languages (javascript)",
     t: "jsd",
@@ -56865,7 +56856,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 176,
+    r: 119,
     s: "Mozilla Developer Network",
     sc: "Languages (javascript)",
     t: "js",
@@ -56892,7 +56883,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "jsr.io",
-    r: 27,
+    r: 19,
     s: "JSR",
     sc: "Languages (javascript)",
     t: "jsr",
@@ -56910,7 +56901,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.jstor.org",
-    r: 8,
+    r: 48,
     s: "JSTOR",
     sc: "Books",
     t: "jstor",
@@ -57000,7 +56991,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.julialang.org",
-    r: 10,
+    r: 0,
     s: "Julia language documentation",
     sc: "Languages (other)",
     t: "julia",
@@ -57009,7 +57000,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "slovniky.juls.savba.sk",
-    r: 5,
+    r: 21,
     s: "http://slovniky.juls.savba.sk/",
     sc: "Tools",
     t: "juls",
@@ -57027,7 +57018,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.jumbo.com",
-    r: 5,
+    r: 0,
     s: "Jumbo Supermarkten",
     sc: "Online (marketplace)",
     t: "jumbosupermarkt",
@@ -57090,7 +57081,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.jusbrasil.com.br",
-    r: 13,
+    r: 0,
     s: "Jusbrasil",
     sc: "Law",
     t: "jusbr",
@@ -57135,7 +57126,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.justwatch.com",
-    r: 10,
+    r: 4,
     s: "JustWatch AU",
     sc: "TV",
     t: "justwatchau",
@@ -57144,7 +57135,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.justwatch.com",
-    r: 3,
+    r: 4,
     s: "justwatch german",
     sc: "Video",
     t: "justwatchde",
@@ -57162,7 +57153,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.justwatch.com",
-    r: 375,
+    r: 312,
     s: "JustWatch",
     sc: "Movies",
     t: "justwatch",
@@ -57171,7 +57162,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.justwatch.com",
-    r: 36,
+    r: 30,
     s: "JustWatch UK",
     sc: "Video",
     t: "justwatchuk",
@@ -57225,7 +57216,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.jeuxvideo.com",
-    r: 80,
+    r: 94,
     s: "JeuxVideo",
     sc: "Games (general)",
     t: "jv",
@@ -57243,7 +57234,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.jw.org",
-    r: 7,
+    r: 0,
     s: "Jehovas Zeugen \u2014 Offizielle Website: jw.org",
     sc: "Specialty",
     t: "jwde",
@@ -57261,7 +57252,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.justwatch.com",
-    r: 184,
+    r: 183,
     s: "JustWatch",
     sc: "Search",
     t: "jwh",
@@ -57270,7 +57261,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.justwatch.com",
-    r: 38,
+    r: 16,
     s: "JustWatch India",
     sc: "Movies",
     t: "jwi",
@@ -57279,7 +57270,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.justwatch.com",
-    r: 3,
+    r: 7,
     s: "JustWatch Italy",
     sc: "Video",
     t: "jwit",
@@ -57288,7 +57279,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.jw.org",
-    r: 31,
+    r: 54,
     s: "Jehovah's Witnesses",
     sc: "Reference (religion)",
     t: "jw",
@@ -57315,7 +57306,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.justwatch.com",
-    r: 11,
+    r: 6,
     s: "JustWatch Sweden",
     sc: "Search (non-US)",
     t: "jwse",
@@ -57324,7 +57315,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "kubernetes.io",
-    r: 24,
+    r: 3,
     s: "Kubernetes",
     sc: "Libraries/Frameworks",
     t: "k8s",
@@ -57342,7 +57333,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kabum.com.br",
-    r: 9,
+    r: 11,
     s: "KaBuM",
     sc: "Tech",
     t: "kabum",
@@ -57369,7 +57360,7 @@ export const bangs = [
   {
     c: "Research",
     d: "create.kahoot.it",
-    r: 0,
+    r: 3,
     s: "Kahoot",
     sc: "Learning",
     t: "kahoot",
@@ -57387,7 +57378,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "kakaku.com",
-    r: 98,
+    r: 74,
     s: "kakaku.com",
     sc: "Online",
     t: "kakaku",
@@ -57396,7 +57387,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.khanacademy.org",
-    r: 14,
+    r: 6,
     s: "Khan Academy",
     sc: "Academic",
     t: "ka",
@@ -57666,7 +57657,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kayak.com",
-    r: 20,
+    r: 5,
     s: "KAYAK",
     sc: "Online",
     t: "kayak",
@@ -57684,7 +57675,7 @@ export const bangs = [
   {
     c: "Research",
     d: "kbbi.kemdikbud.go.id",
-    r: 14,
+    r: 0,
     s: "Kamus Besar Bahasa Indonesia",
     sc: "Reference",
     t: "kbbi",
@@ -57702,7 +57693,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 5,
+    r: 0,
     s: "Keybase.io",
     sc: "Startups",
     t: "kb",
@@ -57711,7 +57702,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "korben.info",
-    r: 12,
+    r: 7,
     s: "Korben",
     sc: "Blogs",
     t: "kbn",
@@ -57855,7 +57846,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "keepa.com",
-    r: 93,
+    r: 157,
     s: "Keepa",
     sc: "Online",
     t: "keepa",
@@ -57864,7 +57855,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "keep.google.com",
-    r: 194,
+    r: 208,
     s: "Google Keep",
     sc: "Google",
     t: "keep",
@@ -57873,7 +57864,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.keh.com",
-    r: 4,
+    r: 0,
     s: "KEH Camera",
     sc: "Online",
     t: "keh",
@@ -57936,7 +57927,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ovi.rdw.nl",
-    r: 8,
+    r: 12,
     s: "RDW (Dutch governmental traffic agency)",
     sc: "Search",
     t: "kenteken",
@@ -57981,7 +57972,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "git.kernel.org",
-    r: 0,
+    r: 3,
     s: "The Linux Kernel Archives",
     sc: "Downloads (code)",
     t: "ker",
@@ -57999,7 +57990,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "keybase.io",
-    r: 3,
+    r: 0,
     s: "Keybase",
     sc: "Tools",
     t: "key",
@@ -58008,7 +57999,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "kasperfred.com",
-    r: 7,
+    r: 4,
     s: "Kasperfred",
     sc: "Blogs",
     t: "kf",
@@ -58017,7 +58008,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.keyforsteam.de",
-    r: 10,
+    r: 4,
     s: "Keyforsteam",
     sc: "Online (marketplace)",
     t: "kfs",
@@ -58053,7 +58044,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "kg-portal.ru",
-    r: 5,
+    r: 6,
     s: "KG-Portal",
     sc: "Movies",
     t: "kg",
@@ -58089,7 +58080,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.khanacademy.org",
-    r: 7,
+    r: 15,
     s: "Khan Academy",
     sc: "Academic",
     t: "khan",
@@ -58116,7 +58107,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.khronos.org",
-    r: 4,
+    r: 0,
     s: "Khronos",
     sc: "Blogs",
     t: "khronos",
@@ -58125,7 +58116,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.khwiki.com",
-    r: 113,
+    r: 0,
     s: "Kingdom Hearts Wiki",
     sc: "Games (specific)",
     t: "khwiki",
@@ -58134,7 +58125,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.kicker.de",
-    r: 44,
+    r: 61,
     s: "kicker online",
     sc: "Sports",
     t: "kicker",
@@ -58152,7 +58143,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.kickstarter.com",
-    r: 8,
+    r: 6,
     s: "Kickstarter",
     sc: "Learning",
     t: "kickstarter",
@@ -58224,7 +58215,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kijiji.ca",
-    r: 9,
+    r: 5,
     s: "Kijiji",
     sc: "Online (marketplace)",
     t: "kijiji",
@@ -58296,7 +58287,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kimovil.com",
-    r: 3,
+    r: 10,
     s: "Kimovil",
     sc: "Tech",
     t: "kimovil",
@@ -58314,7 +58305,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.amazon.com",
-    r: 40,
+    r: 27,
     s: "Amazon Kindle",
     sc: "Books",
     t: "kindle",
@@ -58350,7 +58341,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.amazon.co.jp",
-    r: 5,
+    r: 9,
     s: "Amazon Kindle (Japan)",
     sc: "Online",
     t: "kindlejp",
@@ -58368,7 +58359,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kinguin.net",
-    r: 115,
+    r: 6,
     s: "Kinguin",
     sc: "Online (marketplace)",
     t: "kinguin",
@@ -58386,7 +58377,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.kinopoisk.ru",
-    r: 50,
+    r: 36,
     s: "Kinopoisk",
     sc: "Video",
     t: "kino",
@@ -58485,7 +58476,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "kitsu.io",
-    r: 4,
+    r: 0,
     s: "Kitsu",
     sc: "Video",
     t: "kitsu",
@@ -58512,7 +58503,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kjell.com",
-    r: 3,
+    r: 0,
     s: "Kjell & Company",
     sc: "Tech",
     t: "kjell",
@@ -58530,7 +58521,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "kanji.jitenon.jp",
-    r: 0,
+    r: 6,
     s: "\u6f22\u5b57\u8f9e\u5178\u30aa\u30f3\u30e9\u30a4\u30f3 (Online kanji dictionary)",
     sc: "Search",
     t: "kji",
@@ -58548,7 +58539,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.kingjamesbibleonline.org",
-    r: 44,
+    r: 16,
     s: "King James Bible Online",
     sc: "Reference (religion)",
     t: "kjv",
@@ -58611,7 +58602,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.konsolentreff.de",
-    r: 73,
+    r: 81,
     s: "Konsolentreff.de",
     sc: "Forum",
     t: "k",
@@ -58629,7 +58620,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kuantokusta.pt",
-    r: 10,
+    r: 11,
     s: "http://www.kuantokusta.pt/",
     sc: "Services",
     t: "kkusta",
@@ -58638,7 +58629,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ebay-kleinanzeigen.de",
-    r: 202,
+    r: 238,
     s: "eBay Kleinanzeigen",
     sc: "Online (marketplace)",
     t: "klein",
@@ -58692,7 +58683,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kmart.com.au",
-    r: 6,
+    r: 0,
     s: "Kmart Australia",
     sc: "Big box/department",
     t: "kmartau",
@@ -58719,7 +58710,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "forum.keyboardmaestro.com",
-    r: 3,
+    r: 5,
     s: "forum.keyboardmaestro.com",
     sc: "Languages (other)",
     t: "kmf",
@@ -58737,7 +58728,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "kara.moe",
-    r: 3,
+    r: 0,
     s: "Karaoke Mugen",
     sc: "Music (Lyrics)",
     t: "km",
@@ -58773,7 +58764,7 @@ export const bangs = [
   {
     c: "Research",
     d: "knowyourmeme.com",
-    r: 12,
+    r: 16,
     s: "Know Your Meme",
     sc: "Reference (fun)",
     t: "knowyourmeme",
@@ -58791,7 +58782,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.kobo.com",
-    r: 37,
+    r: 36,
     s: "Kobo",
     sc: "Books",
     t: "kobo",
@@ -58809,7 +58800,7 @@ export const bangs = [
   {
     c: "Research",
     d: "portal.kobv.de",
-    r: 27,
+    r: 13,
     s: "http://www.kobv.de/",
     sc: "Academic",
     t: "kobv",
@@ -58827,7 +58818,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "ko.dict.naver.com",
-    r: 0,
+    r: 10,
     s: "Naver Korean Dictionary",
     sc: "General",
     t: "kodict",
@@ -58881,7 +58872,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kohls.com",
-    r: 7,
+    r: 5,
     s: "Kohl's",
     sc: "Big box/department",
     t: "kohls",
@@ -58935,7 +58926,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "kol.coldfront.net",
-    r: 49,
+    r: 73,
     s: "The KoLwiki",
     sc: "Games (specific)",
     t: "kol",
@@ -58971,7 +58962,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.komplett.no",
-    r: 12,
+    r: 0,
     s: "Komplett",
     sc: "Tech",
     t: "komplett",
@@ -59133,7 +59124,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "kotaku.com",
-    r: 20,
+    r: 7,
     s: "Kotaku",
     sc: "Games (general)",
     t: "kotaku",
@@ -59151,7 +59142,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "kotlinlang.org",
-    r: 8,
+    r: 0,
     s: "kotlinlang.org",
     sc: "Languages (other)",
     t: "kotlin",
@@ -59169,7 +59160,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "kotobank.jp",
-    r: 14,
+    r: 5,
     s: "\u30b3\u30c8\u30d0\u30f3\u30af",
     sc: "Search (non-US)",
     t: "kotoba",
@@ -59178,7 +59169,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "kotobank.jp",
-    r: 0,
+    r: 7,
     s: "\u30b3\u30c8\u30d0\u30f3\u30af\u7528\u8a9e\u691c\u7d22",
     sc: "Tools",
     t: "kotobank",
@@ -59196,7 +59187,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.kpedia.jp",
-    r: 16,
+    r: 0,
     s: "Kpedia",
     sc: "Reference (words)",
     t: "kped",
@@ -59214,7 +59205,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kupujemprodajem.com",
-    r: 99,
+    r: 37,
     s: "Kupujemprodajem",
     sc: "Online (marketplace)",
     t: "kp",
@@ -59223,7 +59214,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.kinopoisk.ru",
-    r: 10,
+    r: 6,
     s: "Kinopoisk",
     sc: "Movies",
     t: "kpoisk",
@@ -59232,7 +59223,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.allkpop.com",
-    r: 63,
+    r: 51,
     s: "allkpop",
     sc: "Music",
     t: "kpop",
@@ -59259,7 +59250,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.krak.dk",
-    r: 3,
+    r: 0,
     s: "Krak",
     sc: "Maps",
     t: "krak",
@@ -59268,7 +59259,7 @@ export const bangs = [
   {
     c: "Research",
     d: "krdic.naver.com",
-    r: 10,
+    r: 3,
     s: "Naver Korean Dictionary",
     sc: "Reference (words intl)",
     t: "krdic",
@@ -59349,7 +59340,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kroger.com",
-    r: 20,
+    r: 15,
     s: "Kroger",
     sc: "Big box/department",
     t: "kroger",
@@ -59358,7 +59349,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.kickstarter.com",
-    r: 56,
+    r: 54,
     s: "Kickstarter",
     sc: "Tools (fundraising)",
     t: "ks",
@@ -59367,7 +59358,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ksl.com",
-    r: 0,
+    r: 9,
     s: "ksl.com Classifieds",
     sc: "Online (marketplace)",
     t: "kslc",
@@ -59376,7 +59367,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "classifieds.ksl.com",
-    r: 10,
+    r: 0,
     s: "KSL Classifieds",
     sc: "Online",
     t: "ksl",
@@ -59385,7 +59376,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "forum.kerbalspaceprogram.com",
-    r: 0,
+    r: 4,
     s: "Ksp forums",
     sc: "Forum",
     t: "kspf",
@@ -59394,7 +59385,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.kerbalspaceprogram.com",
-    r: 15,
+    r: 22,
     s: "Kerbal Space Program Wiki",
     sc: "Games (specific)",
     t: "ksp",
@@ -59403,7 +59394,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "ksp.co.il",
-    r: 0,
+    r: 4,
     s: "KSP",
     sc: "Tech",
     t: "ksppc",
@@ -59430,7 +59421,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "kitsu.io",
-    r: 3,
+    r: 0,
     s: "kitsu.io",
     sc: "TV",
     t: "ksu",
@@ -59466,7 +59457,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "kth-primo.hosted.exlibrisgroup.com",
-    r: 0,
+    r: 6,
     s: "KTH Library",
     sc: "Books",
     t: "kthb",
@@ -59511,7 +59502,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.kielitoimistonsanakirja.fi",
-    r: 5,
+    r: 18,
     s: "https://www.kielitoimistonsanakirja.fi",
     sc: "Learning",
     t: "kts",
@@ -59520,7 +59511,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.kuantokusta.pt",
-    r: 10,
+    r: 6,
     s: "KuantoKusta",
     sc: "Online",
     t: "kuantokusta",
@@ -59547,7 +59538,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "kubernetes.io",
-    r: 3,
+    r: 0,
     s: "https://kubernetes.io/docs",
     sc: "Sysadmin",
     t: "kubernetes",
@@ -59574,7 +59565,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.kulinarian.com",
-    r: 0,
+    r: 6,
     s: "kulinarian",
     sc: "Food",
     t: "kulinarian",
@@ -59673,7 +59664,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.kvk.nl",
-    r: 7,
+    r: 0,
     s: "Kamer van Koophandel",
     sc: "Government",
     t: "kvk",
@@ -59727,7 +59718,7 @@ export const bangs = [
   {
     c: "Research",
     d: "knowyourmeme.com",
-    r: 843,
+    r: 644,
     s: "Know Your Meme",
     sc: "Reference (fun)",
     t: "kym",
@@ -59736,7 +59727,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.kyobobook.co.kr",
-    r: 0,
+    r: 15,
     s: "Kyobo Book Centre",
     sc: "Online",
     t: "kyobo",
@@ -59763,7 +59754,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "l1sp.org",
-    r: 16,
+    r: 0,
     s: "Lisp Docs",
     sc: "Programming",
     t: "l1sp",
@@ -59826,7 +59817,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "acordes.lacuerda.net",
-    r: 3,
+    r: 7,
     s: "LaCuerda",
     sc: "Misc",
     t: "lacuerda",
@@ -59898,7 +59889,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.langenscheidt.com",
-    r: 6,
+    r: 18,
     s: "Langenscheidt",
     sc: "Reference (words intl)",
     t: "la",
@@ -59979,7 +59970,7 @@ export const bangs = [
   {
     c: "Research",
     d: "LanguageTool.org",
-    r: 48,
+    r: 35,
     s: "LanguageTool",
     sc: "Reference (words)",
     t: "lang",
@@ -60033,7 +60024,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ls2pac.lapl.org",
-    r: 5,
+    r: 0,
     s: "Los Angeles Public Library",
     sc: "Reference",
     t: "lapl",
@@ -60042,7 +60033,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.csuivi.courrier.laposte.fr",
-    r: 0,
+    r: 7,
     s: "La Poste Suivi",
     sc: "Tracking",
     t: "laposte",
@@ -60069,7 +60060,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "laravel.com",
-    r: 52,
+    r: 42,
     s: "Laravel",
     sc: "Languages (php)",
     t: "laravel",
@@ -60078,7 +60069,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.larousse.fr",
-    r: 0,
+    r: 5,
     s: "Larousse EN - FR translation",
     sc: "Learning (intl)",
     t: "larenfr",
@@ -60096,7 +60087,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.larousse.fr",
-    r: 0,
+    r: 6,
     s: "Larousse FR - EN translation",
     sc: "Search",
     t: "larfren",
@@ -60123,7 +60114,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.larousse.fr",
-    r: 67,
+    r: 86,
     s: "Larousse (Fran\u00e7ais)",
     sc: "Reference (words intl)",
     t: "lar",
@@ -60132,7 +60123,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.larousse.fr",
-    r: 62,
+    r: 34,
     s: "Larousse French Dictionary",
     sc: "Tools",
     t: "larousse",
@@ -60177,7 +60168,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.last.fm",
-    r: 150,
+    r: 159,
     s: "Last.fm",
     sc: "Music",
     t: "lastfm",
@@ -60186,7 +60177,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.last.fm",
-    r: 4,
+    r: 11,
     s: "Last.fm",
     sc: "Music",
     t: "last.fm",
@@ -60258,7 +60249,7 @@ export const bangs = [
   {
     c: "News",
     d: "search.latimes.com",
-    r: 3,
+    r: 0,
     s: "LATimes",
     sc: "Newspaper",
     t: "latimes",
@@ -60267,7 +60258,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.perseus.tufts.edu",
-    r: 5,
+    r: 6,
     s: "Latin Word Study tool",
     sc: "Reference (words intl)",
     t: "latin",
@@ -60276,7 +60267,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dizionario-latino.com",
-    r: 0,
+    r: 3,
     s: "Dizionario Latino Olivetti",
     sc: "Reference (words intl)",
     t: "latino",
@@ -60294,7 +60285,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.archives.nd.edu",
-    r: 0,
+    r: 3,
     s: "Whitaker's Latin",
     sc: "Learning (intl)",
     t: "lat",
@@ -60348,7 +60339,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cse.google.com",
-    r: 7,
+    r: 0,
     s: "Lawphil.net",
     sc: "Law",
     t: "lawphil",
@@ -60366,7 +60357,7 @@ export const bangs = [
   {
     c: "Research",
     d: "law.moj.gov.tw",
-    r: 0,
+    r: 7,
     s: "Laws & Regulations Database of The Republic of China",
     sc: "Law",
     t: "lawtw",
@@ -60393,7 +60384,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.lazada.com.ph",
-    r: 0,
+    r: 33,
     s: "Lazada Philippines",
     sc: "Online",
     t: "lazadaph",
@@ -60429,7 +60420,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.leboncoin.fr",
-    r: 508,
+    r: 590,
     s: "Le Bon Coin",
     sc: "Online (deals)",
     t: "lbc",
@@ -60456,7 +60447,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "letterboxd.com",
-    r: 1924,
+    r: 2057,
     s: "letterboxd",
     sc: "Movies",
     t: "lb",
@@ -60483,7 +60474,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "letterboxd.com",
-    r: 76,
+    r: 83,
     s: "Letterboxd",
     sc: "Movies",
     t: "lbx",
@@ -60492,7 +60483,7 @@ export const bangs = [
   {
     c: "Research",
     d: "authorities.loc.gov",
-    r: 0,
+    r: 6,
     s: "Library of Congress Authorities",
     sc: "Academic",
     t: "lcauth",
@@ -60546,7 +60537,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "laracasts.com",
-    r: 3,
+    r: 5,
     s: "Laracasts",
     sc: "Libraries/Frameworks",
     t: "lc",
@@ -60573,7 +60564,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "lcsc.com",
-    r: 42,
+    r: 82,
     s: "LCSC",
     sc: "Tech",
     t: "lcsc",
@@ -60609,7 +60600,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.lddb.com",
-    r: 3,
+    r: 0,
     s: "LaserDisc Database",
     sc: "Movies",
     t: "lddb",
@@ -60618,7 +60609,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "en.langenscheidt.com",
-    r: 4,
+    r: 8,
     s: "langenscheidt de-en",
     sc: "Tools",
     t: "lde",
@@ -60636,7 +60627,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ldlc.com",
-    r: 16,
+    r: 7,
     s: "LDLC",
     sc: "Online",
     t: "ldlc",
@@ -60654,7 +60645,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ldoceonline.com",
-    r: 207,
+    r: 91,
     s: "Longman Dictionary of Contemporary English",
     sc: "Reference (words)",
     t: "ld",
@@ -60663,7 +60654,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamliquid.net",
-    r: 42,
+    r: 41,
     s: "Liquipedia Dota 2 Wiki",
     sc: "Games (specific)",
     t: "ldota",
@@ -60681,7 +60672,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.lds.org",
-    r: 28,
+    r: 15,
     s: "LDS.org",
     sc: "Reference (religion)",
     t: "lds",
@@ -60699,7 +60690,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.leafly.com",
-    r: 34,
+    r: 12,
     s: "Leafly",
     sc: "Reference",
     t: "leafly",
@@ -60726,7 +60717,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.learngaelic.net",
-    r: 7,
+    r: 0,
     s: "LearnGaelic.net",
     sc: "Reference (words intl)",
     t: "learngaelic",
@@ -60735,7 +60726,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "learn.javascript.ru",
-    r: 3,
+    r: 0,
     s: "learn.javascript.ru",
     sc: "Languages (javascript)",
     t: "learn-js",
@@ -60762,7 +60753,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "learnxinyminutes.com",
-    r: 8,
+    r: 0,
     s: "Learn X in Y",
     sc: "Languages (other)",
     t: "learnxiny",
@@ -60789,7 +60780,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.leboncoin.fr",
-    r: 49,
+    r: 77,
     s: "Le Bon Coin",
     sc: "Online (deals)",
     t: "leboncoin",
@@ -60816,7 +60807,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.le-dictionnaire.com",
-    r: 3,
+    r: 0,
     s: "Le Dictionnaire",
     sc: "Reference",
     t: "ledict",
@@ -60843,7 +60834,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.com",
-    r: 41,
+    r: 3,
     s: "Linguee EN FR",
     sc: "Tools",
     t: "lef",
@@ -60852,7 +60843,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "scholar.google.com",
-    r: 8,
+    r: 7,
     s: "Google Scholar - Legal Opinion Section",
     sc: "Google",
     t: "legal",
@@ -60888,7 +60879,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search2.lego.com",
-    r: 14,
+    r: 7,
     s: "LEGO.com",
     sc: "Online",
     t: "lego",
@@ -60924,7 +60915,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "leifinder.com",
-    r: 0,
+    r: 5,
     s: "leifinder",
     sc: "Search",
     t: "lei",
@@ -60969,7 +60960,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.lemonde.fr",
-    r: 48,
+    r: 64,
     s: "Le Monde",
     sc: "Newspaper",
     t: "lemonde",
@@ -60978,7 +60969,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.fr",
-    r: 10,
+    r: 8,
     s: "Linguee",
     sc: "Tools",
     t: "lenfr",
@@ -60996,7 +60987,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "shop.lenovo.com",
-    r: 3,
+    r: 0,
     s: "Lenovo",
     sc: "Companies",
     t: "lenovo",
@@ -61004,7 +60995,7 @@ export const bangs = [
   },
   {
     d: "dict.leo.org",
-    r: 5,
+    r: 8,
     s: "LEO Dictionary Chinese",
     t: "leoc",
     u: "http://dict.leo.org/chde?lp=chde&search={{{s}}}",
@@ -61012,7 +61003,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dict.leo.org",
-    r: 4981,
+    r: 4085,
     s: "dict.leo.org",
     sc: "Reference (words intl)",
     t: "leo",
@@ -61020,14 +61011,14 @@ export const bangs = [
   },
   {
     d: "dict.leo.org",
-    r: 364,
+    r: 286,
     s: "LEO Dictionary English",
     t: "leoe",
     u: "http://dict.leo.org/ende?lp=ende&search={{{s}}}",
   },
   {
     d: "dict.leo.org",
-    r: 84,
+    r: 99,
     s: "LEO Dictionary French",
     t: "leof",
     u: "http://dict.leo.org/frde?lp=frde&search={{{s}}}",
@@ -61035,7 +61026,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dict.leo.org",
-    r: 74,
+    r: 83,
     s: "LEO Dictionary French",
     sc: "Tools",
     t: "leofr",
@@ -61043,7 +61034,7 @@ export const bangs = [
   },
   {
     d: "dict.leo.org",
-    r: 35,
+    r: 42,
     s: "LEO Dictionary Italian",
     t: "leoi",
     u: "http://dict.leo.org/itde?lp=itde&search={{{s}}}",
@@ -61060,7 +61051,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dict.leo.org",
-    r: 5,
+    r: 0,
     s: "Leo",
     sc: "Reference",
     t: "leop",
@@ -61069,7 +61060,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dict.leo.org",
-    r: 4,
+    r: 3,
     s: "Leo (Polski-Deutsch)",
     sc: "Tools",
     t: "leopl",
@@ -61078,7 +61069,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dict.leo.org",
-    r: 10,
+    r: 4,
     s: "LEO Dictionary Portuguese",
     sc: "Tools",
     t: "leopt",
@@ -61094,7 +61085,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dict.leo.org",
-    r: 12,
+    r: 15,
     s: "LEO Dictionary Russian",
     sc: "Tools",
     t: "leoru",
@@ -61102,7 +61093,7 @@ export const bangs = [
   },
   {
     d: "dict.leo.org",
-    r: 90,
+    r: 127,
     s: "LEO Dictionary Spanish",
     t: "leos",
     u: "http://dict.leo.org/esde?lp=esde&search={{{s}}}",
@@ -61128,7 +61119,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "lernu.net",
-    r: 16,
+    r: 0,
     s: "Lernu!",
     sc: "Tools",
     t: "lernues",
@@ -61164,7 +61155,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.es",
-    r: 99,
+    r: 47,
     s: "Linguee",
     sc: "Tools",
     t: "les",
@@ -61200,7 +61191,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.lowendtalk.com",
-    r: 0,
+    r: 9,
     s: "LowEndTalk",
     sc: "Social",
     t: "let",
@@ -61236,7 +61227,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "letras.mus.br",
-    r: 4,
+    r: 10,
     s: "Letras.mus.br",
     sc: "Tools",
     t: "letras",
@@ -61263,7 +61254,7 @@ export const bangs = [
   {
     c: "Research",
     d: "le.ac.uk",
-    r: 4,
+    r: 8,
     s: "University of Leicester",
     sc: "Academic",
     t: "le",
@@ -61290,7 +61281,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wh40k.lexicanum.com",
-    r: 83,
+    r: 67,
     s: "Lexicanum",
     sc: "Games (offline)",
     t: "lexicanum",
@@ -61335,7 +61326,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.greek-language.gr",
-    r: 9,
+    r: 16,
     s: "\u039b\u03b5\u03be\u03b9\u03ba\u03cc \u03a4\u03c1\u03b9\u03b1\u03bd\u03c4\u03b1\u03c6\u03c5\u03bb\u03bb\u03af\u03b4\u03b7",
     sc: "Tools",
     t: "lext",
@@ -61362,7 +61353,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.last.fm",
-    r: 220,
+    r: 227,
     s: "last.fm",
     sc: "Music",
     t: "lfm",
@@ -61416,7 +61407,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lifehacker.com",
-    r: 5,
+    r: 10,
     s: "Lifehacker",
     sc: "Blogs",
     t: "lh",
@@ -61443,7 +61434,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "libbyapp.com",
-    r: 0,
+    r: 5,
     s: "Libby, By Overdrive",
     sc: "Misc",
     t: "libby",
@@ -61470,7 +61461,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.liberation.fr",
-    r: 42,
+    r: 17,
     s: "Lib\u00e9ration",
     sc: "Newspaper",
     t: "libe",
@@ -61515,7 +61506,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.librarything.com",
-    r: 6,
+    r: 0,
     s: "LibraryThing",
     sc: "Books",
     t: "librarything",
@@ -61578,7 +61569,7 @@ export const bangs = [
   {
     c: "Research",
     d: "libris.kb.se",
-    r: 0,
+    r: 4,
     s: "Libris",
     sc: "Learning",
     t: "libris",
@@ -61587,7 +61578,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "librivox.org",
-    r: 4,
+    r: 5,
     s: "LibriVox",
     sc: "Books",
     t: "librivox",
@@ -61596,7 +61587,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "lib.rs",
-    r: 489,
+    r: 500,
     s: "https://lib.rs/",
     sc: "Languages (other)",
     t: "librs",
@@ -61659,7 +61650,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linkedin.com",
-    r: 8,
+    r: 3,
     s: "linkedin.com/company",
     sc: "Jobs",
     t: "lic",
@@ -61668,7 +61659,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.de",
-    r: 98,
+    r: 94,
     s: "Linguee (Deutsch/Englisch)",
     sc: "Tools",
     t: "lide",
@@ -61677,7 +61668,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.linguee.de",
-    r: 0,
+    r: 6,
     s: "Linguee Deutsch <-> Fran\u00e7ais (German  <-> French)",
     sc: "General",
     t: "lidf",
@@ -61695,7 +61686,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.welklidwoord.nl",
-    r: 4,
+    r: 0,
     s: "Welklidwoord",
     sc: "Tools",
     t: "lidwoord",
@@ -61704,7 +61695,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.de",
-    r: 14,
+    r: 31,
     s: "linguee.com German - English",
     sc: "Tools",
     t: "lied",
@@ -61740,7 +61731,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.linguee.fr",
-    r: 4,
+    r: 0,
     s: "Linguee Fran\u00e7ais <-> Deutsch (German <-> French) with French interface",
     sc: "General",
     t: "lifd",
@@ -61749,7 +61740,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lifehacker.com",
-    r: 4,
+    r: 0,
     s: "Lifehacker",
     sc: "Blogs",
     t: "lifehacker",
@@ -61830,7 +61821,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.light.gg",
-    r: 11,
+    r: 27,
     s: "light.gg",
     sc: "Games (general)",
     t: "lightgg",
@@ -61839,7 +61830,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.light.gg",
-    r: 9,
+    r: 0,
     s: "light.gg",
     sc: "Games (specific)",
     t: "light",
@@ -61857,7 +61848,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "lihkg.com",
-    r: 43,
+    r: 0,
     s: "Lihkg",
     sc: "Social",
     t: "lihkg",
@@ -61893,7 +61884,7 @@ export const bangs = [
   {
     c: "Research",
     d: "thesaurus.com",
-    r: 21,
+    r: 29,
     s: "Thesaurus.com",
     sc: "Reference (words)",
     t: "like",
@@ -61911,7 +61902,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linkedin.com",
-    r: 3073,
+    r: 2932,
     s: "LinkedIn",
     sc: "Social",
     t: "li",
@@ -61947,7 +61938,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.linguee.com.br",
-    r: 39,
+    r: 71,
     s: "Linguee",
     sc: "Reference (words)",
     t: "linbr",
@@ -61983,7 +61974,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.linguee.com",
-    r: 19,
+    r: 25,
     s: "linguee",
     sc: "Reference (words)",
     t: "linef",
@@ -61992,7 +61983,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.com",
-    r: 3,
+    r: 0,
     s: "linguee",
     sc: "Search",
     t: "lineg",
@@ -62010,7 +62001,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.linguee.com",
-    r: 11,
+    r: 5,
     s: "Linguee English - Dutch",
     sc: "Reference (words intl)",
     t: "linen",
@@ -62019,7 +62010,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.com",
-    r: 5,
+    r: 7,
     s: "linguee",
     sc: "Search",
     t: "linep",
@@ -62037,7 +62028,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.com",
-    r: 0,
+    r: 3,
     s: "linguee",
     sc: "Search",
     t: "lines",
@@ -62055,7 +62046,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.linguee.fr",
-    r: 9,
+    r: 3,
     s: "linguee",
     sc: "Reference (words)",
     t: "linfe",
@@ -62064,7 +62055,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.com",
-    r: 36,
+    r: 30,
     s: "linguee",
     sc: "Search",
     t: "linge",
@@ -62082,7 +62073,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.linguee.fr",
-    r: 10,
+    r: 6,
     s: "Linguee (Fr-En)",
     sc: "Reference (words intl)",
     t: "lingfe",
@@ -62118,7 +62109,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.linguee.fr",
-    r: 45,
+    r: 46,
     s: "Linguee (en fran\u00e7ais)",
     sc: "Reference (words intl)",
     t: "lingfr",
@@ -62127,7 +62118,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ling.pl",
-    r: 58,
+    r: 45,
     s: "Ling.pl Angielsko-Polski",
     sc: "Reference (words intl)",
     t: "ling",
@@ -62190,7 +62181,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.de",
-    r: 335,
+    r: 269,
     s: "Linguee",
     sc: "Tools",
     t: "linguee",
@@ -62199,7 +62190,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.linguee.es",
-    r: 30,
+    r: 47,
     s: "www.linguee.es",
     sc: "Reference (words)",
     t: "lingues",
@@ -62208,7 +62199,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "lingvolive.ru",
-    r: 3,
+    r: 0,
     s: "Lingvo Live",
     sc: "Tools",
     t: "lingvo",
@@ -62217,7 +62208,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linkedin.com",
-    r: 961,
+    r: 745,
     s: "LinkedIn",
     sc: "Social",
     t: "linkedin",
@@ -62253,7 +62244,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.linguee.com",
-    r: 90,
+    r: 59,
     s: "Linguee",
     sc: "Reference (words intl)",
     t: "lin",
@@ -62298,7 +62289,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.com",
-    r: 5,
+    r: 0,
     s: "Linguee Swedish",
     sc: "Tools",
     t: "linse",
@@ -62343,7 +62334,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "explicativolinux.wordpress.com",
-    r: 27,
+    r: 12,
     s: "Explicativo Linux",
     sc: "Sysadmin (debian)",
     t: "linux",
@@ -62361,7 +62352,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "forums.linuxmint.com",
-    r: 0,
+    r: 5,
     s: "Linux Mint Forums",
     sc: "Sysadmin",
     t: "linuxmint",
@@ -62379,7 +62370,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "linuxtracker.org",
-    r: 3,
+    r: 0,
     s: "Linux Tracker",
     sc: "Downloads",
     t: "linuxtracker",
@@ -62406,7 +62397,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.lipsum.com",
-    r: 7,
+    r: 6,
     s: "Lorem Ipsum",
     sc: "Design",
     t: "lipsum",
@@ -62424,7 +62415,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamliquid.net",
-    r: 5,
+    r: 0,
     s: "Liquidpedia",
     sc: "Games (specific)",
     t: "liquidpedia",
@@ -62433,7 +62424,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamliquid.net",
-    r: 17,
+    r: 16,
     s: "Liquipedia2",
     sc: "Games (specific)",
     t: "liquipedia",
@@ -62469,7 +62460,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.listal.com",
-    r: 12,
+    r: 5,
     s: "Listal",
     sc: "Movies",
     t: "listal",
@@ -62496,7 +62487,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.listennotes.com",
-    r: 3,
+    r: 0,
     s: "Listen Notes",
     sc: "Search",
     t: "listennotes",
@@ -62532,7 +62523,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 27,
+    r: 300,
     s: "DuckDuckGo Lite",
     sc: "Search (DDG)",
     t: "lite",
@@ -62595,7 +62586,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.littre.org",
-    r: 5,
+    r: 0,
     s: "Dictionnaire Littr\u00e9",
     sc: "Books",
     t: "littre",
@@ -62694,7 +62685,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.lolking.net",
-    r: 3,
+    r: 0,
     s: "LolKing",
     sc: "Games (specific)",
     t: "lk",
@@ -62775,7 +62766,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lmddgtfy.net",
-    r: 0,
+    r: 3,
     s: "LMDDGTFY.NET",
     sc: "Misc",
     t: "lmddgtfy",
@@ -62793,7 +62784,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.lmgtfy.com",
-    r: 4,
+    r: 0,
     s: "LMGTFY",
     sc: "Tools",
     t: "lmgtfy",
@@ -62802,7 +62793,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.livemixtapes.com",
-    r: 0,
+    r: 6,
     s: "LiveMixtapes",
     sc: "Music",
     t: "lm",
@@ -62838,7 +62829,7 @@ export const bangs = [
   {
     c: "Research",
     d: "opac.ub.uni-muenchen.de",
-    r: 27,
+    r: 0,
     s: "Universit\u00e4tsbibliothek der Ludwig-Maximilians-Universit\u00e4t (LMU) M\u00fcnchen",
     sc: "Academic",
     t: "lmu",
@@ -62883,7 +62874,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "lenewbie.com",
-    r: 5,
+    r: 9,
     s: "Le Newbie",
     sc: "Blogs",
     t: "ln",
@@ -62928,7 +62919,7 @@ export const bangs = [
   {
     c: "News",
     d: "lobste.rs",
-    r: 24,
+    r: 61,
     s: "Lobsters",
     sc: "Aggregators",
     t: "lobsters",
@@ -62955,7 +62946,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "local.google.com",
-    r: 38,
+    r: 12,
     s: "Google Local",
     sc: "Google",
     t: "local",
@@ -63000,7 +62991,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.loc.gov",
-    r: 4,
+    r: 0,
     s: "Library of Congress Catalog (loc.gov)",
     sc: "Government",
     t: "loc",
@@ -63009,7 +63000,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "lodash.com",
-    r: 10,
+    r: 14,
     s: "lodash documentation",
     sc: "Languages (javascript)",
     t: "lodash",
@@ -63045,7 +63036,7 @@ export const bangs = [
   {
     c: "Research",
     d: "logeion.uchicago.edu",
-    r: 14,
+    r: 15,
     s: "Logeion",
     sc: "Reference (words intl)",
     t: "log",
@@ -63054,7 +63045,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "logopond.com",
-    r: 3,
+    r: 0,
     s: "logopond",
     sc: "Design",
     t: "logo",
@@ -63090,7 +63081,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lolalytics.com",
-    r: 9,
+    r: 0,
     s: "lolalytics",
     sc: "Games (specific)",
     t: "lolchamp",
@@ -63126,7 +63117,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.locksonline.co.uk",
-    r: 4,
+    r: 0,
     s: "LocksOnline.co.uk",
     sc: "Online",
     t: "lol",
@@ -63180,7 +63171,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "leagueoflegends.wikia.com",
-    r: 52,
+    r: 11,
     s: "League of Legends Wiki",
     sc: "Games (specific)",
     t: "lolwiki",
@@ -63198,7 +63189,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dict.longdo.com",
-    r: 4,
+    r: 13,
     s: "LongDo Dict",
     sc: "Reference (words intl)",
     t: "longdo",
@@ -63261,7 +63252,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.linux.org.ru",
-    r: 29,
+    r: 63,
     s: "Linux.org.ru",
     sc: "Sysadmin",
     t: "lor",
@@ -63297,7 +63288,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lostpedia.wikia.com",
-    r: 0,
+    r: 3,
     s: "Lostpedia",
     sc: "TV",
     t: "lost",
@@ -63369,7 +63360,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "love2d.org",
-    r: 6,
+    r: 4,
     s: "L\u00d6VE",
     sc: "Languages (lua)",
     t: "love",
@@ -63423,7 +63414,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.lowes.com",
-    r: 173,
+    r: 168,
     s: "Lowes",
     sc: "Big box/department",
     t: "lowes",
@@ -63450,7 +63441,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "bugs.launchpad.net",
-    r: 3,
+    r: 0,
     s: "Launchpad Bugs",
     sc: "Programming",
     t: "lpbug",
@@ -63468,7 +63459,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "launchpad.net",
-    r: 5,
+    r: 7,
     s: "Launchpad",
     sc: "Programming",
     t: "lp",
@@ -63477,7 +63468,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.die.net",
-    r: 3,
+    r: 0,
     s: "Linux Man Page",
     sc: "Languages (c++)",
     t: "lpm",
@@ -63612,7 +63603,7 @@ export const bangs = [
   {
     c: "Research",
     d: "littlesis.org",
-    r: 6,
+    r: 3,
     s: "LittleSis",
     sc: "Government",
     t: "ls",
@@ -63648,7 +63639,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "liquipedia.net",
-    r: 8,
+    r: 0,
     s: "Liquipedia Starcraft 2",
     sc: "Games (general)",
     t: "lstarcraft",
@@ -63693,7 +63684,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.librarything.com",
-    r: 57,
+    r: 85,
     s: "LibraryThing",
     sc: "Books",
     t: "lt",
@@ -63711,7 +63702,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "letterboxd.com",
-    r: 169,
+    r: 166,
     s: "Letterboxd",
     sc: "Movies",
     t: "ltr",
@@ -63738,7 +63729,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "linustechtips.com",
-    r: 32,
+    r: 7,
     s: "LinusTechTips Forum",
     sc: "Blogs",
     t: "ltt",
@@ -63810,7 +63801,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "luarocks.org",
-    r: 16,
+    r: 5,
     s: "LuaRocks",
     sc: "Languages (lua)",
     t: "luarocks",
@@ -63819,7 +63810,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lubimyczytac.pl",
-    r: 11,
+    r: 8,
     s: "lubimyczytac",
     sc: "Misc",
     t: "lubimyczytac",
@@ -63855,7 +63846,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 182,
+    r: 392,
     s: "Google Feeling Lucky",
     sc: "Google",
     t: "lucky",
@@ -63882,7 +63873,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ludwig.guru",
-    r: 0,
+    r: 6,
     s: "Ludwig",
     sc: "Tools",
     t: "ludwig",
@@ -63900,7 +63891,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "www.lugatim.com",
-    r: 5,
+    r: 54,
     s: "Kubbealt\u0131 Lugat\u0131",
     sc: "General",
     t: "lugat",
@@ -63909,7 +63900,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.lukol.com",
-    r: 8,
+    r: 6,
     s: "Lukol",
     sc: "Search (Private)",
     t: "lukol",
@@ -63972,7 +63963,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lurkmore.to",
-    r: 17,
+    r: 23,
     s: "Lurkmoar",
     sc: "Blogs",
     t: "lurk",
@@ -64008,7 +63999,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lutris.net",
-    r: 56,
+    r: 59,
     s: "Lutris - Open Gaming Platform",
     sc: "Games (general)",
     t: "lutris",
@@ -64071,7 +64062,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "la-vache-libre.org",
-    r: 0,
+    r: 6,
     s: "La vache libre",
     sc: "Blogs",
     t: "lvl",
@@ -64116,7 +64107,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "lesswrong.com",
-    r: 10,
+    r: 37,
     s: "LessWrong",
     sc: "Blogs",
     t: "lw",
@@ -64152,7 +64143,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.lexico.com",
-    r: 3,
+    r: 0,
     s: "Lexico (Powered by Oxford)",
     sc: "Reference (words)",
     t: "lx",
@@ -64170,7 +64161,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "elixir.bootlin.com",
-    r: 23,
+    r: 34,
     s: "Linux Cross Reference",
     sc: "Sysadmin",
     t: "lxr",
@@ -64179,7 +64170,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.lycos.com",
-    r: 0,
+    r: 5,
     s: "Lycos",
     sc: "Search",
     t: "lycos",
@@ -64224,7 +64215,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "lyrics.wikia.com",
-    r: 26,
+    r: 28,
     s: "Lyric Wiki",
     sc: "Music (Lyrics)",
     t: "lyrics",
@@ -64233,7 +64224,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "lyricstranslate.com",
-    r: 6,
+    r: 10,
     s: "Lyrics Translate",
     sc: "Music (Lyrics)",
     t: "lyricstranslate",
@@ -64287,7 +64278,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.lazada.com.ph",
-    r: 83,
+    r: 125,
     s: "Lazada Philippines",
     sc: "Online",
     t: "lzd",
@@ -64413,7 +64404,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.metal-archives.com",
-    r: 47,
+    r: 50,
     s: "Metal Archives",
     sc: "Music",
     t: "maband",
@@ -64422,7 +64413,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.metal-archives.com",
-    r: 217,
+    r: 124,
     s: "Encyclopaedia metallum",
     sc: "Music",
     t: "mab",
@@ -64431,7 +64422,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.mabinogiworld.com",
-    r: 4,
+    r: 0,
     s: "Mabinogi World Wiki",
     sc: "Games (specific)",
     t: "mabiwiki",
@@ -64485,7 +64476,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.macvendorlookup.com",
-    r: 11,
+    r: 34,
     s: "MAC address lookup",
     sc: "Domains",
     t: "mac",
@@ -64539,7 +64530,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.macrumors.com",
-    r: 20,
+    r: 18,
     s: "MacRumors",
     sc: "Blogs",
     t: "macrumors",
@@ -64602,7 +64593,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.macys.com",
-    r: 7,
+    r: 13,
     s: "Macy's",
     sc: "Big box/department",
     t: "macys",
@@ -64611,7 +64602,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.made.com",
-    r: 3,
+    r: 0,
     s: "Made.com",
     sc: "Online",
     t: "made",
@@ -64728,7 +64719,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "gatherer.wizards.com",
-    r: 3,
+    r: 0,
     s: "Magic: The Gathering",
     sc: "Games (general)",
     t: "magic",
@@ -64800,7 +64791,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.google.com",
-    r: 966,
+    r: 1160,
     s: "Google Mail",
     sc: "Google",
     t: "mail",
@@ -64809,7 +64800,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.mailinator.com",
-    r: 3,
+    r: 0,
     s: "Mailinator",
     sc: "Tools",
     t: "mailinator",
@@ -64818,7 +64809,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "go.mail.ru",
-    r: 9,
+    r: 11,
     s: "go.mail.ru",
     sc: "Search",
     t: "mailru",
@@ -64899,7 +64890,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "myanimelist.net",
-    r: 54,
+    r: 17,
     s: "MyAnimeList Search All",
     sc: "TV",
     t: "malall",
@@ -64908,7 +64899,7 @@ export const bangs = [
   {
     c: "Research",
     d: "malid.is",
-    r: 15,
+    r: 0,
     s: "M\u00e1li\u00f0",
     sc: "Reference (words)",
     t: "malid",
@@ -64917,7 +64908,7 @@ export const bangs = [
   {
     c: "News",
     d: "myanimelist.net",
-    r: 8,
+    r: 25,
     s: "MyAnimeList",
     sc: "Specialty",
     t: "malist",
@@ -64926,7 +64917,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mall.cz",
-    r: 3,
+    r: 0,
     s: "Mall.cz",
     sc: "Online (marketplace)",
     t: "mall",
@@ -64935,7 +64926,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "myanimelist.net",
-    r: 1759,
+    r: 1676,
     s: "My Anime List",
     sc: "Movies",
     t: "mal",
@@ -64944,7 +64935,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "memory-alpha.org",
-    r: 3,
+    r: 0,
     s: "Memory Alpha",
     sc: "TV",
     t: "malpha",
@@ -64962,7 +64953,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "en.memory-alpha.org",
-    r: 212,
+    r: 172,
     s: "Memory Alpha",
     sc: "TV",
     t: "ma",
@@ -64980,7 +64971,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "linux.die.net",
-    r: 7,
+    r: 3,
     s: "Linux Die.net Manual Page 1",
     sc: "Sysadmin (man)",
     t: "man1",
@@ -64989,7 +64980,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 102,
+    r: 22,
     s: "The Linux man-pages project",
     sc: "Sysadmin (man)",
     t: "man7",
@@ -65025,7 +65016,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mangadex.org",
-    r: 51,
+    r: 19,
     s: "https://mangadex.org/",
     sc: "Comics",
     t: "mangadex",
@@ -65043,7 +65034,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "myanimelist.net",
-    r: 48,
+    r: 17,
     s: "MyAnimeList Manga",
     sc: "Books",
     t: "manga",
@@ -65106,7 +65097,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.mankier.com",
-    r: 51,
+    r: 40,
     s: "Mankier",
     sc: "Sysadmin (man)",
     t: "mankier",
@@ -65124,7 +65115,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "manpage.me",
-    r: 305,
+    r: 287,
     s: "Man Page",
     sc: "Sysadmin",
     t: "man",
@@ -65133,7 +65124,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "manned.org",
-    r: 0,
+    r: 7,
     s: "Manned",
     sc: "Sysadmin (man)",
     t: "manned",
@@ -65160,7 +65151,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "manpage.me",
-    r: 4,
+    r: 6,
     s: "manpage",
     sc: "Sysadmin (man)",
     t: "manpage",
@@ -65196,7 +65187,7 @@ export const bangs = [
   {
     c: "Research",
     d: "maoridictionary.co.nz",
-    r: 17,
+    r: 0,
     s: "M\u0101ori Dictionary",
     sc: "Reference (words intl)",
     t: "maori",
@@ -65223,7 +65214,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.google.com",
-    r: 5116,
+    r: 5257,
     s: "Google Maps",
     sc: "Maps",
     t: "map",
@@ -65250,7 +65241,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "fr.mappy.com",
-    r: 4,
+    r: 7,
     s: "Mappy FR",
     sc: "Maps",
     t: "mappy",
@@ -65268,7 +65259,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.de",
-    r: 28,
+    r: 13,
     s: "Google Maps DE",
     sc: "Maps",
     t: "mapsde",
@@ -65277,7 +65268,7 @@ export const bangs = [
   {
     c: "Research",
     d: "maps.google.com",
-    r: 69,
+    r: 89,
     s: "Google Maps FR",
     sc: "Travel",
     t: "mapsfr",
@@ -65286,7 +65277,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 32338,
+    r: 31710,
     s: "Google Maps",
     sc: "Maps",
     t: "maps",
@@ -65295,7 +65286,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 0,
+    r: 3,
     s: "Google Maps Directions",
     sc: "Maps",
     t: "mapsr",
@@ -65304,7 +65295,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.google.co.uk",
-    r: 54,
+    r: 51,
     s: "Google Maps UK",
     sc: "Maps",
     t: "mapsuk",
@@ -65313,7 +65304,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mapy.cz",
-    r: 176,
+    r: 154,
     s: "Mapy.cz",
     sc: "Maps",
     t: "mapy",
@@ -65331,7 +65322,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.metal-archives.com",
-    r: 234,
+    r: 187,
     s: "Metal Archives",
     sc: "Music",
     t: "march",
@@ -65349,7 +65340,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "mariadb.com",
-    r: 8,
+    r: 0,
     s: "Mariadb",
     sc: "Programming",
     t: "mariadb",
@@ -65358,7 +65349,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.marinetraffic.com",
-    r: 6,
+    r: 0,
     s: "MarineTraffic",
     sc: "Tools",
     t: "marine",
@@ -65376,7 +65367,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.marinetraffic.com",
-    r: 0,
+    r: 4,
     s: "Marine Traffic",
     sc: "Tools",
     t: "marinetraffic",
@@ -65385,7 +65376,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mariowiki.com",
-    r: 36,
+    r: 28,
     s: "Super Mario Wiki",
     sc: "Games (specific)",
     t: "mario",
@@ -65394,7 +65385,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mariowiki.com",
-    r: 40,
+    r: 53,
     s: "Super Mario Wiki",
     sc: "Games (specific)",
     t: "mariowiki",
@@ -65430,7 +65421,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "market.android.com",
-    r: 4,
+    r: 0,
     s: "Android Market",
     sc: "Tech",
     t: "market",
@@ -65475,7 +65466,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.marktplaats.nl",
-    r: 123,
+    r: 82,
     s: "Marktplaats",
     sc: "Online (marketplace)",
     t: "marktplaats",
@@ -65493,7 +65484,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "marktplaats.nl",
-    r: 43,
+    r: 31,
     s: "marktplaats.nl",
     sc: "Online (marketplace)",
     t: "mar",
@@ -65511,7 +65502,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.marmiton.org",
-    r: 6,
+    r: 0,
     s: "Marmiton",
     sc: "Food",
     t: "marmiton",
@@ -65529,7 +65520,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.martinus.sk",
-    r: 0,
+    r: 3,
     s: "Martinus",
     sc: "Online",
     t: "martinus",
@@ -65556,7 +65547,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "marvel.wikia.com",
-    r: 16,
+    r: 0,
     s: "Marvel Comics Database",
     sc: "Comics",
     t: "marvelwiki",
@@ -65610,7 +65601,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.materiel.net",
-    r: 3,
+    r: 0,
     s: "materiel.net",
     sc: "Tech",
     t: "materiel",
@@ -65655,7 +65646,7 @@ export const bangs = [
   {
     c: "Research",
     d: "mathworld.wolfram.com",
-    r: 0,
+    r: 7,
     s: "mathworld",
     sc: "Academic (math/cs)",
     t: "math",
@@ -65673,7 +65664,7 @@ export const bangs = [
   {
     c: "Research",
     d: "math.stackexchange.com",
-    r: 7,
+    r: 8,
     s: "Mathematics - Stack Exchange",
     sc: "Academic (math/cs)",
     t: "mathse",
@@ -65691,7 +65682,7 @@ export const bangs = [
   {
     c: "Research",
     d: "mathworld.wolfram.com",
-    r: 25,
+    r: 4,
     s: "Wolfram MathWorld",
     sc: "Academic (math/cs)",
     t: "mathworld",
@@ -65718,7 +65709,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "uk.mathworks.com",
-    r: 0,
+    r: 7,
     s: "Matlab",
     sc: "Languages (Matlab)",
     t: "matlab",
@@ -65745,7 +65736,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "matplotlib.sourceforge.net",
-    r: 7,
+    r: 3,
     s: "matplotlib",
     sc: "Languages (python)",
     t: "matplotlib",
@@ -65772,7 +65763,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.maven.org",
-    r: 58,
+    r: 61,
     s: "Maven Central Repository",
     sc: "Libraries/Frameworks",
     t: "maven",
@@ -65835,7 +65826,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 3,
+    r: 0,
     s: "MusicBrainz Areas",
     sc: "Music",
     t: "mbarea",
@@ -65844,7 +65835,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 29,
+    r: 14,
     s: "MusicBrainz Artists",
     sc: "Music",
     t: "mbartist",
@@ -65916,7 +65907,7 @@ export const bangs = [
   {
     c: "News",
     d: "mediabiasfactcheck.com",
-    r: 27,
+    r: 23,
     s: "Media Bias Fact Check",
     sc: "Aggregators",
     t: "mbfc",
@@ -65943,7 +65934,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 6,
+    r: 8,
     s: "MusicBrainz Labels",
     sc: "Music",
     t: "mblabel",
@@ -65961,7 +65952,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.meteoblue.com",
-    r: 10,
+    r: 14,
     s: "meteoblue",
     sc: "Weather",
     t: "mblue",
@@ -65970,7 +65961,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 265,
+    r: 386,
     s: "MusicBrainz",
     sc: "Music",
     t: "mb",
@@ -66006,7 +65997,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 0,
+    r: 3,
     s: "MusicBrainz Recordings",
     sc: "Music",
     t: "mbrc",
@@ -66024,7 +66015,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 4,
+    r: 5,
     s: "MusicBrainz Recordings",
     sc: "Music",
     t: "mbrecording",
@@ -66042,7 +66033,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 5,
+    r: 7,
     s: "MusicBrainz Releases",
     sc: "Music",
     t: "mbrelease",
@@ -66051,7 +66042,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 7,
+    r: 33,
     s: "MusicBrainz Release Group",
     sc: "Music",
     t: "mbrg",
@@ -66060,7 +66051,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 12,
+    r: 21,
     s: "MusicBrainz Releases",
     sc: "Music",
     t: "mbr",
@@ -66087,7 +66078,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mapa.buenosaires.gov.ar",
-    r: 0,
+    r: 5,
     s: "Mapa Interactivo de Buenos Aires",
     sc: "Maps",
     t: "mbs",
@@ -66114,7 +66105,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wiki.musicbrainz.org",
-    r: 0,
+    r: 4,
     s: "MusicBrainz Wiki",
     sc: "Search",
     t: "mbwiki",
@@ -66123,7 +66114,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 8,
+    r: 40,
     s: "MusicBrainz work",
     sc: "Music",
     t: "mbw",
@@ -66177,7 +66168,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.monroecc.edu",
-    r: 3,
+    r: 0,
     s: "MCC",
     sc: "Academic",
     t: "mcc",
@@ -66231,7 +66222,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "map.geo.admin.ch",
-    r: 33,
+    r: 14,
     s: "Karten der Schweiz",
     sc: "Maps",
     t: "mch",
@@ -66258,7 +66249,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mcmaster.com",
-    r: 67,
+    r: 41,
     s: "McMaster-Carr",
     sc: "Tech",
     t: "mcmaster",
@@ -66267,7 +66258,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.metacritic.com",
-    r: 246,
+    r: 238,
     s: "Metacritic",
     sc: "Search",
     t: "mc",
@@ -66276,7 +66267,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cardmarket.com",
-    r: 114,
+    r: 31,
     s: "Magic Card Market",
     sc: "Online (marketplace)",
     t: "mcm",
@@ -66285,7 +66276,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.curseforge.com",
-    r: 0,
+    r: 8,
     s: "Curseforge",
     sc: "Games (Minecraft)",
     t: "mcmodpacks",
@@ -66294,7 +66285,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.curseforge.com",
-    r: 13,
+    r: 22,
     s: "Curseforge",
     sc: "Games (Minecraft)",
     t: "mcmods",
@@ -66312,7 +66303,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "metacpan.org",
-    r: 23,
+    r: 7,
     s: "MetaCPAN",
     sc: "Languages (perl)",
     t: "mcpan",
@@ -66321,7 +66312,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "minecraft-computer.wikia.com",
-    r: 3,
+    r: 0,
     s: "Minecraft PC Wiki",
     sc: "Games (Minecraft)",
     t: "mcpc",
@@ -66411,7 +66402,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "marvelcinematicuniverse.wikia.com",
-    r: 10,
+    r: 11,
     s: "Marvel Cinematic Universe wiki",
     sc: "Movies",
     t: "mcu",
@@ -66420,7 +66411,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "moviecovers.com",
-    r: 56,
+    r: 0,
     s: "MovieCovers",
     sc: "Movies",
     t: "mcv",
@@ -66456,7 +66447,7 @@ export const bangs = [
   {
     c: "Research",
     d: "minecraft.gamepedia.com",
-    r: 134,
+    r: 127,
     s: "Official Minecraft Wiki",
     sc: "Reference (fun)",
     t: "mcwiki",
@@ -66483,7 +66474,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "minecraft.gamepedia.com",
-    r: 140,
+    r: 255,
     s: "The Official Minecraft Wiki",
     sc: "Games (Minecraft)",
     t: "mcw",
@@ -66492,7 +66483,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mapy.cz",
-    r: 33,
+    r: 17,
     s: "Mapy.cz",
     sc: "Maps",
     t: "mcz",
@@ -66528,7 +66519,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.mdbg.net",
-    r: 155,
+    r: 116,
     s: "MDBG Dictionary",
     sc: "Reference (words)",
     t: "mdbg",
@@ -66537,7 +66528,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.mdbg.net",
-    r: 28,
+    r: 0,
     s: "MDBG",
     sc: "Tools",
     t: "mdbgt",
@@ -66546,7 +66537,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "moridb.com",
-    r: 21,
+    r: 11,
     s: "MoriDB",
     sc: "Games (specific)",
     t: "mdb",
@@ -66564,7 +66555,7 @@ export const bangs = [
   {
     c: "Research",
     d: "m.dict.cc",
-    r: 12,
+    r: 42,
     s: "Dict.cc",
     sc: "Reference (words)",
     t: "mdcc",
@@ -66573,7 +66564,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 16,
+    r: 22,
     s: "Mozilla Developer Center",
     sc: "Companies",
     t: "mdc",
@@ -66600,7 +66591,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mydramalist.com",
-    r: 132,
+    r: 103,
     s: "MyDramaList",
     sc: "TV",
     t: "mdl",
@@ -66636,7 +66627,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 0,
+    r: 14,
     s: "Mozilla Developer Network CSS",
     sc: "Languages (other)",
     t: "mdncss",
@@ -66645,7 +66636,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 4,
+    r: 7,
     s: "Mozilla Developer Network",
     sc: "Languages (html)",
     t: "mdnhtml",
@@ -66654,7 +66645,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "mdn.io",
-    r: 18,
+    r: 4,
     s: "mdn.io",
     sc: "Programming",
     t: "mdnio",
@@ -66663,7 +66654,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 23,
+    r: 11,
     s: "Mozilla Developer Network",
     sc: "Languages (javascript)",
     t: "mdnjs",
@@ -66672,7 +66663,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 4558,
+    r: 4042,
     s: "Mozilla Developer Network",
     sc: "Programming",
     t: "mdn",
@@ -66726,7 +66717,7 @@ export const bangs = [
   {
     c: "News",
     d: "manualdousuario.net",
-    r: 29,
+    r: 51,
     s: "Manual do Usu\u00e1rio",
     sc: "Specialty",
     t: "mdu",
@@ -66735,7 +66726,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mangadex.org",
-    r: 51,
+    r: 37,
     s: "Mangadex",
     sc: "Comics",
     t: "mdx",
@@ -66798,7 +66789,7 @@ export const bangs = [
   {
     c: "Research",
     d: "mediabiasfactcheck.com",
-    r: 4,
+    r: 0,
     s: "Media Bias/Fact Check",
     sc: "Reference",
     t: "mediabias",
@@ -66807,7 +66798,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "media.ccc.de",
-    r: 0,
+    r: 4,
     s: "Media.ccc.de",
     sc: "Video",
     t: "mediaccc",
@@ -66843,7 +66834,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mediamarkt.nl",
-    r: 6,
+    r: 5,
     s: "MediaMarkt",
     sc: "Online",
     t: "mediamarkt",
@@ -66861,7 +66852,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.mediapart.fr",
-    r: 7,
+    r: 3,
     s: "Mediapart",
     sc: "Newspaper",
     t: "mediapart",
@@ -66879,7 +66870,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.mediawiki.org",
-    r: 30,
+    r: 19,
     s: "MediaWiki",
     sc: "Libraries/Frameworks",
     t: "mediawiki",
@@ -66915,7 +66906,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.medimops.de",
-    r: 10,
+    r: 4,
     s: "Medimops",
     sc: "Online (marketplace)",
     t: "medimops",
@@ -66924,7 +66915,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "medium.com",
-    r: 12,
+    r: 5,
     s: "Medium",
     sc: "Blogs",
     t: "medium",
@@ -66942,7 +66933,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "medium.com",
-    r: 0,
+    r: 7,
     s: "medium.com",
     sc: "Blogs",
     t: "med",
@@ -66978,7 +66969,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.meetup.com",
-    r: 4,
+    r: 0,
     s: "Meetup",
     sc: "Social",
     t: "meetup",
@@ -66987,7 +66978,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.metafilter.com",
-    r: 0,
+    r: 3,
     s: "MetaFilter",
     sc: "Social",
     t: "mefi",
@@ -67041,7 +67032,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.meijer.com",
-    r: 11,
+    r: 3,
     s: "Meijer",
     sc: "Big box/department",
     t: "meijer",
@@ -67095,7 +67086,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "melpa.milkbox.net",
-    r: 6,
+    r: 9,
     s: "MELPA",
     sc: "Search",
     t: "melpa",
@@ -67131,7 +67122,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "masseffect.wikia.com",
-    r: 15,
+    r: 35,
     s: "Mass Effect Wiki",
     sc: "Games (specific)",
     t: "me",
@@ -67149,7 +67140,7 @@ export const bangs = [
   {
     c: "Research",
     d: "knowyourmeme.com",
-    r: 41,
+    r: 67,
     s: "Know Your Meme",
     sc: "Reference (fun)",
     t: "meme",
@@ -67176,7 +67167,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.memory-alpha.org",
-    r: 27,
+    r: 11,
     s: "Memory Alpha",
     sc: "Topical",
     t: "memoryalpha",
@@ -67212,7 +67203,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.memoryexpress.com",
-    r: 9,
+    r: 0,
     s: "Memory Express",
     sc: "Tech",
     t: "memx",
@@ -67230,7 +67221,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.menards.com",
-    r: 46,
+    r: 52,
     s: "Menards",
     sc: "Big box/department",
     t: "menards",
@@ -67257,7 +67248,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.meneame.net",
-    r: 0,
+    r: 6,
     s: "Men\u00e9ame",
     sc: "Aggregators",
     t: "meneame",
@@ -67284,7 +67275,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "listado.mercadolibre.com.ar",
-    r: 50,
+    r: 25,
     s: "MercadoLibre",
     sc: "Online",
     t: "mercadolibrear",
@@ -67293,7 +67284,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "listado.mercadolibre.cl",
-    r: 10,
+    r: 17,
     s: "Mercadolibre.cl",
     sc: "Online",
     t: "mercadolibrecl",
@@ -67302,7 +67293,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "mercadolibre.com",
-    r: 8,
+    r: 4,
     s: "MercadoLibre",
     sc: "Online",
     t: "mercadolibre",
@@ -67318,7 +67309,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "lista.mercadolivre.com.br",
-    r: 68,
+    r: 79,
     s: "Mercado Livre",
     sc: "Search (non-US)",
     t: "mercadolivre",
@@ -67327,7 +67318,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mercari.com",
-    r: 15,
+    r: 51,
     s: "mercari JP",
     sc: "Online (marketplace)",
     t: "mercarijp",
@@ -67336,7 +67327,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mercari.com",
-    r: 25,
+    r: 34,
     s: "mercari US",
     sc: "Online (marketplace)",
     t: "mercari",
@@ -67390,7 +67381,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.merriam-webster.com",
-    r: 16,
+    r: 43,
     s: "Merriam-Webster",
     sc: "Reference (words)",
     t: "merriamwebster",
@@ -67480,7 +67471,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.metacritic.com",
-    r: 158,
+    r: 48,
     s: "Metacritic",
     sc: "Misc",
     t: "metacritic",
@@ -67561,7 +67552,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.metal-archives.com",
-    r: 0,
+    r: 6,
     s: "Metal Archives",
     sc: "Music",
     t: "metalarch",
@@ -67570,7 +67561,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.metal-archives.com",
-    r: 833,
+    r: 803,
     s: "Encyclopedia Metallum (The Metal Archives)",
     sc: "Music",
     t: "metal",
@@ -67588,7 +67579,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.metal-archives.com",
-    r: 103,
+    r: 151,
     s: "Encyclopaedia Metallum",
     sc: "Music",
     t: "metallum",
@@ -67606,7 +67597,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.metalstorm.net",
-    r: 17,
+    r: 31,
     s: "Metal Storm",
     sc: "Music",
     t: "metalstorm",
@@ -67678,7 +67669,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.meteofrance.com",
-    r: 5,
+    r: 4,
     s: "M\u00e9t\u00e9o-France",
     sc: "Weather",
     t: "meteofr",
@@ -67705,7 +67696,7 @@ export const bangs = [
   {
     c: "News",
     d: "meteox.de",
-    r: 0,
+    r: 5,
     s: "Meteox",
     sc: "Weather",
     t: "met",
@@ -67723,7 +67714,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.metoffice.gov.uk",
-    r: 7,
+    r: 3,
     s: "Met Office",
     sc: "Weather",
     t: "metoff",
@@ -67741,7 +67732,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.metro.ca",
-    r: 0,
+    r: 4,
     s: "Metro Grocery Store",
     sc: "Services",
     t: "metro",
@@ -67786,7 +67777,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "myfigurecollection.net",
-    r: 131,
+    r: 43,
     s: "MyFigureCollection",
     sc: "Search",
     t: "mfc",
@@ -67795,7 +67786,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mindfactory.de",
-    r: 0,
+    r: 4,
     s: "Mindfactory",
     sc: "Online",
     t: "mfde",
@@ -67804,7 +67795,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mobafire.com",
-    r: 6,
+    r: 0,
     s: "Mobafire",
     sc: "Games (general)",
     t: "mfg",
@@ -67831,7 +67822,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "morguefile.com",
-    r: 5,
+    r: 0,
     s: "Morguefile",
     sc: "Images",
     t: "mf",
@@ -67849,7 +67840,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.morfix.co.il",
-    r: 62,
+    r: 54,
     s: "Morfix",
     sc: "Reference (words intl)",
     t: "mfx",
@@ -67876,7 +67867,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.google.com",
-    r: 27878,
+    r: 27169,
     s: "Google Maps",
     sc: "Maps",
     t: "m",
@@ -67894,7 +67885,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "metalgear.wikia.com",
-    r: 4,
+    r: 0,
     s: "Metal Gear Wiki",
     sc: "Games (specific)",
     t: "mgw",
@@ -67948,7 +67939,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "michaelis.uol.com.br",
-    r: 18,
+    r: 7,
     s: "Michaelis - Portugu\u00eas - Ingl\u00eas",
     sc: "Tools",
     t: "michaelis",
@@ -67957,7 +67948,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "michaelis.uol.com.br",
-    r: 0,
+    r: 5,
     s: "Michaelis English - Portuguese",
     sc: "Tools",
     t: "michaelispt",
@@ -67966,7 +67957,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.michaels.com",
-    r: 3,
+    r: 11,
     s: "Michaels Stores",
     sc: "Big box/department",
     t: "michaels",
@@ -67975,7 +67966,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.microcenter.com",
-    r: 39,
+    r: 24,
     s: "Micro Center",
     sc: "Tech",
     t: "microcenter",
@@ -67984,7 +67975,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.microsoft.com",
-    r: 20,
+    r: 5,
     s: "Microsoft",
     sc: "Companies",
     t: "microsoft",
@@ -68164,7 +68155,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.myinstants.com",
-    r: 20,
+    r: 24,
     s: "myinstants",
     sc: "General",
     t: "mi",
@@ -68173,7 +68164,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.mindat.org",
-    r: 0,
+    r: 13,
     s: "Mindat",
     sc: "Academic",
     t: "mindat",
@@ -68182,7 +68173,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mindfactory.de",
-    r: 4,
+    r: 8,
     s: "Mindfactory.de",
     sc: "Tech",
     t: "mindfactory",
@@ -68227,7 +68218,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "minecraft.wiki",
-    r: 485,
+    r: 932,
     s: "Official Minecraft Wiki",
     sc: "Games (Minecraft)",
     t: "minecraft",
@@ -68254,7 +68245,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "minecraft.wiki",
-    r: 101,
+    r: 212,
     s: "Minecraft Wiki",
     sc: "Games (Minecraft)",
     t: "minecraftwiki",
@@ -68263,7 +68254,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "minecraft.wiki",
-    r: 6,
+    r: 3,
     s: "Minecraft Wiki",
     sc: "Games (Minecraft)",
     t: "minecratwiki",
@@ -68344,7 +68335,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "minimalsearch.com",
-    r: 0,
+    r: 3,
     s: "minimalsearch",
     sc: "Search (Private)",
     t: "minsearch",
@@ -68353,7 +68344,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "linuxmint.com",
-    r: 0,
+    r: 10,
     s: "LinuxMint",
     sc: "Sysadmin",
     t: "mint",
@@ -68398,7 +68389,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "us.misumi-ec.com",
-    r: 18,
+    r: 12,
     s: "Misumi USA",
     sc: "Tech",
     t: "misumi",
@@ -68407,7 +68398,7 @@ export const bangs = [
   {
     c: "Research",
     d: "lib.mit.edu",
-    r: 0,
+    r: 8,
     s: "MIT Libraries",
     sc: "Academic",
     t: "mitlib",
@@ -68416,7 +68407,7 @@ export const bangs = [
   {
     c: "Research",
     d: "student.mit.edu",
-    r: 15,
+    r: 4,
     s: "MIT Subject Listing & Schedule",
     sc: "Academic",
     t: "mit",
@@ -68470,7 +68461,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.mixesdb.com",
-    r: 8,
+    r: 0,
     s: "MixesDB",
     sc: "Music",
     t: "mixesdb",
@@ -68515,7 +68506,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.cardmarket.com",
-    r: 225,
+    r: 59,
     s: "Magic Card Market",
     sc: "Online (marketplace)",
     t: "mkm",
@@ -68542,7 +68533,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.marketwatch.com",
-    r: 145,
+    r: 80,
     s: "MarketWatch",
     sc: "Business",
     t: "mktw",
@@ -68551,7 +68542,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "listado.mercadolibre.com.ar",
-    r: 349,
+    r: 460,
     s: "Mercado Libre Argentina",
     sc: "Online (marketplace)",
     t: "mlar",
@@ -68569,7 +68560,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mlb.mlb.com",
-    r: 3,
+    r: 0,
     s: "MLB.com",
     sc: "Sports",
     t: "mlb",
@@ -68587,7 +68578,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "lista.mercadolivre.com.br",
-    r: 242,
+    r: 277,
     s: "Mercado Livre Brasil",
     sc: "Online",
     t: "mlbr",
@@ -68596,7 +68587,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "listado.mercadolibre.cl",
-    r: 13,
+    r: 8,
     s: "Mercado Libre Chile",
     sc: "Online",
     t: "mlcl",
@@ -68605,7 +68596,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "listado.mercadolibre.com.co",
-    r: 13,
+    r: 35,
     s: "Mercado Libre Colombia",
     sc: "Online",
     t: "mlco",
@@ -68623,7 +68614,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.mldb.org",
-    r: 0,
+    r: 3,
     s: "The Music Lyrics Database",
     sc: "Music (Lyrics)",
     t: "mldb",
@@ -68650,7 +68641,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "listado.mercadolibre.com.ec",
-    r: 0,
+    r: 4,
     s: "Mercado Libre Ecuador",
     sc: "Online",
     t: "mlec",
@@ -68686,7 +68677,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 28,
+    r: 24,
     s: "Google Maps Lite",
     sc: "Maps",
     t: "ml",
@@ -68704,7 +68695,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "lista.mercadolivre.com.br",
-    r: 34,
+    r: 43,
     s: "Mercado Livre",
     sc: "Online (deals)",
     t: "mlivre",
@@ -68721,7 +68712,7 @@ export const bangs = [
   },
   {
     d: "listado.mercadolibre.com.mx",
-    r: 134,
+    r: 118,
     s: "Mercado Libre Mexico",
     t: "mlmx",
     u: "https://listado.mercadolibre.com.mx/{{{s}}}",
@@ -68729,7 +68720,7 @@ export const bangs = [
   {
     c: "Research",
     d: "find.minlib.net",
-    r: 11,
+    r: 8,
     s: "Minuteman Library Network",
     sc: "Learning",
     t: "mln",
@@ -68792,7 +68783,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mlp.wikia.com",
-    r: 4,
+    r: 9,
     s: "My Little Pony: Friendship is Magic Wiki",
     sc: "TV",
     t: "mlp",
@@ -68810,7 +68801,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "listado.mercadolibre.com.uy",
-    r: 4,
+    r: 0,
     s: "Mercado Libre",
     sc: "Online (deals)",
     t: "mluy",
@@ -68819,7 +68810,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "listado.mercadolibre.com.ve",
-    r: 30,
+    r: 23,
     s: "Mercado Libre Venezuela",
     sc: "Online",
     t: "mlve",
@@ -68846,7 +68837,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mcmaster.com",
-    r: 166,
+    r: 125,
     s: "McMaster-Carr",
     sc: "Online",
     t: "mmc",
@@ -68900,7 +68891,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "myanimelist.net",
-    r: 8,
+    r: 0,
     s: "http://myanimelist.net/",
     sc: "Comics",
     t: "mml",
@@ -68918,7 +68909,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.macmillandictionary.com",
-    r: 7,
+    r: 11,
     s: "Macmillan Dictionary",
     sc: "Tools",
     t: "mm",
@@ -68927,7 +68918,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mrmoneymustache.com",
-    r: 0,
+    r: 4,
     s: "Mr. Money Mustache",
     sc: "Blogs",
     t: "mmm",
@@ -68936,7 +68927,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.moviemeter.nl",
-    r: 9,
+    r: 3,
     s: "moviemeter.nl",
     sc: "Video",
     t: "mmnl",
@@ -68954,7 +68945,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mmoga.de",
-    r: 4,
+    r: 0,
     s: "MMOGA",
     sc: "Online (marketplace)",
     t: "mmoga",
@@ -69035,7 +69026,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.medicinanet.com.br",
-    r: 3,
+    r: 5,
     s: "medicinanet",
     sc: "Reference (science)",
     t: "mn",
@@ -69062,7 +69053,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "manpages.org",
-    r: 0,
+    r: 11,
     s: "manpages.org",
     sc: "Sysadmin (man)",
     t: "mnp",
@@ -69170,7 +69161,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mobygames.com",
-    r: 89,
+    r: 98,
     s: "Moby Games",
     sc: "Games (general)",
     t: "mobygames",
@@ -69179,7 +69170,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mobygames.com",
-    r: 231,
+    r: 225,
     s: "MobyGames",
     sc: "Games (general)",
     t: "moby",
@@ -69215,7 +69206,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "moddb.com",
-    r: 10,
+    r: 9,
     s: "ModDB",
     sc: "Games (general)",
     t: "moddb",
@@ -69260,7 +69251,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "modarchive.org",
-    r: 12,
+    r: 4,
     s: "Modarchive",
     sc: "Music",
     t: "mod",
@@ -69296,7 +69287,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.moedict.tw",
-    r: 3,
+    r: 11,
     s: "Moedict",
     sc: "Reference (words)",
     t: "moedict",
@@ -69305,7 +69296,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "zh.moegirl.org",
-    r: 8,
+    r: 0,
     s: "Moe Girl Pedia",
     sc: "General",
     t: "moegirl",
@@ -69341,7 +69332,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "bugs.mojang.com",
-    r: 7,
+    r: 0,
     s: "Mojang Bug Tracker",
     sc: "Tracking",
     t: "mojangbug",
@@ -69350,7 +69341,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.mojeek.com",
-    r: 26,
+    r: 31,
     s: "mojeek",
     sc: "Search",
     t: "mojeek",
@@ -69368,7 +69359,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "boxofficemojo.com",
-    r: 0,
+    r: 4,
     s: "Box Office Mojo",
     sc: "Movies",
     t: "mojo",
@@ -69422,7 +69413,7 @@ export const bangs = [
   {
     c: "Research",
     d: "mathoverflow.net",
-    r: 10,
+    r: 17,
     s: "MathOverflow",
     sc: "Academic (math/cs)",
     t: "mo",
@@ -69467,7 +69458,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.lemonde.fr",
-    r: 17,
+    r: 28,
     s: "Le Monde",
     sc: "International",
     t: "monde",
@@ -69548,7 +69539,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.monoprice.com",
-    r: 4,
+    r: 0,
     s: "Monoprice",
     sc: "Tech",
     t: "monoprice",
@@ -69692,7 +69683,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "duckduckgo.com",
-    r: 0,
+    r: 4,
     s: "MobileRead",
     sc: "Forum",
     t: "more",
@@ -69701,7 +69692,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.morfix.co.il",
-    r: 75,
+    r: 50,
     s: "Morfix",
     sc: "Reference (words)",
     t: "morfix",
@@ -69719,7 +69710,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.morningstar.com",
-    r: 3,
+    r: 0,
     s: "Morningstar Search",
     sc: "Topical",
     t: "morningstar",
@@ -69791,7 +69782,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mouser.com",
-    r: 103,
+    r: 51,
     s: "Mouser Electronics",
     sc: "Tech",
     t: "mouser",
@@ -69845,7 +69836,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.moviepilot.de",
-    r: 0,
+    r: 4,
     s: "Moviepilot",
     sc: "Movies",
     t: "moviepilot",
@@ -69854,7 +69845,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.atomtickets.com",
-    r: 15,
+    r: 0,
     s: "Atom Tickets",
     sc: "Movies",
     t: "movies",
@@ -69872,7 +69863,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "movielens.org",
-    r: 8,
+    r: 4,
     s: "MovieLens",
     sc: "Movies",
     t: "movl",
@@ -69890,7 +69881,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "addons.mozilla.org",
-    r: 12,
+    r: 14,
     s: "Mozilla Addons",
     sc: "Downloads (add-ons)",
     t: "mozaddon",
@@ -69935,7 +69926,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.google.com",
-    r: 8,
+    r: 0,
     s: "Mozilla",
     sc: "Companies",
     t: "moz",
@@ -70061,7 +70052,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "matplotlib.org",
-    r: 15,
+    r: 0,
     s: "matplotlib",
     sc: "Languages (python)",
     t: "mpl",
@@ -70070,7 +70061,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.menupages.com",
-    r: 8,
+    r: 19,
     s: "MenuPages",
     sc: "Food",
     t: "mp",
@@ -70115,7 +70106,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mountainproject.com",
-    r: 4,
+    r: 0,
     s: "Mountain Project",
     sc: "Sports",
     t: "mproj",
@@ -70142,7 +70133,7 @@ export const bangs = [
   {
     c: "Research",
     d: "mathscinet.ams.org",
-    r: 0,
+    r: 4,
     s: "ams mathscinet mref",
     sc: "Academic (math/cs)",
     t: "mref",
@@ -70178,7 +70169,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.macrumors.com",
-    r: 59,
+    r: 65,
     s: "Mac Rumors",
     sc: "Blogs",
     t: "mr",
@@ -70331,7 +70322,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.microsoft.com",
-    r: 5,
+    r: 4,
     s: "Microsoft Docs",
     sc: "Programming",
     t: "msd",
@@ -70340,7 +70331,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "social.msdn.microsoft.com",
-    r: 13,
+    r: 10,
     s: "MSDN",
     sc: "Companies",
     t: "msdn",
@@ -70349,7 +70340,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.microsoft.com",
-    r: 15,
+    r: 0,
     s: "Microsoft Docs",
     sc: "Sysadmin",
     t: "msdocs",
@@ -70403,7 +70394,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.messenger.com",
-    r: 473,
+    r: 291,
     s: "messenger.com",
     sc: "Social",
     t: "msg",
@@ -70448,7 +70439,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.microsoft.com",
-    r: 10,
+    r: 11,
     s: "Microsoft",
     sc: "Companies",
     t: "ms",
@@ -70466,7 +70457,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.msnbc.com",
-    r: 9,
+    r: 3,
     s: "MSNBC",
     sc: "Broadcast",
     t: "msnbc",
@@ -70475,7 +70466,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.microsoft.com",
-    r: 0,
+    r: 6,
     s: "Microsoft .Net API",
     sc: "Languages (.net)",
     t: "ms.net",
@@ -70493,7 +70484,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.msn.al",
-    r: 3,
+    r: 5,
     s: "MSN",
     sc: "International",
     t: "msn",
@@ -70502,7 +70493,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mastodon.social",
-    r: 241,
+    r: 99,
     s: "Mastodon Social",
     sc: "Social",
     t: "msocial",
@@ -70520,7 +70511,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mspaintadventures.wikia.com",
-    r: 4,
+    r: 0,
     s: "MS Paint Adventures Wiki",
     sc: "Comics",
     t: "mspa",
@@ -70556,7 +70547,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.musicradar.com",
-    r: 0,
+    r: 3,
     s: "MusicRadar",
     sc: "Specialty",
     t: "msrd",
@@ -70583,7 +70574,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.microsofttranslator.com",
-    r: 3,
+    r: 0,
     s: "Microsoft/Bing Translator URL",
     sc: "Tools",
     t: "mst",
@@ -70646,7 +70637,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mtbproject.com",
-    r: 7,
+    r: 3,
     s: "mtbproject",
     sc: "Sports",
     t: "mtb",
@@ -70700,7 +70691,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.cardmarket.com",
-    r: 9,
+    r: 10,
     s: "MagicCardMarket",
     sc: "Games (specific)",
     t: "mtgcm",
@@ -70709,7 +70700,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mtggoldfish.com",
-    r: 25,
+    r: 0,
     s: "mtgGoldfish",
     sc: "Games (offline)",
     t: "mtggf",
@@ -70718,7 +70709,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "gatherer.wizards.com",
-    r: 5,
+    r: 0,
     s: "MTG Gatherer",
     sc: "Games (specific)",
     t: "mtgg",
@@ -70736,7 +70727,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "scryfall.com",
-    r: 1939,
+    r: 1348,
     s: "magiccards.info",
     sc: "Games (offline)",
     t: "mtg",
@@ -70754,7 +70745,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mtgsalvation.gamepedia.com",
-    r: 56,
+    r: 4,
     s: "MTG Salvation Wiki",
     sc: "Games (offline)",
     t: "mtgs",
@@ -70763,7 +70754,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mtgsalvation.gamepedia.com",
-    r: 79,
+    r: 22,
     s: "MTG Salvation",
     sc: "Games (general)",
     t: "mtgwiki",
@@ -70772,7 +70763,7 @@ export const bangs = [
   {
     c: "Research",
     d: "mtg.wtf",
-    r: 6,
+    r: 0,
     s: "MTG WTF",
     sc: "Reference (fun)",
     t: "mtgw",
@@ -70808,7 +70799,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.multitran.com",
-    r: 13,
+    r: 11,
     s: "Multitran",
     sc: "Reference (words)",
     t: "mt",
@@ -70817,7 +70808,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mountainproject.com",
-    r: 24,
+    r: 4,
     s: "Mountain Project",
     sc: "Sports",
     t: "mtn",
@@ -70898,7 +70889,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mubi.com",
-    r: 4,
+    r: 0,
     s: "Mubi",
     sc: "Movies",
     t: "mubi",
@@ -70934,7 +70925,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "material-ui.com",
-    r: 29,
+    r: 20,
     s: "Material UI",
     sc: "Libraries/Frameworks",
     t: "mui",
@@ -70952,7 +70943,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.co.uk",
-    r: 0,
+    r: 4,
     s: "Google Maps UK (en_US)",
     sc: "Maps",
     t: "muk",
@@ -70988,7 +70979,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "macupdate.com",
-    r: 5,
+    r: 0,
     s: "MacUpdate",
     sc: "Downloads (software)",
     t: "mu",
@@ -71006,7 +70997,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.makeuseof.com",
-    r: 4,
+    r: 8,
     s: "Makeuseof",
     sc: "Blogs",
     t: "muo",
@@ -71069,7 +71060,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musescore.com",
-    r: 64,
+    r: 46,
     s: "MuseScore.com",
     sc: "Music",
     t: "musescore",
@@ -71087,7 +71078,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "musicbrainz.org",
-    r: 47,
+    r: 66,
     s: "MusicBrainz",
     sc: "Music",
     t: "musicbrainz",
@@ -71105,7 +71096,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.music-map.com",
-    r: 0,
+    r: 3,
     s: "music-map",
     sc: "Music",
     t: "musicmap",
@@ -71303,7 +71294,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.myvideo.de",
-    r: 10,
+    r: 5,
     s: "Myvideo",
     sc: "Video",
     t: "mv",
@@ -71312,7 +71303,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "mvnrepository.com",
-    r: 29,
+    r: 12,
     s: "MVNRepository",
     sc: "Libraries/Frameworks",
     t: "mvnrepository",
@@ -71330,7 +71321,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "mvnrepository.com",
-    r: 288,
+    r: 255,
     s: "The Maven Repository",
     sc: "Libraries/Frameworks",
     t: "mvn",
@@ -71357,7 +71348,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.mijnwoordenboek.nl",
-    r: 10,
+    r: 11,
     s: "Mijnwoordenboek",
     sc: "Tools",
     t: "mwb",
@@ -71366,7 +71357,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.merriam-webster.com",
-    r: 253,
+    r: 164,
     s: "Merriam-Webster Dictionary",
     sc: "Reference (words)",
     t: "mwd",
@@ -71375,7 +71366,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.merriam-webster.com",
-    r: 12,
+    r: 13,
     s: "Merriam-Webster",
     sc: "Reference",
     t: "mweb",
@@ -71411,7 +71402,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.merriam-webster.com",
-    r: 4071,
+    r: 3374,
     s: "Merriam-Webster Dictionary",
     sc: "Reference (words)",
     t: "mw",
@@ -71420,7 +71411,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "meta.wikimedia.org",
-    r: 0,
+    r: 3,
     s: "Wikimedia Meta",
     sc: "General",
     t: "mwm",
@@ -71429,7 +71420,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.merriam-webster.com",
-    r: 187,
+    r: 198,
     s: "Thesaurus by Merriam-Webster ",
     sc: "Reference (words)",
     t: "mwt",
@@ -71454,7 +71445,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mixcloud.com",
-    r: 0,
+    r: 5,
     s: "MIxcloud",
     sc: "Audio",
     t: "mxc",
@@ -71463,7 +71454,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.musixmatch.com",
-    r: 0,
+    r: 3,
     s: "musixmatch",
     sc: "Music (Lyrics)",
     t: "mxm",
@@ -71472,7 +71463,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "mxtoolbox.com",
-    r: 26,
+    r: 20,
     s: "MxToolbox",
     sc: "Sysadmin",
     t: "mx",
@@ -71535,7 +71526,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "myanimelist.net",
-    r: 56,
+    r: 72,
     s: "MyAnimeList",
     sc: "Comics",
     t: "myanimelist",
@@ -71598,7 +71589,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.mydealz.de",
-    r: 34,
+    r: 45,
     s: "MyDealz",
     sc: "Online (deals)",
     t: "mydealz",
@@ -71616,7 +71607,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "mydramalist.com",
-    r: 5,
+    r: 0,
     s: "MyDramaList",
     sc: "TV",
     t: "mydrama",
@@ -71634,7 +71625,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.myer.com.au",
-    r: 3,
+    r: 0,
     s: "Myer",
     sc: "Big box/department",
     t: "myer",
@@ -71679,7 +71670,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.myinstants.com",
-    r: 21,
+    r: 19,
     s: "My Instants",
     sc: "Audio",
     t: "myinstants",
@@ -71724,7 +71715,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.myntra.com",
-    r: 4,
+    r: 3,
     s: "Myntra",
     sc: "Online (intl)",
     t: "myn",
@@ -71733,7 +71724,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.myntra.com",
-    r: 3,
+    r: 5,
     s: "Myntra",
     sc: "Online",
     t: "myntra",
@@ -71823,7 +71814,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "",
-    r: 8,
+    r: 22,
     s: "MySQL.com",
     sc: "Sysadmin",
     t: "mysql",
@@ -71841,7 +71832,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "music.youtube.com",
-    r: 334,
+    r: 385,
     s: "YouTube Music",
     sc: "Music",
     t: "myt",
@@ -71850,7 +71841,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.myvidster.com",
-    r: 19,
+    r: 0,
     s: "MyVidster",
     sc: "Video",
     t: "myvidster",
@@ -71877,7 +71868,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.n11.com",
-    r: 0,
+    r: 6,
     s: "n11.com",
     sc: "Online",
     t: "n11",
@@ -71994,7 +71985,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.namecheap.com",
-    r: 10,
+    r: 5,
     s: "Namecheap",
     sc: "Tech (domains)",
     t: "namecheap",
@@ -72012,7 +72003,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "de.namemc.com",
-    r: 23,
+    r: 77,
     s: "NameMC",
     sc: "Games (Minecraft)",
     t: "namemc",
@@ -72021,7 +72012,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.name.com",
-    r: 4,
+    r: 0,
     s: "Name.com ",
     sc: "Domains",
     t: "name",
@@ -72030,7 +72021,7 @@ export const bangs = [
   {
     c: "Research",
     d: "namu.wiki",
-    r: 2886,
+    r: 2287,
     s: "namuwiki",
     sc: "Reference",
     t: "namu",
@@ -72039,7 +72030,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.naver.com",
-    r: 1267,
+    r: 861,
     s: "NAVER",
     sc: "Search (non-US)",
     t: "na",
@@ -72057,7 +72048,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.naob.no",
-    r: 93,
+    r: 43,
     s: "NAOB \u2013 Det Norske Akademis ordbok",
     sc: "Reference (words)",
     t: "naob",
@@ -72129,7 +72120,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.nasdaq.com",
-    r: 39,
+    r: 14,
     s: "NASDAQ",
     sc: "Business",
     t: "nasdaq",
@@ -72147,7 +72138,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.shopping.naver.com",
-    r: 31,
+    r: 3,
     s: "Naver Shopping",
     sc: "Online (marketplace)",
     t: "nasp",
@@ -72318,7 +72309,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.naver.com",
-    r: 4302,
+    r: 3730,
     s: "Naver",
     sc: "Search",
     t: "naver",
@@ -72336,7 +72327,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.navigium.de",
-    r: 11,
+    r: 9,
     s: "Navigium",
     sc: "Search",
     t: "nav",
@@ -72372,7 +72363,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.nba.com",
-    r: 18,
+    r: 74,
     s: "NBA.com",
     sc: "Sports",
     t: "nba",
@@ -72381,7 +72372,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "",
-    r: 6,
+    r: 0,
     s: "duckduckgo new !bang",
     sc: "Search",
     t: "nbang",
@@ -72399,7 +72390,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.notebookcheck.net",
-    r: 29,
+    r: 62,
     s: "NotebookCheck",
     sc: "Blogs",
     t: "nbc",
@@ -72408,7 +72399,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ordbokene.no",
-    r: 0,
+    r: 3,
     s: "Norwegian Bokm\u00e5l Dictionary",
     sc: "Tools",
     t: "nbd",
@@ -72417,7 +72408,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.nb.no",
-    r: 5,
+    r: 4,
     s: "Nasjonalbiblioteket",
     sc: "Books",
     t: "nb",
@@ -72444,7 +72435,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.notebooksbilliger.de",
-    r: 0,
+    r: 7,
     s: "NotebooksBillger",
     sc: "Tech",
     t: "nbooks",
@@ -72480,7 +72471,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 41,
+    r: 35,
     s: "NCBI",
     sc: "Academic",
     t: "ncbi",
@@ -72534,7 +72525,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.namecheap.com",
-    r: 19,
+    r: 10,
     s: "Namecheap",
     sc: "Domains",
     t: "nc",
@@ -72570,7 +72561,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.nicovideo.jp",
-    r: 10,
+    r: 15,
     s: "Nicovideo jp",
     sc: "Video",
     t: "ncvi",
@@ -72615,7 +72606,7 @@ export const bangs = [
   {
     c: "Research",
     d: "endic.naver.com",
-    r: 57,
+    r: 56,
     s: "Naver English Dictionary",
     sc: "Reference (words)",
     t: "ndic",
@@ -72624,7 +72615,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ndla.no",
-    r: 3,
+    r: 0,
     s: "NDLA",
     sc: "Academic",
     t: "ndla",
@@ -72642,7 +72633,7 @@ export const bangs = [
   {
     c: "Research",
     d: "onesearch.library.nd.edu",
-    r: 0,
+    r: 4,
     s: "Notre Dame Library OneSearch",
     sc: "Academic",
     t: "nd",
@@ -72669,7 +72660,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.ndr.de",
-    r: 0,
+    r: 4,
     s: "Norddeutscher Rundfunk",
     sc: "Magazine",
     t: "ndr",
@@ -72678,7 +72669,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.nachdenkseiten.de",
-    r: 6,
+    r: 11,
     s: "Nachdenkseiten",
     sc: "Specialty",
     t: "nds",
@@ -72687,7 +72678,7 @@ export const bangs = [
   {
     c: "News",
     d: "ndtv.com",
-    r: 11,
+    r: 16,
     s: "NDTV",
     sc: "Magazine",
     t: "ndtv",
@@ -72696,7 +72687,7 @@ export const bangs = [
   {
     c: "News",
     d: "duckduckgo.com",
-    r: 994,
+    r: 807,
     s: "DuckDuckGo News",
     sc: "Aggregators",
     t: "n",
@@ -72723,7 +72714,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.newegg.ca",
-    r: 10,
+    r: 4,
     s: "Newegg Canada",
     sc: "Online",
     t: "neca",
@@ -72786,7 +72777,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.nemlig.com",
-    r: 0,
+    r: 5,
     s: "Nemlig",
     sc: "Online",
     t: "nemlig",
@@ -72804,7 +72795,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.newegg.com",
-    r: 125,
+    r: 113,
     s: "Newegg",
     sc: "Tech",
     t: "ne",
@@ -72840,7 +72831,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.neowin.net",
-    r: 22,
+    r: 23,
     s: "Neowin",
     sc: "Blogs",
     t: "neowin",
@@ -72912,7 +72903,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ne.se",
-    r: 3,
+    r: 0,
     s: "Nationalencyklopedin",
     sc: "Reference",
     t: "nes",
@@ -72993,7 +72984,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.searchdotnet.com",
-    r: 5,
+    r: 11,
     s: "DotNet Docs",
     sc: "Languages (.net)",
     t: ".net",
@@ -73011,7 +73002,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.netflix.com",
-    r: 160,
+    r: 118,
     s: "Netflix",
     sc: "Movies",
     t: "netflix",
@@ -73056,7 +73047,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.netflix.com",
-    r: 96,
+    r: 23,
     s: "Netfilx",
     sc: "Movies",
     t: "net",
@@ -73083,7 +73074,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "netrunnerdb.com",
-    r: 0,
+    r: 4,
     s: "NetrunnerDB",
     sc: "Games (offline)",
     t: "netrunner",
@@ -73182,7 +73173,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.newegg.com",
-    r: 140,
+    r: 151,
     s: "Newegg",
     sc: "Tech",
     t: "newegg",
@@ -73200,7 +73191,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.newgrounds.com",
-    r: 81,
+    r: 43,
     s: "Newgrounds",
     sc: "Misc",
     t: "newgrounds",
@@ -73254,7 +73245,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.google.com",
-    r: 0,
+    r: 3,
     s: "Google News Archive",
     sc: "Specialty",
     t: "newsarchive",
@@ -73281,7 +73272,7 @@ export const bangs = [
   {
     c: "News",
     d: "duckduckgo.com",
-    r: 0,
+    r: 3,
     s: "DuckDuckGo News Germany",
     sc: "International",
     t: "newsde",
@@ -73290,7 +73281,7 @@ export const bangs = [
   {
     c: "News",
     d: "duckduckgo.com",
-    r: 950,
+    r: 499,
     s: "DuckDuckGo News",
     sc: "Aggregators",
     t: "news",
@@ -73344,7 +73335,7 @@ export const bangs = [
   {
     c: "News",
     d: "duckduckgo.com",
-    r: 0,
+    r: 3,
     s: "DuckDuckGo News Mexico",
     sc: "International",
     t: "newsmx",
@@ -73353,7 +73344,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.newsnow.co.uk",
-    r: 5,
+    r: 0,
     s: "NewsNow",
     sc: "International",
     t: "newsnow",
@@ -73425,7 +73416,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "next-episode.net",
-    r: 7,
+    r: 3,
     s: "Next-Episode.net",
     sc: "TV",
     t: "next",
@@ -73461,7 +73452,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "search.nfl.com",
-    r: 10,
+    r: 8,
     s: "NFL.com",
     sc: "Sports",
     t: "nfl",
@@ -73479,7 +73470,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.netflix.com",
-    r: 444,
+    r: 252,
     s: "Netflix",
     sc: "Movies",
     t: "nf",
@@ -73551,7 +73542,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.newgrounds.com",
-    r: 3,
+    r: 0,
     s: "Newgrounds Games",
     sc: "Games (general)",
     t: "ngg",
@@ -73560,7 +73551,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.nginx.com",
-    r: 3,
+    r: 0,
     s: "Nginx wiki",
     sc: "Libraries/Frameworks",
     t: "nginx",
@@ -73578,7 +73569,7 @@ export const bangs = [
   {
     c: "Research",
     d: "books.google.com",
-    r: 5,
+    r: 10,
     s: "Google Ngram Viewer",
     sc: "Reference (words)",
     t: "ngram",
@@ -73596,7 +73587,7 @@ export const bangs = [
   {
     c: "Research",
     d: "books.google.com",
-    r: 22,
+    r: 5,
     s: "Google Ngram Viewer",
     sc: "Academic",
     t: "ngrams",
@@ -73641,7 +73632,7 @@ export const bangs = [
   {
     c: "News",
     d: "cgi2.nhk.or.jp",
-    r: 69,
+    r: 23,
     s: "NHK News Web",
     sc: "Broadcast",
     t: "nhk",
@@ -73650,7 +73641,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.nhl.com",
-    r: 31,
+    r: 21,
     s: "NHL.com",
     sc: "Sports",
     t: "nhl",
@@ -73659,7 +73650,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "nethackwiki.com",
-    r: 43,
+    r: 12,
     s: "NetHack Wiki",
     sc: "Games (specific)",
     t: "nh",
@@ -73668,7 +73659,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.nhs.uk",
-    r: 10,
+    r: 12,
     s: "NHS Choices",
     sc: "Health",
     t: "nhs",
@@ -73677,7 +73668,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "nethackwiki.com",
-    r: 3,
+    r: 8,
     s: "Nethack Wiki",
     sc: "Games (general)",
     t: "nhw",
@@ -73695,7 +73686,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.nice.org.uk",
-    r: 0,
+    r: 3,
     s: "NICE - National Institute for Health and Care Excellence",
     sc: "Health",
     t: "nice",
@@ -73713,7 +73704,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dic.nicovideo.jp",
-    r: 66,
+    r: 47,
     s: "Nico Nico Pedia",
     sc: "Forum",
     t: "nicodic",
@@ -73722,7 +73713,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "live.nicovideo.jp",
-    r: 7,
+    r: 17,
     s: "Nico Nico Live",
     sc: "Misc",
     t: "nicolive",
@@ -73731,7 +73722,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.nicovideo.jp",
-    r: 407,
+    r: 568,
     s: "Nico Nico Douga",
     sc: "Video",
     t: "nico",
@@ -73740,7 +73731,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.nicovideo.jp",
-    r: 9,
+    r: 19,
     s: "Niconico",
     sc: "Misc",
     t: "niconico",
@@ -73884,7 +73875,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.ni.com",
-    r: 0,
+    r: 3,
     s: "National Instruments",
     sc: "Companies",
     t: "ni",
@@ -73902,7 +73893,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.nintendolife.com",
-    r: 11,
+    r: 7,
     s: "Nintendo Life",
     sc: "Domains",
     t: "ninlife",
@@ -73938,7 +73929,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.nintendo.com",
-    r: 8,
+    r: 19,
     s: "Nintendo",
     sc: "Games (general)",
     t: "nintendo",
@@ -73965,7 +73956,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.nisanyansozluk.com",
-    r: 4,
+    r: 12,
     s: "Ni\u015fanyan Etimolojik S\u00f6zl\u00fck",
     sc: "Reference (words intl)",
     t: "nisanyan",
@@ -74001,7 +73992,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.biblestudytools.com",
-    r: 4,
+    r: 0,
     s: "BibleStudyTools.com",
     sc: "Reference (religion)",
     t: "niv",
@@ -74019,7 +74010,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "discourse.nixos.org",
-    r: 11,
+    r: 0,
     s: "Nix Discourse",
     sc: "Sysadmin",
     t: "nixcourse",
@@ -74037,7 +74028,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "nixos.wiki",
-    r: 95,
+    r: 97,
     s: "NixOs Wiki",
     sc: "Sysadmin",
     t: "nix",
@@ -74046,7 +74037,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "nixos.org",
-    r: 274,
+    r: 233,
     s: "NixOS options",
     sc: "Sysadmin",
     t: "nixopt",
@@ -74055,7 +74046,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "nixos.wiki",
-    r: 133,
+    r: 98,
     s: "Nixos Wiki",
     sc: "Sysadmin",
     t: "nixos",
@@ -74064,7 +74055,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "nixos.wiki",
-    r: 0,
+    r: 16,
     s: "Nixos Wiki",
     sc: "Sysadmin",
     t: "nixoswiki",
@@ -74073,7 +74064,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "nixos.org",
-    r: 562,
+    r: 477,
     s: "NixOS Packages",
     sc: "Downloads",
     t: "nixpkg",
@@ -74082,7 +74073,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "nixos.org",
-    r: 3653,
+    r: 4108,
     s: "NixOS Packages",
     sc: "Sysadmin",
     t: "nixpkgs",
@@ -74091,7 +74082,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "masto.nixnet.xyz",
-    r: 5,
+    r: 0,
     s: "Nixtodon",
     sc: "Social (intl)",
     t: "nixtodon",
@@ -74109,7 +74100,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.njuskalo.hr",
-    r: 14,
+    r: 4,
     s: "Njuskalo.hr",
     sc: "Online (marketplace)",
     t: "njuskalo",
@@ -74118,7 +74109,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.biblegateway.com",
-    r: 0,
+    r: 4,
     s: "Bible Gateway: New King James Version (NKJV)",
     sc: "Reference (religion)",
     t: "nkj",
@@ -74127,7 +74118,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "norgeskart.no",
-    r: 5,
+    r: 10,
     s: "NorgesKart",
     sc: "Maps",
     t: "nk",
@@ -74154,7 +74145,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ncatlab.org",
-    r: 43,
+    r: 79,
     s: "nLab",
     sc: "Academic (math/cs)",
     t: "nlab",
@@ -74163,7 +74154,7 @@ export const bangs = [
   {
     c: "Research",
     d: "catalogue.nla.gov.au",
-    r: 3,
+    r: 0,
     s: "National Library of Australia Catalogue",
     sc: "Reference",
     t: "nla",
@@ -74181,7 +74172,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 4,
+    r: 3,
     s: "Google Translate",
     sc: "Google",
     t: "nlde",
@@ -74190,7 +74181,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 8,
+    r: 3,
     s: "Google translate",
     sc: "Google",
     t: "nlen",
@@ -74199,7 +74190,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ncatlab.org",
-    r: 11,
+    r: 12,
     s: "http://ncatlab.org/nlab/show/HomePage",
     sc: "Academic (math/cs)",
     t: "nl",
@@ -74253,7 +74244,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "nl.wikipedia.org",
-    r: 4,
+    r: 6,
     s: "Dutch Wikipedia",
     sc: "Search (non-US)",
     t: "nlwiki",
@@ -74271,7 +74262,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "map.naver.com",
-    r: 58,
+    r: 62,
     s: "Naver Map",
     sc: "Maps",
     t: "nmap",
@@ -74280,7 +74271,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "namemc.com",
-    r: 17,
+    r: 38,
     s: "NameMC",
     sc: "Games (Minecraft)",
     t: "nmc",
@@ -74298,7 +74289,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.nexusmods.com",
-    r: 65,
+    r: 55,
     s: "Nexus Mods",
     sc: "Games (general)",
     t: "nm",
@@ -74307,7 +74298,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "nomanssky.gamepedia.com",
-    r: 8,
+    r: 3,
     s: "No Man's Sky Wiki",
     sc: "Games (specific)",
     t: "nms",
@@ -74325,7 +74316,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nutrimatic.org",
-    r: 0,
+    r: 14,
     s: "Nutrimatic",
     sc: "Reference (words)",
     t: "nmt",
@@ -74370,7 +74361,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.naturalnews.com",
-    r: 0,
+    r: 3,
     s: "Natural News",
     sc: "Specialty",
     t: "nn",
@@ -74397,7 +74388,7 @@ export const bangs = [
   {
     c: "News",
     d: "forecast.weather.gov",
-    r: 122,
+    r: 113,
     s: "NOAA",
     sc: "Weather",
     t: "noaa",
@@ -74406,7 +74397,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 8,
+    r: 12,
     s: "Node.js Documentation",
     sc: "Languages (javascript)",
     t: "nodejs",
@@ -74415,7 +74406,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "nodejs.org",
-    r: 75,
+    r: 53,
     s: "node.js docs",
     sc: "Libraries/Frameworks",
     t: "node",
@@ -74433,7 +74424,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 5,
+    r: 12,
     s: "Google Translate no-en",
     sc: "Google",
     t: "noen",
@@ -74469,7 +74460,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pasokatu.com",
-    r: 5,
+    r: 6,
     s: "\u30ce\u30a4\u30ba\u30ec\u30b9\u30b5\u30fc\u30c1",
     sc: "Search (non-US)",
     t: "noiseless",
@@ -74478,7 +74469,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "noita.gamepedia.com",
-    r: 5,
+    r: 3,
     s: "Noita Wiki",
     sc: "Games (specific)",
     t: "noita",
@@ -74487,7 +74478,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 0,
+    r: 280,
     s: "DuckDuckGo (HTML)",
     sc: "Search (DDG)",
     t: "nojs",
@@ -74514,7 +74505,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "nominatim.openstreetmap.org",
-    r: 3,
+    r: 0,
     s: "OpenStreetMap Nominatim",
     sc: "Maps",
     t: "nominatim",
@@ -74550,7 +74541,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "nookipedia.com",
-    r: 117,
+    r: 53,
     s: "Nookipedia",
     sc: "Games (specific)",
     t: "nook",
@@ -74568,7 +74559,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "shop.nordstrom.com",
-    r: 12,
+    r: 0,
     s: "Nordstrom",
     sc: "Big box/department",
     t: "nordstrom",
@@ -74586,7 +74577,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ordbok.uib.no",
-    r: 42,
+    r: 37,
     s: "Nynorskordboka og Bokm\u00e5lsordboka",
     sc: "Reference (words intl)",
     t: "norsk",
@@ -74640,7 +74631,7 @@ export const bangs = [
   {
     c: "News",
     d: "nos.nl",
-    r: 38,
+    r: 41,
     s: "NOS",
     sc: "Broadcast",
     t: "nos",
@@ -74658,7 +74649,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.notdoppler.com",
-    r: 3,
+    r: 0,
     s: "Not Doppler",
     sc: "Games (general)",
     t: "notdoppler",
@@ -74676,7 +74667,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "note.mu",
-    r: 22,
+    r: 109,
     s: "note",
     sc: "Blogs",
     t: "note",
@@ -74712,7 +74703,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "thenounproject.com",
-    r: 10,
+    r: 0,
     s: "The Noun Project",
     sc: "Images",
     t: "noun",
@@ -74766,7 +74757,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dic.nicovideo.jp",
-    r: 0,
+    r: 4,
     s: "Niconico Pedia",
     sc: "Search",
     t: "npedia",
@@ -74775,7 +74766,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "npmjs.com",
-    r: 129,
+    r: 71,
     s: "NPM Direct",
     sc: "Languages (javascript)",
     t: "npmd",
@@ -74784,7 +74775,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.npmjs.com",
-    r: 147,
+    r: 89,
     s: "npm",
     sc: "Programming",
     t: "npmjs",
@@ -74793,7 +74784,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.npmjs.com",
-    r: 4340,
+    r: 3485,
     s: "npm",
     sc: "Languages (javascript)",
     t: "npm",
@@ -74811,7 +74802,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "npms.io",
-    r: 5,
+    r: 0,
     s: "npms",
     sc: "Languages (javascript)",
     t: "npmsio",
@@ -74856,7 +74847,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.npr.org",
-    r: 126,
+    r: 125,
     s: "NPR.org",
     sc: "Broadcast",
     t: "npr",
@@ -74874,7 +74865,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "thenounproject.com",
-    r: 13,
+    r: 40,
     s: "The Noun Project",
     sc: "Images",
     t: "np",
@@ -74883,7 +74874,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.nrc.nl",
-    r: 0,
+    r: 49,
     s: "NRC",
     sc: "International",
     t: "nrc",
@@ -74892,7 +74883,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "netrunnerdb.com",
-    r: 144,
+    r: 152,
     s: "NetrunnerDB",
     sc: "Games (offline)",
     t: "nrdb",
@@ -74901,7 +74892,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.nrk.no",
-    r: 90,
+    r: 54,
     s: "NRK",
     sc: "Broadcast",
     t: "nrk",
@@ -74919,7 +74910,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "tv.nrk.no",
-    r: 0,
+    r: 9,
     s: "NRK TV",
     sc: "Video",
     t: "nrktv",
@@ -74937,7 +74928,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 19,
+    r: 185,
     s: "Nixpkgs Repository",
     sc: "Sysadmin (packages)",
     t: "nr",
@@ -74946,7 +74937,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.nasdaq.com",
-    r: 4,
+    r: 0,
     s: "NASDAQ Real Time Quotes",
     sc: "Search (Real-time)",
     t: "nrtq",
@@ -74955,7 +74946,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 13,
+    r: 4,
     s: "DuckDuckGo",
     sc: "Search",
     t: "ns",
@@ -74973,7 +74964,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "safeweb.norton.com",
-    r: 15,
+    r: 37,
     s: "Norton Safe Web",
     sc: "Tools (URLs)",
     t: "nsf",
@@ -74982,7 +74973,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 61,
+    r: 82,
     s: "DuckDuckGo Safe Off",
     sc: "Search (DDG)",
     t: "nsfw",
@@ -75000,7 +74991,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "nationstates.net",
-    r: 47,
+    r: 16,
     s: "NationStates",
     sc: "Games (general)",
     t: "nsn",
@@ -75009,7 +75000,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "nationstates.net",
-    r: 0,
+    r: 4,
     s: "NationStates",
     sc: "Games (specific)",
     t: "nsr",
@@ -75054,7 +75045,7 @@ export const bangs = [
   {
     c: "News",
     d: "newstral.com",
-    r: 4,
+    r: 6,
     s: "Newstral",
     sc: "Aggregators",
     t: "nt",
@@ -75063,7 +75054,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ntnu.edu",
-    r: 11,
+    r: 3,
     s: "Norwegian University of Science and Technology",
     sc: "Academic (math/cs)",
     t: "ntnu",
@@ -75072,7 +75063,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.tritrans.net",
-    r: 3,
+    r: 4,
     s: "TriTrans",
     sc: "Tools",
     t: "ntrans",
@@ -75090,7 +75081,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.nts.live",
-    r: 0,
+    r: 3,
     s: "NTS",
     sc: "Radio",
     t: "nts",
@@ -75135,7 +75126,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "nuget.org",
-    r: 191,
+    r: 183,
     s: "nuget gallery",
     sc: "Languages (.net)",
     t: "nuget",
@@ -75162,7 +75153,7 @@ export const bangs = [
   {
     c: "Research",
     d: "numbermatics.com",
-    r: 3,
+    r: 0,
     s: "Numbermatics, the number explorer",
     sc: "Academic (math/cs)",
     t: "number",
@@ -75189,7 +75180,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.scipy.org",
-    r: 62,
+    r: 32,
     s: "numpy",
     sc: "Languages (python)",
     t: "numpy",
@@ -75216,7 +75207,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nusearch.nottingham.ac.uk",
-    r: 0,
+    r: 6,
     s: "NUsearch",
     sc: "Academic",
     t: "nusearch",
@@ -75270,7 +75261,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nvd.nist.gov",
-    r: 37,
+    r: 0,
     s: "NIST Vulnerability Database",
     sc: "Reference (science)",
     t: "nvd",
@@ -75297,7 +75288,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 11,
+    r: 5,
     s: "Nvidia",
     sc: "Companies",
     t: "nvidia",
@@ -75324,7 +75315,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "m.search.naver.com",
-    r: 47,
+    r: 75,
     s: "Naver",
     sc: "Search (non-US)",
     t: "nv",
@@ -75333,7 +75324,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.novelupdates.com",
-    r: 27,
+    r: 40,
     s: "Novel Updates",
     sc: "Misc",
     t: "nvu",
@@ -75351,7 +75342,7 @@ export const bangs = [
   {
     c: "Research",
     d: "webbook.nist.gov",
-    r: 4,
+    r: 0,
     s: "NIST Chemistry Webbook",
     sc: "Reference (science)",
     t: "nwb",
@@ -75360,7 +75351,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ninjawords.com",
-    r: 21,
+    r: 9,
     s: "Ninja Words",
     sc: "Reference (words)",
     t: "nw",
@@ -75405,7 +75396,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.nextinpact.com",
-    r: 22,
+    r: 28,
     s: "Next INpact",
     sc: "Magazine",
     t: "nxi",
@@ -75414,7 +75405,7 @@ export const bangs = [
   {
     c: "Research",
     d: "networkx.lanl.gov",
-    r: 3,
+    r: 0,
     s: "networkx",
     sc: "Academic",
     t: "nx",
@@ -75432,7 +75423,7 @@ export const bangs = [
   {
     c: "Research",
     d: "browse.nypl.org",
-    r: 4,
+    r: 0,
     s: "New York Public Library",
     sc: "Reference",
     t: "nypl",
@@ -75441,7 +75432,7 @@ export const bangs = [
   {
     c: "News",
     d: "nypost.com",
-    r: 83,
+    r: 85,
     s: "NYPost",
     sc: "Newspaper",
     t: "nypost",
@@ -75459,7 +75450,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.nyse.com",
-    r: 4,
+    r: 3,
     s: "New York Stock Exchange",
     sc: "Reference",
     t: "nyse",
@@ -75468,7 +75459,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cooking.nytimes.com",
-    r: 9,
+    r: 12,
     s: "New York Times Cooking",
     sc: "Food",
     t: "nytc",
@@ -75477,7 +75468,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.nytimes.com",
-    r: 50,
+    r: 68,
     s: "The New York Times",
     sc: "Newspaper",
     t: "nytimes",
@@ -75486,7 +75477,7 @@ export const bangs = [
   {
     c: "News",
     d: "query.nytimes.com",
-    r: 871,
+    r: 782,
     s: "New York Times",
     sc: "Newspaper",
     t: "nyt",
@@ -75540,7 +75531,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.nzz.ch",
-    r: 8,
+    r: 0,
     s: "Neue Z\u00fcrcher Zeitung",
     sc: "Newspaper",
     t: "nzz",
@@ -75558,7 +75549,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.oxfordlearnersdictionaries.com",
-    r: 0,
+    r: 4,
     s: "Oxford Advanced American Dictionary",
     sc: "Learning",
     t: "oaad",
@@ -75576,7 +75567,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.oxforddictionaries.com",
-    r: 0,
+    r: 3,
     s: "Oxford Dictionaries (American English)",
     sc: "Reference (words)",
     t: "oad",
@@ -75585,7 +75576,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.oxfordlearnersdictionaries.com",
-    r: 137,
+    r: 120,
     s: "Oxford Advanced Learner's Dictionary",
     sc: "Learning (intl)",
     t: "oald",
@@ -75630,7 +75621,7 @@ export const bangs = [
   {
     c: "Research",
     d: "bible.oremus.org",
-    r: 6,
+    r: 5,
     s: "oremus Bible Browser",
     sc: "Reference (religion)",
     t: "obb",
@@ -75657,7 +75648,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.obi.de",
-    r: 6,
+    r: 18,
     s: "OBI",
     sc: "Online (marketplace)",
     t: "obi",
@@ -75693,7 +75684,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "build.opensuse.org",
-    r: 38,
+    r: 49,
     s: "openSUSE Build Service",
     sc: "Sysadmin",
     t: "obs",
@@ -75720,7 +75711,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ocado.com",
-    r: 8,
+    r: 0,
     s: "Ocado",
     sc: "Online",
     t: "ocado",
@@ -75738,7 +75729,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "caml.inria.fr",
-    r: 3,
+    r: 34,
     s: "OCaml Lib Ref",
     sc: "Languages (other)",
     t: "ocaml",
@@ -75810,7 +75801,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.worldcat.org",
-    r: 103,
+    r: 13,
     s: "OCLC Worldcat",
     sc: "Academic",
     t: "oclc",
@@ -75873,7 +75864,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "octopart.com",
-    r: 61,
+    r: 48,
     s: "Octopart",
     sc: "Tech",
     t: "octo",
@@ -75882,7 +75873,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "octopart.com",
-    r: 28,
+    r: 38,
     s: "Octopart",
     sc: "Search",
     t: "octopart",
@@ -75909,7 +75900,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.mit.edu",
-    r: 0,
+    r: 4,
     s: "MIT OpenCourseWare",
     sc: "Academic",
     t: "ocw",
@@ -75963,7 +75954,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.odoo.com",
-    r: 0,
+    r: 30,
     s: "Odoo Apps",
     sc: "Downloads (apps)",
     t: "odoo",
@@ -75981,7 +75972,7 @@ export const bangs = [
   {
     c: "Research",
     d: "oxforddictionaries.com",
-    r: 5,
+    r: 3,
     s: "Oxford Dictionary",
     sc: "Academic",
     t: "od",
@@ -76017,7 +76008,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.oed.com",
-    r: 117,
+    r: 110,
     s: "OED - Oxford English Dictionary",
     sc: "Reference (words)",
     t: "oed",
@@ -76035,7 +76026,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "oeis.org",
-    r: 116,
+    r: 106,
     s: "The On-Line Encyclopedia of Integer Sequences",
     sc: "Tools",
     t: "oeis",
@@ -76080,7 +76071,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.ofdb.de",
-    r: 18,
+    r: 7,
     s: "Online Film Datenbank",
     sc: "Movies",
     t: "ofdb",
@@ -76098,7 +76089,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.officedepot.com",
-    r: 0,
+    r: 3,
     s: "OfficeDepot",
     sc: "Big box/department",
     t: "officedepot",
@@ -76152,7 +76143,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 0,
+    r: 6,
     s: "OpenFrameworks",
     sc: "Libraries/Frameworks",
     t: "of",
@@ -76161,7 +76152,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "opengameart.org",
-    r: 7,
+    r: 4,
     s: "OpenGameArt.org",
     sc: "General",
     t: "oga",
@@ -76206,7 +76197,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.outdoorgearlab.com",
-    r: 7,
+    r: 0,
     s: "OutdoorGearLab",
     sc: "Services",
     t: "ogl",
@@ -76224,7 +76215,7 @@ export const bangs = [
   {
     c: "Research",
     d: "duckduckgo.com",
-    r: 12,
+    r: 9,
     s: "Omniglot",
     sc: "Learning",
     t: "og",
@@ -76314,7 +76305,7 @@ export const bangs = [
   {
     c: "Research",
     d: "oxfordindex.oup.com",
-    r: 3,
+    r: 0,
     s: "Oxford Index",
     sc: "Reference",
     t: "oi",
@@ -76359,7 +76350,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.okcaller.com",
-    r: 6,
+    r: 0,
     s: "okcaller.com",
     sc: "Search (Real-time)",
     t: "okcaller",
@@ -76368,7 +76359,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "okcupid.com",
-    r: 0,
+    r: 8,
     s: "OKCupid",
     sc: "Social (intl)",
     t: "okc",
@@ -76395,7 +76386,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.oxfordlearnersdictionaries.com",
-    r: 0,
+    r: 9,
     s: "Oxford Learner's American Dictionariy",
     sc: "Learning",
     t: "olad",
@@ -76431,7 +76422,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "old.reddit.com",
-    r: 279,
+    r: 224,
     s: "Old Reddit",
     sc: "Social news/links",
     t: "oldreddit",
@@ -76440,7 +76431,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "old.reddit.com",
-    r: 145,
+    r: 104,
     s: "old.reddit.com",
     sc: "Forum",
     t: "oldred",
@@ -76476,7 +76467,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "openlibrary.org",
-    r: 19,
+    r: 25,
     s: "Open Library",
     sc: "Books",
     t: "olib",
@@ -76503,7 +76494,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.dizionario-italiano.it",
-    r: 4,
+    r: 6,
     s: "Dizionario Italiano Olivetti",
     sc: "Reference (words)",
     t: "olivetti",
@@ -76512,7 +76503,7 @@ export const bangs = [
   {
     c: "News",
     d: "search.oregonlive.com",
-    r: 15,
+    r: 7,
     s: "OregonLive",
     sc: "Newspaper",
     t: "ol",
@@ -76584,7 +76575,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.olx.in",
-    r: 9,
+    r: 0,
     s: "Olx India",
     sc: "Online (marketplace)",
     t: "olxin",
@@ -76602,7 +76593,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.olx.pl",
-    r: 200,
+    r: 149,
     s: "OLX Poland",
     sc: "Online (deals)",
     t: "olx",
@@ -76620,7 +76611,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "olx.pl",
-    r: 26,
+    r: 6,
     s: "OLX.pl",
     sc: "Online (marketplace)",
     t: "olxpl",
@@ -76647,7 +76638,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.olx.ro",
-    r: 7,
+    r: 0,
     s: "OLX Romania",
     sc: "Online (marketplace)",
     t: "olxro",
@@ -76656,7 +76647,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "olx.ua",
-    r: 6,
+    r: 7,
     s: "OLX Ukraine",
     sc: "Online (deals)",
     t: "olxua",
@@ -76665,7 +76656,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.openstreetmap.org",
-    r: 43,
+    r: 39,
     s: "Open Street Maps",
     sc: "Maps",
     t: "omap",
@@ -76674,7 +76665,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "omaps.worldofo.com",
-    r: 0,
+    r: 3,
     s: "World of O",
     sc: "Sports",
     t: "omaps",
@@ -76692,7 +76683,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.omdb.org",
-    r: 3,
+    r: 4,
     s: "Open Media Database",
     sc: "Movies",
     t: "omdb",
@@ -76773,7 +76764,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.omgubuntu.co.uk",
-    r: 38,
+    r: 47,
     s: "OMG! Ubuntu!",
     sc: "Magazine",
     t: "omg",
@@ -76782,7 +76773,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.omgubuntu.co.uk",
-    r: 9,
+    r: 0,
     s: "OMG! Ubuntu!",
     sc: "Blogs",
     t: "omgubuntu",
@@ -76791,7 +76782,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.omgubuntu.co.uk",
-    r: 18,
+    r: 13,
     s: "OMG! Ubuntu!",
     sc: "Blogs",
     t: "omgu",
@@ -76818,7 +76809,7 @@ export const bangs = [
   {
     c: "Research",
     d: "omim.org",
-    r: 3,
+    r: 0,
     s: "OMIM Search",
     sc: "Health",
     t: "omim",
@@ -76827,7 +76818,7 @@ export const bangs = [
   {
     c: "News",
     d: "omni.se",
-    r: 0,
+    r: 3,
     s: "Omni",
     sc: "Aggregators",
     t: "omni",
@@ -76845,7 +76836,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.onmsft.com",
-    r: 10,
+    r: 6,
     s: "On MSFT",
     sc: "Blogs",
     t: "oms",
@@ -76908,7 +76899,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "onedrive.live.com",
-    r: 21,
+    r: 12,
     s: "OneDrive",
     sc: "General",
     t: "onedrive",
@@ -76926,7 +76917,7 @@ export const bangs = [
   {
     c: "Research",
     d: "onelook.com",
-    r: 69,
+    r: 117,
     s: "OneLook",
     sc: "Reference (words)",
     t: "onelook",
@@ -76944,7 +76935,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.onelook.com",
-    r: 0,
+    r: 9,
     s: "Onelook Reverse Dictionary",
     sc: "Reference (words)",
     t: "onelookth",
@@ -76953,7 +76944,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "onepiece.wikia.com",
-    r: 34,
+    r: 16,
     s: "One Piece Wiki",
     sc: "Misc",
     t: "onepiece",
@@ -76980,7 +76971,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ontario.ca",
-    r: 5,
+    r: 7,
     s: "Government of Ontario",
     sc: "Search",
     t: "on",
@@ -76998,7 +76989,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "oxygennotincluded.gamepedia.com",
-    r: 0,
+    r: 4,
     s: "Oxygen Not Included Wiki",
     sc: "Games (specific)",
     t: "oni",
@@ -77007,7 +76998,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "onlinelinkscan.com",
-    r: 3,
+    r: 0,
     s: "Online Link Scan",
     sc: "Tools (URLs)",
     t: "onlinelinkscan",
@@ -77061,7 +77052,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.onvista.de",
-    r: 13,
+    r: 0,
     s: "Onvista",
     sc: "Tools",
     t: "onvista",
@@ -77097,7 +77088,7 @@ export const bangs = [
   {
     c: "Research",
     d: "onelook.com",
-    r: 197,
+    r: 163,
     s: "OneLook.com",
     sc: "Reference (words)",
     t: "o",
@@ -77160,7 +77151,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 4,
+    r: 7,
     s: "OPAM",
     sc: "Languages (other)",
     t: "opam",
@@ -77205,7 +77196,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "man.openbsd.org",
-    r: 0,
+    r: 4,
     s: "man.openbsd.org",
     sc: "Sysadmin",
     t: "openbsdman",
@@ -77223,7 +77214,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "man.openbsd.org",
-    r: 42,
+    r: 26,
     s: "OpenBSD",
     sc: "Sysadmin (man)",
     t: "openbsd",
@@ -77322,7 +77313,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "opengameart.org",
-    r: 4,
+    r: 0,
     s: "OpenGameArt",
     sc: "Design",
     t: "openga",
@@ -77349,7 +77340,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.openhub.net",
-    r: 4,
+    r: 0,
     s: "Open HUB",
     sc: "Sysadmin",
     t: "openhub",
@@ -77376,7 +77367,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "openlibrary.org",
-    r: 10,
+    r: 5,
     s: "Open Library",
     sc: "Books",
     t: "openlibrary",
@@ -77394,7 +77385,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.openstreetmap.org",
-    r: 5,
+    r: 9,
     s: "OpenStreetMap",
     sc: "Maps",
     t: "openmaps",
@@ -77466,7 +77457,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.openrice.com",
-    r: 0,
+    r: 6,
     s: "OpenRice",
     sc: "Food",
     t: "openrice",
@@ -77502,7 +77493,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.openstreetmap.org",
-    r: 30,
+    r: 24,
     s: "OpenStreetMap",
     sc: "Maps",
     t: "openstreetmap",
@@ -77529,7 +77520,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "en.opensuse.org",
-    r: 0,
+    r: 4,
     s: "OpenSUSE",
     sc: "Sysadmin",
     t: "opensuse",
@@ -77573,7 +77564,7 @@ export const bangs = [
   },
   {
     d: "www.yelp.com",
-    r: 0,
+    r: 13,
     s: "Yelp Open Search",
     t: "open",
     u: "http://www.yelp.com/search?find_desc=&ns=1#start=0&open_now=2510",
@@ -77617,7 +77608,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "na.op.gg",
-    r: 3,
+    r: 0,
     s: "OP.GG",
     sc: "Tools",
     t: "opggna",
@@ -77626,7 +77617,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.op.gg",
-    r: 46,
+    r: 36,
     s: "OP.GG",
     sc: "Games (general)",
     t: "opgg",
@@ -77644,7 +77635,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.op.gg",
-    r: 15,
+    r: 0,
     s: "Opgg Champion",
     sc: "Games (specific)",
     t: "opg",
@@ -77734,7 +77725,7 @@ export const bangs = [
   {
     c: "Research",
     d: "aplicacions.llengua.gencat.cat",
-    r: 21,
+    r: 12,
     s: "Optimot",
     sc: "Reference (words intl)",
     t: "optimot",
@@ -77806,7 +77797,7 @@ export const bangs = [
   {
     c: "Research",
     d: "orcid.org",
-    r: 6,
+    r: 8,
     s: "ORCID",
     sc: "Academic",
     t: "orcid",
@@ -77824,7 +77815,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ordbogen.com",
-    r: 8,
+    r: 3,
     s: "Ordbogen",
     sc: "Reference (words intl)",
     t: "ordbogen",
@@ -77833,7 +77824,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ordbok.uib.no",
-    r: 24,
+    r: 17,
     s: "Bokm\u00e5lsordboka | Nynorskordboka",
     sc: "Reference (words)",
     t: "ordbok",
@@ -77860,7 +77851,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ordnet.dk",
-    r: 41,
+    r: 69,
     s: "Den Danske Ordbog",
     sc: "Tools",
     t: "ordnet",
@@ -77887,7 +77878,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ne.ord.se",
-    r: 0,
+    r: 4,
     s: "Norstedts ordb\u00f6cker",
     sc: "Learning (intl)",
     t: "ord",
@@ -77905,7 +77896,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "old.reddit.com",
-    r: 852,
+    r: 1094,
     s: "old reddit",
     sc: "Forum",
     t: "ored",
@@ -77950,7 +77941,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "ore.spongepowered.org",
-    r: 0,
+    r: 3,
     s: "Package Repository for Minecraft",
     sc: "Downloads (add-ons)",
     t: "ore",
@@ -78022,7 +78013,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "learning.oreilly.com",
-    r: 3,
+    r: 0,
     s: "https://learning.oreilly.com/home/",
     sc: "Programming",
     t: "orly",
@@ -78040,7 +78031,7 @@ export const bangs = [
   {
     c: "Research",
     d: "or.justice.cz",
-    r: 3,
+    r: 5,
     s: "Obchodn\u00ed rejst\u0159\u00edk \u2013 Ministerstvo spravedlnosti \u010cesk\u00e9 republiky",
     sc: "Government",
     t: "or",
@@ -78049,7 +78040,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "old.reddit.com",
-    r: 786,
+    r: 873,
     s: "Subreddit (Old Style)",
     sc: "Forum",
     t: "ors",
@@ -78094,7 +78085,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "osalt.com",
-    r: 3,
+    r: 0,
     s: "Open Source Alternative",
     sc: "Tools",
     t: "osalt",
@@ -78121,7 +78112,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.osdev.org",
-    r: 12,
+    r: 17,
     s: "OSDev Wiki",
     sc: "Programming",
     t: "osdev",
@@ -78220,7 +78211,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "forum.openstreetmap.org",
-    r: 12,
+    r: 0,
     s: "OpenStreetMap Forum",
     sc: "Social",
     t: "osmforum",
@@ -78256,7 +78247,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.openstreetmap.org",
-    r: 7475,
+    r: 7119,
     s: "OpenStreetMap",
     sc: "Maps",
     t: "osm",
@@ -78283,7 +78274,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wiki.openstreetmap.org",
-    r: 79,
+    r: 104,
     s: "OpenStreetMap Wiki (short)",
     sc: "Maps",
     t: "osmwiki",
@@ -78292,7 +78283,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wiki.openstreetmap.org",
-    r: 299,
+    r: 287,
     s: "OpenStreetMap Wiki",
     sc: "Maps",
     t: "osmw",
@@ -78310,7 +78301,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "software.opensuse.org",
-    r: 14,
+    r: 20,
     s: "openSUSE",
     sc: "Sysadmin (RedHat)",
     t: "os",
@@ -78319,7 +78310,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "map.project-osrm.org",
-    r: 9,
+    r: 0,
     s: "Open Source Routing Machine",
     sc: "Maps",
     t: "osrm",
@@ -78328,7 +78319,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "old.reddit.com",
-    r: 3986,
+    r: 3563,
     s: "Old Reddit (subreddit)",
     sc: "Forum",
     t: "osr",
@@ -78337,7 +78328,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "services.runescape.com",
-    r: 0,
+    r: 4,
     s: "The Old School Runescape Grand Exchange",
     sc: "Games (specific)",
     t: "osrsge",
@@ -78346,7 +78337,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "services.runescape.com",
-    r: 0,
+    r: 15,
     s: "Old School Runescape Hiscores",
     sc: "Games (specific)",
     t: "osrshs",
@@ -78355,7 +78346,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "oldschool.runescape.wiki",
-    r: 2902,
+    r: 4196,
     s: "Old School RuneScape Wiki",
     sc: "Games (specific)",
     t: "osrs",
@@ -78364,7 +78355,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "oldschool.runescape.wiki",
-    r: 8,
+    r: 44,
     s: "Old School Runescape Wiki",
     sc: "Games (specific)",
     t: "osrswiki",
@@ -78373,7 +78364,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "oldschool.runescape.wiki",
-    r: 31,
+    r: 21,
     s: "OSRS Official Wiki",
     sc: "Games (specific)",
     t: "osrsw",
@@ -78382,7 +78373,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.osstatus.com",
-    r: 5,
+    r: 0,
     s: "OSStatus",
     sc: "Libraries/Frameworks",
     t: "oss",
@@ -78427,7 +78418,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.openstreetmap.org",
-    r: 11,
+    r: 8,
     s: "http://www.openstreetmap.org/",
     sc: "Maps",
     t: "ost",
@@ -78454,7 +78445,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "osu.ppy.sh",
-    r: 117,
+    r: 196,
     s: "osu!",
     sc: "Games (general)",
     t: "osu",
@@ -78472,7 +78463,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "osu.ppy.sh",
-    r: 0,
+    r: 12,
     s: "osu.ppy.sh",
     sc: "Games (general)",
     t: "osuu",
@@ -78517,7 +78508,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.openthesaurus.de",
-    r: 0,
+    r: 4,
     s: "OpenThesaurus-de",
     sc: "Reference (words)",
     t: "othde",
@@ -78589,7 +78580,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.otto.de",
-    r: 23,
+    r: 11,
     s: "OTTO",
     sc: "Online",
     t: "otto",
@@ -78607,7 +78598,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "overpass-turbo.eu",
-    r: 8,
+    r: 36,
     s: "Overpass Turbo Wizard",
     sc: "Maps",
     t: "otw",
@@ -78625,7 +78616,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "offerup.com",
-    r: 8,
+    r: 0,
     s: "offerup",
     sc: "Online (marketplace)",
     t: "oup",
@@ -78679,7 +78670,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.live.com",
-    r: 280,
+    r: 245,
     s: "Outlook",
     sc: "Search",
     t: "outlook",
@@ -78706,7 +78697,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.overdrive.com",
-    r: 5,
+    r: 3,
     s: "OverDrive",
     sc: "Books",
     t: "overdrive",
@@ -78769,7 +78760,7 @@ export const bangs = [
   {
     c: "Research",
     d: "webstersdictionary1828.com",
-    r: 0,
+    r: 3,
     s: "Webster's Dictionary 1828 - Online Edition",
     sc: "Reference (words)",
     t: "owd",
@@ -78841,7 +78832,7 @@ export const bangs = [
   {
     c: "News",
     d: "openweathermap.org",
-    r: 27,
+    r: 15,
     s: "Open Weather Map",
     sc: "Weather",
     t: "owm",
@@ -78940,7 +78931,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.oxfordlearnersdictionaries.com",
-    r: 23,
+    r: 10,
     s: "Oxford learners dictionary",
     sc: "Reference (words)",
     t: "oxfordlearners",
@@ -78949,7 +78940,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "en.oxforddictionaries.com",
-    r: 13,
+    r: 7,
     s: "Lexico",
     sc: "Tools",
     t: "oxford",
@@ -78976,7 +78967,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.oxfordlearnersdictionaries.com",
-    r: 98,
+    r: 89,
     s: "Oxford Advanced Learners' dictionary",
     sc: "Reference (words)",
     t: "oxl",
@@ -78985,7 +78976,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.lexico.com",
-    r: 20,
+    r: 6,
     s: "Oxford Dictionary",
     sc: "Reference (words)",
     t: "ox",
@@ -79012,7 +79003,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.oyez.org",
-    r: 0,
+    r: 3,
     s: "Oyez",
     sc: "Law",
     t: "oyez",
@@ -79030,7 +79021,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ozbargain.com.au",
-    r: 5,
+    r: 0,
     s: "OzBargain",
     sc: "Online (deals)",
     t: "ozbargain",
@@ -79039,7 +79030,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ozbargain.com.au",
-    r: 125,
+    r: 185,
     s: "Oz Bargain",
     sc: "Online (deals)",
     t: "ozb",
@@ -79066,7 +79057,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ozon.ru",
-    r: 40,
+    r: 44,
     s: "OZON.ru",
     sc: "Online",
     t: "ozon",
@@ -79075,7 +79066,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "oz.by",
-    r: 4,
+    r: 6,
     s: "OZ.by",
     sc: "Online",
     t: "oz",
@@ -79102,7 +79093,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pitchfork.com",
-    r: 31,
+    r: 50,
     s: "Pitchfork Media",
     sc: "Blogs",
     t: "p4k",
@@ -79138,7 +79129,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 387,
+    r: 267,
     s: "Arch Linux Package Database",
     sc: "Sysadmin (Arch)",
     t: "pac",
@@ -79156,7 +79147,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.packagemapping.com",
-    r: 5,
+    r: 0,
     s: "PackageMapping",
     sc: "Tracking",
     t: "package",
@@ -79165,7 +79156,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packagist.org",
-    r: 67,
+    r: 62,
     s: "Packagist",
     sc: "Languages (php)",
     t: "packagist",
@@ -79201,7 +79192,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packagist.org",
-    r: 22,
+    r: 6,
     s: "Packagist",
     sc: "Languages (php)",
     t: "pack",
@@ -79219,7 +79210,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 357,
+    r: 290,
     s: "Arch Package Repo",
     sc: "Sysadmin (Arch)",
     t: "pacman",
@@ -79300,7 +79291,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.pai.pt",
-    r: 5,
+    r: 6,
     s: "PaginasAmarelas.pt",
     sc: "Search",
     t: "pai",
@@ -79372,7 +79363,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pandas.pydata.org",
-    r: 90,
+    r: 65,
     s: "Pandas",
     sc: "Languages (python)",
     t: "pandas",
@@ -79453,7 +79444,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.paginasamarillas.es",
-    r: 3,
+    r: 4,
     s: "P\u00e1ginas Amarillas",
     sc: "Search",
     t: "pa",
@@ -79462,7 +79453,7 @@ export const bangs = [
   {
     c: "Research",
     d: "paperity.org",
-    r: 3,
+    r: 4,
     s: "Paperity - first open science aggregator",
     sc: "Academic",
     t: "paper",
@@ -79480,7 +79471,7 @@ export const bangs = [
   {
     c: "Research",
     d: "scholar.google.com",
-    r: 58,
+    r: 79,
     s: "Google Scholar",
     sc: "Academic",
     t: "papers",
@@ -79552,7 +79543,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "parcelsapp.com",
-    r: 5,
+    r: 12,
     s: "Parcels",
     sc: "Tracking",
     t: "parcels",
@@ -79642,7 +79633,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.passmark.com",
-    r: 9,
+    r: 0,
     s: "passmark.com",
     sc: "Companies",
     t: "passmark",
@@ -79651,7 +79642,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.passwird.com",
-    r: 0,
+    r: 12,
     s: "passwird.com",
     sc: "Online (deals)",
     t: "pass",
@@ -79660,7 +79651,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pastebin.com",
-    r: 4,
+    r: 0,
     s: "pastebin",
     sc: "Tools",
     t: "pastebin",
@@ -79669,7 +79660,7 @@ export const bangs = [
   {
     c: "Research",
     d: "patents.google.com",
-    r: 19,
+    r: 37,
     s: "Google Patents",
     sc: "Law",
     t: "patent",
@@ -79696,7 +79687,7 @@ export const bangs = [
   {
     c: "Research",
     d: "patents.google.com",
-    r: 0,
+    r: 34,
     s: "patents.google.com",
     sc: "Law",
     t: "patg",
@@ -79804,7 +79795,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.patreon.com",
-    r: 13,
+    r: 27,
     s: "Patreon",
     sc: "Tools (fundraising)",
     t: "patreon",
@@ -79867,7 +79858,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.paypal.com",
-    r: 9,
+    r: 14,
     s: "PayPal",
     sc: "Services",
     t: "paypal",
@@ -79957,7 +79948,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pinboard.in",
-    r: 36,
+    r: 34,
     s: "Pinboard",
     sc: "Tools",
     t: "pb",
@@ -79966,7 +79957,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.pbs.org",
-    r: 0,
+    r: 6,
     s: "PBS",
     sc: "TV",
     t: "pbs",
@@ -79993,7 +79984,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.pbtech.co.nz",
-    r: 0,
+    r: 4,
     s: "PB Tech",
     sc: "Tech",
     t: "pbtech",
@@ -80020,7 +80011,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "ecshweb.pchome.com.tw",
-    r: 0,
+    r: 15,
     s: "PChome 24h",
     sc: "Online",
     t: "pc24",
@@ -80038,7 +80029,7 @@ export const bangs = [
   {
     c: "Research",
     d: "catalog.princeton.edu",
-    r: 3,
+    r: 0,
     s: "Princeton University Library Catalog",
     sc: "Academic",
     t: "pcat",
@@ -80056,7 +80047,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.pccomponentes.com",
-    r: 5,
+    r: 3,
     s: "PcComponentes",
     sc: "Tech",
     t: "pccomponentes",
@@ -80083,7 +80074,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.pcdiga.com",
-    r: 0,
+    r: 3,
     s: "PCDiga",
     sc: "Tech",
     t: "pcd",
@@ -80092,7 +80083,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pcgamingwiki.com",
-    r: 44,
+    r: 33,
     s: "PCGamingWiki",
     sc: "Games (general)",
     t: "pcgamingwiki",
@@ -80128,7 +80119,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pcgamingwiki.com",
-    r: 902,
+    r: 892,
     s: "PCGamingWiki",
     sc: "Games (general)",
     t: "pcgw",
@@ -80182,7 +80173,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "picclick.co.uk",
-    r: 4,
+    r: 0,
     s: "PicClick UK",
     sc: "Online",
     t: "pclick",
@@ -80254,7 +80245,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "pcpartpicker.com",
-    r: 11,
+    r: 0,
     s: "PCPartPicker",
     sc: "Tech",
     t: "pcpartpicker",
@@ -80272,7 +80263,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "pcpartpicker.com",
-    r: 118,
+    r: 90,
     s: "PcPartPicker",
     sc: "Tech",
     t: "pcpp",
@@ -80281,7 +80272,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.presidentschoice.ca",
-    r: 11,
+    r: 10,
     s: "President's Choice",
     sc: "Food",
     t: "pc",
@@ -80290,7 +80281,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.procyclingstats.com",
-    r: 103,
+    r: 25,
     s: "Pro Cycling Stats",
     sc: "Sports",
     t: "pcs",
@@ -80353,7 +80344,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.rcsb.org",
-    r: 17,
+    r: 27,
     s: "Protein Data Bank",
     sc: "Reference (science)",
     t: "pdb",
@@ -80371,7 +80362,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "",
-    r: 109,
+    r: 77,
     s: "PDFs",
     sc: "Search (DDG)",
     t: "pdf",
@@ -80398,7 +80389,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.placedeslibraires.fr",
-    r: 4,
+    r: 10,
     s: "Place des Libraires",
     sc: "Online (deals)",
     t: "pdl",
@@ -80434,7 +80425,7 @@ export const bangs = [
   {
     c: "Research",
     d: "folkets-lexikon.csc.kth.se",
-    r: 14,
+    r: 10,
     s: "The People's Dictionary",
     sc: "Reference (words intl)",
     t: "pd",
@@ -80497,7 +80488,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.infopedia.pt",
-    r: 33,
+    r: 6,
     s: "Dicion\u00e1rio Porto Editora",
     sc: "Reference (words intl)",
     t: "pe",
@@ -80515,7 +80506,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "peekier.com",
-    r: 7,
+    r: 0,
     s: "Peekier",
     sc: "Search (Private)",
     t: "peek",
@@ -80524,7 +80515,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.peeringdb.com",
-    r: 7,
+    r: 6,
     s: "PeeringDB",
     sc: "Sysadmin",
     t: "peeringdb",
@@ -80632,7 +80623,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "people.zoho.com",
-    r: 0,
+    r: 3,
     s: "Zoho People",
     sc: "Search (Private)",
     t: "people",
@@ -80731,7 +80722,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "perldoc.pl",
-    r: 58,
+    r: 52,
     s: "Perldoc Browser",
     sc: "Languages (perl)",
     t: "perldoc",
@@ -80767,7 +80758,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.perlmonks.org",
-    r: 0,
+    r: 4,
     s: "PerlMonks.org",
     sc: "Languages (perl)",
     t: "perlmonks",
@@ -80776,7 +80767,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "p3rl.org",
-    r: 21,
+    r: 42,
     s: "p3rl.org",
     sc: "Languages (perl)",
     t: "perl",
@@ -80785,7 +80776,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "personality-database.com",
-    r: 41,
+    r: 36,
     s: "Personality Database",
     sc: "Misc",
     t: "per",
@@ -80812,7 +80803,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.perseus.tufts.edu",
-    r: 6,
+    r: 0,
     s: "Perseus Digital Library",
     sc: "Libraries/Frameworks",
     t: "perseus",
@@ -80830,7 +80821,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.petco.com",
-    r: 5,
+    r: 0,
     s: "Petco",
     sc: "Big box/department",
     t: "petco",
@@ -80866,7 +80857,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.petsmart.com",
-    r: 5,
+    r: 0,
     s: "PetSmart",
     sc: "Big box/department",
     t: "petsmart",
@@ -80893,7 +80884,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.pexels.com",
-    r: 30,
+    r: 23,
     s: "Pexels",
     sc: "Images",
     t: "pexels",
@@ -80911,7 +80902,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.portagefilelist.de",
-    r: 0,
+    r: 3,
     s: "Portage File List",
     sc: "Sysadmin (Gentoo)",
     t: "pfl",
@@ -80929,7 +80920,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.printfriendly.com",
-    r: 30,
+    r: 45,
     s: "PrintFriendly",
     sc: "Tools (URLs)",
     t: "pf",
@@ -80938,7 +80929,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.pro-football-reference.com",
-    r: 50,
+    r: 53,
     s: "pro-football-reference.com",
     sc: "Sports",
     t: "pfr",
@@ -80947,7 +80938,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "cse.google.com",
-    r: 9,
+    r: 0,
     s: "d20PFSRD",
     sc: "Games (specific)",
     t: "pfs",
@@ -81010,7 +81001,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.postgresql.org",
-    r: 0,
+    r: 4,
     s: "PostgreSQL documentation",
     sc: "Programming",
     t: "pgdocs",
@@ -81064,7 +81055,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pgp.mit.edu",
-    r: 0,
+    r: 5,
     s: "MIT PGP public key server lookup",
     sc: "Tools",
     t: "pgp",
@@ -81073,7 +81064,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.gutenberg.org",
-    r: 19,
+    r: 37,
     s: "Project Gutenberg",
     sc: "Books",
     t: "pg",
@@ -81091,7 +81082,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.perseus.tufts.edu",
-    r: 12,
+    r: 3,
     s: "Perseus word study tool",
     sc: "Reference (words)",
     t: "pgr",
@@ -81172,7 +81163,7 @@ export const bangs = [
   {
     c: "Research",
     d: "philpapers.org",
-    r: 15,
+    r: 17,
     s: "PhilPapers",
     sc: "Academic",
     t: "philpapers",
@@ -81181,7 +81172,7 @@ export const bangs = [
   {
     c: "Research",
     d: "latin.packhum.org",
-    r: 0,
+    r: 7,
     s: "PHI Latin Texts",
     sc: "Academic",
     t: "phi",
@@ -81199,7 +81190,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.phonearena.com",
-    r: 4,
+    r: 5,
     s: "Phone Arena",
     sc: "Blogs",
     t: "phonearena",
@@ -81226,7 +81217,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.whitepages.com",
-    r: 3,
+    r: 4,
     s: "whitepages",
     sc: "Reference",
     t: "phone",
@@ -81244,7 +81235,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.phoronix.com",
-    r: 12,
+    r: 58,
     s: "Phoronix",
     sc: "Specialty",
     t: "phoronix",
@@ -81316,7 +81307,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "secure.php.net",
-    r: 661,
+    r: 588,
     s: "PHP.net",
     sc: "Languages (php)",
     t: "php",
@@ -81325,7 +81316,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.producthunt.com",
-    r: 118,
+    r: 83,
     s: "Product Hunt",
     sc: "Online",
     t: "ph",
@@ -81442,7 +81433,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.picsearch.com",
-    r: 6,
+    r: 4,
     s: "picsearch",
     sc: "Images",
     t: "pic",
@@ -81451,7 +81442,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 54,
+    r: 63,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "pics",
@@ -81469,7 +81460,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 37,
+    r: 24,
     s: "DuckDuckGo Images",
     sc: "Search (DDG)",
     t: "pictures",
@@ -81505,7 +81496,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pikabu.ru",
-    r: 0,
+    r: 7,
     s: "Pikabu.ru",
     sc: "Blogs",
     t: "pikabu",
@@ -81523,7 +81514,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.pikminwiki.com",
-    r: 4,
+    r: 14,
     s: "Pikipedia",
     sc: "Games (specific)",
     t: "pikipedia",
@@ -81568,7 +81559,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pinboard.in",
-    r: 18,
+    r: 4,
     s: "Pinboard",
     sc: "Tools",
     t: "pinboard",
@@ -81595,7 +81586,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dns-tools.domaintools.com",
-    r: 10,
+    r: 5,
     s: "DomainTools.com",
     sc: "Tools (URLs)",
     t: "ping",
@@ -81631,7 +81622,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pinterest.com",
-    r: 235,
+    r: 355,
     s: "Pinterest",
     sc: "Social",
     t: "pin",
@@ -81649,7 +81640,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "pinterest.com",
-    r: 234,
+    r: 265,
     s: "pinterest.com/",
     sc: "Online",
     t: "pinterest",
@@ -81703,7 +81694,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pypi.python.org",
-    r: 591,
+    r: 516,
     s: "pip",
     sc: "Languages (python)",
     t: "pip",
@@ -81748,7 +81739,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pitchfork.com",
-    r: 40,
+    r: 23,
     s: "Pitchfork Media",
     sc: "Blogs",
     t: "pitchfork",
@@ -81757,7 +81748,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.philly.com",
-    r: 6,
+    r: 13,
     s: "The Philadelphia Inquirer",
     sc: "Newspaper",
     t: "pi",
@@ -81775,7 +81766,7 @@ export const bangs = [
   {
     c: "Research",
     d: "vortaro.net",
-    r: 14,
+    r: 21,
     s: "Plena Ilustrita Vortaro",
     sc: "Reference (words intl)",
     t: "piv",
@@ -81784,7 +81775,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "pixabay.com",
-    r: 11,
+    r: 10,
     s: "Pixabay",
     sc: "Images",
     t: "pixabay",
@@ -81820,7 +81811,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.pixiv.net",
-    r: 1303,
+    r: 960,
     s: "Pixiv",
     sc: "Images",
     t: "pixiv",
@@ -81829,7 +81820,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "shop.pixbreak.com",
-    r: 4,
+    r: 0,
     s: "Pixbreak",
     sc: "Online",
     t: "pix",
@@ -81856,7 +81847,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.prisjakt.nu",
-    r: 76,
+    r: 79,
     s: "Prisjakt",
     sc: "Services",
     t: "pj",
@@ -81874,7 +81865,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.archlinux.org",
-    r: 823,
+    r: 637,
     s: "Arch Linux Packages",
     sc: "Sysadmin (Arch)",
     t: "pkg",
@@ -81892,7 +81883,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pkgs.org",
-    r: 20,
+    r: 27,
     s: "Linux Packages Search",
     sc: "Sysadmin",
     t: "pkgs",
@@ -81901,7 +81892,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pkgsrc.se",
-    r: 5,
+    r: 0,
     s: "Pkgsrc.se",
     sc: "Sysadmin",
     t: "pkgsrc",
@@ -81937,7 +81928,7 @@ export const bangs = [
   {
     c: "Research",
     d: "peekier.com",
-    r: 4,
+    r: 7,
     s: "Peekier",
     sc: "Reference",
     t: "pk",
@@ -81964,7 +81955,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "plancke.io",
-    r: 22,
+    r: 0,
     s: "Plancke",
     sc: "Games (Minecraft)",
     t: "plancke",
@@ -82045,7 +82036,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.perseus.tufts.edu",
-    r: 4,
+    r: 0,
     s: "Perseus word study tool",
     sc: "Reference (words)",
     t: "pla",
@@ -82072,7 +82063,7 @@ export const bangs = [
   {
     c: "Research",
     d: "plato.stanford.edu",
-    r: 16,
+    r: 13,
     s: "Stanford Encyclopedia of Philosophy",
     sc: "Academic",
     t: "plato",
@@ -82108,7 +82099,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "play.google.com",
-    r: 172,
+    r: 162,
     s: "Google Play",
     sc: "Google",
     t: "play",
@@ -82162,7 +82153,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "play.google.com",
-    r: 30,
+    r: 13,
     s: "Google Play Store",
     sc: "Google",
     t: "playstore",
@@ -82252,7 +82243,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.plosmedicine.org",
-    r: 3,
+    r: 0,
     s: "PLoS Medicine",
     sc: "Health",
     t: "plosmed",
@@ -82279,7 +82270,7 @@ export const bangs = [
   {
     c: "Research",
     d: "publiclab.org",
-    r: 15,
+    r: 3,
     s: "Public Lab",
     sc: "Reference (science)",
     t: "pl",
@@ -82342,7 +82333,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.plurk.com",
-    r: 12,
+    r: 20,
     s: "Plurk",
     sc: "Social",
     t: "plurk",
@@ -82369,7 +82360,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pl.wikipedia.org",
-    r: 4,
+    r: 20,
     s: "Polish Wikipedia",
     sc: "Tools",
     t: "plw",
@@ -82387,7 +82378,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.postdirekt.de",
-    r: 3,
+    r: 0,
     s: "German Postal Codes",
     sc: "Search",
     t: "plz",
@@ -82441,7 +82432,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.planetminecraft.com",
-    r: 14,
+    r: 3,
     s: "PlanetMinecraft.com",
     sc: "Games (Minecraft)",
     t: "pmc",
@@ -82477,7 +82468,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 26,
+    r: 15,
     s: "Pubmed",
     sc: "Academic",
     t: "pmd",
@@ -82486,7 +82477,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 3,
+    r: 0,
     s: "Plena Manlibro de Esperanta Gramatiko",
     sc: "Search",
     t: "pmeg",
@@ -82513,7 +82504,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 23,
+    r: 11,
     s: "Pubmed",
     sc: "Academic",
     t: "pmid",
@@ -82540,7 +82531,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.puella-magi.net",
-    r: 3,
+    r: 5,
     s: "Puella Magi Madoka Magica Wiki",
     sc: "Misc",
     t: "pmmm",
@@ -82567,7 +82558,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 198,
+    r: 117,
     s: "pubmed",
     sc: "Academic",
     t: "pm",
@@ -82603,7 +82594,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "primenow.amazon.com",
-    r: 3,
+    r: 0,
     s: "Amazon Prime NOW",
     sc: "Online",
     t: "pn",
@@ -82657,7 +82648,7 @@ export const bangs = [
   {
     c: "Research",
     d: "psychonautwiki.org",
-    r: 30,
+    r: 22,
     s: "psychonaut wiki",
     sc: "Reference",
     t: "pnw",
@@ -82675,7 +82666,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.pokemoncentral.it",
-    r: 7,
+    r: 0,
     s: "Pok\u00e9mon Central Wiki",
     sc: "Games (Pokemon)",
     t: "pocewiki",
@@ -82702,7 +82693,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "app.getpocket.com",
-    r: 38,
+    r: 0,
     s: "Pocket",
     sc: "Tools",
     t: "pocket",
@@ -82720,7 +82711,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "emonitoring.poczta-polska.pl",
-    r: 9,
+    r: 0,
     s: "Poczta Polska",
     sc: "Tracking",
     t: "poczta",
@@ -82810,7 +82801,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pathofexile.gamepedia.com",
-    r: 27,
+    r: 36,
     s: "Path of Exile Wiki",
     sc: "Tools",
     t: "poe",
@@ -82846,7 +82837,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pathofexile.gamepedia.com",
-    r: 5,
+    r: 7,
     s: "Path of Exile Wiki",
     sc: "Games (general)",
     t: "poewiki",
@@ -82873,7 +82864,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pokemondb.net",
-    r: 36,
+    r: 17,
     s: "Pokemon Database",
     sc: "Games (Pokemon)",
     t: "pokedb",
@@ -82882,7 +82873,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.pokemon.com",
-    r: 0,
+    r: 5,
     s: "Pokemon Official Website Pokedex",
     sc: "Games (Pokemon)",
     t: "pokedex",
@@ -82900,7 +82891,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pokemondb.net",
-    r: 26,
+    r: 19,
     s: "Pok\u00e9mon Database",
     sc: "Games (Pokemon)",
     t: "pokemondb",
@@ -82909,7 +82900,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.pokepedia.fr",
-    r: 3,
+    r: 38,
     s: "Pokepedia",
     sc: "Games (Pokemon)",
     t: "pokepedia",
@@ -82918,7 +82909,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.pokewiki.de",
-    r: 13,
+    r: 174,
     s: "Pok\u00e9Wiki",
     sc: "Games (Pokemon)",
     t: "pokewiki",
@@ -82954,7 +82945,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.politico.com",
-    r: 30,
+    r: 12,
     s: "Politico",
     sc: "Newspaper",
     t: "politico",
@@ -83026,7 +83017,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.polygon.com",
-    r: 31,
+    r: 9,
     s: "Polygon ",
     sc: "Games (general)",
     t: "polygon",
@@ -83044,7 +83035,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "poly.google.com",
-    r: 0,
+    r: 4,
     s: "Poly",
     sc: "Tools",
     t: "poly",
@@ -83080,7 +83071,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.pond5.com",
-    r: 3,
+    r: 0,
     s: "Pond5",
     sc: "General",
     t: "pond5",
@@ -83089,7 +83080,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "en.pons.com",
-    r: 80,
+    r: 5,
     s: "Pons",
     sc: "Tools",
     t: "ponsdeen",
@@ -83107,7 +83098,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.pons.com",
-    r: 15,
+    r: 14,
     s: "Pons de<>fr",
     sc: "Reference (words)",
     t: "ponsdefr",
@@ -83125,7 +83116,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "de.pons.com",
-    r: 17,
+    r: 0,
     s: "Pons Online-W\u00f6rterbuch Latein",
     sc: "Tools",
     t: "ponsdela",
@@ -83143,7 +83134,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.pons.com",
-    r: 28,
+    r: 18,
     s: "Pons",
     sc: "Learning",
     t: "ponsde",
@@ -83249,7 +83240,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "en.pons.com",
-    r: 53,
+    r: 24,
     s: "pons.eu",
     sc: "Tools",
     t: "pons",
@@ -83285,7 +83276,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "incendar.com",
-    r: 14,
+    r: 4,
     s: "Incendar.com",
     sc: "TV",
     t: "pop",
@@ -83312,7 +83303,7 @@ export const bangs = [
   {
     c: "News",
     d: "prensaobrera.com",
-    r: 0,
+    r: 5,
     s: "Prensa Obrera",
     sc: "Newspaper",
     t: "po",
@@ -83330,7 +83321,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.popsike.com",
-    r: 3,
+    r: 0,
     s: "Popsike",
     sc: "Music",
     t: "popsike",
@@ -83339,7 +83330,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "porkbun.com",
-    r: 7,
+    r: 13,
     s: "porkbun",
     sc: "Tech (domains)",
     t: "porkbun",
@@ -83357,7 +83348,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sjp.pwn.pl",
-    r: 8,
+    r: 0,
     s: "Poradnia J\u0119zyka Polskiego",
     sc: "Learning",
     t: "por",
@@ -83420,7 +83411,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.iana.org",
-    r: 3,
+    r: 0,
     s: "IANA Service Name and Transport Protocol Port Number Registry",
     sc: "Sysadmin (network)",
     t: "port",
@@ -83456,7 +83447,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pubs.opengroup.org",
-    r: 82,
+    r: 34,
     s: "The Open Group",
     sc: "Sysadmin (man)",
     t: "posix",
@@ -83519,7 +83510,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.postgresql.org",
-    r: 25,
+    r: 23,
     s: "Postgres",
     sc: "Sysadmin",
     t: "postgres",
@@ -83627,7 +83618,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pouet.net",
-    r: 12,
+    r: 6,
     s: "Pouet",
     sc: "Downloads (software)",
     t: "pouet",
@@ -83645,7 +83636,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.powells.com",
-    r: 8,
+    r: 0,
     s: "Powells",
     sc: "Online",
     t: "powells",
@@ -83681,7 +83672,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.powerthesaurus.org",
-    r: 30,
+    r: 25,
     s: "Power Thesaurus ",
     sc: "Reference (words)",
     t: "powt",
@@ -83699,7 +83690,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "launchpad.net",
-    r: 3,
+    r: 0,
     s: "Personal Package Archives for Ubuntu",
     sc: "Libraries/Frameworks",
     t: "ppa",
@@ -83708,7 +83699,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "codegolf.stackexchange.com",
-    r: 38,
+    r: 14,
     s: "Programming Puzzles & Code Golf Stack Exchange",
     sc: "Programming",
     t: "ppcg",
@@ -83735,7 +83726,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "papago.naver.com",
-    r: 51,
+    r: 24,
     s: "Naver Papago",
     sc: "General",
     t: "ppg",
@@ -83753,7 +83744,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.pinterest.com",
-    r: 1254,
+    r: 1526,
     s: "Pinterest",
     sc: "Images",
     t: "p",
@@ -83789,7 +83780,7 @@ export const bangs = [
   {
     c: "News",
     d: "passapalavra.info",
-    r: 16,
+    r: 12,
     s: "Passa Palavra",
     sc: "Magazine",
     t: "pp",
@@ -83816,7 +83807,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pr0gramm.com",
-    r: 181,
+    r: 131,
     s: "Pr0gramm",
     sc: "Misc",
     t: "pr0",
@@ -83870,7 +83861,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.protondb.com",
-    r: 16,
+    r: 13,
     s: "ProtonDB",
     sc: "Games (general)",
     t: "prdb",
@@ -83879,7 +83870,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.prdl.org",
-    r: 14,
+    r: 4,
     s: "The Post-Reformation Digital Library",
     sc: "Academic",
     t: "prdl",
@@ -83933,7 +83924,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.prestoclassical.co.uk",
-    r: 14,
+    r: 10,
     s: "Presto Classical",
     sc: "Online",
     t: "presto",
@@ -83978,7 +83969,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.priberam.pt",
-    r: 123,
+    r: 150,
     s: "Priberam",
     sc: "Docs",
     t: "priberam",
@@ -84005,7 +83996,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.price.com.hk",
-    r: 8,
+    r: 13,
     s: "Price.com.hk",
     sc: "Online (deals)",
     t: "pricehk",
@@ -84032,7 +84023,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.pricerunner.se",
-    r: 3,
+    r: 4,
     s: "PriceRunner",
     sc: "Services",
     t: "pricerunner",
@@ -84041,7 +84032,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.pricerunner.dk",
-    r: 13,
+    r: 10,
     s: "Pricerunner",
     sc: "Online (deals)",
     t: "pricerun",
@@ -84050,7 +84041,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "pricespy.co.nz",
-    r: 3,
+    r: 15,
     s: "pricespy.co.nz",
     sc: "Online (deals)",
     t: "pricespy",
@@ -84059,7 +84050,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "tweakers.net",
-    r: 28,
+    r: 44,
     s: "Tweakers Pricewatch",
     sc: "Tech",
     t: "pricewatch",
@@ -84095,7 +84086,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.amazon.com",
-    r: 9,
+    r: 10,
     s: "Amazon Prime Video",
     sc: "Movies",
     t: "primevideo",
@@ -84185,7 +84176,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.prisjakt.nu",
-    r: 81,
+    r: 59,
     s: "Prisjakt",
     sc: "Services",
     t: "prisjakt",
@@ -84194,7 +84185,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.prisjakt.nu",
-    r: 0,
+    r: 6,
     s: "Prisjakt",
     sc: "Online",
     t: "pris",
@@ -84203,7 +84194,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.reddit.com",
-    r: 0,
+    r: 8,
     s: "r/privacy Subreddit",
     sc: "Blogs",
     t: "privacy",
@@ -84293,7 +84284,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.producthunt.com",
-    r: 0,
+    r: 22,
     s: "Product Hunt",
     sc: "Startups",
     t: "producthunt",
@@ -84302,7 +84293,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.proff.no",
-    r: 7,
+    r: 5,
     s: "Proff",
     sc: "Companies",
     t: "proff",
@@ -84329,7 +84320,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.progarchives.com",
-    r: 4,
+    r: 0,
     s: "Prog Archives",
     sc: "Audio",
     t: "progarchives",
@@ -84383,7 +84374,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.progarchives.com",
-    r: 10,
+    r: 9,
     s: "progrock archives",
     sc: "Music",
     t: "progrock",
@@ -84419,7 +84410,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "prom.ua",
-    r: 0,
+    r: 4,
     s: "Prom",
     sc: "Online (marketplace)",
     t: "prom",
@@ -84446,7 +84437,7 @@ export const bangs = [
   {
     c: "Research",
     d: "proofwiki.org",
-    r: 4,
+    r: 5,
     s: "Proof Wiki",
     sc: "Academic (math/cs)",
     t: "proof",
@@ -84464,7 +84455,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "programmers.stackexchange.com",
-    r: 13,
+    r: 0,
     s: "programmers.stackexchange.com",
     sc: "Programming",
     t: "pro",
@@ -84473,7 +84464,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.proshop.dk",
-    r: 6,
+    r: 0,
     s: "Proshop",
     sc: "Tech",
     t: "proshop",
@@ -84518,7 +84509,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.protondb.com",
-    r: 730,
+    r: 785,
     s: "ProtonDB",
     sc: "Games (general)",
     t: "protondb",
@@ -84527,7 +84518,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.protondb.com",
-    r: 193,
+    r: 251,
     s: "https://www.protondb.com/",
     sc: "Games (general)",
     t: "proton",
@@ -84536,7 +84527,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.protonmail.com",
-    r: 411,
+    r: 590,
     s: "ProtonMail",
     sc: "Search",
     t: "protonmail",
@@ -84581,7 +84572,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ar.prvademecum.com",
-    r: 10,
+    r: 11,
     s: "PR Vademecum Argentina",
     sc: "Health",
     t: "pr",
@@ -84590,7 +84581,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.prusaprinters.org",
-    r: 14,
+    r: 18,
     s: "Prusa Printers",
     sc: "Downloads",
     t: "prusa",
@@ -84599,7 +84590,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "palmettostatearmory.com",
-    r: 5,
+    r: 4,
     s: "Palmetto State Armory",
     sc: "Big box/department",
     t: "psa",
@@ -84644,7 +84635,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.powershellgallery.com",
-    r: 0,
+    r: 3,
     s: "PowerShell Gallery",
     sc: "Languages (other)",
     t: "psg",
@@ -84698,7 +84689,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.microsoft.com",
-    r: 0,
+    r: 4,
     s: "PowerShell Module Browser",
     sc: "Languages (other)",
     t: "psmb",
@@ -84707,7 +84698,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "store.playstation.com",
-    r: 14,
+    r: 22,
     s: "PlayStation Store Deutschland",
     sc: "Online",
     t: "psnde",
@@ -84743,7 +84734,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "psnprofiles.com",
-    r: 34,
+    r: 31,
     s: "PSN Profiles",
     sc: "Games (general)",
     t: "psnprofiles",
@@ -84770,7 +84761,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.psoriasis-netz.de",
-    r: 3,
+    r: 0,
     s: "Psoriasis-Netz",
     sc: "Health",
     t: "pso",
@@ -84788,7 +84779,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.playstation.com",
-    r: 15,
+    r: 14,
     s: "Playstation",
     sc: "Tech",
     t: "ps",
@@ -84797,7 +84788,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "psprices.com",
-    r: 3,
+    r: 4,
     s: "PSPrices",
     sc: "Games (general)",
     t: "psprices",
@@ -84806,7 +84797,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.postgresql.org",
-    r: 34,
+    r: 29,
     s: "PostgreSQL (Docs)",
     sc: "Sysadmin",
     t: "psql",
@@ -84815,7 +84806,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "store.playstation.com",
-    r: 3,
+    r: 15,
     s: "PlayStation Store",
     sc: "Games (general)",
     t: "pss",
@@ -84869,7 +84860,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.psychologytoday.com",
-    r: 0,
+    r: 4,
     s: "https://psychologytoday.com",
     sc: "Blogs (intl)",
     t: "psych22",
@@ -84878,7 +84869,7 @@ export const bangs = [
   {
     c: "Research",
     d: "psychiatry.org",
-    r: 0,
+    r: 3,
     s: "American Psychiatric Association",
     sc: "Health",
     t: "psych",
@@ -84887,7 +84878,7 @@ export const bangs = [
   {
     c: "Research",
     d: "psychonautwiki.org",
-    r: 6,
+    r: 4,
     s: "PsychonautWiki",
     sc: "Reference (science)",
     t: "psychonautwiki",
@@ -84896,7 +84887,7 @@ export const bangs = [
   {
     c: "Research",
     d: "psychonautwiki.org",
-    r: 134,
+    r: 61,
     s: "PsychonautWiki",
     sc: "Reference",
     t: "psy",
@@ -84914,7 +84905,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pkmncards.com",
-    r: 23,
+    r: 27,
     s: "PkmnCards",
     sc: "Games (Pokemon)",
     t: "ptcg",
@@ -84923,7 +84914,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 34,
+    r: 43,
     s: "Google Translate - pt-en",
     sc: "Google",
     t: "pten",
@@ -84959,7 +84950,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.protondb.com",
-    r: 136,
+    r: 140,
     s: "ProtonDB",
     sc: "Games (general)",
     t: "ptn",
@@ -84968,7 +84959,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.powerthesaurus.org",
-    r: 160,
+    r: 230,
     s: "Power Thesaurus ",
     sc: "Reference (words)",
     t: "pt",
@@ -84977,7 +84968,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.protoolreviews.com",
-    r: 0,
+    r: 4,
     s: "Pro Tool Reviews",
     sc: "Topical",
     t: "ptr",
@@ -84986,7 +84977,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.ptt.cc",
-    r: 67,
+    r: 89,
     s: "PTT",
     sc: "Forum",
     t: "ptt",
@@ -84995,7 +84986,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "peer.tube",
-    r: 4,
+    r: 0,
     s: "PeerTube",
     sc: "Video",
     t: "ptube",
@@ -85013,7 +85004,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 8,
+    r: 15,
     s: "PubChem",
     sc: "Reference (science)",
     t: "pubchem",
@@ -85022,7 +85013,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pub.dev",
-    r: 187,
+    r: 60,
     s: "pub.dev",
     sc: "Languages (other)",
     t: "pubdev",
@@ -85085,7 +85076,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.publix.com",
-    r: 4,
+    r: 3,
     s: "Publix",
     sc: "Big box/department",
     t: "publix",
@@ -85094,7 +85085,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 332,
+    r: 206,
     s: "PubMed",
     sc: "Health",
     t: "pubmed",
@@ -85103,7 +85094,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 68,
+    r: 36,
     s: "Pubmed",
     sc: "Health",
     t: "pub",
@@ -85166,7 +85157,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "forge.puppetlabs.com",
-    r: 28,
+    r: 0,
     s: "Puppet Forge",
     sc: "Sysadmin",
     t: "puppet",
@@ -85175,7 +85166,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.puppet.com",
-    r: 5,
+    r: 0,
     s: "Puppet Docs",
     sc: "Sysadmin",
     t: "puptype",
@@ -85202,7 +85193,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "eshiponline.purolator.com",
-    r: 3,
+    r: 0,
     s: "Purolator shipment tracking",
     sc: "Tracking",
     t: "purolator",
@@ -85220,7 +85211,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pursuit.purescript.org",
-    r: 17,
+    r: 0,
     s: "Pursuit",
     sc: "Programming",
     t: "purs",
@@ -85229,7 +85220,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pursuit.purescript.org",
-    r: 0,
+    r: 15,
     s: "Pursuit",
     sc: "Languages (other)",
     t: "pursuit",
@@ -85247,7 +85238,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "puzzling.stackexchange.com",
-    r: 66,
+    r: 58,
     s: "Puzzling",
     sc: "Social",
     t: "puzzse",
@@ -85256,7 +85247,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.primevideo.com",
-    r: 33,
+    r: 32,
     s: "Prime Video",
     sc: "Video",
     t: "pv",
@@ -85265,7 +85256,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "plantsvszombies.wikia.com",
-    r: 0,
+    r: 5,
     s: "Plants vs. Zombies Wiki",
     sc: "Games (general)",
     t: "pvz",
@@ -85283,7 +85274,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.pokewiki.de",
-    r: 18,
+    r: 0,
     s: "http://www.pokewiki.de/",
     sc: "Games (Pokemon)",
     t: "pwde",
@@ -85301,7 +85292,7 @@ export const bangs = [
   {
     c: "Research",
     d: "psychonautwiki.org",
-    r: 7,
+    r: 0,
     s: "PsychonautWiki",
     sc: "Reference",
     t: "pwiki",
@@ -85328,7 +85319,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.pricewatch.com",
-    r: 19,
+    r: 10,
     s: "Pricewatch",
     sc: "Tech",
     t: "pw",
@@ -85337,7 +85328,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "programadorwebvalencia.com",
-    r: 6,
+    r: 0,
     s: "Programador Web Valencia",
     sc: "Blogs",
     t: "pwv",
@@ -85373,7 +85364,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "pixabay.com",
-    r: 17,
+    r: 7,
     s: "Pixabay",
     sc: "Images",
     t: "px",
@@ -85409,7 +85400,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.python.org",
-    r: 12,
+    r: 0,
     s: "Docs Python 2",
     sc: "Languages (python)",
     t: "py2",
@@ -85454,7 +85445,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.python.org",
-    r: 7,
+    r: 6,
     s: "Python 3 Docs",
     sc: "Languages (python)",
     t: "py3k",
@@ -85463,7 +85454,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.python.org",
-    r: 281,
+    r: 217,
     s: "Python3 Documentation",
     sc: "Languages (python)",
     t: "py3",
@@ -85517,7 +85508,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pypi.org",
-    r: 15,
+    r: 9,
     s: "pypi.org",
     sc: "Languages (python)",
     t: "pypa",
@@ -85526,7 +85517,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "pypi.org",
-    r: 1599,
+    r: 1540,
     s: "PyPI",
     sc: "Languages (python)",
     t: "pypi",
@@ -85535,7 +85526,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.python.org",
-    r: 1247,
+    r: 1227,
     s: "Python",
     sc: "Languages (python)",
     t: "py",
@@ -85589,7 +85580,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "spark.apache.org",
-    r: 24,
+    r: 8,
     s: "PySpark documentation",
     sc: "Languages (python)",
     t: "pyspark",
@@ -85652,7 +85643,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.python.org",
-    r: 81,
+    r: 42,
     s: "Python 3",
     sc: "Languages (python)",
     t: "python3",
@@ -85670,7 +85661,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.python.org",
-    r: 974,
+    r: 822,
     s: "Python",
     sc: "Languages (python)",
     t: "python",
@@ -85679,7 +85670,7 @@ export const bangs = [
   {
     c: "Research",
     d: "pytorch.org",
-    r: 21,
+    r: 22,
     s: "pytorch.org",
     sc: "Academic (math/cs)",
     t: "pytorch",
@@ -85697,7 +85688,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "pzwiki.net",
-    r: 0,
+    r: 5,
     s: "Project Zomboid Wiki",
     sc: "Games (specific)",
     t: "pzw",
@@ -85715,7 +85706,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "qaz.wtf",
-    r: 3,
+    r: 0,
     s: "Unicode Text Converter",
     sc: "Tools",
     t: "qaz",
@@ -85850,7 +85841,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.qwant.com",
-    r: 4,
+    r: 0,
     s: "Qwant music search",
     sc: "Search (non-US)",
     t: "qm",
@@ -85859,7 +85850,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.qobuz.com",
-    r: 182,
+    r: 94,
     s: "Qobuz",
     sc: "Music",
     t: "qobuz",
@@ -85895,7 +85886,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.quora.com",
-    r: 288,
+    r: 279,
     s: "Quora",
     sc: "Search",
     t: "q",
@@ -85913,7 +85904,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "api.qrserver.com",
-    r: 619,
+    r: 530,
     s: "QR Code Search",
     sc: "Google",
     t: "qr",
@@ -85922,7 +85913,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.qrz.com",
-    r: 126,
+    r: 45,
     s: "QRZ.com",
     sc: "Misc",
     t: "qrz",
@@ -85958,7 +85949,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.ssllabs.com",
-    r: 0,
+    r: 11,
     s: "Qualys SSL Labs",
     sc: "Domains",
     t: "qssl",
@@ -85994,7 +85985,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.qt.io",
-    r: 4,
+    r: 0,
     s: "Qt 5 Documentation",
     sc: "Programming",
     t: "qt5",
@@ -86003,7 +85994,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.qt.io",
-    r: 58,
+    r: 17,
     s: "Qt Documentation",
     sc: "Programming",
     t: "qt",
@@ -86021,7 +86012,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.qualtrics.com",
-    r: 5,
+    r: 0,
     s: "Qualtrics Support",
     sc: "Academic",
     t: "qual",
@@ -86057,7 +86048,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "quay.io",
-    r: 13,
+    r: 0,
     s: "Quay",
     sc: "Programming",
     t: "quay",
@@ -86111,7 +86102,7 @@ export const bangs = [
   {
     c: "Research",
     d: "quizlet.com",
-    r: 9,
+    r: 3,
     s: "Quizlet",
     sc: "Academic",
     t: "quizlet",
@@ -86138,7 +86129,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.quora.com",
-    r: 6,
+    r: 3,
     s: "Quora",
     sc: "Social",
     t: "quora",
@@ -86165,7 +86156,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.quotev.com",
-    r: 0,
+    r: 5,
     s: "Quotev",
     sc: "Blogs (intl)",
     t: "quotev",
@@ -86201,7 +86192,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.qvc.com",
-    r: 0,
+    r: 6,
     s: "QVC",
     sc: "Online",
     t: "qvc",
@@ -86210,7 +86201,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.qwant.com",
-    r: 36,
+    r: 33,
     s: "Qwant",
     sc: "Search",
     t: "qwant",
@@ -86264,7 +86255,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.qwant.com",
-    r: 116,
+    r: 123,
     s: "Qwant",
     sc: "Search",
     t: "qw",
@@ -86273,7 +86264,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.qwant.com",
-    r: 5,
+    r: 0,
     s: "Qwant Social",
     sc: "Social (intl)",
     t: "qws",
@@ -86300,7 +86291,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.qwant.com",
-    r: 47,
+    r: 25,
     s: "Qwant web",
     sc: "Search",
     t: "qww",
@@ -86318,7 +86309,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.rakuten.co.jp",
-    r: 15,
+    r: 24,
     s: "Rakuten Ichiba",
     sc: "Online (marketplace)",
     t: "r10",
@@ -86327,7 +86318,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.rome2rio.com",
-    r: 3,
+    r: 0,
     s: "Rome2rio",
     sc: "Travel",
     t: "r2r",
@@ -86381,7 +86372,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.racket-lang.org",
-    r: 8,
+    r: 24,
     s: "Racket",
     sc: "Languages (other)",
     t: "racket",
@@ -86426,7 +86417,7 @@ export const bangs = [
   {
     c: "Research",
     d: "radiopaedia.org",
-    r: 3,
+    r: 0,
     s: "https://radiopaedia.org/",
     sc: "Health",
     t: "radio",
@@ -86444,7 +86435,7 @@ export const bangs = [
   {
     c: "Research",
     d: "radiopaedia.org",
-    r: 6,
+    r: 0,
     s: "Radiopaedia.org",
     sc: "Reference (science)",
     t: "radiopaedia",
@@ -86471,7 +86462,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "radiopaedia.org",
-    r: 49,
+    r: 43,
     s: "Radiopaedia",
     sc: "General",
     t: "rad",
@@ -86480,7 +86471,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dle.rae.es",
-    r: 1509,
+    r: 1855,
     s: "RAE",
     sc: "Tools",
     t: "rae",
@@ -86498,7 +86489,7 @@ export const bangs = [
   {
     c: "Research",
     d: "academia.gal",
-    r: 32,
+    r: 20,
     s: "Real Academia Galega",
     sc: "Academic",
     t: "rag",
@@ -86543,7 +86534,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 24,
+    r: 14,
     s: "Ruby on Rails Guides",
     sc: "Languages (ruby)",
     t: "railsguides",
@@ -86552,7 +86543,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "api.rubyonrails.org",
-    r: 113,
+    r: 80,
     s: "Rails API",
     sc: "Languages (ruby)",
     t: "rails",
@@ -86561,7 +86552,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.raiplay.it",
-    r: 8,
+    r: 0,
     s: "RaiPlay",
     sc: "Video",
     t: "rai",
@@ -86588,7 +86579,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "search.rakuten.co.jp",
-    r: 85,
+    r: 147,
     s: "Rakuten",
     sc: "Online (marketplace)",
     t: "rakuten",
@@ -86642,7 +86633,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.random.org",
-    r: 16,
+    r: 15,
     s: "RANDOM.ORG",
     sc: "Tools",
     t: "random",
@@ -86687,7 +86678,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "genius.com",
-    r: 23,
+    r: 25,
     s: "rapgenius",
     sc: "Audio",
     t: "rap",
@@ -86696,7 +86687,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.residentadvisor.net",
-    r: 12,
+    r: 7,
     s: "Resident Advisor",
     sc: "Misc",
     t: "ra",
@@ -86732,7 +86723,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ratebeer.com",
-    r: 3,
+    r: 0,
     s: "RateBeer",
     sc: "Food",
     t: "ratebeer",
@@ -86768,7 +86759,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "rateyourmusic.com",
-    r: 15,
+    r: 70,
     s: "Rate Your Music",
     sc: "Music",
     t: "rateyourmusic",
@@ -86786,7 +86777,7 @@ export const bangs = [
   {
     c: "Research",
     d: "rationalwiki.org",
-    r: 58,
+    r: 82,
     s: "RationalWiki",
     sc: "Reference",
     t: "rationalwiki",
@@ -86804,7 +86795,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ratp.fr",
-    r: 0,
+    r: 3,
     s: "RATP",
     sc: "Travel",
     t: "ratp",
@@ -86813,7 +86804,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ravelry.com",
-    r: 24,
+    r: 30,
     s: "Ravelry",
     sc: "Reference (fun)",
     t: "ravelry",
@@ -86876,7 +86867,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.rbcroyalbank.com",
-    r: 3,
+    r: 6,
     s: "RBC Royal Bank",
     sc: "Search (non-US)",
     t: "rbc",
@@ -86885,7 +86876,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "rubydocs.org",
-    r: 6,
+    r: 4,
     s: "Current ruby docs",
     sc: "Programming",
     t: "rb",
@@ -86894,7 +86885,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.dnswatch.info",
-    r: 3,
+    r: 0,
     s: "RBL Lookup",
     sc: "Tools",
     t: "rbl",
@@ -86912,7 +86903,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.roblox.com",
-    r: 138,
+    r: 168,
     s: "Roblox",
     sc: "Games (general)",
     t: "rblx",
@@ -86966,7 +86957,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "rbt.asia",
-    r: 7,
+    r: 0,
     s: "rbt.asia - /g/",
     sc: "Forum",
     t: "rbtg",
@@ -86984,7 +86975,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "rbt.asia",
-    r: 170,
+    r: 99,
     s: "RebeccaBlackTech",
     sc: "Tools",
     t: "rbt",
@@ -87002,7 +86993,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "devforum.roblox.com",
-    r: 5,
+    r: 0,
     s: "Roblox Developer Forum",
     sc: "Forum",
     t: "rbxdev",
@@ -87020,7 +87011,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "rcdb.com",
-    r: 20,
+    r: 10,
     s: "Roller Coaster Database",
     sc: "Misc",
     t: "rcdb",
@@ -87038,7 +87029,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "context.reverso.net",
-    r: 4,
+    r: 8,
     s: "Reverso Context English-Polish",
     sc: "Tools",
     t: "rcenpl",
@@ -87047,7 +87038,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "context.reverso.net",
-    r: 8,
+    r: 7,
     s: "Reverso Context English-Russian",
     sc: "General",
     t: "rcenru",
@@ -87146,7 +87137,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "context.reverso.net",
-    r: 10,
+    r: 9,
     s: "Reverso Context Polish-English",
     sc: "Tools",
     t: "rcplen",
@@ -87164,7 +87155,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.realclearpolitics.com",
-    r: 23,
+    r: 11,
     s: "RealClear Politics",
     sc: "Specialty",
     t: "rcp",
@@ -87173,7 +87164,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.readerscave.com",
-    r: 3,
+    r: 6,
     s: "Reader's Cave",
     sc: "Blogs (intl)",
     t: "rc",
@@ -87200,7 +87191,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.realcanadiansuperstore.ca",
-    r: 9,
+    r: 7,
     s: "Real Canadian Superstore",
     sc: "Big box/department",
     t: "rcss",
@@ -87290,7 +87281,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 1359,
+    r: 1298,
     s: "Subreddit on Reddit",
     sc: "Social news/links",
     t: "rds",
@@ -87380,7 +87371,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.realtor.com",
-    r: 7,
+    r: 10,
     s: "Realtor.com",
     sc: "Real Estate",
     t: "realtor",
@@ -87497,7 +87488,7 @@ export const bangs = [
   {
     c: "Research",
     d: "allrecipes.com",
-    r: 3,
+    r: 0,
     s: "Allrecipes",
     sc: "Food",
     t: "recipe",
@@ -87542,7 +87533,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.reclameaqui.com.br",
-    r: 6,
+    r: 0,
     s: "Reclame Aqui",
     sc: "Services",
     t: "reclame",
@@ -87560,7 +87551,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.watchrecon.com",
-    r: 0,
+    r: 10,
     s: "Watch Recon",
     sc: "Online",
     t: "recon",
@@ -87614,7 +87605,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "redbot.org",
-    r: 5,
+    r: 42,
     s: "REDbot",
     sc: "Tools (URLs)",
     t: "redbot",
@@ -87632,7 +87623,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.redbubble.com",
-    r: 10,
+    r: 12,
     s: "RedBubble",
     sc: "Online",
     t: "redbubble",
@@ -87659,7 +87650,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "old.reddit.com",
-    r: 68,
+    r: 91,
     s: "Reddit (old version)",
     sc: "Social",
     t: "redditold",
@@ -87668,7 +87659,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.reddit.com",
-    r: 6065,
+    r: 5532,
     s: "Reddit",
     sc: "Aggregators",
     t: "reddit",
@@ -87677,7 +87668,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 1443,
+    r: 1692,
     s: "Reddit subreddit",
     sc: "Social",
     t: "reddits",
@@ -87713,7 +87704,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.redfin.com",
-    r: 16,
+    r: 10,
     s: "RedFin",
     sc: "Search",
     t: "redfin",
@@ -87740,7 +87731,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "redis.io",
-    r: 0,
+    r: 6,
     s: "Redis Command Reference",
     sc: "Libraries/Frameworks",
     t: "redis",
@@ -87785,7 +87776,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "reelgood.com",
-    r: 45,
+    r: 50,
     s: "Reelgood",
     sc: "Video",
     t: "reelgood",
@@ -87812,7 +87803,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dictionary.reverso.net",
-    r: 6,
+    r: 7,
     s: "Reverso English - French",
     sc: "Tools",
     t: "reenfr",
@@ -87893,7 +87884,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.reference.com",
-    r: 6,
+    r: 0,
     s: "Reference.com",
     sc: "Reference",
     t: "ref",
@@ -87929,7 +87920,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dictionary.reverso.net",
-    r: 0,
+    r: 5,
     s: "Reverso French - Definition",
     sc: "Tools",
     t: "refr",
@@ -87992,7 +87983,7 @@ export const bangs = [
   {
     c: "News",
     d: "search.theregister.co.uk",
-    r: 6,
+    r: 0,
     s: "The Register",
     sc: "Specialty",
     t: "register",
@@ -88010,7 +88001,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "secure.reichelt.de",
-    r: 4,
+    r: 9,
     s: "Reichelt",
     sc: "Online",
     t: "reichelt",
@@ -88019,7 +88010,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.rei.com",
-    r: 41,
+    r: 57,
     s: "REI",
     sc: "Big box/department",
     t: "rei",
@@ -88082,7 +88073,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "remywiki.com",
-    r: 26,
+    r: 28,
     s: "https://remywiki.com",
     sc: "Games (general)",
     t: "remy",
@@ -88091,7 +88082,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "remywiki.com",
-    r: 15,
+    r: 18,
     s: "RemyWiki",
     sc: "Games (specific)",
     t: "remywiki",
@@ -88109,7 +88100,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.reverso.net",
-    r: 3,
+    r: 4,
     s: "Reverso Dictionary",
     sc: "Reference (words)",
     t: "ren",
@@ -88163,7 +88154,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "repology.org",
-    r: 20,
+    r: 35,
     s: "Repology",
     sc: "Downloads (code)",
     t: "repology",
@@ -88181,7 +88172,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.replacements.com",
-    r: 0,
+    r: 3,
     s: "Replacements.com",
     sc: "Online",
     t: "rep",
@@ -88226,7 +88217,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.researchgate.net",
-    r: 7,
+    r: 0,
     s: "ResearchGate",
     sc: "Academic",
     t: "researchgate",
@@ -88235,7 +88226,7 @@ export const bangs = [
   {
     c: "Research",
     d: "journals.plos.org",
-    r: 5,
+    r: 26,
     s: "PLOS",
     sc: "Academic",
     t: "research",
@@ -88352,7 +88343,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.reuters.com",
-    r: 5,
+    r: 10,
     s: "Reuters",
     sc: "International",
     t: "reuq",
@@ -88361,7 +88352,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.reddit.com",
-    r: 21,
+    r: 18,
     s: "Reddit User",
     sc: "General",
     t: "reu",
@@ -88370,7 +88361,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.reuters.com",
-    r: 39,
+    r: 136,
     s: "Reuters",
     sc: "International",
     t: "reuters",
@@ -88397,7 +88388,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.onelook.com",
-    r: 20,
+    r: 12,
     s: "Onelook Reverse Dictionary",
     sc: "Reference (words)",
     t: "revd",
@@ -88415,7 +88406,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.reverso.net",
-    r: 12,
+    r: 5,
     s: "Reverso English-French",
     sc: "Learning (intl)",
     t: "revef",
@@ -88433,7 +88424,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "context.reverso.net",
-    r: 6,
+    r: 9,
     s: "Reverso Context",
     sc: "Tools",
     t: "revenit",
@@ -88451,7 +88442,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "reverb.com",
-    r: 199,
+    r: 315,
     s: "Reverb",
     sc: "Online",
     t: "reverb",
@@ -88460,7 +88451,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.reverso.net",
-    r: 0,
+    r: 5,
     s: "Dictionary Reverso",
     sc: "Learning",
     t: "reversoenfr",
@@ -88487,7 +88478,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionary.reverso.net",
-    r: 26,
+    r: 13,
     s: "Reverso",
     sc: "Reference (words)",
     t: "reverso",
@@ -88523,7 +88514,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "reviewmeta.com",
-    r: 5,
+    r: 0,
     s: "ReviewMeta",
     sc: "Online",
     t: "reviewmeta",
@@ -88541,7 +88532,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "context.reverso.net",
-    r: 6,
+    r: 29,
     s: "Reverso Context",
     sc: "Tools",
     t: "reviten",
@@ -88568,7 +88559,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reta-vortaro.de",
-    r: 10,
+    r: 9,
     s: "Reta Vortaro",
     sc: "Search",
     t: "revo",
@@ -88577,7 +88568,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.revzilla.com",
-    r: 3,
+    r: 0,
     s: "RevZilla",
     sc: "Online",
     t: "revzilla",
@@ -88613,7 +88604,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "tools.ietf.org",
-    r: 97,
+    r: 151,
     s: "IETF RFC",
     sc: "Programming",
     t: "rfc",
@@ -88658,7 +88649,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.reasonablefaith.org",
-    r: 0,
+    r: 5,
     s: "Reasonable Faith",
     sc: "Reference (religion)",
     t: "rf",
@@ -88667,7 +88658,7 @@ export const bangs = [
   {
     c: "Research",
     d: "dictionnaire.reverso.net",
-    r: 4,
+    r: 9,
     s: "Reverso French Definition",
     sc: "Reference (words intl)",
     t: "rfr",
@@ -88676,7 +88667,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "redfoxsanakirja.fi",
-    r: 7,
+    r: 6,
     s: "RedFox Sanakirja",
     sc: "General",
     t: "rfsanae",
@@ -88703,7 +88694,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.researchgate.net",
-    r: 6,
+    r: 0,
     s: "ResearchGate",
     sc: "Academic",
     t: "rgate",
@@ -88712,7 +88703,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "images.google.com",
-    r: 27,
+    r: 42,
     s: "Google Reverse Image Search",
     sc: "Images",
     t: "rgi",
@@ -88730,7 +88721,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "rapgenius.com",
-    r: 190,
+    r: 215,
     s: "Rap Genius",
     sc: "Music",
     t: "rg",
@@ -88766,7 +88757,7 @@ export const bangs = [
   {
     c: "News",
     d: "robinhood.com",
-    r: 7,
+    r: 0,
     s: "Robin Hood",
     sc: "Business",
     t: "rh",
@@ -88811,7 +88802,7 @@ export const bangs = [
   {
     c: "Research",
     d: "rhymebrain.com",
-    r: 0,
+    r: 5,
     s: "RhymeBrain",
     sc: "Reference (words)",
     t: "rhymebrain",
@@ -88820,7 +88811,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.rhymezone.com",
-    r: 59,
+    r: 26,
     s: "RhymeZone",
     sc: "Reference (words)",
     t: "rhyme",
@@ -88838,7 +88829,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.ricardo.ch",
-    r: 44,
+    r: 85,
     s: "Ricardo",
     sc: "Online (marketplace)",
     t: "ricardo",
@@ -88856,7 +88847,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "ridibooks.com",
-    r: 6,
+    r: 10,
     s: "Ridibooks",
     sc: "Online",
     t: "ridi",
@@ -88964,7 +88955,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "rimworldwiki.com",
-    r: 0,
+    r: 44,
     s: "Rimworld Wiki ",
     sc: "Games (general)",
     t: "rimwiki",
@@ -89018,7 +89009,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "stat.ripe.net",
-    r: 10,
+    r: 5,
     s: "RIPEstat - Internet Measurments and Analysis",
     sc: "Sysadmin (network)",
     t: "ripe",
@@ -89054,7 +89045,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "context.reverso.net",
-    r: 5,
+    r: 0,
     s: "Reverso context",
     sc: "Tools",
     t: "riten",
@@ -89117,7 +89108,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.racket-lang.org",
-    r: 5,
+    r: 100,
     s: "racket-lang.org",
     sc: "Languages (racket)",
     t: "rkt",
@@ -89162,7 +89153,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.royalmail.com",
-    r: 0,
+    r: 6,
     s: "Royal mail tracking ID",
     sc: "Tracking",
     t: "rmail",
@@ -89180,7 +89171,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.gurusrom.net",
-    r: 7,
+    r: 3,
     s: "Gurusfirmware",
     sc: "Downloads",
     t: "rm",
@@ -89216,7 +89207,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ratemyprofessors.com",
-    r: 11,
+    r: 24,
     s: "Rate My Professor",
     sc: "Tools",
     t: "rmp",
@@ -89225,7 +89216,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "rimworldwiki.com",
-    r: 0,
+    r: 16,
     s: "Rimworld Wiki",
     sc: "Games (specific)",
     t: "rmw",
@@ -89252,7 +89243,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 6,
+    r: 5,
     s: "DuckDuckGo NL region",
     sc: "Search (DDG)",
     t: "rnl",
@@ -89288,7 +89279,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.admin.ch",
-    r: 3,
+    r: 0,
     s: "admin.ch",
     sc: "Law",
     t: "ro",
@@ -89306,7 +89297,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.roblox.com",
-    r: 4,
+    r: 30,
     s: "Roblox Games",
     sc: "Games (specific)",
     t: "robloxg",
@@ -89333,7 +89324,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.roblox.com",
-    r: 166,
+    r: 159,
     s: "Roblox",
     sc: "Games (specific)",
     t: "roblox",
@@ -89342,7 +89333,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.roblox.com",
-    r: 4,
+    r: 5,
     s: "Roblox users",
     sc: "Games (specific)",
     t: "robloxu",
@@ -89360,7 +89351,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.robtex.com",
-    r: 3,
+    r: 0,
     s: "Robtex",
     sc: "Sysadmin (network)",
     t: "robtex",
@@ -89369,7 +89360,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.rockauto.com",
-    r: 5,
+    r: 0,
     s: "RockAuto",
     sc: "Online",
     t: "rockauto",
@@ -89450,7 +89441,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.roblox.com",
-    r: 0,
+    r: 3,
     s: "ROBLOX Developer",
     sc: "Languages (lua)",
     t: "rodev",
@@ -89486,7 +89477,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.rogerebert.com",
-    r: 5,
+    r: 3,
     s: "Roger Ebert",
     sc: "Movies",
     t: "rogerebert",
@@ -89549,7 +89540,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "old.reddit.com",
-    r: 721,
+    r: 457,
     s: "old reddit design",
     sc: "Social",
     t: "rold",
@@ -89576,7 +89567,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.rollingstone.com",
-    r: 3,
+    r: 0,
     s: "Rolling Stone",
     sc: "Magazine",
     t: "rollingstone",
@@ -89612,7 +89603,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "root.cern.ch",
-    r: 6,
+    r: 5,
     s: "ROOT",
     sc: "Libraries/Frameworks",
     t: "root",
@@ -89621,7 +89612,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "riskofrain2.fandom.com",
-    r: 4,
+    r: 22,
     s: "Risk of Rain 2 Wiki",
     sc: "Games (specific)",
     t: "ror2",
@@ -89702,7 +89693,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.rottentomatoes.com",
-    r: 84,
+    r: 67,
     s: "Rotten Tomatoes",
     sc: "Movies",
     t: "rottentomatoes",
@@ -89711,7 +89702,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.rottentomatoes.com",
-    r: 4,
+    r: 0,
     s: "Rotten Tomato",
     sc: "Movies",
     t: "rottentomato",
@@ -89729,7 +89720,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.de",
-    r: 3,
+    r: 5,
     s: "Google Maps Route",
     sc: "Google",
     t: "route",
@@ -89774,7 +89765,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "rozetka.com.ua",
-    r: 3,
+    r: 17,
     s: "Rozetka",
     sc: "Online",
     t: "rozetka",
@@ -89810,7 +89801,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "rpggeek.com",
-    r: 4,
+    r: 0,
     s: "RPGGeek",
     sc: "Games (general)",
     t: "rpggeek",
@@ -89819,7 +89810,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "rpg.stackexchange.com",
-    r: 3,
+    r: 0,
     s: "StackExchange RPG",
     sc: "Games (offline)",
     t: "rpg",
@@ -89900,7 +89891,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "rpmfind.net",
-    r: 13,
+    r: 4,
     s: "RPMfind.net",
     sc: "Programming",
     t: "rpm",
@@ -89909,7 +89900,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "src.fedoraproject.org",
-    r: 59,
+    r: 13,
     s: "Fedora Package Sources",
     sc: "Sysadmin (Fedora)",
     t: "rpms",
@@ -89918,7 +89909,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.raspberrypi.org",
-    r: 5,
+    r: 4,
     s: "Raspberry Pi",
     sc: "Companies",
     t: "rp",
@@ -89927,7 +89918,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 3,
+    r: 0,
     s: "Subreddit r/privacy",
     sc: "Social news/links",
     t: "rprivacy",
@@ -89936,7 +89927,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.rockpapershotgun.com",
-    r: 19,
+    r: 14,
     s: "Rock, Paper, Shotgun",
     sc: "Games (general)",
     t: "rps",
@@ -89945,7 +89936,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "realpython.com",
-    r: 17,
+    r: 10,
     s: "https://www.realpython.com",
     sc: "Languages (python)",
     t: "rpy",
@@ -89963,7 +89954,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 40882,
+    r: 51444,
     s: "Reddit",
     sc: "Social",
     t: "r",
@@ -89972,7 +89963,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "reprap.org",
-    r: 17,
+    r: 5,
     s: "RepRap",
     sc: "Design",
     t: "rr",
@@ -90044,7 +90035,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "uk.rs-online.com",
-    r: 17,
+    r: 18,
     s: "RS Components",
     sc: "Tech",
     t: "rsc",
@@ -90062,7 +90053,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.rs",
-    r: 230,
+    r: 145,
     s: "docs.rs (rust crate documentation)",
     sc: "Programming",
     t: "rs-docs",
@@ -90071,7 +90062,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.rseek.org",
-    r: 33,
+    r: 21,
     s: "RSeek",
     sc: "Languages (r)",
     t: "rseek",
@@ -90107,7 +90098,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.rockstargames.com",
-    r: 0,
+    r: 7,
     s: "Rockstar Games",
     sc: "Games (specific)",
     t: "rsg",
@@ -90152,7 +90143,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 15,
+    r: 0,
     s: "Reddit ",
     sc: "Social news/links",
     t: "rsn",
@@ -90215,7 +90206,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.rust-lang.org",
-    r: 3,
+    r: 0,
     s: "std library docs for rust",
     sc: "Programming",
     t: "rs-std",
@@ -90233,7 +90224,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "rosettacode.org",
-    r: 0,
+    r: 31,
     s: "Rosetta Code",
     sc: "Programming",
     t: "rstc",
@@ -90242,7 +90233,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "runescape.wiki",
-    r: 464,
+    r: 374,
     s: "The RuneScape Wiki",
     sc: "Games (specific)",
     t: "rs",
@@ -90251,7 +90242,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "reddit.com",
-    r: 1699,
+    r: 1570,
     s: "Reddit Subreddit",
     sc: "Forum",
     t: "rsub",
@@ -90260,7 +90251,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "uk.rs-online.com",
-    r: 19,
+    r: 0,
     s: "RadioSpare UK",
     sc: "Tech",
     t: "rsuk",
@@ -90296,7 +90287,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "runescape.wiki",
-    r: 50,
+    r: 118,
     s: "Runescape Wiki",
     sc: "Games (specific)",
     t: "rswiki",
@@ -90305,7 +90296,7 @@ export const bangs = [
   {
     c: "Research",
     d: "runescape.wiki",
-    r: 40,
+    r: 23,
     s: "RuneScape Wiki",
     sc: "Reference (fun)",
     t: "rsw",
@@ -90323,7 +90314,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.rtbf.be",
-    r: 15,
+    r: 16,
     s: "RTBF Info",
     sc: "Broadcast",
     t: "rtbf",
@@ -90350,7 +90341,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "readthedocs.org",
-    r: 4,
+    r: 3,
     s: "Read the Docs",
     sc: "Programming",
     t: "rtd",
@@ -90377,7 +90368,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "{{{s}}}.rtfd.io",
-    r: 0,
+    r: 5,
     s: "Read the Docs",
     sc: "Programming",
     t: "rtfd",
@@ -90440,7 +90431,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.rtings.com",
-    r: 24,
+    r: 19,
     s: "Rtings.com",
     sc: "Tech",
     t: "rtings",
@@ -90476,7 +90467,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.rottentomatoes.com",
-    r: 2459,
+    r: 2528,
     s: "Rotten Tomatoes",
     sc: "Video",
     t: "rt",
@@ -90485,7 +90476,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.rts.ch",
-    r: 29,
+    r: 23,
     s: "Radio t\u00e9l\u00e9vision suisse",
     sc: "Aggregators",
     t: "rts",
@@ -90494,7 +90485,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.realtimetrains.co.uk",
-    r: 18,
+    r: 10,
     s: "Real Time Trains",
     sc: "Tracking",
     t: "rtt",
@@ -90503,7 +90494,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.rtve.es",
-    r: 0,
+    r: 6,
     s: "Corporaci\u00f3n de Radio y Televisi\u00f3n Espa\u00f1ola",
     sc: "TV",
     t: "rtve",
@@ -90548,7 +90539,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "rubygems.org",
-    r: 143,
+    r: 60,
     s: "RubyGems",
     sc: "Languages (ruby)",
     t: "rubygems",
@@ -90566,7 +90557,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.google.com",
-    r: 26,
+    r: 45,
     s: "Ruby-lang.org",
     sc: "Languages (ruby)",
     t: "ruby",
@@ -90584,7 +90575,7 @@ export const bangs = [
   {
     c: "Research",
     d: "translate.google.com",
-    r: 39,
+    r: 55,
     s: "Google Translate",
     sc: "Reference (words)",
     t: "ruen",
@@ -90638,7 +90629,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "rumble.com",
-    r: 161,
+    r: 134,
     s: "Rumble",
     sc: "Video",
     t: "rumble",
@@ -90647,7 +90638,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "runescape.wiki",
-    r: 9,
+    r: 12,
     s: "Runescape Wiki",
     sc: "Games (specific)",
     t: "runescape",
@@ -90683,7 +90674,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 4,
+    r: 19,
     s: "Reddit Users",
     sc: "Social",
     t: "rusr",
@@ -90701,7 +90692,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.rust-lang.org",
-    r: 151,
+    r: 137,
     s: "RustDocs",
     sc: "Programming",
     t: "rustdoc",
@@ -90710,7 +90701,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.rust-lang.org",
-    r: 30,
+    r: 70,
     s: "The Rust Standard Library Documentation",
     sc: "Programming",
     t: "rustd",
@@ -90728,7 +90719,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.rust-lang.org",
-    r: 67,
+    r: 34,
     s: "Rust Nightly Standard Library Documentation",
     sc: "Languages (other)",
     t: "rustn",
@@ -90746,7 +90737,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.rust-lang.org",
-    r: 3107,
+    r: 2982,
     s: "Rust stdlib docs",
     sc: "Programming",
     t: "rust",
@@ -90755,7 +90746,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.rust-lang.org",
-    r: 19,
+    r: 16,
     s: "Rust standard library API reference",
     sc: "Languages (other)",
     t: "ruststd",
@@ -90791,7 +90782,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "rutube.ru",
-    r: 30,
+    r: 7,
     s: "RuTube",
     sc: "Video",
     t: "rutube",
@@ -90800,7 +90791,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ru.wikipedia.org",
-    r: 9,
+    r: 25,
     s: "Russian Wikipedia (\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f)",
     sc: "Reference",
     t: "ruwiki",
@@ -90845,7 +90836,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.real.video",
-    r: 3,
+    r: 4,
     s: "Real.Video",
     sc: "Video",
     t: "rv",
@@ -90872,7 +90863,7 @@ export const bangs = [
   {
     c: "Research",
     d: "rationalwiki.org",
-    r: 301,
+    r: 146,
     s: "RationalWiki",
     sc: "Reference (religion)",
     t: "rw",
@@ -90926,7 +90917,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "rateyourmusic.com",
-    r: 4,
+    r: 8,
     s: "RateYourMusic Genre",
     sc: "Music",
     t: "ryg",
@@ -90935,7 +90926,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "rateyourmusic.com",
-    r: 39,
+    r: 90,
     s: "Rate Your Music",
     sc: "Movies",
     t: "rymf",
@@ -90944,7 +90935,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "rateyourmusic.com",
-    r: 8,
+    r: 0,
     s: "Rate Your Music genre search",
     sc: "Music",
     t: "rymgenre",
@@ -90953,7 +90944,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "rateyourmusic.com",
-    r: 4028,
+    r: 4527,
     s: "Rate Your Music",
     sc: "Audio",
     t: "rym",
@@ -90971,7 +90962,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "rateyourmusic.com",
-    r: 5,
+    r: 7,
     s: "Rate Your Music (All releases)",
     sc: "Music",
     t: "rymr",
@@ -90989,7 +90980,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.rhymezone.com",
-    r: 45,
+    r: 46,
     s: "RhymeZone",
     sc: "Music (Lyrics)",
     t: "rz",
@@ -91007,7 +90998,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "rozetka.com.ua",
-    r: 0,
+    r: 12,
     s: "Rozetka.com.ua",
     sc: "Online",
     t: "rztk",
@@ -91016,7 +91007,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.semanticscholar.org",
-    r: 56,
+    r: 40,
     s: "Semantic Scholar",
     sc: "Academic",
     t: "s2",
@@ -91151,7 +91142,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.de",
-    r: 5,
+    r: 4,
     s: "Amazon Smiles (Germany)",
     sc: "Online",
     t: "sade",
@@ -91169,7 +91160,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.safaribooksonline.com",
-    r: 3,
+    r: 0,
     s: "Safari Books Online",
     sc: "Books",
     t: "safari",
@@ -91178,7 +91169,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "safebooru.org",
-    r: 14,
+    r: 4,
     s: "Safebooru",
     sc: "Images",
     t: "safebooru",
@@ -91187,7 +91178,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "",
-    r: 14,
+    r: 17,
     s: "DDG Safesearch On",
     sc: "Search (DDG)",
     t: "safe",
@@ -91196,7 +91187,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "",
-    r: 2954,
+    r: 2970,
     s: "Safe search off",
     sc: "Search (DDG)",
     t: "safeoff",
@@ -91205,7 +91196,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "",
-    r: 10,
+    r: 40,
     s: "DDG Safesearch On",
     sc: "Search (DDG)",
     t: "safeon",
@@ -91223,7 +91214,7 @@ export const bangs = [
   {
     c: "Research",
     d: "duckduckgo.com",
-    r: 22,
+    r: 16,
     s: "SageMath documentation",
     sc: "Academic (math/cs)",
     t: "sage",
@@ -91232,7 +91223,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.sahibinden.com",
-    r: 66,
+    r: 22,
     s: "sahibinden.com",
     sc: "Online (marketplace)",
     t: "sahibinden",
@@ -91259,7 +91250,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.sainsburys.co.uk",
-    r: 18,
+    r: 10,
     s: "Sainsbury's",
     sc: "Online",
     t: "sainsburys",
@@ -91277,7 +91268,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.suomisanakirja.fi",
-    r: 5,
+    r: 0,
     s: "Suomi Sanakirja",
     sc: "Reference (words intl)",
     t: "saki",
@@ -91331,7 +91322,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "salsa.debian.org",
-    r: 8,
+    r: 3,
     s: "Debian Salsa",
     sc: "Sysadmin (debian)",
     t: "salsa",
@@ -91340,7 +91331,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.salidzini.lv",
-    r: 8,
+    r: 12,
     s: "Salidzini.lv",
     sc: "Online (deals)",
     t: "sal",
@@ -91421,7 +91412,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.whosampled.com",
-    r: 3,
+    r: 7,
     s: "whosampled",
     sc: "Music",
     t: "sampled",
@@ -91430,7 +91421,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.samsung.com",
-    r: 0,
+    r: 4,
     s: "Samsung",
     sc: "Companies",
     t: "sam",
@@ -91439,7 +91430,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.samsclub.com",
-    r: 43,
+    r: 27,
     s: "Sam's Club",
     sc: "Big box/department",
     t: "samsclub",
@@ -91448,7 +91439,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.sanakirja.org",
-    r: 36,
+    r: 29,
     s: "Sanakirja.org",
     sc: "Reference (words intl)",
     t: "sanakirja",
@@ -91466,7 +91457,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.sanakirja.org",
-    r: 26,
+    r: 22,
     s: "Sanakirja",
     sc: "Tools",
     t: "sana",
@@ -91511,7 +91502,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "svenska.se",
-    r: 38,
+    r: 39,
     s: "Svenska Akademiens Ordb\u00f6cker",
     sc: "Tools",
     t: "saob",
@@ -91520,7 +91511,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "svenska.se",
-    r: 43,
+    r: 38,
     s: "Svenska akademieons ordlista",
     sc: "Search (non-US)",
     t: "saol",
@@ -91529,7 +91520,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "swordartonline.wikia.com",
-    r: 3,
+    r: 0,
     s: "Sword Art Online Wiki",
     sc: "Misc",
     t: "sao",
@@ -91574,7 +91565,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "launchpad.support.sap.com",
-    r: 48,
+    r: 27,
     s: "SAP notes",
     sc: "Sysadmin",
     t: "sapnote",
@@ -91583,7 +91574,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "launchpad.support.sap.com",
-    r: 5,
+    r: 4,
     s: "SAP Notes",
     sc: "Sysadmin",
     t: "sapnotes",
@@ -91601,7 +91592,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "pesquisa.sapo.pt",
-    r: 0,
+    r: 5,
     s: "SAPO",
     sc: "Search (non-US)",
     t: "sapo",
@@ -91619,7 +91610,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "launchpad.support.sap.com",
-    r: 10,
+    r: 0,
     s: "SAP Launchpad",
     sc: "Programming",
     t: "sap",
@@ -91673,7 +91664,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.sarna.net",
-    r: 33,
+    r: 12,
     s: "Sarna",
     sc: "Games (specific)",
     t: "sarna",
@@ -91682,7 +91673,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.scientificamerican.com",
-    r: 9,
+    r: 5,
     s: "Scientific American",
     sc: "Specialty",
     t: "sa",
@@ -91727,7 +91718,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "saucenao.com",
-    r: 60,
+    r: 49,
     s: "SauceNAO",
     sc: "Images",
     t: "saucenao",
@@ -91745,7 +91736,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.co.uk",
-    r: 0,
+    r: 4,
     s: "AmazonSmile UK",
     sc: "Online",
     t: "sauk",
@@ -91772,7 +91763,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "web.archive.org",
-    r: 25,
+    r: 20,
     s: "Internet Archive: Wayback Machine (save)",
     sc: "Tools (URLs)",
     t: "save",
@@ -91790,7 +91781,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.saxo.com",
-    r: 3,
+    r: 0,
     s: "SAXO.com",
     sc: "Books",
     t: "saxo",
@@ -91808,7 +91799,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.merriam-webster.com",
-    r: 8,
+    r: 3,
     s: "Merriam-Webster Pronunciation",
     sc: "Reference (words)",
     t: "say",
@@ -91817,7 +91808,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "scratch.mit.edu",
-    r: 46,
+    r: 36,
     s: "Scratch",
     sc: "Programming",
     t: "sb2",
@@ -91844,7 +91835,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.sbb.ch",
-    r: 36,
+    r: 39,
     s: "SBB",
     sc: "Search",
     t: "sbb",
@@ -91916,7 +91907,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "slackbuilds.org",
-    r: 49,
+    r: 47,
     s: "SlackBuilds.org",
     sc: "Sysadmin (packages)",
     t: "sbo",
@@ -91934,7 +91925,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 181,
+    r: 200,
     s: "Reddit",
     sc: "Social news/links",
     t: "sbr",
@@ -91952,7 +91943,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.swagbucks.com",
-    r: 0,
+    r: 8,
     s: "SwagBucks",
     sc: "Search",
     t: "sb",
@@ -91988,7 +91979,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "socialblade.com",
-    r: 194,
+    r: 161,
     s: "Socialblade Youtube",
     sc: "Social (intl)",
     t: "sbyt",
@@ -92006,7 +91997,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "index.scala-lang.org",
-    r: 0,
+    r: 3,
     s: "Scala Center",
     sc: "Languages (scala)",
     t: "scaladex",
@@ -92024,7 +92015,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "index.scala-lang.org",
-    r: 4,
+    r: 0,
     s: "Scala Library Index",
     sc: "Languages (scala)",
     t: "scalai",
@@ -92060,7 +92051,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.scan.co.uk",
-    r: 8,
+    r: 4,
     s: "Scan",
     sc: "Tech",
     t: "scan",
@@ -92078,7 +92069,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 5,
+    r: 0,
     s: "Reddit Skincare Addiction",
     sc: "Social",
     t: "sca",
@@ -92213,7 +92204,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "scholar.google.com",
-    r: 6142,
+    r: 6081,
     s: "Google Scholar",
     sc: "Google",
     t: "scholar",
@@ -92249,7 +92240,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 6,
+    r: 12,
     s: "Startpage (Switzerland)",
     sc: "Search (non-US)",
     t: "sch",
@@ -92384,7 +92375,7 @@ export const bangs = [
   {
     c: "Research",
     d: "scimagojr.com",
-    r: 3,
+    r: 5,
     s: "SCImago Journal Rank",
     sc: "Academic",
     t: "scimago",
@@ -92411,7 +92402,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.scipy.org",
-    r: 8,
+    r: 0,
     s: "SciPy",
     sc: "Languages (python)",
     t: "scipy",
@@ -92429,7 +92420,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "doc.sccode.org",
-    r: 0,
+    r: 38,
     s: "SuperCollider",
     sc: "Languages (other)",
     t: "sclang",
@@ -92438,7 +92429,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "soundcloud.com",
-    r: 5,
+    r: 3,
     s: "SoundCloud",
     sc: "Audio",
     t: "scloud",
@@ -92483,7 +92474,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.spanishdict.com",
-    r: 5,
+    r: 0,
     s: "SpanishDict verb conjugation",
     sc: "Reference (words intl)",
     t: "sconj",
@@ -92492,7 +92483,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.scoop.it",
-    r: 5,
+    r: 6,
     s: "Scoop.it",
     sc: "Social",
     t: "scoop",
@@ -92600,7 +92591,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.scp-wiki.net",
-    r: 14,
+    r: 40,
     s: "SCP Foundation",
     sc: "Misc",
     t: "scp",
@@ -92609,7 +92600,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.senscritique.com",
-    r: 36,
+    r: 44,
     s: "SensCritique",
     sc: "Misc",
     t: "scq",
@@ -92654,7 +92645,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "scratch.mit.edu",
-    r: 43,
+    r: 63,
     s: "Scratch",
     sc: "Games (general)",
     t: "scratch",
@@ -92672,7 +92663,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.screwfix.com",
-    r: 6,
+    r: 7,
     s: "Screwfix",
     sc: "Big box/department",
     t: "screwfix",
@@ -92681,7 +92672,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.scribd.com",
-    r: 24,
+    r: 37,
     s: "Scribd",
     sc: "Books",
     t: "scribd",
@@ -92690,7 +92681,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.senscritique.com",
-    r: 3,
+    r: 0,
     s: "Sens Critique",
     sc: "Misc",
     t: "scri",
@@ -92717,7 +92708,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "scryfall.com",
-    r: 962,
+    r: 704,
     s: "Scryfall",
     sc: "Games (specific)",
     t: "scryfall",
@@ -92726,7 +92717,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "scryfall.com",
-    r: 3346,
+    r: 3928,
     s: "Scryfall",
     sc: "Games (general)",
     t: "scry",
@@ -92735,7 +92726,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "soundcloud.com",
-    r: 998,
+    r: 1207,
     s: "SoundCloud",
     sc: "Music",
     t: "sc",
@@ -92762,7 +92753,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "syntaxdb.com",
-    r: 5,
+    r: 4,
     s: "syntaxdb.com",
     sc: "Programming",
     t: "sdb",
@@ -92780,7 +92771,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 20,
+    r: 27,
     s: "Startpage (deutsch)",
     sc: "Search (non-US)",
     t: "sde",
@@ -92789,7 +92780,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.spanishdict.com",
-    r: 642,
+    r: 284,
     s: "SpanishDict",
     sc: "Reference (words intl)",
     t: "sdict",
@@ -92834,7 +92825,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "slickdeals.net",
-    r: 397,
+    r: 751,
     s: "SlickDeals",
     sc: "Online (deals)",
     t: "sd",
@@ -92843,7 +92834,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "stardewvalleywiki.com",
-    r: 175,
+    r: 202,
     s: "Official Stardew Valley Wiki",
     sc: "Games (specific)",
     t: "sdv",
@@ -92924,7 +92915,7 @@ export const bangs = [
   {
     c: "News",
     d: "duckduckgo.com",
-    r: 75,
+    r: 66,
     s: "Reddit DDG Search",
     sc: "Aggregators",
     t: "searchr",
@@ -92933,7 +92924,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.search.com",
-    r: 12,
+    r: 23,
     s: "Search.com",
     sc: "Search",
     t: "search",
@@ -92996,7 +92987,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "searx.me",
-    r: 3,
+    r: 6,
     s: "searx.me",
     sc: "Search (Private)",
     t: "searx.me",
@@ -93005,7 +92996,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "searx.me",
-    r: 19,
+    r: 11,
     s: "searX",
     sc: "Search",
     t: "searx",
@@ -93014,7 +93005,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "searchcode.com",
-    r: 0,
+    r: 6,
     s: "searchcode.com",
     sc: "Downloads (code)",
     t: "sea",
@@ -93041,7 +93032,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "sebsauvage.net",
-    r: 14,
+    r: 27,
     s: "Sebsauvage",
     sc: "Blogs",
     t: "seb",
@@ -93050,7 +93041,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.sec.gov",
-    r: 3,
+    r: 0,
     s: "SEC Edgar",
     sc: "Topical",
     t: "secedgar",
@@ -93185,7 +93176,7 @@ export const bangs = [
   {
     c: "News",
     d: "seekingalpha.com",
-    r: 309,
+    r: 238,
     s: "Seeking Alpha",
     sc: "Business",
     t: "seekingalpha",
@@ -93221,7 +93212,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.sefaria.org",
-    r: 3,
+    r: 0,
     s: "Sefaria",
     sc: "Reference (religion)",
     t: "sefaria",
@@ -93230,7 +93221,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "segaretro.org",
-    r: 16,
+    r: 15,
     s: "SegaRetro",
     sc: "Games (specific)",
     t: "sega",
@@ -93311,7 +93302,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.semanticscholar.org",
-    r: 13,
+    r: 37,
     s: "Semantic Scholar",
     sc: "Academic",
     t: "semantic",
@@ -93374,7 +93365,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "sentencedict.com",
-    r: 0,
+    r: 12,
     s: "SentenceDict",
     sc: "Tools",
     t: "sendict",
@@ -93383,7 +93374,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.senscritique.com",
-    r: 23,
+    r: 24,
     s: "Sens critique",
     sc: "General",
     t: "senscritique",
@@ -93392,7 +93383,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "senseis.xmp.net",
-    r: 0,
+    r: 4,
     s: "Sensei's Library",
     sc: "Games (offline)",
     t: "sensei",
@@ -93473,7 +93464,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.sephora.com",
-    r: 0,
+    r: 5,
     s: "Sephora",
     sc: "Online",
     t: "sephora",
@@ -93482,7 +93473,7 @@ export const bangs = [
   {
     c: "Research",
     d: "plato.stanford.edu",
-    r: 112,
+    r: 67,
     s: "Stanford Encyclopedia of Philosophy",
     sc: "Academic",
     t: "sep",
@@ -93491,7 +93482,7 @@ export const bangs = [
   {
     c: "Research",
     d: "oeis.org",
-    r: 6,
+    r: 0,
     s: "The Online Encyclopedia Of Integer Sequences",
     sc: "Academic (math/cs)",
     t: "seq",
@@ -93500,7 +93491,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.serebii.net",
-    r: 104,
+    r: 80,
     s: "Serebii",
     sc: "Games (Pokemon)",
     t: "serebii",
@@ -93536,7 +93527,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.seriouseats.com",
-    r: 7,
+    r: 5,
     s: "Serious Eats",
     sc: "Food",
     t: "seriouseats",
@@ -93590,7 +93581,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.seslisozluk.net",
-    r: 7,
+    r: 5,
     s: "Sesli S\u00f6zl\u00fck",
     sc: "Reference (words)",
     t: "sesli",
@@ -93608,7 +93599,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "thesession.org",
-    r: 5,
+    r: 32,
     s: "The Session",
     sc: "Music (Folk)",
     t: "session",
@@ -93617,7 +93608,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.suomienglantisanakirja.fi",
-    r: 3,
+    r: 0,
     s: "suomienglantisanakirja.fi",
     sc: "Learning",
     t: "ses",
@@ -93626,7 +93617,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "stackexchange.com",
-    r: 163,
+    r: 139,
     s: "StackExchange",
     sc: "Search",
     t: "se",
@@ -93635,7 +93626,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.setlist.fm",
-    r: 88,
+    r: 130,
     s: "Setlist.fm",
     sc: "Audio",
     t: "setlist",
@@ -93662,7 +93653,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.seznam.cz",
-    r: 4,
+    r: 0,
     s: "Seznam",
     sc: "Search (non-US)",
     t: "seznam",
@@ -93689,7 +93680,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "scryfall.com",
-    r: 489,
+    r: 217,
     s: "Scryfall",
     sc: "Games (specific)",
     t: "sfa",
@@ -93698,7 +93689,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.sfbok.se",
-    r: 5,
+    r: 4,
     s: "Science Fiction Bokhandeln",
     sc: "Online",
     t: "sfbok",
@@ -93743,7 +93734,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "scryfall.com",
-    r: 141,
+    r: 165,
     s: "Scryfall",
     sc: "Games (specific)",
     t: "sfl",
@@ -93779,7 +93770,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sfpl.bibliocommons.com",
-    r: 32,
+    r: 36,
     s: "San Francisco Public Library",
     sc: "Learning",
     t: "sfpl",
@@ -93788,7 +93779,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "serverfault.com",
-    r: 8,
+    r: 0,
     s: "ServerFault",
     sc: "Sysadmin",
     t: "sf",
@@ -93869,7 +93860,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "sourcegraph.com",
-    r: 46,
+    r: 121,
     s: "Sourcegraph",
     sc: "Programming",
     t: "sg",
@@ -93905,7 +93896,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.shadertoy.com",
-    r: 0,
+    r: 10,
     s: "shadertoy.com",
     sc: "Programming",
     t: "shadertoy",
@@ -94121,7 +94112,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.shodan.io",
-    r: 103,
+    r: 51,
     s: "shodan",
     sc: "Sysadmin",
     t: "shodan",
@@ -94184,7 +94175,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "shopee.ph",
-    r: 46,
+    r: 45,
     s: "Shopee",
     sc: "Online (marketplace)",
     t: "shopeeph",
@@ -94193,7 +94184,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "shopee.tw",
-    r: 9,
+    r: 17,
     s: "shopee \u8766\u76ae",
     sc: "Online",
     t: "shopee",
@@ -94238,7 +94229,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.google.com",
-    r: 255,
+    r: 204,
     s: "Google Shopping",
     sc: "Online",
     t: "shopping",
@@ -94256,7 +94247,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "shopping.yahoo.com",
-    r: 22,
+    r: 8,
     s: "Yahoo! Shopping",
     sc: "Online",
     t: "shop",
@@ -94279,15 +94270,6 @@ export const bangs = [
     sc: "Online",
     t: "shopzilla",
     u: "http://www.shopzilla.com/{{{s}}}/search",
-  },
-  {
-    c: "Online Services",
-    d: "cortas.elpais.com",
-    r: 0,
-    s: "Cortas - URL shortener",
-    sc: "Tools",
-    t: "shorten",
-    u: "http://cortas.elpais.com/encode.pl?u=http://{{{s}}}",
   },
   {
     c: "Online Services",
@@ -94319,7 +94301,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "dex.pokemonshowdown.com",
-    r: 10,
+    r: 42,
     s: "Pok\u00e9mon Showdown",
     sc: "Games (Pokemon)",
     t: "showdown",
@@ -94346,7 +94328,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.shodan.io",
-    r: 4,
+    r: 17,
     s: "Shodan",
     sc: "Sysadmin",
     t: "sh",
@@ -94364,7 +94346,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "secondhandsongs.com",
-    r: 4,
+    r: 3,
     s: "SecondHandSongs",
     sc: "Music",
     t: "shs",
@@ -94382,7 +94364,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.scribblehub.com",
-    r: 7,
+    r: 9,
     s: "ScribbleHub",
     sc: "Books",
     t: "shub",
@@ -94400,7 +94382,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.shutterstock.com",
-    r: 3,
+    r: 35,
     s: "Shutterstock",
     sc: "Images",
     t: "shutterstock",
@@ -94409,7 +94391,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.shazam.com",
-    r: 0,
+    r: 20,
     s: "Shazam",
     sc: "Music",
     t: "shz",
@@ -94445,7 +94427,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "support.industry.siemens.com",
-    r: 4,
+    r: 0,
     s: "Siemens Industry Support",
     sc: "Companies",
     t: "siemenssupport",
@@ -94463,7 +94445,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.sigmaaldrich.com",
-    r: 17,
+    r: 0,
     s: "Sigma Aldritch Catalog",
     sc: "Academic",
     t: "sigma",
@@ -94526,7 +94508,7 @@ export const bangs = [
   {
     c: "Research",
     d: "simbad.u-strasbg.fr",
-    r: 12,
+    r: 31,
     s: "SIMBAD Astronomical Database",
     sc: "Academic",
     t: "simbad",
@@ -94535,7 +94517,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.similarsites.com",
-    r: 7,
+    r: 9,
     s: "SimilarSites",
     sc: "Tools",
     t: "similar",
@@ -94544,7 +94526,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.similarweb.com",
-    r: 4,
+    r: 9,
     s: "SimilarWeb",
     sc: "Tools",
     t: "similarweb",
@@ -94571,7 +94553,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.simplyhired.com",
-    r: 0,
+    r: 12,
     s: "SimplyHired",
     sc: "Jobs",
     t: "simplyhired",
@@ -94598,7 +94580,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.sinonimos.com.br",
-    r: 5,
+    r: 18,
     s: "Dicion\u00e1rio de Sin\u00f4nimos",
     sc: "Reference (words)",
     t: "sin",
@@ -94661,7 +94643,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.sinonimos.com.br",
-    r: 21,
+    r: 43,
     s: "Sin\u00f4mimos.com.br",
     sc: "Tools",
     t: "sinonimos",
@@ -94670,7 +94652,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 4,
+    r: 9,
     s: "Wordreference Sinonimos",
     sc: "Reference (words intl)",
     t: "sinonimo",
@@ -94724,7 +94706,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "la-lojban.github.io",
-    r: 0,
+    r: 7,
     s: "la sutysisku",
     sc: "Search",
     t: "sisku",
@@ -94733,7 +94715,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.si.com",
-    r: 6,
+    r: 0,
     s: "Sports Illustrated",
     sc: "Sports",
     t: "si",
@@ -94760,7 +94742,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 117,
+    r: 116,
     s: "DuckDuckGo site: search operator shortcut",
     sc: "Google",
     t: "site",
@@ -94778,7 +94760,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.siteslike.com",
-    r: 3,
+    r: 0,
     s: "siteslike",
     sc: "Search",
     t: "siteslike",
@@ -94850,7 +94832,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sjp.pwn.pl",
-    r: 97,
+    r: 94,
     s: "S\u0142ownik J\u0119zyka Polskiego",
     sc: "Learning",
     t: "sjp",
@@ -94868,7 +94850,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.sitejabber.com",
-    r: 0,
+    r: 3,
     s: "sitejabber",
     sc: "Tools",
     t: "sj",
@@ -94958,7 +94940,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "skelbiu.lt",
-    r: 11,
+    r: 18,
     s: "Skelbiu",
     sc: "Online (deals)",
     t: "skelbiu",
@@ -95021,7 +95003,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "sketchfab.com",
-    r: 11,
+    r: 3,
     s: "Sketchfab",
     sc: "General",
     t: "sketchfab",
@@ -95120,7 +95102,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.skroutz.gr",
-    r: 135,
+    r: 136,
     s: "Skroutz",
     sc: "Online (deals)",
     t: "skroutz",
@@ -95129,7 +95111,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.songkick.com",
-    r: 19,
+    r: 8,
     s: "Songkick",
     sc: "Audio",
     t: "sk",
@@ -95183,7 +95165,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 0,
+    r: 7,
     s: "Skyscanner",
     sc: "Search (Real-time)",
     t: "skyscan",
@@ -95246,7 +95228,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.slackware.com",
-    r: 13,
+    r: 0,
     s: "Slackware Package Browser",
     sc: "Sysadmin (packages)",
     t: "slackpkg",
@@ -95255,7 +95237,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.slader.com",
-    r: 0,
+    r: 4,
     s: "Slader",
     sc: "Search (Real-time)",
     t: "slader",
@@ -95273,7 +95255,7 @@ export const bangs = [
   {
     c: "Research",
     d: "onlineslangdictionary.com",
-    r: 3,
+    r: 0,
     s: "The Online Slang Dictionary",
     sc: "Reference (fun)",
     t: "slang",
@@ -95381,7 +95363,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "slickdeals.net",
-    r: 8,
+    r: 17,
     s: "SlickDeals",
     sc: "Online (deals)",
     t: "slickdeals",
@@ -95489,7 +95471,7 @@ export const bangs = [
   {
     c: "Research",
     d: "slovniky.korpus.sk",
-    r: 4,
+    r: 0,
     s: "Slovensk\u00e9 slovn\u00edky",
     sc: "Reference (words)",
     t: "slovak",
@@ -95507,7 +95489,7 @@ export const bangs = [
   {
     c: "Research",
     d: "slovnik.seznam.cz",
-    r: 27,
+    r: 60,
     s: "Seznam Slovn\u00edk",
     sc: "Learning",
     t: "slovnik",
@@ -95552,7 +95534,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.setlist.fm",
-    r: 7,
+    r: 13,
     s: "Setlist.fm",
     sc: "Music",
     t: "sl",
@@ -95561,7 +95543,7 @@ export const bangs = [
   {
     c: "Research",
     d: "katalogbeta.slub-dresden.de",
-    r: 8,
+    r: 0,
     s: "SLUB Katalog",
     sc: "Academic",
     t: "slub",
@@ -95723,7 +95705,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.de",
-    r: 7,
+    r: 0,
     s: "Amazon Smile (De)",
     sc: "Online",
     t: "smde",
@@ -95741,7 +95723,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "socialmention.com",
-    r: 3,
+    r: 6,
     s: "Social Mention",
     sc: "Search (Real-time)",
     t: "smention",
@@ -95768,7 +95750,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.smh.com.au",
-    r: 11,
+    r: 0,
     s: "The Sydney Morning Herald",
     sc: "Newspaper",
     t: "smh",
@@ -95786,7 +95768,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "smile.amazon.com",
-    r: 80,
+    r: 79,
     s: "Amazon Smile",
     sc: "Online",
     t: "smile",
@@ -95894,7 +95876,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.smogon.com",
-    r: 112,
+    r: 58,
     s: "Smogon University",
     sc: "Games (Pokemon)",
     t: "smogon",
@@ -95948,7 +95930,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.swissmilk.ch",
-    r: 4,
+    r: 0,
     s: "swissmilk - Rezepte",
     sc: "Misc",
     t: "smre",
@@ -95957,7 +95939,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.semanticscholar.org",
-    r: 3,
+    r: 6,
     s: "Semantic Scholar",
     sc: "Academic",
     t: "smsc",
@@ -95966,7 +95948,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.smashingmagazine.com",
-    r: 4,
+    r: 0,
     s: "Smashing Magazine",
     sc: "Magazine",
     t: "sm",
@@ -95975,7 +95957,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "songmeanings.com",
-    r: 5,
+    r: 4,
     s: "SongMeanings",
     sc: "Music (Lyrics)",
     t: "sms",
@@ -96002,7 +95984,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.mariowiki.com",
-    r: 74,
+    r: 72,
     s: "Super Mario Wiki",
     sc: "Games (general)",
     t: "smw",
@@ -96065,7 +96047,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "snapzu.com",
-    r: 5,
+    r: 3,
     s: "Snapzu.com",
     sc: "Social news/links",
     t: "snap",
@@ -96074,7 +96056,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "snapcraft.io",
-    r: 8,
+    r: 6,
     s: "snaps for Linux",
     sc: "Downloads (apps)",
     t: "snaps",
@@ -96083,7 +96065,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "snapcraft.io",
-    r: 4,
+    r: 0,
     s: "Snapcraft",
     sc: "Downloads (apps)",
     t: "sncr",
@@ -96101,7 +96083,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "soundcloud.com",
-    r: 0,
+    r: 4,
     s: "SoundCloud",
     sc: "Music",
     t: "sndcld",
@@ -96110,7 +96092,7 @@ export const bangs = [
   {
     c: "Research",
     d: "docs.servicenow.com",
-    r: 4,
+    r: 0,
     s: "ServiceNow Product Docs",
     sc: "Reference",
     t: "sndocs",
@@ -96137,7 +96119,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "websniffer.cc",
-    r: 3,
+    r: 0,
     s: "Websniffer",
     sc: "Tools (URLs)",
     t: "sniff",
@@ -96146,7 +96128,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.startpage.com",
-    r: 0,
+    r: 6,
     s: "StartPage Web Search(Japanese)",
     sc: "Search",
     t: "snih",
@@ -96173,7 +96155,7 @@ export const bangs = [
   {
     c: "Research",
     d: "snl.no",
-    r: 42,
+    r: 44,
     s: "Store Norske Leksikon",
     sc: "Learning",
     t: "snl",
@@ -96182,7 +96164,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.nexusmods.com",
-    r: 0,
+    r: 9,
     s: "Skyrim NexusMods",
     sc: "Games (general)",
     t: "snm",
@@ -96218,7 +96200,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.snopes.com",
-    r: 22,
+    r: 13,
     s: "Snopes",
     sc: "Reference (fun)",
     t: "snopes",
@@ -96281,7 +96263,7 @@ export const bangs = [
   {
     c: "News",
     d: "soylentnews.org",
-    r: 0,
+    r: 6,
     s: "SoylentNews",
     sc: "Aggregators",
     t: "sn",
@@ -96371,7 +96353,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "socialblade.com",
-    r: 17,
+    r: 12,
     s: "Socialblade",
     sc: "Misc",
     t: "socialblade",
@@ -96380,7 +96362,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.societe.com",
-    r: 0,
+    r: 3,
     s: "societe.com",
     sc: "Search",
     t: "societe",
@@ -96443,7 +96425,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 10,
+    r: 0,
     s: "Stackoverflow with DuckDuckGo",
     sc: "Programming",
     t: "sod",
@@ -96452,7 +96434,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.sofascore.com",
-    r: 3,
+    r: 12,
     s: "SofaScore",
     sc: "Sports",
     t: "sofasc",
@@ -96461,7 +96443,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 72,
+    r: 62,
     s: "DuckDuckGo SafeOff",
     sc: "Search (DDG)",
     t: "soff",
@@ -96470,7 +96452,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 7,
+    r: 6,
     s: "DuckDuckGo Safe Search Off",
     sc: "Search (DDG)",
     t: "s-off",
@@ -96479,7 +96461,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "sofifa.com",
-    r: 65,
+    r: 13,
     s: "SOFIFA",
     sc: "Games (general)",
     t: "sofifa",
@@ -96515,7 +96497,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.softpedia.com",
-    r: 19,
+    r: 9,
     s: "Softpedia",
     sc: "Downloads (software)",
     t: "softpedia",
@@ -96542,7 +96524,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.sogou.com",
-    r: 8,
+    r: 10,
     s: "\u641c\u72d7",
     sc: "Search",
     t: "sogou",
@@ -96632,7 +96614,7 @@ export const bangs = [
   {
     c: "Research",
     d: "solo.bodleian.ox.ac.uk",
-    r: 58,
+    r: 24,
     s: "SOLO: Search Oxford Libraries Online",
     sc: "Academic",
     t: "solo",
@@ -96641,7 +96623,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.supersoluce.com",
-    r: 0,
+    r: 3,
     s: "SuperSoluce",
     sc: "Games (general)",
     t: "soluce",
@@ -96659,7 +96641,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.spirit-of-metal.com",
-    r: 9,
+    r: 8,
     s: "Spirit of Metal",
     sc: "Music",
     t: "som",
@@ -96722,7 +96704,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.songkick.com",
-    r: 7,
+    r: 0,
     s: "SongKick",
     sc: "Audio",
     t: "songkick",
@@ -96731,7 +96713,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "odesli.co",
-    r: 3,
+    r: 4,
     s: "song.link",
     sc: "Tools (URLs)",
     t: "songlink",
@@ -96749,7 +96731,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "songmeanings.com",
-    r: 7,
+    r: 13,
     s: "SongMeanings",
     sc: "Music (Lyrics)",
     t: "songmeanings",
@@ -96758,7 +96740,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.songsterr.com",
-    r: 69,
+    r: 104,
     s: "Songsterr",
     sc: "Music",
     t: "songsterr",
@@ -96776,7 +96758,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "info.sonicretro.org",
-    r: 0,
+    r: 4,
     s: "Sonic Retro / Sega Retro",
     sc: "Games (general)",
     t: "sonicretro",
@@ -96909,7 +96891,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "software.opensuse.org",
-    r: 4,
+    r: 0,
     s: "Software OpenSuse",
     sc: "Sysadmin (packages)",
     t: "sos",
@@ -96918,7 +96900,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "stackoverflow.com",
-    r: 477,
+    r: 334,
     s: "Stack Overflow",
     sc: "Programming",
     t: "so",
@@ -96954,7 +96936,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "soundcloud.com",
-    r: 207,
+    r: 170,
     s: "SoundCloud",
     sc: "Music",
     t: "soundcloud",
@@ -96981,7 +96963,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "soundcloud.com",
-    r: 85,
+    r: 97,
     s: "Soundcloud",
     sc: "Music",
     t: "sound",
@@ -97017,7 +96999,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "sourceforge.net",
-    r: 4,
+    r: 0,
     s: "SourceForge",
     sc: "Downloads (software)",
     t: "sourceforge",
@@ -97071,7 +97053,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.eksisozluk.com",
-    r: 4,
+    r: 0,
     s: "Eksi Sozluk",
     sc: "Misc",
     t: "sozluk",
@@ -97098,7 +97080,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.spanishdict.com",
-    r: 4,
+    r: 11,
     s: "SpanishDict",
     sc: "Tools",
     t: "spandict",
@@ -97107,7 +97089,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.spanishdict.com",
-    r: 108,
+    r: 147,
     s: "SpanishDict",
     sc: "Reference (words intl)",
     t: "spanishdict",
@@ -97125,7 +97107,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.spanishdict.com",
-    r: 618,
+    r: 624,
     s: "SpanishDict",
     sc: "Reference (words intl)",
     t: "spanish",
@@ -97197,7 +97179,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "speiderbasen.no",
-    r: 0,
+    r: 17,
     s: "Speiderbasen",
     sc: "Tools",
     t: "spb",
@@ -97233,7 +97215,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "speedrun.com",
-    r: 71,
+    r: 17,
     s: "Speedrun.com",
     sc: "Games (general)",
     t: "speedrun",
@@ -97251,7 +97233,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.speedsolving.com",
-    r: 3,
+    r: 0,
     s: "Speedsolving wiki",
     sc: "Reference (fun)",
     t: "speedsolvingwiki",
@@ -97296,7 +97278,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 3,
+    r: 0,
     s: "StartPage (EN)",
     sc: "Search",
     t: "spen",
@@ -97305,7 +97287,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 6,
+    r: 0,
     s: "StartPage (ES)",
     sc: "Search",
     t: "spes",
@@ -97332,7 +97314,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "mxtoolbox.com",
-    r: 0,
+    r: 4,
     s: "MXToolbox",
     sc: "Sysadmin",
     t: "spf",
@@ -97377,7 +97359,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.spiegel.de",
-    r: 0,
+    r: 4,
     s: "www.spiegel.de",
     sc: "Magazine",
     t: "spiegel",
@@ -97431,7 +97413,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.spin.de",
-    r: 0,
+    r: 3,
     s: "Spin.de",
     sc: "Social (intl)",
     t: "spin",
@@ -97458,7 +97440,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 187,
+    r: 184,
     s: "Startpage Images",
     sc: "Search (Private)",
     t: "spi",
@@ -97485,7 +97467,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "splatoonwiki.org",
-    r: 49,
+    r: 7,
     s: "Inkpedia",
     sc: "Games (specific)",
     t: "splatoon",
@@ -97512,7 +97494,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "seattle.bibliocommons.com",
-    r: 3,
+    r: 17,
     s: "The Seattle Public Library",
     sc: "General",
     t: "spl",
@@ -97539,7 +97521,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 0,
+    r: 4,
     s: "Startpage Mobile",
     sc: "Search (Private)",
     t: "spm",
@@ -97548,7 +97530,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 0,
+    r: 4,
     s: "Startpage NL",
     sc: "Search (non-US)",
     t: "spnl",
@@ -97557,7 +97539,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "spongebob.wikia.com",
-    r: 3,
+    r: 5,
     s: "SpongeBob Wikia",
     sc: "TV",
     t: "spongebob",
@@ -97575,7 +97557,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.spiegel.de",
-    r: 59,
+    r: 132,
     s: "Spiegel Online",
     sc: "Magazine",
     t: "spon",
@@ -97593,7 +97575,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.sporcle.com",
-    r: 9,
+    r: 39,
     s: "Sporcle",
     sc: "Misc",
     t: "sporcle",
@@ -97629,7 +97611,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "open.spotify.com",
-    r: 590,
+    r: 406,
     s: "Spotify",
     sc: "Music",
     t: "spotify",
@@ -97656,7 +97638,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 41,
+    r: 37,
     s: "StartPage safeoff eng",
     sc: "Search (Private)",
     t: "spp",
@@ -97701,7 +97683,7 @@ export const bangs = [
   {
     c: "Research",
     d: "link.springer.com",
-    r: 3,
+    r: 0,
     s: "Springer Link",
     sc: "Reference",
     t: "springer",
@@ -97728,7 +97710,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.spriters-resource.com",
-    r: 8,
+    r: 5,
     s: "The Spriters Resource",
     sc: "Images",
     t: "spriters",
@@ -97764,7 +97746,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 7041,
+    r: 5743,
     s: "StartPage",
     sc: "Search",
     t: "sp",
@@ -97773,7 +97755,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.privacytools.io",
-    r: 3,
+    r: 9,
     s: "search.privacytools.io",
     sc: "Search (Private)",
     t: "sptio",
@@ -97782,7 +97764,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "open.spotify.com",
-    r: 142,
+    r: 135,
     s: "Spotify",
     sc: "Music",
     t: "spt",
@@ -97800,7 +97782,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.sputnikmusic.com",
-    r: 15,
+    r: 9,
     s: "Sputnik Music",
     sc: "Music",
     t: "sputnikmusic",
@@ -97818,7 +97800,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.startpage.com",
-    r: 175,
+    r: 107,
     s: "Startpage Videos",
     sc: "Search (Private)",
     t: "spv",
@@ -97836,7 +97818,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "open.spotify.com",
-    r: 213,
+    r: 173,
     s: "Spotify",
     sc: "Audio",
     t: "spy",
@@ -97872,7 +97854,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.sqlalchemy.org",
-    r: 0,
+    r: 3,
     s: "SQL Alchemy Docs",
     sc: "Languages (python)",
     t: "sqlalchemy",
@@ -97881,7 +97863,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.sqlite.org",
-    r: 3,
+    r: 0,
     s: "SQLite",
     sc: "Libraries/Frameworks",
     t: "sqlite",
@@ -97917,7 +97899,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.ncbi.nlm.nih.gov",
-    r: 7,
+    r: 3,
     s: "SRA",
     sc: "Government",
     t: "sra",
@@ -97953,7 +97935,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.d20srd.org",
-    r: 0,
+    r: 19,
     s: "The Hypertext d20 SRD",
     sc: "Games (specific)",
     t: "srd",
@@ -97971,7 +97953,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "reddit.com",
-    r: 211,
+    r: 129,
     s: "Subreddit",
     sc: "Forum",
     t: "sreddit",
@@ -97989,7 +97971,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "srfi.schemers.org",
-    r: 21,
+    r: 34,
     s: "Scheme Request for Implementation",
     sc: "Languages (scheme)",
     t: "srfi",
@@ -98016,7 +97998,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "steamrep.com",
-    r: 0,
+    r: 3,
     s: "SteamRep (by ID)",
     sc: "Games (specific)",
     t: "sri",
@@ -98034,7 +98016,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "old.reddit.com",
-    r: 535,
+    r: 592,
     s: "Old Reddit by Subreddit",
     sc: "Social",
     t: "srold",
@@ -98043,7 +98025,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "old.reddit.com",
-    r: 1107,
+    r: 1470,
     s: "Old Reddit by Subreddit",
     sc: "Forum",
     t: "sro",
@@ -98052,7 +98034,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "reddit.com",
-    r: 10750,
+    r: 10288,
     s: "reddit",
     sc: "Forum",
     t: "sr",
@@ -98070,7 +98052,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 60,
+    r: 26,
     s: "Reddit",
     sc: "Social news/links",
     t: "srs",
@@ -98106,7 +98088,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 4,
+    r: 0,
     s: "SS64",
     sc: "Languages (other)",
     t: "ss64",
@@ -98133,7 +98115,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.ssbwiki.com",
-    r: 44,
+    r: 22,
     s: "SmashWiki",
     sc: "Games (specific)",
     t: "ssb",
@@ -98142,7 +98124,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.semanticscholar.org",
-    r: 7,
+    r: 14,
     s: "SemanticScholar",
     sc: "Reference",
     t: "ssch",
@@ -98178,7 +98160,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "bos.zrc-sazu.si",
-    r: 13,
+    r: 8,
     s: "Bos.zrs-sazu.si",
     sc: "Tools",
     t: "sskj",
@@ -98205,7 +98187,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.ssllabs.com",
-    r: 12,
+    r: 3,
     s: "ssllabs",
     sc: "Domains",
     t: "ssllabs",
@@ -98241,7 +98223,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 29,
+    r: 51,
     s: "DuckDuckGo Safe Search: Off",
     sc: "Search (DDG)",
     t: "ssoff",
@@ -98250,7 +98232,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 4,
+    r: 27,
     s: "DuckDuckGo Safe Search: On",
     sc: "Search (DDG)",
     t: "sson",
@@ -98286,7 +98268,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "shopsmartreviews.in",
-    r: 3,
+    r: 0,
     s: "Shop Smart Reviews",
     sc: "Blogs",
     t: "ssr",
@@ -98313,7 +98295,7 @@ export const bangs = [
   {
     c: "Research",
     d: "surrey-primotc.hosted.exlibrisgroup.com",
-    r: 9,
+    r: 16,
     s: "SurreySearch",
     sc: "Reference",
     t: "ss",
@@ -98322,7 +98304,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 12469,
+    r: 10502,
     s: "startpage.com",
     sc: "Search",
     t: "s",
@@ -98349,7 +98331,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.speedsolving.com",
-    r: 3,
+    r: 0,
     s: "Speedsolving.com Wiki",
     sc: "Reference (fun)",
     t: "sswiki",
@@ -98367,7 +98349,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.songsterr.com",
-    r: 16,
+    r: 33,
     s: "Songsterr",
     sc: "Music",
     t: "stabs",
@@ -98376,7 +98358,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.stackage.org",
-    r: 11,
+    r: 18,
     s: "Hoogle at Stackage",
     sc: "Languages (haskell)",
     t: "stackage",
@@ -98394,7 +98376,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "stackoverflow.com",
-    r: 12,
+    r: 11,
     s: "StackOverflow",
     sc: "Programming",
     t: "stackoverflow",
@@ -98430,7 +98412,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "stackoverflow.com",
-    r: 9,
+    r: 28,
     s: "Stack Overflow",
     sc: "Programming",
     t: "stack",
@@ -98493,7 +98475,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.staples.com",
-    r: 12,
+    r: 7,
     s: "Staples.com",
     sc: "Online",
     t: "staples",
@@ -98520,7 +98502,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "stardewvalleywiki.com",
-    r: 32,
+    r: 161,
     s: "Stardew Wiki",
     sc: "Games (general)",
     t: "stardew",
@@ -98529,7 +98511,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "stardewvalleywiki.com",
-    r: 891,
+    r: 24,
     s: "Stardew Valley Wiki",
     sc: "Games (offline)",
     t: "stardewvalley",
@@ -98538,7 +98520,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "stargate.wikia.com",
-    r: 22,
+    r: 4,
     s: "Stargate Wiki",
     sc: "TV",
     t: "stargate",
@@ -98583,7 +98565,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.startpage.com",
-    r: 654,
+    r: 696,
     s: "Startpage",
     sc: "Search",
     t: "startpage",
@@ -98601,7 +98583,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "memory-alpha.wikia.com",
-    r: 27,
+    r: 21,
     s: "Memory Alpha",
     sc: "TV",
     t: "startrek",
@@ -98610,7 +98592,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.startpage.com",
-    r: 242,
+    r: 348,
     s: "startpage.com",
     sc: "Search",
     t: "start",
@@ -98637,7 +98619,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "starwars.wikia.com",
-    r: 13,
+    r: 28,
     s: "Wookiepedia",
     sc: "TV",
     t: "starwars",
@@ -98655,7 +98637,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "staticice.com.au",
-    r: 17,
+    r: 18,
     s: "Static Ice",
     sc: "Online (intl)",
     t: "staticice",
@@ -98727,7 +98709,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "standardebooks.org",
-    r: 9,
+    r: 13,
     s: "Standard Ebooks",
     sc: "Books",
     t: "stdebook",
@@ -98772,7 +98754,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "steamcharts.com",
-    r: 39,
+    r: 36,
     s: "Steam Charts",
     sc: "Games (general)",
     t: "steamcharts",
@@ -98781,7 +98763,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "steamcommunity.com",
-    r: 23,
+    r: 10,
     s: "Steam Community",
     sc: "Games (general)",
     t: "steamcommunity",
@@ -98790,7 +98772,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "steamdb.info",
-    r: 622,
+    r: 979,
     s: "Steam Database",
     sc: "Games (general)",
     t: "steamdb",
@@ -98817,7 +98799,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "store.steampowered.com",
-    r: 5,
+    r: 0,
     s: "Steam app ID",
     sc: "Games (general)",
     t: "steamid",
@@ -98880,7 +98862,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "steamspy.com",
-    r: 4,
+    r: 3,
     s: "SteamSpy",
     sc: "Games (general)",
     t: "steamspy",
@@ -98889,7 +98871,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "store.steampowered.com",
-    r: 3267,
+    r: 3775,
     s: "Steam",
     sc: "Games (general)",
     t: "steam",
@@ -98952,7 +98934,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "stellaris.paradoxwikis.com",
-    r: 58,
+    r: 20,
     s: "Stellaris Wiki",
     sc: "Games (specific)",
     t: "stellaris",
@@ -98988,7 +98970,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "store.steampowered.com",
-    r: 782,
+    r: 986,
     s: "Steam",
     sc: "Games (general)",
     t: "ste",
@@ -99060,7 +99042,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.cplusplus.com",
-    r: 3,
+    r: 0,
     s: "cplusplus.com",
     sc: "Languages (c++)",
     t: "stl",
@@ -99087,7 +99069,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "stmblog.com",
-    r: 3,
+    r: 0,
     s: "STM-Blog",
     sc: "Blogs",
     t: "stm",
@@ -99103,22 +99085,13 @@ export const bangs = [
     u: "http://stockcharts.com/h-sc/ui?s={{{s}}}&p=D&yr=0&mn=6&dy=0",
   },
   {
-    c: "Online Services",
-    d: "stockflare.com",
-    r: 0,
-    s: "Stockflare",
-    sc: "Tools",
-    t: "$",
-    u: "https://stockflare.com/#stocks/${{{s}}} ",
-  },
-  {
     c: "News",
     d: "finance.google.com",
-    r: 300,
+    r: 107,
     s: "Google Finance",
     sc: "Business",
     t: "stock",
-    u: "http://finance.google.com/?q={{{s}}}&sa=N&tab=fe",
+    u: "https://finance.google.com/?q={{{s}}}&sa=N&tab=fe",
   },
   {
     c: "Multimedia",
@@ -99150,7 +99123,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "stockx.com",
-    r: 0,
+    r: 3,
     s: "StockX",
     sc: "Online (marketplace)",
     t: "stockx",
@@ -99186,7 +99159,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.sierratradingpost.com",
-    r: 0,
+    r: 5,
     s: "Sierra Trading Post",
     sc: "Online",
     t: "stp",
@@ -99249,7 +99222,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.strava.com",
-    r: 17,
+    r: 7,
     s: "Strava",
     sc: "Social",
     t: "strava",
@@ -99258,7 +99231,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.stream.cz",
-    r: 0,
+    r: 7,
     s: "Internetov\u00e1 televize Stream",
     sc: "Video",
     t: "stream",
@@ -99294,7 +99267,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.startribune.com",
-    r: 0,
+    r: 24,
     s: "Star Tribune",
     sc: "Newspaper",
     t: "strib",
@@ -99321,7 +99294,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.strumentimusicali.net",
-    r: 3,
+    r: 0,
     s: "StrumentiMusicali.net",
     sc: "Online",
     t: "strumenti",
@@ -99339,7 +99312,7 @@ export const bangs = [
   {
     c: "Research",
     d: "st-takla.org",
-    r: 0,
+    r: 4,
     s: "st-takla.org",
     sc: "Reference (religion)",
     t: "sts",
@@ -99357,7 +99330,7 @@ export const bangs = [
   {
     c: "News",
     d: "stocktwits.com",
-    r: 81,
+    r: 64,
     s: "stocktwits",
     sc: "Business",
     t: "st",
@@ -99474,7 +99447,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.stuttgarter-zeitung.de",
-    r: 0,
+    r: 3,
     s: "Stuttgarter Zeitung",
     sc: "Newspaper",
     t: "stz",
@@ -99501,7 +99474,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.subito.it",
-    r: 46,
+    r: 40,
     s: "Subito.it",
     sc: "Online (marketplace)",
     t: "subito",
@@ -99537,7 +99510,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "sublime.wbond.net",
-    r: 3,
+    r: 0,
     s: "Sublime Package Control",
     sc: "Downloads (add-ons)",
     t: "sublime",
@@ -99564,7 +99537,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.tunnelsup.com",
-    r: 5,
+    r: 10,
     s: "Subnet Calculator - TunnelsUp",
     sc: "Sysadmin (network)",
     t: "subnet",
@@ -99573,7 +99546,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 102,
+    r: 87,
     s: "Reddit Subreddits",
     sc: "Social news/links",
     t: "subreddit",
@@ -99582,7 +99555,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.reddit.com",
-    r: 4,
+    r: 0,
     s: "Subreddit search",
     sc: "Social news/links",
     t: "subredditsearch",
@@ -99591,7 +99564,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.reddit.com",
-    r: 403,
+    r: 432,
     s: "Reddit",
     sc: "Misc",
     t: "subr",
@@ -99636,7 +99609,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.sudoc.abes.fr",
-    r: 0,
+    r: 7,
     s: "Sudoc",
     sc: "Academic",
     t: "sudoc",
@@ -99708,7 +99681,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "sum.in.ua",
-    r: 53,
+    r: 24,
     s: "Dictionary of Ukrainian Language (\u0421\u043b\u043e\u0432\u043d\u0438\u043a \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438)",
     sc: "Search (non-US)",
     t: "sum",
@@ -99762,7 +99735,7 @@ export const bangs = [
   {
     c: "News",
     d: "sunrise-sunset.org",
-    r: 0,
+    r: 3,
     s: "Sunrise Sunset",
     sc: "Weather",
     t: "sun",
@@ -99780,7 +99753,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "supermarket.chef.io",
-    r: 5,
+    r: 0,
     s: "Chef Supermarket",
     sc: "Downloads (software)",
     t: "super",
@@ -99888,7 +99861,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "software.opensuse.org",
-    r: 12,
+    r: 6,
     s: "OpenSUSE Software search",
     sc: "Sysadmin (packages)",
     t: "susepkg",
@@ -99915,7 +99888,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "software.opensuse.org",
-    r: 0,
+    r: 3,
     s: "openSUSE",
     sc: "Sysadmin",
     t: "sus",
@@ -99924,7 +99897,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "superuser.com",
-    r: 0,
+    r: 5,
     s: "SuperUser",
     sc: "Programming",
     t: "su",
@@ -99978,7 +99951,7 @@ export const bangs = [
   {
     c: "Research",
     d: "svenska.se",
-    r: 4,
+    r: 3,
     s: "Svenska Akademiens Ordb\u00f6cker",
     sc: "Reference (words)",
     t: "svao",
@@ -100032,7 +100005,7 @@ export const bangs = [
   {
     c: "Research",
     d: "svenska.se",
-    r: 90,
+    r: 36,
     s: "Svenska Akademiens Ordb\u00f6cker",
     sc: "Reference (words intl)",
     t: "svenska",
@@ -100041,7 +100014,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.mozilla.org",
-    r: 0,
+    r: 5,
     s: "Mozilla Developer Network",
     sc: "Languages (other)",
     t: "svg",
@@ -100050,7 +100023,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.svgrepo.com",
-    r: 0,
+    r: 6,
     s: "SVG Repo",
     sc: "Images",
     t: "svgrepo",
@@ -100086,7 +100059,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.synonymer.se",
-    r: 6,
+    r: 7,
     s: "Synonymer.se",
     sc: "Reference (words intl)",
     t: "svs",
@@ -100113,7 +100086,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.svtplay.se",
-    r: 11,
+    r: 4,
     s: "SVT Play",
     sc: "Video",
     t: "svt",
@@ -100122,7 +100095,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "voat.co",
-    r: 4,
+    r: 7,
     s: "Voat",
     sc: "Forum",
     t: "sv",
@@ -100140,7 +100113,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "stardewvalleywiki.com",
-    r: 161,
+    r: 16,
     s: "Stardew Valley Wiki",
     sc: "Games (specific)",
     t: "svw",
@@ -100176,7 +100149,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "swappa.com",
-    r: 7,
+    r: 0,
     s: "swappa.com",
     sc: "Online (marketplace)",
     t: "swappa",
@@ -100230,7 +100203,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.sweetwater.com",
-    r: 61,
+    r: 84,
     s: "Sweetwater",
     sc: "Online",
     t: "sweetwater",
@@ -100248,7 +100221,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.swi-prolog.org",
-    r: 3,
+    r: 0,
     s: "SWI-Prolog",
     sc: "Languages (other)",
     t: "swipl",
@@ -100266,7 +100239,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "swisscows.com",
-    r: 48,
+    r: 14,
     s: "Swisscows",
     sc: "Search (Private)",
     t: "swisscows",
@@ -100284,7 +100257,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.swi-prolog.org",
-    r: 0,
+    r: 3,
     s: "SWI-Prolog",
     sc: "Programming",
     t: "swi",
@@ -100320,7 +100293,7 @@ export const bangs = [
   {
     c: "Research",
     d: "simple.wikipedia.org",
-    r: 21,
+    r: 18,
     s: "Simple English Wikipedia",
     sc: "Reference",
     t: "sw",
@@ -100338,7 +100311,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.sweetwater.com",
-    r: 43,
+    r: 21,
     s: "Sweetwater",
     sc: "Tech",
     t: "swtr",
@@ -100356,7 +100329,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "starwars.wikia.com",
-    r: 7,
+    r: 6,
     s: "Wookieepedia",
     sc: "Movies",
     t: "swwiki",
@@ -100365,7 +100338,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "stackexchange.com",
-    r: 6,
+    r: 3,
     s: "Stack Exchange",
     sc: "Social",
     t: "sx",
@@ -100383,7 +100356,7 @@ export const bangs = [
   {
     c: "Research",
     d: "words.bighugelabs.com",
-    r: 0,
+    r: 11,
     s: "Big Huge  Thesaurus",
     sc: "Reference (words)",
     t: "sy",
@@ -100392,7 +100365,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "startpage.com",
-    r: 10,
+    r: 0,
     s: "Startpage",
     sc: "Search (Private)",
     t: "syear",
@@ -100446,7 +100419,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "symfony.com",
-    r: 0,
+    r: 9,
     s: "Symfony Framework",
     sc: "Libraries/Frameworks",
     t: "symfony",
@@ -100473,7 +100446,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "symbolhound.com",
-    r: 3,
+    r: 0,
     s: "Symbolhound",
     sc: "Programming",
     t: "sym",
@@ -100500,7 +100473,7 @@ export const bangs = [
   {
     c: "Research",
     d: "synonyme.de",
-    r: 5,
+    r: 3,
     s: "Synonyme.de",
     sc: "Reference (words intl)",
     t: "synde",
@@ -100518,7 +100491,7 @@ export const bangs = [
   {
     c: "Research",
     d: "synoniemen.net",
-    r: 0,
+    r: 6,
     s: "Synoniemen.net",
     sc: "Reference (words)",
     t: "synoniemen",
@@ -100527,7 +100500,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "synoniemen.net",
-    r: 22,
+    r: 13,
     s: "Synoniemen.net",
     sc: "Tools",
     t: "synoniem",
@@ -100545,7 +100518,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.crisco.unicaen.fr",
-    r: 0,
+    r: 5,
     s: "CRISCO Dictionnaire Electronique des Synonymes",
     sc: "Reference (words intl)",
     t: "synonyme",
@@ -100554,7 +100527,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.synonymer.se",
-    r: 4,
+    r: 0,
     s: "Synonymer",
     sc: "Reference (words)",
     t: "synonymer",
@@ -100572,7 +100545,7 @@ export const bangs = [
   {
     c: "Research",
     d: "thesaurus.com",
-    r: 10,
+    r: 27,
     s: "Thesaurus.com",
     sc: "Reference (words intl)",
     t: "synonyms",
@@ -100581,7 +100554,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thesaurus.com",
-    r: 124,
+    r: 67,
     s: "Thesaurus.com",
     sc: "Reference (words)",
     t: "synonym",
@@ -100590,7 +100563,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.synonymo.fr",
-    r: 29,
+    r: 10,
     s: "Synonymo.fr",
     sc: "Reference (words)",
     t: "syno",
@@ -100608,7 +100581,7 @@ export const bangs = [
   {
     c: "Research",
     d: "thesaurus.com",
-    r: 183,
+    r: 142,
     s: "thesaurus.com",
     sc: "Reference (words)",
     t: "syn",
@@ -100707,7 +100680,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "slovnik.seznam.cz",
-    r: 5,
+    r: 30,
     s: "slovnik.seznam.cz n\u011bm\u010dina",
     sc: "Tools",
     t: "sznsde",
@@ -100734,7 +100707,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "slovnik.seznam.cz",
-    r: 20,
+    r: 12,
     s: "slovnik.seznam.cz",
     sc: "Tools",
     t: "szns",
@@ -100743,7 +100716,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.szotar.net",
-    r: 28,
+    r: 6,
     s: "Sz\u00f3t\u00e1r.net",
     sc: "Tools",
     t: "szotar",
@@ -100761,7 +100734,7 @@ export const bangs = [
   {
     c: "News",
     d: "suche.sueddeutsche.de",
-    r: 8,
+    r: 10,
     s: "S\u00fcddeutsche Zeitung",
     sc: "Newspaper",
     t: "sz",
@@ -100770,7 +100743,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "szotar.sztaki.hu",
-    r: 10,
+    r: 7,
     s: "SZTAKI Sz\u00f3t\u00e1r",
     sc: "Tools",
     t: "sztaki",
@@ -100833,7 +100806,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.911tabs.com",
-    r: 4,
+    r: 3,
     s: "911 Tabs",
     sc: "Music",
     t: "tab",
@@ -100887,7 +100860,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.ultimate-guitar.com",
-    r: 69,
+    r: 83,
     s: "Ultimate Guitar",
     sc: "Music",
     t: "tabs",
@@ -100941,7 +100914,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.tagesschau.de",
-    r: 18,
+    r: 7,
     s: "Tagesschau",
     sc: "Broadcast",
     t: "tagesschau",
@@ -100977,7 +100950,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "taginfo.openstreetmap.org",
-    r: 137,
+    r: 60,
     s: "OpenStreetMap Taginfo",
     sc: "Search",
     t: "taginfo",
@@ -101049,7 +101022,7 @@ export const bangs = [
   {
     c: "Research",
     d: "takoboto.jp",
-    r: 19,
+    r: 13,
     s: "Takoboto",
     sc: "Reference (words)",
     t: "takoboto",
@@ -101058,7 +101031,7 @@ export const bangs = [
   {
     c: "Research",
     d: "takoboto.jp",
-    r: 0,
+    r: 8,
     s: "TAKOBOTO",
     sc: "Reference (words)",
     t: "tako",
@@ -101103,7 +101076,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "theanarchistlibrary.org",
-    r: 28,
+    r: 9,
     s: "The Anarchist Library",
     sc: "Books",
     t: "tal",
@@ -101130,7 +101103,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tangorin.com",
-    r: 3,
+    r: 0,
     s: "Tangorin",
     sc: "Reference (words intl)",
     t: "tangorin",
@@ -101157,7 +101130,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.theaustralian.com.au",
-    r: 0,
+    r: 4,
     s: "The Australian",
     sc: "Newspaper",
     t: "tan",
@@ -101193,7 +101166,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "s.taobao.com",
-    r: 15,
+    r: 10,
     s: "Taobao",
     sc: "Online",
     t: "taobao",
@@ -101220,7 +101193,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.tapology.com",
-    r: 12,
+    r: 3,
     s: "Tapology",
     sc: "Sports",
     t: "tapology",
@@ -101247,7 +101220,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tardis.wikia.com",
-    r: 18,
+    r: 10,
     s: "TARDIS Data Core",
     sc: "TV",
     t: "tardis",
@@ -101265,7 +101238,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.target.com.au",
-    r: 0,
+    r: 3,
     s: "Target Australia",
     sc: "Big box/department",
     t: "targetau",
@@ -101274,7 +101247,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.target.com",
-    r: 303,
+    r: 330,
     s: "Target",
     sc: "Big box/department",
     t: "target",
@@ -101292,7 +101265,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "escapefromtarkov.gamepedia.com",
-    r: 41,
+    r: 153,
     s: "Escape From Tarkov Wiki",
     sc: "Games (general)",
     t: "tarkov",
@@ -101310,7 +101283,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tasvideos.org",
-    r: 10,
+    r: 15,
     s: "TASVideos",
     sc: "Games (specific)",
     t: "tas",
@@ -101346,7 +101319,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tatoeba.org",
-    r: 10,
+    r: 3,
     s: "Tatoeba",
     sc: "Learning",
     t: "tatoeba",
@@ -101364,7 +101337,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tatoeba.org",
-    r: 3,
+    r: 0,
     s: "Tatoeba",
     sc: "Learning (intl)",
     t: "tato",
@@ -101373,7 +101346,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.tripadvisor.com",
-    r: 37,
+    r: 46,
     s: "tripadvisor",
     sc: "Travel",
     t: "ta",
@@ -101436,7 +101409,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.taz.de",
-    r: 7,
+    r: 6,
     s: "taz.die tageszeitung",
     sc: "Newspaper (intl)",
     t: "taz",
@@ -101454,7 +101427,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thebluealliance.com",
-    r: 80,
+    r: 46,
     s: "The Blue Alliance",
     sc: "Academic",
     t: "tba",
@@ -101472,7 +101445,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.tibia.com",
-    r: 0,
+    r: 46,
     s: "Tibia",
     sc: "Games (specific)",
     t: "tbc",
@@ -101517,7 +101490,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.olx.co.id",
-    r: 7,
+    r: 0,
     s: "OLX.co.id (Tokobagus)",
     sc: "Online (marketplace)",
     t: "tb",
@@ -101571,7 +101544,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "store.tcgplayer.com",
-    r: 5,
+    r: 7,
     s: "TCGPlayer",
     sc: "Games (offline)",
     t: "tcgplayer",
@@ -101580,7 +101553,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "shop.tcgplayer.com",
-    r: 47,
+    r: 23,
     s: "TCGPlayer",
     sc: "Online",
     t: "tcgp",
@@ -101607,7 +101580,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.tcl.tk",
-    r: 3,
+    r: 0,
     s: "TCLers Wiki",
     sc: "Languages (other)",
     t: "tcl",
@@ -101634,7 +101607,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.todocoleccion.net",
-    r: 10,
+    r: 0,
     s: "todocoleccion",
     sc: "Online (marketplace)",
     t: "tcol",
@@ -101652,7 +101625,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tcrf.net",
-    r: 64,
+    r: 94,
     s: "The Cutting Room Floor",
     sc: "Games (general)",
     t: "tcrf",
@@ -101670,7 +101643,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "techcrunch.com",
-    r: 9,
+    r: 0,
     s: "Techcrunch",
     sc: "Blogs",
     t: "tc",
@@ -101742,7 +101715,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sozluk.gov.tr",
-    r: 92,
+    r: 88,
     s: "T\u00fcrk Dil Kurumu",
     sc: "Reference (words)",
     t: "tdk",
@@ -102066,7 +102039,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.ted.com",
-    r: 6,
+    r: 0,
     s: "TED",
     sc: "Video",
     t: "ted",
@@ -102156,7 +102129,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.tekstowo.pl",
-    r: 3,
+    r: 0,
     s: "Tekstowo",
     sc: "Music (Lyrics)",
     t: "tekstowo",
@@ -102210,7 +102183,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.telegram.hr",
-    r: 10,
+    r: 7,
     s: "Telegram.hr",
     sc: "Newspaper",
     t: "telegram",
@@ -102318,7 +102291,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "temp-mail.org",
-    r: 30,
+    r: 23,
     s: "https://temp-mail.org/",
     sc: "Tools",
     t: "tempmail",
@@ -102336,7 +102309,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.treccani.it",
-    r: 3,
+    r: 0,
     s: "Treccani Enciclopedia",
     sc: "Reference (science)",
     t: "tenc",
@@ -102345,7 +102318,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 44,
+    r: 19,
     s: "Google Translate to English",
     sc: "Google",
     t: "ten",
@@ -102363,7 +102336,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "tenor.com",
-    r: 509,
+    r: 535,
     s: "tenor",
     sc: "Images",
     t: "tenor",
@@ -102453,7 +102426,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "terraria.gamepedia.com",
-    r: 77,
+    r: 31,
     s: "Official Terraria Wiki",
     sc: "Games (specific)",
     t: "terraria",
@@ -102462,7 +102435,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "terraria.gamepedia.com",
-    r: 0,
+    r: 4,
     s: "Terraria Gamepedia Wiki",
     sc: "Games (general)",
     t: "terrg",
@@ -102471,7 +102444,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "extensions.typo3.org",
-    r: 19,
+    r: 18,
     s: "TYPO3 Extension repository",
     sc: "Downloads",
     t: "ter",
@@ -102480,7 +102453,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tesco.com",
-    r: 37,
+    r: 18,
     s: "Tesco UK",
     sc: "Big box/department",
     t: "tesco",
@@ -102489,7 +102462,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 50,
+    r: 15,
     s: "Google Translate to Spanish",
     sc: "Google",
     t: "tes",
@@ -102507,7 +102480,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tesoro.pr",
-    r: 0,
+    r: 3,
     s: "Tesoro lexicogr\u00e1fico del espa\u00f1ol de Puerto Rico",
     sc: "Reference (words intl)",
     t: "tesoro",
@@ -102525,7 +102498,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.greek-language.gr",
-    r: 14,
+    r: 19,
     s: "http://www.greek-language.gr",
     sc: "Academic",
     t: "test",
@@ -102534,7 +102507,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "testi.xyz",
-    r: 3,
+    r: 0,
     s: "Testi.xyz",
     sc: "Music (Lyrics)",
     t: "testi",
@@ -102561,7 +102534,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.treccani.it",
-    r: 30,
+    r: 10,
     s: "Treccani Enciclopedia",
     sc: "Reference (science)",
     t: "te",
@@ -102588,7 +102561,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "texdoc.net",
-    r: 19,
+    r: 65,
     s: "Texdoc",
     sc: "Languages (latex)",
     t: "texdoc",
@@ -102597,7 +102570,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "tex.stackexchange.com",
-    r: 0,
+    r: 14,
     s: "tex.stackexchange",
     sc: "Languages (latex)",
     t: "texse",
@@ -102606,7 +102579,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "tex.stackexchange.com",
-    r: 5,
+    r: 12,
     s: "TeX Stack Exchange",
     sc: "Social",
     t: "tex",
@@ -102624,7 +102597,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.textise.net",
-    r: 27,
+    r: 3,
     s: "Textise",
     sc: "Tools",
     t: "textise",
@@ -102678,7 +102651,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamfortress.com",
-    r: 34,
+    r: 31,
     s: "TF2 Wiki",
     sc: "Games (general)",
     t: "tf2",
@@ -102687,7 +102660,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamfortress.com",
-    r: 5,
+    r: 0,
     s: "Team Fortress Official Wiki",
     sc: "Games (specific)",
     t: "tf2wiki",
@@ -102714,7 +102687,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.thefreedictionary.com",
-    r: 39,
+    r: 19,
     s: "The Free Dictionary DE",
     sc: "Reference (words)",
     t: "tfdde",
@@ -102768,7 +102741,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thefreedictionary.com",
-    r: 263,
+    r: 279,
     s: "The Free Dictionary",
     sc: "Reference (words)",
     t: "tfd",
@@ -102804,7 +102777,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.tfl.gov.uk",
-    r: 6,
+    r: 9,
     s: "Transport for London",
     sc: "Travel",
     t: "tfl",
@@ -102831,7 +102804,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.tensorflow.org",
-    r: 14,
+    r: 8,
     s: "Tensor Flow",
     sc: "Programming",
     t: "tf",
@@ -102840,7 +102813,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.freethesaurus.com",
-    r: 5,
+    r: 45,
     s: "The Free Thesaurus",
     sc: "Tools",
     t: "tft",
@@ -102858,7 +102831,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tfwiki.net",
-    r: 20,
+    r: 17,
     s: "Transformers Wiki",
     sc: "TV",
     t: "tfwiki",
@@ -102867,7 +102840,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tolkiengateway.net",
-    r: 3,
+    r: 12,
     s: "Tolkien Gateway",
     sc: "Misc",
     t: "tgate",
@@ -102939,7 +102912,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tgstation13.org",
-    r: 3,
+    r: 5,
     s: "/tg/station 13 Wiki",
     sc: "Games (specific)",
     t: "tgs",
@@ -102957,7 +102930,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.target.com",
-    r: 14,
+    r: 27,
     s: "Target",
     sc: "Online",
     t: "tgt",
@@ -102984,7 +102957,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.thalia.de",
-    r: 40,
+    r: 62,
     s: "Thalia.de",
     sc: "Books",
     t: "thalia",
@@ -103011,7 +102984,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.theage.com.au",
-    r: 81,
+    r: 58,
     s: "The Age",
     sc: "Newspaper",
     t: "theage",
@@ -103020,7 +102993,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.theatlantic.com",
-    r: 15,
+    r: 3,
     s: "The Atlantic",
     sc: "Magazine",
     t: "theatlantic",
@@ -103227,7 +103200,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.themoviedb.org",
-    r: 15,
+    r: 40,
     s: "TheMovieDB.org",
     sc: "Movies",
     t: "themoviedb",
@@ -103272,7 +103245,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.hooktheory.com",
-    r: 0,
+    r: 3,
     s: "Theorytab",
     sc: "Music",
     t: "theorytab",
@@ -103308,7 +103281,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.thesaurus.com",
-    r: 526,
+    r: 402,
     s: "Thesaurus.com",
     sc: "Tools",
     t: "thesaurus",
@@ -103317,7 +103290,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "thesession.org",
-    r: 6,
+    r: 0,
     s: "The Session",
     sc: "Music",
     t: "thesession",
@@ -103326,7 +103299,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.theses.fr",
-    r: 3,
+    r: 0,
     s: "Theses.fr",
     sc: "Academic",
     t: "theses",
@@ -103362,7 +103335,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thesaurus.com",
-    r: 270,
+    r: 209,
     s: "Thesaurus",
     sc: "Reference (words)",
     t: "thes",
@@ -103380,7 +103353,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.thetvdb.com",
-    r: 5,
+    r: 0,
     s: "The TV db",
     sc: "Docs",
     t: "thetvdb",
@@ -103389,7 +103362,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.theverge.com",
-    r: 12,
+    r: 8,
     s: "The Verge",
     sc: "International",
     t: "theverge",
@@ -103434,7 +103407,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.thingiverse.com",
-    r: 26,
+    r: 27,
     s: "Thingiverse",
     sc: "Design",
     t: "thg",
@@ -103461,7 +103434,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.thingiverse.com",
-    r: 131,
+    r: 67,
     s: "Thingiverse",
     sc: "Design",
     t: "thingiverse",
@@ -103470,7 +103443,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.thingiverse.com",
-    r: 154,
+    r: 90,
     s: "Thingiverse",
     sc: "Design",
     t: "thing",
@@ -103479,7 +103452,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.thingiverse.com",
-    r: 8,
+    r: 4,
     s: "Thingiverse",
     sc: "Downloads",
     t: "thingy",
@@ -103551,7 +103524,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.thomann.de",
-    r: 32,
+    r: 19,
     s: "thomann.de",
     sc: "Online",
     t: "thm",
@@ -103569,7 +103542,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.thomann.de",
-    r: 98,
+    r: 69,
     s: "Thomann",
     sc: "Online",
     t: "thomann",
@@ -103596,7 +103569,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.thorlabs.de",
-    r: 7,
+    r: 0,
     s: "Thorlabs",
     sc: "Tech",
     t: "thorlabs",
@@ -103641,7 +103614,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "threadreaderapp.com",
-    r: 3,
+    r: 0,
     s: "Thread reader",
     sc: "Tools (URLs)",
     t: "thread",
@@ -103659,7 +103632,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.thriftbooks.com",
-    r: 22,
+    r: 0,
     s: "ThriftBooks",
     sc: "Online (deals)",
     t: "thriftb",
@@ -103713,7 +103686,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "en.touhouwiki.net",
-    r: 5,
+    r: 9,
     s: "Touhouwiki (English)",
     sc: "Games (specific)",
     t: "thwiki",
@@ -103722,7 +103695,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "en.touhouwiki.net",
-    r: 26,
+    r: 15,
     s: "Touhou Wiki",
     sc: "Games (specific)",
     t: "thw",
@@ -103749,7 +103722,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tibia.wikia.com",
-    r: 4,
+    r: 0,
     s: "Tibia Wikia",
     sc: "Games (specific)",
     t: "tibiawiki",
@@ -103774,18 +103747,9 @@ export const bangs = [
     u: "http://opac.tib.uni-hannover.de/DB=1/SET=1/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}",
   },
   {
-    c: "Tech",
-    d: "stockflare.com",
-    r: 0,
-    s: "Stockflare",
-    sc: "Companies",
-    t: "ticker",
-    u: "https://stockflare.com/#stocks/${{{s}}} ",
-  },
-  {
     c: "Online Services",
     d: "www.ticketmaster.com",
-    r: 0,
+    r: 3,
     s: "Ticket Master",
     sc: "Events",
     t: "ticketmaster",
@@ -103830,7 +103794,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "listen.tidal.com",
-    r: 30,
+    r: 35,
     s: "Tidal",
     sc: "Music",
     t: "tidal",
@@ -103848,7 +103812,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tieba.baidu.com",
-    r: 91,
+    r: 42,
     s: "\u767e\u5ea6\u8d34\u5427",
     sc: "Forum",
     t: "tieba",
@@ -103965,7 +103929,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "time.is",
-    r: 28,
+    r: 37,
     s: "Time Is",
     sc: "Tools",
     t: "timeis",
@@ -103983,7 +103947,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 33,
+    r: 30,
     s: "DuckDuckGo Timer",
     sc: "Tools",
     t: "timer",
@@ -104010,7 +103974,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "unixtimestamp.com",
-    r: 0,
+    r: 3,
     s: "Unix Timestamp",
     sc: "Sysadmin",
     t: "timestamp",
@@ -104019,7 +103983,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.unixtimestamp.org",
-    r: 13,
+    r: 7,
     s: "Unix Timestamp",
     sc: "Sysadmin",
     t: "time",
@@ -104028,7 +103992,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.timeanddate.com",
-    r: 5,
+    r: 0,
     s: "Time and Date (time zone)",
     sc: "Tools",
     t: "timezone",
@@ -104055,7 +104019,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.tineye.com",
-    r: 376,
+    r: 185,
     s: "Tineye",
     sc: "Images",
     t: "tineye",
@@ -104109,7 +104073,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "tinyurl.com",
-    r: 6,
+    r: 0,
     s: "TinyURL.com",
     sc: "Images",
     t: "tinyurl",
@@ -104127,7 +104091,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.tipranks.com",
-    r: 0,
+    r: 7,
     s: "Tip Ranks",
     sc: "Business",
     t: "tipranks",
@@ -104136,7 +104100,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.tipeee.com",
-    r: 3,
+    r: 4,
     s: "tipeee",
     sc: "General",
     t: "tip",
@@ -104154,7 +104118,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tiss.tuwien.ac.at",
-    r: 25,
+    r: 29,
     s: "tiss.tuwien.ac.at",
     sc: "Local",
     t: "tiss",
@@ -104163,7 +104127,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "time.is",
-    r: 27,
+    r: 13,
     s: "Time.is",
     sc: "Tools",
     t: "tis",
@@ -104181,7 +104145,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tunein.com",
-    r: 15,
+    r: 9,
     s: "TuneIn Radio",
     sc: "Radio",
     t: "ti",
@@ -104235,7 +104199,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tacojohns.com",
-    r: 4,
+    r: 0,
     s: "Taco John's",
     sc: "Online",
     t: "tj",
@@ -104280,7 +104244,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "trakt.tv",
-    r: 6,
+    r: 24,
     s: "Trakt Movies",
     sc: "Movies",
     t: "tkm",
@@ -104298,7 +104262,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tokopedia.com",
-    r: 42,
+    r: 21,
     s: "Tokopedia",
     sc: "Online (marketplace)",
     t: "tkpd",
@@ -104307,7 +104271,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "trakt.tv",
-    r: 8,
+    r: 9,
     s: "Trakt Shows",
     sc: "TV",
     t: "tks",
@@ -104325,7 +104289,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamliquid.net",
-    r: 29,
+    r: 54,
     s: "Liquipedia Dota 2 Wiki",
     sc: "Games (specific)",
     t: "tld",
@@ -104343,7 +104307,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "tldrlegal.com",
-    r: 0,
+    r: 3,
     s: "TL;DR Legal",
     sc: "Tools",
     t: "tldrlegal",
@@ -104352,7 +104316,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "tldr.inbrowser.app",
-    r: 35,
+    r: 51,
     s: "Tldr",
     sc: "Sysadmin",
     t: "tldr",
@@ -104361,7 +104325,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.linguee.com",
-    r: 31,
+    r: 32,
     s: "Linguee English German",
     sc: "Search",
     t: "tlenge",
@@ -104370,7 +104334,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.cnrtl.fr",
-    r: 20,
+    r: 30,
     s: "Tr\u00e9sor de la Langue Fran\u00e7aise informatis\u00e9",
     sc: "Reference (words intl)",
     t: "tlfi",
@@ -104388,7 +104352,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "web.telegram.org",
-    r: 10,
+    r: 65,
     s: "Telegram",
     sc: "Social",
     t: "tlgrm",
@@ -104442,7 +104406,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.thorlabs.com",
-    r: 4,
+    r: 14,
     s: "Thorlabs",
     sc: "Online",
     t: "tls",
@@ -104451,7 +104415,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.teamliquid.net",
-    r: 8,
+    r: 12,
     s: "Team Liquid",
     sc: "Games (specific)",
     t: "tl",
@@ -104460,7 +104424,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.teamliquid.net",
-    r: 37,
+    r: 41,
     s: "Team Liquid Wiki",
     sc: "Games (general)",
     t: "tlw",
@@ -104514,7 +104478,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "tmbw.net",
-    r: 40,
+    r: 35,
     s: "This MIght Be a Wiki",
     sc: "Music",
     t: "tmbw",
@@ -104523,7 +104487,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.themoviedb.org",
-    r: 1398,
+    r: 1585,
     s: "TheMovieDB.org",
     sc: "Video",
     t: "tmdb",
@@ -104532,7 +104496,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.transfermarkt.com",
-    r: 26,
+    r: 14,
     s: "Transfermarkt.com",
     sc: "Sports",
     t: "tmen",
@@ -104541,7 +104505,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tme.eu",
-    r: 0,
+    r: 6,
     s: "Transfer Multisort Elektronik",
     sc: "Online",
     t: "tme",
@@ -104550,7 +104514,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "registry.terraform.io",
-    r: 31,
+    r: 20,
     s: "Terraform Module Registry",
     sc: "Programming",
     t: "tmg",
@@ -104586,7 +104550,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.trademe.co.nz",
-    r: 21,
+    r: 19,
     s: "Trade Me",
     sc: "Online (marketplace)",
     t: "tm",
@@ -104604,7 +104568,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.transfermarkt.co.uk",
-    r: 17,
+    r: 18,
     s: "Transfermarkt",
     sc: "Sports",
     t: "tmuk",
@@ -104622,7 +104586,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.tmz.com",
-    r: 31,
+    r: 61,
     s: "TMZ",
     sc: "Misc",
     t: "tmz",
@@ -104658,7 +104622,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "thenounproject.com",
-    r: 3,
+    r: 0,
     s: "The Noun Project",
     sc: "Images",
     t: "tnp",
@@ -104676,7 +104640,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.timesnownews.com",
-    r: 0,
+    r: 3,
     s: "Times Now",
     sc: "Broadcast",
     t: "tn",
@@ -104775,7 +104739,7 @@ export const bangs = [
   {
     c: "News",
     d: "timesofindia.indiatimes.com",
-    r: 5,
+    r: 4,
     s: "The Times of India",
     sc: "International",
     t: "toi",
@@ -104802,7 +104766,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tokopedia.com",
-    r: 51,
+    r: 25,
     s: "www.tokopedia.com",
     sc: "Online (marketplace)",
     t: "tokopedia",
@@ -104838,7 +104802,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tolkiengateway.net",
-    r: 7,
+    r: 9,
     s: "Tokien Gateway",
     sc: "Topical",
     t: "tolkien",
@@ -104946,7 +104910,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "toolslib.net",
-    r: 0,
+    r: 3,
     s: "ToolsLib",
     sc: "Downloads",
     t: "toolslib",
@@ -104964,7 +104928,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tokopedia.com",
-    r: 148,
+    r: 62,
     s: "Tokopedia",
     sc: "Online (marketplace)",
     t: "toped",
@@ -104991,7 +104955,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "pl.bab.la",
-    r: 0,
+    r: 4,
     s: "pl.bab.la",
     sc: "Google",
     t: "topl",
@@ -105000,7 +104964,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.toppreise.ch",
-    r: 41,
+    r: 46,
     s: "Toppreise.ch",
     sc: "Online",
     t: "toppreise",
@@ -105018,7 +104982,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.techopedia.com",
-    r: 3,
+    r: 10,
     s: "Techopedia",
     sc: "Reference",
     t: "top",
@@ -105045,7 +105009,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "atlas.torproject.org",
-    r: 0,
+    r: 3,
     s: "Atlas (Tor Project)",
     sc: "Domains",
     t: "toratlas",
@@ -105063,7 +105027,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "torob.com",
-    r: 28,
+    r: 13,
     s: "Torob",
     sc: "Online",
     t: "torob",
@@ -105072,7 +105036,7 @@ export const bangs = [
   {
     c: "News",
     d: "torrentfreak.com",
-    r: 8,
+    r: 7,
     s: "Torrent Freak",
     sc: "Specialty",
     t: "torrentfreak",
@@ -105081,7 +105045,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "{{{s}}}.tor2web.org",
-    r: 8,
+    r: 0,
     s: "Tor 2 Web",
     sc: "Domains",
     t: "tor",
@@ -105153,7 +105117,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "en.touhouwiki.net",
-    r: 28,
+    r: 21,
     s: "Touhou Wiki",
     sc: "Games (specific)",
     t: "touhou",
@@ -105252,7 +105216,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.torontopubliclibrary.ca",
-    r: 10,
+    r: 4,
     s: "Toronto Public Library",
     sc: "Local",
     t: "tpl",
@@ -105288,7 +105252,7 @@ export const bangs = [
   {
     c: "Research",
     d: "thesaurus.plus",
-    r: 11,
+    r: 5,
     s: "Thesaurus Plus",
     sc: "Reference (words)",
     t: "tp",
@@ -105306,7 +105270,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "tweakers.net",
-    r: 67,
+    r: 56,
     s: "Tweakers Pricewatch",
     sc: "Online",
     t: "tpw",
@@ -105342,7 +105306,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.packagemapping.com",
-    r: 13,
+    r: 19,
     s: "PackageMapping",
     sc: "Tracking",
     t: "track",
@@ -105351,7 +105315,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.packagetrackr.com",
-    r: 16,
+    r: 15,
     s: "Packagetrackr",
     sc: "Tracking",
     t: "trackr",
@@ -105387,7 +105351,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.trademe.co.nz",
-    r: 70,
+    r: 62,
     s: "TradeMe",
     sc: "Online (marketplace)",
     t: "trademe",
@@ -105396,7 +105360,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tradera.com",
-    r: 10,
+    r: 11,
     s: "Tradera",
     sc: "Online (marketplace)",
     t: "tradera",
@@ -105405,7 +105369,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.tradingview.com",
-    r: 35,
+    r: 15,
     s: "TradingView",
     sc: "Tools",
     t: "tradingview",
@@ -105414,7 +105378,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dictionary.reverso.net",
-    r: 77,
+    r: 69,
     s: "Reverso",
     sc: "Tools",
     t: "trad",
@@ -105468,7 +105432,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "trakt.tv",
-    r: 295,
+    r: 1019,
     s: "Trakt",
     sc: "TV",
     t: "trakt",
@@ -105486,7 +105450,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.transfermarkt.de",
-    r: 53,
+    r: 16,
     s: "transfermarkt.de",
     sc: "Sports",
     t: "transfermarkt",
@@ -105495,7 +105459,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 1459,
+    r: 1090,
     s: "Google Translate to English",
     sc: "Google",
     t: "trans",
@@ -105504,7 +105468,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.google.com",
-    r: 9,
+    r: 0,
     s: "Google Translate 2DE",
     sc: "Google",
     t: "translatede",
@@ -105513,7 +105477,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 4185,
+    r: 2945,
     s: "Google Translate",
     sc: "Google",
     t: "translate",
@@ -105648,7 +105612,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.treccani.it",
-    r: 41,
+    r: 11,
     s: "treccani",
     sc: "Reference (words intl)",
     t: "treccani",
@@ -105657,7 +105621,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thesaurus.com",
-    r: 10,
+    r: 0,
     s: "Thesaurus at Reference.com",
     sc: "Reference",
     t: "tref",
@@ -105666,7 +105630,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "trello.com",
-    r: 16,
+    r: 3,
     s: "Trello",
     sc: "Tracking",
     t: "trello",
@@ -105693,7 +105657,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 52,
+    r: 24,
     s: "Google Trends",
     sc: "Google",
     t: "trends",
@@ -105765,7 +105729,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "translate.google.com",
-    r: 7428,
+    r: 5864,
     s: "Google Translate",
     sc: "Google",
     t: "tr",
@@ -105783,7 +105747,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.tripadvisor.com",
-    r: 21,
+    r: 29,
     s: "Trip Advisor",
     sc: "Travel",
     t: "tripadvisor",
@@ -105918,7 +105882,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "tvtropes.org",
-    r: 27,
+    r: 12,
     s: "TV Tropes",
     sc: "Docs",
     t: "trope",
@@ -105945,7 +105909,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.trovaprezzi.it",
-    r: 20,
+    r: 28,
     s: "Trovaprezzi.it",
     sc: "Services",
     t: "trovaprezzi",
@@ -105954,7 +105918,7 @@ export const bangs = [
   {
     c: "Research",
     d: "trove.nla.gov.au",
-    r: 4,
+    r: 15,
     s: "Trove - National Library of Australia",
     sc: "Academic",
     t: "trove",
@@ -105963,7 +105927,7 @@ export const bangs = [
   {
     c: "Research",
     d: "translatica.pl",
-    r: 3,
+    r: 0,
     s: "Translatica",
     sc: "Reference (words intl)",
     t: "trpl",
@@ -105981,7 +105945,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.trueachievements.com",
-    r: 4,
+    r: 126,
     s: "TrueAchievements",
     sc: "Games (specific)",
     t: "trueachievements",
@@ -105990,7 +105954,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "truesteamachievements.com",
-    r: 5,
+    r: 0,
     s: "TrueSteamAchievements",
     sc: "Games (specific)",
     t: "truesteam",
@@ -106008,7 +105972,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.truecaller.com",
-    r: 0,
+    r: 6,
     s: "Truecaller India",
     sc: "Search",
     t: "true",
@@ -106035,7 +105999,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "twitter.com",
-    r: 8,
+    r: 3,
     s: "Donald Trump's Twitter",
     sc: "Social",
     t: "trump",
@@ -106044,7 +106008,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.trustpilot.com",
-    r: 34,
+    r: 22,
     s: "Trustpilot",
     sc: "Services",
     t: "trustpilot",
@@ -106089,7 +106053,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tractorsupply.com",
-    r: 3,
+    r: 5,
     s: "Tractor Supply Co",
     sc: "Big box/department",
     t: "tsco",
@@ -106152,7 +106116,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.turbosquid.com",
-    r: 10,
+    r: 4,
     s: "TurboSquid",
     sc: "Downloads",
     t: "ts",
@@ -106206,7 +106170,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.thesaurus.com",
-    r: 1931,
+    r: 1835,
     s: "Thesaurus.com",
     sc: "Reference (words)",
     t: "t",
@@ -106242,7 +106206,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.triestetrasporti.it",
-    r: 4,
+    r: 0,
     s: "Trieste Trasporti",
     sc: "Maps",
     t: "tts",
@@ -106251,7 +106215,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.texastribune.org",
-    r: 60,
+    r: 129,
     s: "Texas Tribune",
     sc: "Online",
     t: "tt",
@@ -106269,7 +106233,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.twitch.tv",
-    r: 3158,
+    r: 2834,
     s: "Twitch",
     sc: "Games (general)",
     t: "ttv",
@@ -106278,7 +106242,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 3,
+    r: 4,
     s: "DuckDuckGo TTY",
     sc: "Search",
     t: "tty",
@@ -106305,7 +106269,7 @@ export const bangs = [
   {
     c: "Research",
     d: "katalog.tub.tuhh.de",
-    r: 0,
+    r: 6,
     s: "TUHH Library",
     sc: "Academic",
     t: "tub",
@@ -106386,7 +106350,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.tujavortaro.net",
-    r: 11,
+    r: 0,
     s: "Tuja Vortaro",
     sc: "Learning (intl)",
     t: "tuj",
@@ -106395,7 +106359,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.tumblr.com",
-    r: 735,
+    r: 732,
     s: "tumblr",
     sc: "General",
     t: "tumblr",
@@ -106413,7 +106377,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.tum.de",
-    r: 4,
+    r: 0,
     s: "Technical University of Munich",
     sc: "Academic",
     t: "tum",
@@ -106440,7 +106404,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "tunebat.com",
-    r: 9,
+    r: 10,
     s: "Tunebat",
     sc: "Music",
     t: "tunebat",
@@ -106449,7 +106413,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.tunefind.com",
-    r: 0,
+    r: 6,
     s: "Tunefind",
     sc: "Movies",
     t: "tunefind",
@@ -106494,7 +106458,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tureng.com",
-    r: 330,
+    r: 348,
     s: "Tureng",
     sc: "Reference",
     t: "tureng",
@@ -106521,7 +106485,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tureng.com",
-    r: 105,
+    r: 147,
     s: "Tureng",
     sc: "Reference (words)",
     t: "tur",
@@ -106530,7 +106494,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.tutanota.com",
-    r: 19,
+    r: 16,
     s: "Tutanota Mail",
     sc: "Social",
     t: "tutanota",
@@ -106584,7 +106548,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.tutti.ch",
-    r: 14,
+    r: 9,
     s: "www.tutti.ch",
     sc: "Online (marketplace)",
     t: "tutti",
@@ -106611,7 +106575,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tu-dresden.de",
-    r: 7,
+    r: 0,
     s: "TU Dresden",
     sc: "Academic",
     t: "tu",
@@ -106692,7 +106656,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "tweakers.net",
-    r: 22,
+    r: 19,
     s: "Tweakers Vraag & Aanbod",
     sc: "Online (marketplace)",
     t: "tva",
@@ -106719,7 +106683,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.thetvdb.com",
-    r: 357,
+    r: 287,
     s: "TheTVDB.com",
     sc: "TV",
     t: "tvdb",
@@ -106746,7 +106710,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.tradingview.com",
-    r: 158,
+    r: 92,
     s: "TradingView",
     sc: "Business",
     t: "tview",
@@ -106773,7 +106737,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.tvmaze.com",
-    r: 48,
+    r: 25,
     s: "TVmaze",
     sc: "TV",
     t: "tvmaze",
@@ -106791,7 +106755,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.treccani.it",
-    r: 18,
+    r: 6,
     s: "Treccani Vocabolario",
     sc: "Reference (words)",
     t: "tvoc",
@@ -106845,7 +106809,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tvtropes.org",
-    r: 1001,
+    r: 801,
     s: "TV Tropes",
     sc: "TV",
     t: "tvtropes",
@@ -106854,7 +106818,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tvtropes.org",
-    r: 2131,
+    r: 1927,
     s: "tvtropes",
     sc: "Reference (fun)",
     t: "tvt",
@@ -106863,7 +106827,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.tv.com",
-    r: 31,
+    r: 25,
     s: "tv.com",
     sc: "TV",
     t: "tv",
@@ -106872,7 +106836,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "thewirecutter.com",
-    r: 73,
+    r: 92,
     s: "Wirecutter (A New York Times Company)",
     sc: "Online",
     t: "twc",
@@ -106881,7 +106845,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "tweakers.net",
-    r: 44,
+    r: 96,
     s: "tweakers.net",
     sc: "Tech",
     t: "tweakers",
@@ -106890,7 +106854,7 @@ export const bangs = [
   {
     c: "News",
     d: "tweakers.net",
-    r: 23,
+    r: 60,
     s: "Tweakers",
     sc: "International",
     t: "tweak",
@@ -106926,7 +106890,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.twitch.tv",
-    r: 24,
+    r: 7,
     s: "Twitch game search",
     sc: "Games (general)",
     t: "twg",
@@ -106935,7 +106899,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.twitch.tv",
-    r: 10,
+    r: 7,
     s: "Twitch TV",
     sc: "Games (general)",
     t: "twich",
@@ -106998,7 +106962,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "twitch.tv",
-    r: 23,
+    r: 15,
     s: "Twitch Channel",
     sc: "Games (general)",
     t: "twitchc",
@@ -107016,7 +106980,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.twitch.tv",
-    r: 33,
+    r: 8,
     s: "Twitch Game",
     sc: "Games (general)",
     t: "twitchg",
@@ -107034,7 +106998,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "twitch.tv",
-    r: 3136,
+    r: 2821,
     s: "Twitch.tv",
     sc: "Games (general)",
     t: "twitch",
@@ -107052,7 +107016,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "twitter.com",
-    r: 591,
+    r: 416,
     s: "Twitter",
     sc: "Social",
     t: "twitter",
@@ -107070,7 +107034,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "twitter.com",
-    r: 5,
+    r: 0,
     s: "Twitter User",
     sc: "Social",
     t: "twitteruser",
@@ -107088,7 +107052,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "twitter.com",
-    r: 28,
+    r: 9,
     s: "Twitter",
     sc: "Social",
     t: "twit",
@@ -107106,7 +107070,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "twitter.com",
-    r: 53,
+    r: 20,
     s: "Twitter Latest",
     sc: "Search (Real-time)",
     t: "twl",
@@ -107124,7 +107088,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.theweathernetwork.com",
-    r: 7,
+    r: 6,
     s: "The Weather Network",
     sc: "Weather",
     t: "twn",
@@ -107142,16 +107106,16 @@ export const bangs = [
   {
     c: "News",
     d: "www.washingtonpost.com",
-    r: 51,
+    r: 61,
     s: "The Washington Post",
     sc: "Newspaper",
     t: "twp",
-    u: "http://www.washingtonpost.com/newssearch/search.html?st={{{s}}}",
+    u: "https://www.washingtonpost.com/search/?query={{{s}}}",
   },
   {
     c: "Shopping",
     d: "tweakers.net",
-    r: 7,
+    r: 14,
     s: "Tweakers Pricewatch",
     sc: "Online (deals)",
     t: "twpw",
@@ -107169,7 +107133,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "twitter.com",
-    r: 9964,
+    r: 6493,
     s: "Twitter",
     sc: "Social",
     t: "tw",
@@ -107196,7 +107160,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.ti.com",
-    r: 3,
+    r: 0,
     s: "Texas Instruments",
     sc: "Design",
     t: "txi",
@@ -107205,7 +107169,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "search2.tv-tokyo.co.jp",
-    r: 4,
+    r: 0,
     s: "TV Tokyo",
     sc: "TV",
     t: "tx",
@@ -107231,7 +107195,7 @@ export const bangs = [
   },
   {
     d: "tyda.se",
-    r: 63,
+    r: 51,
     s: "Tyda.se",
     t: "tyda",
     u: "http://tyda.se/search?w={{{s}}}",
@@ -107239,7 +107203,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tyda.se",
-    r: 10,
+    r: 6,
     s: "Tyda.se",
     sc: "Learning",
     t: "tyd",
@@ -107257,7 +107221,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 5,
+    r: 0,
     s: "TypeScript Lang",
     sc: "Languages (other)",
     t: "typescript",
@@ -107284,7 +107248,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 1138,
+    r: 848,
     s: "YouTube",
     sc: "Video",
     t: "ty",
@@ -107293,7 +107257,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.timeanddate.com",
-    r: 11,
+    r: 7,
     s: "timeanddate",
     sc: "Specialty",
     t: "tz",
@@ -107374,7 +107338,7 @@ export const bangs = [
   {
     c: "Research",
     d: "gu-se-primo.hosted.exlibrisgroup.com",
-    r: 29,
+    r: 16,
     s: "G\u00f6teborgs universitetsbibliotek / University of Gothenburg library",
     sc: "Academic",
     t: "ub",
@@ -107473,7 +107437,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 3,
+    r: 0,
     s: "https://www.ubuntu-fr.org/",
     sc: "Sysadmin (Ubuntu)",
     t: "ubufr",
@@ -107491,7 +107455,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "ubuntuforums.org",
-    r: 4,
+    r: 0,
     s: "Ubuntu Forums",
     sc: "Sysadmin (Ubuntu)",
     t: "ubuntuforums",
@@ -107518,7 +107482,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.ubuntu.com",
-    r: 70,
+    r: 28,
     s: "Ubuntu Packages",
     sc: "Sysadmin (packages)",
     t: "ubuntupack",
@@ -107536,7 +107500,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.ubuntu.com",
-    r: 15,
+    r: 13,
     s: "Ubuntu",
     sc: "Sysadmin (Ubuntu)",
     t: "ubuntu",
@@ -107680,7 +107644,7 @@ export const bangs = [
   {
     c: "Research",
     d: "catalog.lib.uchicago.edu",
-    r: 0,
+    r: 51,
     s: "University of Chicago Library Catalog",
     sc: "Academic",
     t: "uc",
@@ -107698,7 +107662,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.udemy.com",
-    r: 96,
+    r: 22,
     s: "Udemy",
     sc: "Learning",
     t: "udemy",
@@ -107716,7 +107680,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.urbandictionary.com",
-    r: 4224,
+    r: 3424,
     s: "Urban Dictionary",
     sc: "Reference (fun)",
     t: "ud",
@@ -107752,7 +107716,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "en.uesp.net",
-    r: 195,
+    r: 191,
     s: "The Unofficial Elder Scrolls Pages",
     sc: "Games (specific)",
     t: "uesp",
@@ -107761,7 +107725,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ufc.com",
-    r: 0,
+    r: 3,
     s: "Ultimate Fighting Championship",
     sc: "Sports",
     t: "ufc",
@@ -107797,7 +107761,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "u.gg",
-    r: 188,
+    r: 218,
     s: "U.GG",
     sc: "Games (specific)",
     t: "ugg",
@@ -107806,7 +107770,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "u.gg",
-    r: 8,
+    r: 21,
     s: "u.gg",
     sc: "Games (general)",
     t: "u.gg",
@@ -107833,7 +107797,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.ultimate-guitar.com",
-    r: 461,
+    r: 465,
     s: "Ultimate Guitar",
     sc: "Audio",
     t: "ug",
@@ -107842,7 +107806,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.uhasselt.be",
-    r: 0,
+    r: 5,
     s: "uHasselt",
     sc: "Academic",
     t: "uh",
@@ -107860,7 +107824,7 @@ export const bangs = [
   {
     c: "Translation",
     d: "ordbok.uib.no",
-    r: 34,
+    r: 38,
     s: "Bokm\u00e5lsordboka og Nynorskordboka",
     sc: "General",
     t: "uib",
@@ -107878,7 +107842,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.uio.no",
-    r: 0,
+    r: 12,
     s: "UiO emnes\u00f8k",
     sc: "Search (Private)",
     t: "uio",
@@ -107896,7 +107860,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.uitmuntend.de",
-    r: 16,
+    r: 6,
     s: "Uitmuntend",
     sc: "Reference (words)",
     t: "uitm",
@@ -107923,7 +107887,7 @@ export const bangs = [
   {
     c: "Research",
     d: "prirucka.ujc.cas.cz",
-    r: 19,
+    r: 8,
     s: "Internetov\u00e1 jazykov\u00e1 p\u0159\u00edru\u010dka",
     sc: "Reference",
     t: "ujc",
@@ -107995,7 +107959,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.legislation.gov.uk",
-    r: 6,
+    r: 0,
     s: "UK Legislation (Official Archive)",
     sc: "Law",
     t: "uklaw",
@@ -108049,7 +108013,7 @@ export const bangs = [
   {
     c: "Research",
     d: "uk.wikipedia.org",
-    r: 3,
+    r: 0,
     s: "Ukrainian Wikipedia",
     sc: "Learning",
     t: "ukwiki",
@@ -108067,7 +108031,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cibleplus.ulb.ac.be",
-    r: 3,
+    r: 0,
     s: "Biblioth\u00e8ques de l'Universit\u00e9 Libre de Bruxelles",
     sc: "Academic",
     t: "ulb",
@@ -108130,7 +108094,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.ultimate-guitar.com",
-    r: 8,
+    r: 0,
     s: "Ultimate Guitar",
     sc: "Music",
     t: "ultimateguitar",
@@ -108157,7 +108121,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ulule.com",
-    r: 0,
+    r: 3,
     s: "Ulule",
     sc: "Tools (fundraising)",
     t: "ul",
@@ -108184,7 +108148,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "manpages.ubuntu.com",
-    r: 12,
+    r: 28,
     s: "Ubuntu Manpage",
     sc: "Sysadmin (Ubuntu)",
     t: "uman",
@@ -108220,7 +108184,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.searchum.umd.edu",
-    r: 3,
+    r: 0,
     s: "University of Maryland",
     sc: "Academic",
     t: "umd",
@@ -108319,7 +108283,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "en.uncyclopedia.co",
-    r: 0,
+    r: 11,
     s: "Uncyclopedia",
     sc: "Misc",
     t: "uncyc",
@@ -108328,7 +108292,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "undertale.wikia.com",
-    r: 5,
+    r: 0,
     s: "Undertale wiki",
     sc: "Games (offline)",
     t: "undertale",
@@ -108398,7 +108362,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "unicode.party",
-    r: 3,
+    r: 9,
     s: "Unicode Party",
     sc: "Tools",
     t: "unicodeparty",
@@ -108407,7 +108371,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "unicode-table.com",
-    r: 0,
+    r: 42,
     s: "Unicode Table",
     sc: "Tools",
     t: "unicodetable",
@@ -108416,7 +108380,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.fileformat.info",
-    r: 63,
+    r: 40,
     s: "Unicode Character Search",
     sc: "Blogs",
     t: "unicode",
@@ -108470,7 +108434,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.uniprot.org",
-    r: 16,
+    r: 33,
     s: "UniprotKB",
     sc: "Academic",
     t: "uniprot",
@@ -108479,7 +108443,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.uniqlo.com",
-    r: 0,
+    r: 3,
     s: "Uniqlo",
     sc: "Online",
     t: "uniqlo",
@@ -108524,7 +108488,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.unity3d.com",
-    r: 0,
+    r: 3,
     s: "Unity3D Scripting API",
     sc: "Languages (csharp)",
     t: "unityapi",
@@ -108542,7 +108506,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.unity3d.com",
-    r: 0,
+    r: 3,
     s: "Unity Manual",
     sc: "Programming",
     t: "unitym",
@@ -108560,7 +108524,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "unity3d.com",
-    r: 5,
+    r: 0,
     s: "Unity",
     sc: "Programming",
     t: "unity",
@@ -108605,7 +108569,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "minnie.tuhs.org",
-    r: 6,
+    r: 0,
     s: "The Unix Tree",
     sc: "Programming",
     t: "unix",
@@ -108668,7 +108632,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "unogs.com",
-    r: 3,
+    r: 0,
     s: "uNoGS",
     sc: "Movies",
     t: "unogs",
@@ -108722,7 +108686,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "unshorten.me",
-    r: 9,
+    r: 7,
     s: "Unshorten.me",
     sc: "Domains",
     t: "unshorten",
@@ -108740,7 +108704,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "unsplash.com",
-    r: 64,
+    r: 69,
     s: "unsplash.com",
     sc: "Images",
     t: "unsplash",
@@ -108767,7 +108731,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "unsplash.com",
-    r: 21,
+    r: 4,
     s: "Unsplash",
     sc: "Images",
     t: "uns",
@@ -108776,7 +108740,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "untappd.com",
-    r: 9,
+    r: 13,
     s: "Untappd",
     sc: "Social",
     t: "untappd",
@@ -108803,7 +108767,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.un.org",
-    r: 0,
+    r: 3,
     s: "United Nations",
     sc: "Topical",
     t: "un",
@@ -108812,7 +108776,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "unvis.it",
-    r: 0,
+    r: 3,
     s: "Unvisit.me",
     sc: "Tools (URLs)",
     t: "unv",
@@ -108830,7 +108794,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.reddit.com",
-    r: 25,
+    r: 21,
     s: "reddit.com/r/unixporn",
     sc: "Forum",
     t: "unxprn",
@@ -108929,7 +108893,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.ubuntu.com",
-    r: 17,
+    r: 4,
     s: "Ubuntu Packages",
     sc: "Sysadmin (Ubuntu)",
     t: "upackages",
@@ -108956,7 +108920,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "launchpad.net",
-    r: 137,
+    r: 5,
     s: "Ubuntu Launchpad Package Page",
     sc: "Sysadmin (Ubuntu)",
     t: "upkg",
@@ -108992,7 +108956,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wwwapps.ups.com",
-    r: 216,
+    r: 295,
     s: "UPS Tracking",
     sc: "Tracking",
     t: "ups",
@@ -109001,7 +108965,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.uptodate.com",
-    r: 15,
+    r: 14,
     s: "UpToDate",
     sc: "Health",
     t: "uptodate",
@@ -109019,7 +108983,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "packages.ubuntu.com",
-    r: 41,
+    r: 38,
     s: "Ubuntu Packages",
     sc: "Sysadmin (packages)",
     t: "up",
@@ -109046,7 +109010,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.uqm.stack.nl",
-    r: 0,
+    r: 5,
     s: "Ultranomicon",
     sc: "Games (specific)",
     t: "uqm",
@@ -109064,7 +109028,7 @@ export const bangs = [
   {
     c: "Research",
     d: "urbaanisanakirja.com",
-    r: 0,
+    r: 4,
     s: "Urbaani Sanakirja",
     sc: "Reference (words)",
     t: "urbaani",
@@ -109073,7 +109037,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.urbandictionary.com",
-    r: 74,
+    r: 73,
     s: "Urban Dictionary",
     sc: "Reference (fun)",
     t: "urbandictionary",
@@ -109091,7 +109055,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.urbandictionary.com",
-    r: 919,
+    r: 842,
     s: "Urban Dictionary",
     sc: "Reference (fun)",
     t: "urban",
@@ -109145,7 +109109,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "urlscan.io",
-    r: 15,
+    r: 0,
     s: "urlscan",
     sc: "Tools (URLs)",
     t: "urlscan",
@@ -109154,7 +109118,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.urlvoid.com",
-    r: 14,
+    r: 3,
     s: "Urlvoid",
     sc: "Tools (URLs)",
     t: "urlvoid",
@@ -109163,7 +109127,7 @@ export const bangs = [
   {
     c: "Research",
     d: "suche.uni-regensburg.de",
-    r: 7,
+    r: 4,
     s: "Universit\u00e4t Regensburg",
     sc: "Academic",
     t: "ur",
@@ -109199,7 +109163,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.usa.gov",
-    r: 3,
+    r: 0,
     s: "USA.gov",
     sc: "Government",
     t: "usa",
@@ -109217,7 +109181,7 @@ export const bangs = [
   {
     c: "Research",
     d: "usc-primo.hosted.exlibrisgroup.com",
-    r: 9,
+    r: 4,
     s: "University of Southern California Libraries",
     sc: "Academic",
     t: "usclib",
@@ -109226,7 +109190,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.unity3d.com",
-    r: 7,
+    r: 0,
     s: "Unity Script Reference",
     sc: "Languages (csharp)",
     t: "uscript",
@@ -109262,7 +109226,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.xe.com",
-    r: 4,
+    r: 0,
     s: "Xe.com",
     sc: "Reference",
     t: "usd2eur",
@@ -109316,7 +109280,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.userbenchmark.com",
-    r: 6,
+    r: 5,
     s: "User Benchmark",
     sc: "Tools",
     t: "userbench",
@@ -109334,7 +109298,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "unix.stackexchange.com",
-    r: 3,
+    r: 0,
     s: "Unix & Linux (StackExchange)",
     sc: "Sysadmin",
     t: "use",
@@ -109370,7 +109334,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "tools.usps.com",
-    r: 724,
+    r: 595,
     s: "USPS",
     sc: "Tracking",
     t: "usps",
@@ -109388,7 +109352,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "docs.unity3d.com",
-    r: 14,
+    r: 0,
     s: "Unity3D Scripting Reference",
     sc: "Libraries/Frameworks",
     t: "usr",
@@ -109406,7 +109370,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "userstyles.org",
-    r: 15,
+    r: 14,
     s: "Userstyles.org",
     sc: "Tools",
     t: "us",
@@ -109469,7 +109433,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.fileformat.info",
-    r: 6,
+    r: 12,
     s: "Unicode Character Search",
     sc: "Blogs",
     t: "utf8",
@@ -109514,7 +109478,7 @@ export const bangs = [
   {
     c: "Research",
     d: "onesearch.library.utoronto.ca",
-    r: 0,
+    r: 5,
     s: "University of Toronto Libraries",
     sc: "Academic",
     t: "utl",
@@ -109559,7 +109523,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.utexas.edu",
-    r: 125,
+    r: 119,
     s: "utexas.edu",
     sc: "Academic",
     t: "ut",
@@ -109568,7 +109532,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 0,
+    r: 5,
     s: "Ubuntuusers",
     sc: "Sysadmin (Ubuntu)",
     t: "uude",
@@ -109577,7 +109541,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.urbandictionary.com",
-    r: 994,
+    r: 739,
     s: "Urban Dictionary",
     sc: "Learning",
     t: "u",
@@ -109586,7 +109550,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 25,
+    r: 22,
     s: "Ubuntuusers.de",
     sc: "Sysadmin (Ubuntu)",
     t: "uu",
@@ -109604,7 +109568,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 20,
+    r: 13,
     s: "Ubuntuusers.de Wiki",
     sc: "Sysadmin (Ubuntu)",
     t: "uuw",
@@ -109721,7 +109685,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.ssjoy.org",
-    r: 0,
+    r: 4,
     s: "UWO Joy",
     sc: "Search (non-US)",
     t: "uw",
@@ -109820,7 +109784,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "app.vagrantup.com",
-    r: 6,
+    r: 0,
     s: "Vagrant Cloud",
     sc: "Downloads",
     t: "vagrant",
@@ -109856,7 +109820,7 @@ export const bangs = [
   {
     c: "Research",
     d: "vajehyab.com",
-    r: 0,
+    r: 3,
     s: "Vajehyab",
     sc: "Reference (words)",
     t: "vajeh",
@@ -109937,7 +109901,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.valvesoftware.com",
-    r: 11,
+    r: 10,
     s: "Valve Developer Wiki",
     sc: "Libraries/Frameworks",
     t: "valve",
@@ -109954,7 +109918,7 @@ export const bangs = [
   },
   {
     d: "www.vandale.nl",
-    r: 48,
+    r: 16,
     s: "Van Dale",
     t: "vandale",
     u: "http://www.vandale.nl/opzoeken?pattern={{{s}}}&lang=nn",
@@ -109962,7 +109926,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.vanguardinvestments.com.au",
-    r: 0,
+    r: 5,
     s: "Vanguard",
     sc: "Tools",
     t: "vanguard",
@@ -110043,7 +110007,7 @@ export const bangs = [
   {
     c: "Research",
     d: "varsome.com",
-    r: 0,
+    r: 3,
     s: "VarSome",
     sc: "Academic",
     t: "varsome",
@@ -110061,7 +110025,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "vaski.finna.fi",
-    r: 4,
+    r: 23,
     s: "Vaski-kirjastot",
     sc: "Search",
     t: "vaski",
@@ -110106,7 +110070,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "vimawesome.com",
-    r: 3,
+    r: 0,
     s: "Vim Awesome",
     sc: "Downloads (add-ons)",
     t: "va",
@@ -110187,7 +110151,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.vouchercodes.co.uk",
-    r: 0,
+    r: 4,
     s: "VoucherCodes",
     sc: "Online (deals)",
     t: "vc",
@@ -110205,7 +110169,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "developer.valvesoftware.com",
-    r: 69,
+    r: 30,
     s: "Valve Developer Community",
     sc: "Programming",
     t: "vdc",
@@ -110241,7 +110205,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 1727,
+    r: 1141,
     s: "DuckDuckGo video search",
     sc: "Search (DDG)",
     t: "v",
@@ -110286,7 +110250,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "veekun.com",
-    r: 31,
+    r: 21,
     s: "Veekun Pokedex",
     sc: "Games (Pokemon)",
     t: "veekun",
@@ -110394,7 +110358,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.les-verbes.com",
-    r: 0,
+    r: 3,
     s: "VERBES - Conjugaison fran\u00e7aise",
     sc: "Learning (intl)",
     t: "verbes",
@@ -110439,7 +110403,7 @@ export const bangs = [
   {
     c: "Research",
     d: "verbix.com",
-    r: 3,
+    r: 0,
     s: "Verbix",
     sc: "Reference (words)",
     t: "verbix",
@@ -110466,7 +110430,7 @@ export const bangs = [
   {
     c: "Research",
     d: "conjugator.reverso.net",
-    r: 3,
+    r: 0,
     s: "Verb-o-Matic",
     sc: "Reference (words)",
     t: "verb",
@@ -110475,7 +110439,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.theverge.com",
-    r: 111,
+    r: 69,
     s: "The Verge",
     sc: "Blogs",
     t: "verge",
@@ -110493,7 +110457,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.verkkokauppa.com",
-    r: 46,
+    r: 44,
     s: "Verkkokauppa.com",
     sc: "Online",
     t: "verkkis",
@@ -110502,7 +110466,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.verkkokauppa.com",
-    r: 20,
+    r: 4,
     s: "Verkkokauppa.com",
     sc: "Big box/department",
     t: "verkkokauppa",
@@ -110520,7 +110484,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.verkkokauppa.com",
-    r: 17,
+    r: 24,
     s: "Verkkokauppa.com",
     sc: "Online",
     t: "verk",
@@ -110583,7 +110547,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "videoeta.com",
-    r: 3,
+    r: 0,
     s: "VideoETA",
     sc: "Movies",
     t: "ve",
@@ -110610,7 +110574,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.verbformen.de",
-    r: 0,
+    r: 9,
     s: "VerbFormen",
     sc: "Reference (words)",
     t: "vf",
@@ -110646,7 +110610,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 13,
+    r: 11,
     s: "Google",
     sc: "Google",
     t: "vg",
@@ -110673,7 +110637,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "vgmdb.net",
-    r: 32,
+    r: 44,
     s: "Vgmdb",
     sc: "Audio",
     t: "vgmdb",
@@ -110691,7 +110655,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "videogames.pricecharting.com",
-    r: 0,
+    r: 3,
     s: "Video Game Price Charts",
     sc: "Games (general)",
     t: "vgpc",
@@ -110727,7 +110691,7 @@ export const bangs = [
   {
     c: "Research",
     d: "viaf.org",
-    r: 17,
+    r: 11,
     s: "VIAF (Virtual Internet Authority File)",
     sc: "Reference",
     t: "viaf",
@@ -110772,7 +110736,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.vice.com",
-    r: 0,
+    r: 4,
     s: "Vice",
     sc: "Specialty",
     t: "vice",
@@ -110871,7 +110835,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 162,
+    r: 95,
     s: "DuckDuckGo video search",
     sc: "Search (DDG)",
     t: "video",
@@ -110907,7 +110871,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 41,
+    r: 18,
     s: "DuckDuckGo Videos",
     sc: "Search (DDG)",
     t: "videos",
@@ -110970,7 +110934,7 @@ export const bangs = [
   {
     c: "Research",
     d: "et.wikipedia.org",
-    r: 9,
+    r: 8,
     s: "Estonian Wikipedia (Vikipeedia)",
     sc: "Learning",
     t: "viki",
@@ -111006,7 +110970,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "villains.wikia.com",
-    r: 0,
+    r: 4,
     s: "Villains Wikia",
     sc: "Misc",
     t: "villain",
@@ -111042,7 +111006,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "vimeo.com",
-    r: 58,
+    r: 64,
     s: "Vimeo",
     sc: "Video",
     t: "vimeo",
@@ -111078,7 +111042,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.decodethis.com",
-    r: 3,
+    r: 0,
     s: "Decode This!",
     sc: "Reference",
     t: "vin",
@@ -111141,7 +111105,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.virustotal.com",
-    r: 91,
+    r: 108,
     s: "VirusTotal",
     sc: "Tools (URLs)",
     t: "virustotal",
@@ -111285,7 +111249,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "vk.com",
-    r: 88,
+    r: 86,
     s: "Vkontakte",
     sc: "Social",
     t: "vk",
@@ -111294,7 +111258,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "vk.com",
-    r: 9,
+    r: 13,
     s: "Vkontakte video",
     sc: "Video",
     t: "vkv",
@@ -111303,7 +111267,7 @@ export const bangs = [
   {
     c: "Research",
     d: "vlasisku.lojban.org",
-    r: 7,
+    r: 0,
     s: "Vlasisku",
     sc: "Reference (words intl)",
     t: "vlasisku",
@@ -111312,7 +111276,7 @@ export const bangs = [
   {
     c: "Research",
     d: "vlasisku.lojban.org",
-    r: 4,
+    r: 0,
     s: "Vlasisku",
     sc: "Reference (words intl)",
     t: "vla",
@@ -111357,7 +111321,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.viamichelin.com",
-    r: 0,
+    r: 4,
     s: "ViaMichelin",
     sc: "Maps",
     t: "vml",
@@ -111366,7 +111330,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "vndb.org",
-    r: 292,
+    r: 229,
     s: "VNDB",
     sc: "Misc",
     t: "vndb",
@@ -111411,7 +111375,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.vocabulary.com",
-    r: 0,
+    r: 3,
     s: "Vocabulary",
     sc: "Reference (words)",
     t: "vocabulary",
@@ -111420,7 +111384,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.vocabulary.com",
-    r: 22,
+    r: 17,
     s: "Vocabulary.com",
     sc: "Reference (words)",
     t: "vocab",
@@ -111429,7 +111393,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "vocadb.net",
-    r: 37,
+    r: 9,
     s: "VocaDB",
     sc: "Music",
     t: "vocadb",
@@ -111438,7 +111402,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "vocaloid.wikia.com",
-    r: 4,
+    r: 0,
     s: "Vocaloid Wiki",
     sc: "Audio",
     t: "vocaloid",
@@ -111483,7 +111447,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eo.wikipedia.org",
-    r: 6,
+    r: 3,
     s: "Esperanta Vikipedio",
     sc: "Reference",
     t: "vo",
@@ -111510,7 +111474,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.google.com",
-    r: 11,
+    r: 18,
     s: "Google Voice",
     sc: "Google",
     t: "voice",
@@ -111600,7 +111564,7 @@ export const bangs = [
   {
     c: "Research",
     d: "vortaro.net",
-    r: 21,
+    r: 20,
     s: "Vortaro.net",
     sc: "Reference (words intl)",
     t: "vortaro",
@@ -111663,7 +111627,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.vox.com",
-    r: 4,
+    r: 0,
     s: "Vox.com",
     sc: "Magazine",
     t: "vox",
@@ -111681,7 +111645,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.vpncompare.co.uk",
-    r: 0,
+    r: 5,
     s: "VPNCompare",
     sc: "Downloads (software)",
     t: "vpn",
@@ -111753,7 +111717,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "marketplace.visualstudio.com",
-    r: 8,
+    r: 11,
     s: "Visual Studio Code Extensions",
     sc: "Programming",
     t: "vscode",
@@ -111762,7 +111726,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sapere.virgilio.it",
-    r: 3,
+    r: 5,
     s: "Virgilio - Sinonimi e Contrari",
     sc: "Reference (words)",
     t: "vsc",
@@ -111816,7 +111780,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.vividseats.com",
-    r: 0,
+    r: 5,
     s: "Vivid Seats",
     sc: "Online (marketplace)",
     t: "vs",
@@ -111852,7 +111816,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.virustotal.com",
-    r: 27,
+    r: 84,
     s: "www.virustotal.com",
     sc: "Sysadmin",
     t: "vtip",
@@ -111888,7 +111852,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.vulgumtechus.com",
-    r: 24,
+    r: 9,
     s: "Vulgum Techus",
     sc: "Blogs",
     t: "vt",
@@ -111906,7 +111870,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.vudu.com",
-    r: 7,
+    r: 0,
     s: "Vudu",
     sc: "Movies",
     t: "vudu",
@@ -111915,7 +111879,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "vuetifyjs.com",
-    r: 3,
+    r: 0,
     s: "Vuetifyjs",
     sc: "Programming",
     t: "vuetify",
@@ -111924,7 +111888,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "vuejs.org",
-    r: 6,
+    r: 4,
     s: "Vue Docs",
     sc: "Libraries/Frameworks",
     t: "vue",
@@ -111996,7 +111960,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wiki.voidlinux.org",
-    r: 0,
+    r: 24,
     s: "Void Linux Wiki",
     sc: "Sysadmin",
     t: "vw",
@@ -112014,7 +111978,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.vajehyab.com",
-    r: 3,
+    r: 6,
     s: "Vajeh Yab",
     sc: "Reference (words)",
     t: "vy",
@@ -112059,7 +112023,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "",
-    r: 5,
+    r: 0,
     s: "W3C",
     sc: "Search (DDG)",
     t: "w3c",
@@ -112095,7 +112059,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "duckduckgo.com",
-    r: 0,
+    r: 3,
     s: "W3Schools.com",
     sc: "Search (DDG)",
     t: "w3schools",
@@ -112122,7 +112086,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "duckduckgo.com",
-    r: 4,
+    r: 20,
     s: "w3schools.com",
     sc: "Languages (html)",
     t: "w3s",
@@ -112140,7 +112104,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "",
-    r: 4,
+    r: 3,
     s: "W3C",
     sc: "Search (DDG)",
     t: "w3",
@@ -112149,7 +112113,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "map.what3words.com",
-    r: 0,
+    r: 4,
     s: "https://what3words.com/",
     sc: "Maps",
     t: "w3w",
@@ -112176,7 +112140,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wadoku.de",
-    r: 26,
+    r: 15,
     s: "WaDoKu",
     sc: "Reference (words intl)",
     t: "wadoku",
@@ -112212,7 +112176,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.waitrose.com",
-    r: 8,
+    r: 3,
     s: "Waitrose",
     sc: "Online (marketplace)",
     t: "waitrose",
@@ -112257,7 +112221,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "es.wallapop.com",
-    r: 80,
+    r: 40,
     s: "Wallapop",
     sc: "Online",
     t: "wallapop",
@@ -112284,7 +112248,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "wallhaven.cc",
-    r: 13,
+    r: 32,
     s: "wallhaven",
     sc: "Images",
     t: "wallhaven",
@@ -112302,7 +112266,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "wallhaven.cc",
-    r: 20,
+    r: 62,
     s: "Wallhaven",
     sc: "Images",
     t: "wallh",
@@ -112311,7 +112275,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "google.com",
-    r: 0,
+    r: 3,
     s: "Google Images",
     sc: "Google",
     t: "wallpaper",
@@ -112320,7 +112284,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.walmart.ca",
-    r: 7,
+    r: 5,
     s: "Walmart Canada",
     sc: "Online",
     t: "walmartca",
@@ -112329,7 +112293,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.walmart.com",
-    r: 908,
+    r: 930,
     s: "Walmart",
     sc: "Big box/department",
     t: "walmart",
@@ -112338,7 +112302,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wolframalpha.com",
-    r: 15,
+    r: 9,
     s: "Wolfram|Alpha",
     sc: "Academic",
     t: "walpha",
@@ -112365,7 +112329,7 @@ export const bangs = [
   {
     c: "Research",
     d: "m.wolframalpha.com",
-    r: 0,
+    r: 3,
     s: "WolframAlpha Mobile",
     sc: "Learning",
     t: "wam",
@@ -112392,7 +112356,7 @@ export const bangs = [
   {
     c: "Research",
     d: "an.wikipedia.org",
-    r: 3,
+    r: 0,
     s: "Wikipedia (AN)",
     sc: "Reference",
     t: "wan",
@@ -112410,7 +112374,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "api.whatsapp.com",
-    r: 44,
+    r: 30,
     s: "WhatsApp",
     sc: "Tools (URLs)",
     t: "wapp",
@@ -112426,9 +112390,18 @@ export const bangs = [
     u: "https://www.wap.org/search?q={{{s}}}",
   },
   {
+    c: "News",
+    d: "www.washingtonpost.com",
+    r: 3,
+    s: "The Washington Post",
+    sc: "Newspaper",
+    t: "wapo",
+    u: "https://www.washingtonpost.com/search/?query={{{s}}}",
+  },
+  {
     c: "Online Services",
     d: "warframe.wikia.com",
-    r: 115,
+    r: 31,
     s: "Warframe",
     sc: "Search",
     t: "warframe",
@@ -112486,7 +112459,7 @@ export const bangs = [
     s: "The Washington Post",
     sc: "Newspaper",
     t: "washingtonpost",
-    u: "http://www.washingtonpost.com/ac2/wp-dyn/NewsSearch?sb=-1&st={{{s}}}",
+    u: "https://www.washingtonpost.com/search/?query={{{s}}}",
   },
   {
     d: "www.watchcount.com",
@@ -112525,7 +112498,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 142,
+    r: 67,
     s: "YouTube",
     sc: "Video",
     t: "watch",
@@ -112561,7 +112534,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.wattpad.com",
-    r: 7,
+    r: 4,
     s: "Wattpad",
     sc: "Books",
     t: "wattpad",
@@ -112579,7 +112552,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wolframalpha.com",
-    r: 6108,
+    r: 4889,
     s: "Wolfram|Alpha",
     sc: "Academic (math/cs)",
     t: "wa",
@@ -112588,7 +112561,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "web.archive.org",
-    r: 3075,
+    r: 2413,
     s: "Internet Archive: Wayback Machine",
     sc: "Domains",
     t: "wayback",
@@ -112597,7 +112570,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "web.archive.org",
-    r: 39,
+    r: 27,
     s: "Internet Wayback Machine",
     sc: "Tools",
     t: "waybackmachine",
@@ -112615,7 +112588,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.wayfair.com",
-    r: 12,
+    r: 6,
     s: "Wayfair",
     sc: "Online",
     t: "wayfair",
@@ -112678,7 +112651,7 @@ export const bangs = [
   {
     c: "Research",
     d: "bg.wikipedia.org",
-    r: 8,
+    r: 5,
     s: "Wikipedia (BG)",
     sc: "Reference",
     t: "wbg",
@@ -112732,7 +112705,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "web.archive.org",
-    r: 826,
+    r: 917,
     s: "WayBack Machine",
     sc: "General",
     t: "wbm",
@@ -112777,7 +112750,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikibooks.org",
-    r: 51,
+    r: 33,
     s: "Wikibooks",
     sc: "Academic",
     t: "wb",
@@ -112786,7 +112759,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.worldcubeassociation.org",
-    r: 3,
+    r: 0,
     s: "World Cube Association Championships",
     sc: "Sports",
     t: "wcach",
@@ -112804,7 +112777,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ca.wikipedia.org",
-    r: 20,
+    r: 5,
     s: "Viquip\u00e8dia",
     sc: "Learning",
     t: "wcat",
@@ -112813,7 +112786,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ca.wikipedia.org",
-    r: 128,
+    r: 113,
     s: "Wikipedia (CA)",
     sc: "Learning",
     t: "wca",
@@ -112876,7 +112849,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cs.wikipedia.org",
-    r: 118,
+    r: 164,
     s: "Wikipedia (Cs)",
     sc: "Learning (intl)",
     t: "wcs",
@@ -112885,7 +112858,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.weather.com",
-    r: 15,
+    r: 19,
     s: "The Weather Channel",
     sc: "Weather",
     t: "wc",
@@ -112903,7 +112876,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cy.wikipedia.org",
-    r: 0,
+    r: 9,
     s: "Wikipedia (CY)",
     sc: "Learning",
     t: "wcy",
@@ -112912,7 +112885,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cs.wikipedia.org",
-    r: 93,
+    r: 63,
     s: "Czech Wikipedia",
     sc: "Academic",
     t: "wcz",
@@ -112930,7 +112903,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wikipedia.org",
-    r: 7885,
+    r: 6898,
     s: "Wikipedia (DE)",
     sc: "Reference",
     t: "wde",
@@ -112939,7 +112912,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wikipedia.org",
-    r: 121,
+    r: 109,
     s: "Wikipedia DE",
     sc: "Learning",
     t: "w.de",
@@ -112966,7 +112939,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 195,
+    r: 183,
     s: "wiktionary",
     sc: "Reference (words)",
     t: "wdic",
@@ -112975,7 +112948,7 @@ export const bangs = [
   {
     c: "Research",
     d: "da.wikipedia.org",
-    r: 9,
+    r: 10,
     s: "Wikipedia (DK)",
     sc: "Reference",
     t: "wdk",
@@ -112984,7 +112957,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 54,
+    r: 42,
     s: "Wordreference",
     sc: "Reference (words intl)",
     t: "wdr",
@@ -113011,7 +112984,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wikidata.org",
-    r: 8,
+    r: 5,
     s: "Wikidata",
     sc: "Learning",
     t: "wdt",
@@ -113020,7 +112993,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wikidata.org",
-    r: 515,
+    r: 402,
     s: "Wikidata",
     sc: "Tools",
     t: "wd",
@@ -113074,7 +113047,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.weather.com",
-    r: 97,
+    r: 105,
     s: "Weather.com",
     sc: "Weather",
     t: "weather",
@@ -113110,7 +113083,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "web.archive.org",
-    r: 89,
+    r: 65,
     s: "Web Archive",
     sc: "Tools (URLs)",
     t: "webarchive",
@@ -113209,7 +113182,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ejje.weblio.jp",
-    r: 180,
+    r: 121,
     s: "weblio \u82f1\u548c\u8f9e\u5178",
     sc: "Learning",
     t: "weblioe",
@@ -113218,7 +113191,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.weblio.jp",
-    r: 5,
+    r: 0,
     s: "Weblio",
     sc: "Reference (words intl)",
     t: "weblioj",
@@ -113236,7 +113209,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.weblio.jp",
-    r: 10,
+    r: 14,
     s: "Weblio",
     sc: "Learning (intl)",
     t: "weblio",
@@ -113263,7 +113236,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.webnovel.com",
-    r: 0,
+    r: 5,
     s: "Webnovel",
     sc: "Misc",
     t: "webnovel",
@@ -113326,7 +113299,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.webster-dictionary.org",
-    r: 4,
+    r: 3,
     s: "Online Dictionary and Translations",
     sc: "Reference (words)",
     t: "websters",
@@ -113362,7 +113335,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.webtoons.com",
-    r: 13,
+    r: 0,
     s: "https://www.webtoons.com",
     sc: "Comics",
     t: "webtoon",
@@ -113371,7 +113344,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.webtoons.com",
-    r: 7,
+    r: 11,
     s: "Line Webtoon",
     sc: "Comics",
     t: "webtoons",
@@ -113389,7 +113362,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.webopedia.com",
-    r: 17,
+    r: 20,
     s: "Webopedia",
     sc: "Programming",
     t: "web",
@@ -113479,7 +113452,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.wegmans.com",
-    r: 6,
+    r: 8,
     s: "Wegmans",
     sc: "Big box/department",
     t: "wegmans",
@@ -113506,7 +113479,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "s.weibo.com",
-    r: 9,
+    r: 0,
     s: "Sina Weibo",
     sc: "Social",
     t: "weibo",
@@ -113533,7 +113506,7 @@ export const bangs = [
   {
     c: "Research",
     d: "el.wikipedia.org",
-    r: 3,
+    r: 6,
     s: "Greek Wikipedia",
     sc: "Learning (intl)",
     t: "wel",
@@ -113560,7 +113533,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 60,
+    r: 44,
     s: "wordreference ",
     sc: "Reference (words)",
     t: "wenfr",
@@ -113569,7 +113542,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 92,
+    r: 95,
     s: "Wikipedia (English)",
     sc: "Learning",
     t: "w.en",
@@ -113578,7 +113551,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 19823,
+    r: 19072,
     s: "Wikipedia (EN)",
     sc: "Academic",
     t: "wen",
@@ -113587,7 +113560,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eo.wikipedia.org",
-    r: 38,
+    r: 33,
     s: "Wikipedia (EO)",
     sc: "Academic",
     t: "weo",
@@ -113596,7 +113569,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.werstreamt.es",
-    r: 28,
+    r: 17,
     s: "WerStreamt.es",
     sc: "Movies",
     t: "werstreamt",
@@ -113605,7 +113578,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.werstreamt.es",
-    r: 60,
+    r: 63,
     s: "werstreamt.es",
     sc: "TV",
     t: "wer",
@@ -113650,7 +113623,7 @@ export const bangs = [
   {
     c: "Research",
     d: "es.wikipedia.org",
-    r: 1063,
+    r: 1168,
     s: "Wikipedia (ES)",
     sc: "Academic",
     t: "wes",
@@ -113695,7 +113668,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.wetter.com",
-    r: 38,
+    r: 29,
     s: "wetter.com",
     sc: "Weather",
     t: "wetter",
@@ -113704,7 +113677,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eu.wikipedia.org",
-    r: 5,
+    r: 0,
     s: "Wikipedia Euskaraz (in Basque)",
     sc: "Academic",
     t: "weus",
@@ -113713,7 +113686,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eu.wikipedia.org",
-    r: 4,
+    r: 0,
     s: "Wikipedia",
     sc: "Learning (intl)",
     t: "weu",
@@ -113722,7 +113695,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 856,
+    r: 785,
     s: "Wikipedia",
     sc: "Reference",
     t: "we",
@@ -113731,7 +113704,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fa.wikipedia.org",
-    r: 10,
+    r: 23,
     s: "Persian Wikipedia",
     sc: "Reference",
     t: "wfa",
@@ -113767,7 +113740,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "de.warframe.wikia.com",
-    r: 5,
+    r: 3,
     s: "Warframe Wiki (DE)",
     sc: "Games (specific)",
     t: "wfde",
@@ -113776,7 +113749,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.wikifeet.com",
-    r: 16,
+    r: 0,
     s: "wikiFeet",
     sc: "Images",
     t: "wfeet",
@@ -113794,7 +113767,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "warframe.wikia.com",
-    r: 30,
+    r: 4,
     s: "WARFRAME Wiki",
     sc: "Games (specific)",
     t: "wfen",
@@ -113803,7 +113776,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "fr.wikipedia.org",
-    r: 581,
+    r: 591,
     s: "fr.wikipedia.org",
     sc: "Search (non-US)",
     t: "wf",
@@ -113830,7 +113803,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fi.wikipedia.org",
-    r: 305,
+    r: 249,
     s: "Wikipedia Finland",
     sc: "Topical",
     t: "wfi",
@@ -113839,7 +113812,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.wholefoodsmarket.com",
-    r: 0,
+    r: 6,
     s: "Whole Foods Recipes",
     sc: "Misc",
     t: "wfm",
@@ -113875,7 +113848,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 48,
+    r: 43,
     s: "Wordreference",
     sc: "Tools",
     t: "wfren",
@@ -113884,7 +113857,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fr.wikipedia.org",
-    r: 3680,
+    r: 3553,
     s: "Wikipedia (FR)",
     sc: "Academic",
     t: "wfr",
@@ -113893,7 +113866,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "warframe.market",
-    r: 114,
+    r: 20,
     s: "warframe.market",
     sc: "Tools",
     t: "wft",
@@ -113902,7 +113875,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "warframe.wikia.com",
-    r: 30,
+    r: 3,
     s: "WARFRAME Wiki",
     sc: "Games (specific)",
     t: "wfwiki",
@@ -113911,7 +113884,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "warframe.wikia.com",
-    r: 58,
+    r: 22,
     s: "WARFRAME Wiki",
     sc: "Games (specific)",
     t: "wfw",
@@ -113920,7 +113893,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fy.wikipedia.org",
-    r: 3,
+    r: 0,
     s: "Frisian Wikipedia",
     sc: "Reference",
     t: "wfy",
@@ -113956,7 +113929,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wikipedia.org",
-    r: 37,
+    r: 30,
     s: "wikipedia german",
     sc: "Academic",
     t: "wge",
@@ -113974,7 +113947,7 @@ export const bangs = [
   {
     c: "News",
     d: "forecast.weather.gov",
-    r: 90,
+    r: 67,
     s: "forecast.weather.gov",
     sc: "Weather",
     t: "wgov",
@@ -113983,7 +113956,7 @@ export const bangs = [
   {
     c: "Research",
     d: "el.wikipedia.org",
-    r: 11,
+    r: 5,
     s: "Wikipedia (GR)",
     sc: "Learning",
     t: "wgr",
@@ -113992,7 +113965,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.walgreens.com",
-    r: 15,
+    r: 0,
     s: "Walgreens",
     sc: "Online",
     t: "wgs",
@@ -114001,7 +113974,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.wunderground.com",
-    r: 13,
+    r: 23,
     s: "WunderGround",
     sc: "Weather",
     t: "wg",
@@ -114064,7 +114037,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.vocabulary.com",
-    r: 5,
+    r: 0,
     s: "vocabulary.com",
     sc: "Reference (words)",
     t: "whats",
@@ -114082,7 +114055,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "classic.wowhead.com",
-    r: 36,
+    r: 12,
     s: "WoWHead Classic",
     sc: "Games (WOW)",
     t: "whc",
@@ -114109,7 +114082,7 @@ export const bangs = [
   {
     c: "Research",
     d: "he.wikipedia.org",
-    r: 43,
+    r: 27,
     s: "Wikipedia (HE)",
     sc: "Learning",
     t: "whe",
@@ -114154,7 +114127,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.which.co.uk",
-    r: 4,
+    r: 3,
     s: "Which",
     sc: "Tools",
     t: "which",
@@ -114163,7 +114136,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordhippo.com",
-    r: 73,
+    r: 93,
     s: "Wordhippo",
     sc: "Academic",
     t: "whip",
@@ -114172,7 +114145,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "forums.whirlpool.net.au",
-    r: 9,
+    r: 0,
     s: "Whirlpool Forums",
     sc: "Forum",
     t: "whirlpool",
@@ -114235,7 +114208,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "forums.whirlpool.net.au",
-    r: 3,
+    r: 12,
     s: "http://whirlpool.net.au/",
     sc: "Forum",
     t: "whlp",
@@ -114289,7 +114262,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.whois.com",
-    r: 28,
+    r: 33,
     s: "Whois.com",
     sc: "Tools",
     t: "whois.com",
@@ -114298,7 +114271,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "whois.domaintools.com",
-    r: 491,
+    r: 410,
     s: "Domaintools Whois",
     sc: "Startups",
     t: "whois",
@@ -114334,7 +114307,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "whosampled.com",
-    r: 136,
+    r: 129,
     s: "Who Sampled",
     sc: "Music",
     t: "whosampled",
@@ -114352,7 +114325,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.whoscored.com",
-    r: 4,
+    r: 0,
     s: "WhoScored",
     sc: "Sports",
     t: "whoscored",
@@ -114370,7 +114343,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.who.is",
-    r: 31,
+    r: 8,
     s: "who.is",
     sc: "Search",
     t: "who",
@@ -114388,7 +114361,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hr.wikipedia.org",
-    r: 16,
+    r: 6,
     s: "Wikipedija",
     sc: "Learning (intl)",
     t: "whr",
@@ -114406,7 +114379,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hu.wikipedia.org",
-    r: 99,
+    r: 77,
     s: "Wikipedia Hungary",
     sc: "Learning (intl)",
     t: "whu",
@@ -114415,7 +114388,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wikihow.com",
-    r: 24,
+    r: 39,
     s: "wikiHow",
     sc: "Learning",
     t: "wh",
@@ -114451,7 +114424,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wiby.me",
-    r: 64,
+    r: 55,
     s: "Wiby",
     sc: "Search",
     t: "wiby",
@@ -114460,7 +114433,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.wickes.co.uk",
-    r: 14,
+    r: 4,
     s: "Wickes",
     sc: "Big box/department",
     t: "wickes",
@@ -114469,7 +114442,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 26,
+    r: 30,
     s: "Wictionary",
     sc: "Reference (words intl)",
     t: "wictionary",
@@ -114478,7 +114451,7 @@ export const bangs = [
   {
     c: "Research",
     d: "id.wikipedia.org",
-    r: 10,
+    r: 25,
     s: "Wikipedia (ID)",
     sc: "Academic",
     t: "wid",
@@ -114496,7 +114469,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fi.wikipedia.org",
-    r: 0,
+    r: 5,
     s: "Wikipedia-FI",
     sc: "Reference",
     t: "wi-fi",
@@ -114505,7 +114478,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fr.wiktionary.org",
-    r: 37,
+    r: 72,
     s: "Wiktionary (Fran\u00e7ais)",
     sc: "Reference (words)",
     t: "wifr",
@@ -114568,7 +114541,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikibooks.org",
-    r: 5,
+    r: 0,
     s: "Wikibooks",
     sc: "Academic",
     t: "wikibooks",
@@ -114577,7 +114550,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wikibound.info",
-    r: 4,
+    r: 3,
     s: "WikiBound",
     sc: "Games (specific)",
     t: "wikibound",
@@ -114613,7 +114586,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikibooks.org",
-    r: 4,
+    r: 0,
     s: "Wiki Cookbook",
     sc: "Food",
     t: "wikicook",
@@ -114622,7 +114595,7 @@ export const bangs = [
   {
     c: "Research",
     d: "commons.wikimedia.org",
-    r: 0,
+    r: 9,
     s: "Wikimedia Commons",
     sc: "Academic",
     t: "wikic",
@@ -114631,7 +114604,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wikidata.org",
-    r: 56,
+    r: 122,
     s: "Wikidata",
     sc: "Reference",
     t: "wikidata",
@@ -114649,7 +114622,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wikipedia.org",
-    r: 10,
+    r: 4,
     s: "Wikipedia DE",
     sc: "Learning",
     t: "wiki.de",
@@ -114658,7 +114631,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wikipedia.org",
-    r: 536,
+    r: 476,
     s: "Wikipedia",
     sc: "Reference",
     t: "wikide",
@@ -114667,7 +114640,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.wikidex.net",
-    r: 24,
+    r: 13,
     s: "WikiDex",
     sc: "Games (Pokemon)",
     t: "wikidex",
@@ -114676,7 +114649,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 736,
+    r: 734,
     s: "Wikipedia (English)",
     sc: "Reference",
     t: "wikien",
@@ -114685,7 +114658,7 @@ export const bangs = [
   {
     c: "Research",
     d: "es.wikipedia.org",
-    r: 52,
+    r: 37,
     s: "Wikipedia (Spanish)",
     sc: "Reference",
     t: "wikies",
@@ -114694,7 +114667,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.wikifeet.com",
-    r: 6,
+    r: 34,
     s: "WikiFeet",
     sc: "Images",
     t: "wikifeet",
@@ -114703,7 +114676,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fr.wikipedia.org",
-    r: 221,
+    r: 135,
     s: "Wikipedia French",
     sc: "Learning",
     t: "wikifr",
@@ -114712,7 +114685,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikifur.com",
-    r: 5,
+    r: 12,
     s: "WikiFur",
     sc: "Reference (fun)",
     t: "wikifur",
@@ -114721,7 +114694,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wikihow.com",
-    r: 24,
+    r: 16,
     s: "wikiHow",
     sc: "Reference",
     t: "wikihow",
@@ -114757,7 +114730,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ko.wikipedia.org",
-    r: 7,
+    r: 0,
     s: "wikipedia(ko)",
     sc: "Search",
     t: "wikiko",
@@ -114829,7 +114802,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "nl.wikipedia.org",
-    r: 142,
+    r: 103,
     s: "Wikipedia Nederland",
     sc: "Docs",
     t: "wikinl",
@@ -114856,7 +114829,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "de.wikipedia.org",
-    r: 3,
+    r: 7,
     s: "Wikipedia Deutschland",
     sc: "Tools",
     t: "wikipediade",
@@ -114874,7 +114847,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 182952,
+    r: 5717584,
     s: "Wikipedia",
     sc: "Academic",
     t: "wikipedia",
@@ -114901,7 +114874,7 @@ export const bangs = [
   {
     c: "Research",
     d: "pt.wikipedia.org",
-    r: 26,
+    r: 21,
     s: "Wikip\u00e9dia PT",
     sc: "Learning",
     t: "wikipt",
@@ -114910,7 +114883,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "en.wikiquote.org",
-    r: 31,
+    r: 18,
     s: "Wikiquote",
     sc: "Docs",
     t: "wikiquote",
@@ -114919,7 +114892,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wikirby.com",
-    r: 15,
+    r: 65,
     s: "Wikirby",
     sc: "Games (specific)",
     t: "wikirby",
@@ -114928,7 +114901,7 @@ export const bangs = [
   {
     c: "Research",
     d: "wikirhymer.com",
-    r: 0,
+    r: 3,
     s: "WikiRhymer",
     sc: "Reference (words)",
     t: "wikirhymer",
@@ -114937,7 +114910,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ru.wikipedia.org",
-    r: 16,
+    r: 34,
     s: "ru.wikipedia.org",
     sc: "Reference",
     t: "wikiru",
@@ -114973,7 +114946,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikisource.org",
-    r: 13,
+    r: 20,
     s: "Wikisource",
     sc: "Academic",
     t: "wikisource",
@@ -114982,7 +114955,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 3,
+    r: 0,
     s: "Wikispecies",
     sc: "Learning",
     t: "wikispecies",
@@ -115018,7 +114991,7 @@ export const bangs = [
   {
     c: "Research",
     d: "wikitravel.org",
-    r: 11,
+    r: 9,
     s: "Wikitravel",
     sc: "Travel",
     t: "wikitravel",
@@ -115207,7 +115180,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikivoyage.org",
-    r: 76,
+    r: 193,
     s: "Wikivoyage",
     sc: "Travel",
     t: "wikivoyage",
@@ -115225,7 +115198,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wikiwand.com",
-    r: 6,
+    r: 5,
     s: "WikiWand",
     sc: "Reference",
     t: "wikiwand",
@@ -115234,7 +115207,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 16960,
+    r: 15461,
     s: "Wikipedia",
     sc: "Academic",
     t: "wiki",
@@ -115279,7 +115252,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wiktionary.org",
-    r: 71,
+    r: 85,
     s: "Wiktionary, das freie W\u00f6rterbuch",
     sc: "Reference (words intl)",
     t: "wiktde",
@@ -115288,7 +115261,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 1000,
+    r: 1497,
     s: "Wiktionary",
     sc: "Reference (words)",
     t: "wikten",
@@ -115315,7 +115288,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fr.wiktionary.org",
-    r: 294,
+    r: 310,
     s: "Wiktionnaire",
     sc: "Reference (words intl)",
     t: "wiktfr",
@@ -115333,7 +115306,7 @@ export const bangs = [
   {
     c: "Research",
     d: "hu.wiktionary.org",
-    r: 0,
+    r: 5,
     s: "Wiktionary (hu)",
     sc: "Reference (words intl)",
     t: "wikthu",
@@ -115342,7 +115315,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 3317,
+    r: 2608,
     s: "Wiktionary",
     sc: "Reference (words)",
     t: "wiktionary",
@@ -115351,7 +115324,7 @@ export const bangs = [
   {
     c: "Research",
     d: "it.wiktionary.org",
-    r: 3,
+    r: 8,
     s: "Wikizionario, il dizionario libero",
     sc: "Reference (words)",
     t: "wiktit",
@@ -115360,7 +115333,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ja.wiktionary.org",
-    r: 0,
+    r: 20,
     s: "Wiktionary (Japan)",
     sc: "Search",
     t: "wiktja",
@@ -115387,7 +115360,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nl.wiktionary.org",
-    r: 94,
+    r: 169,
     s: "Dutch Wiktionary",
     sc: "Reference (words intl)",
     t: "wiktnl",
@@ -115405,7 +115378,7 @@ export const bangs = [
   {
     c: "Research",
     d: "pt.wiktionary.org",
-    r: 31,
+    r: 16,
     s: "Wikcion\u00e1rio (PT)",
     sc: "Reference (words)",
     t: "wiktpt",
@@ -115414,7 +115387,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ru.wiktionary.org",
-    r: 19,
+    r: 33,
     s: "Wiktionary (RU)",
     sc: "Reference (words)",
     t: "wiktru",
@@ -115423,7 +115396,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sv.wiktionary.org",
-    r: 17,
+    r: 4,
     s: "Swedish Wiktionary",
     sc: "Reference (words intl)",
     t: "wiktsv",
@@ -115432,7 +115405,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 7611,
+    r: 8875,
     s: "Wiktionary",
     sc: "Reference (words)",
     t: "wikt",
@@ -115459,7 +115432,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.willhaben.at",
-    r: 77,
+    r: 43,
     s: "Willhaben",
     sc: "Online (marketplace)",
     t: "willhaben",
@@ -115495,7 +115468,7 @@ export const bangs = [
   {
     c: "Research",
     d: "commons.wikimedia.org",
-    r: 19,
+    r: 45,
     s: "Wikimedia Commons",
     sc: "Academic",
     t: "wim",
@@ -115558,7 +115531,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.winehq.org",
-    r: 6,
+    r: 0,
     s: "WineHQ",
     sc: "Games (general)",
     t: "winehq",
@@ -115567,7 +115540,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "winehq.org",
-    r: 7,
+    r: 11,
     s: "Wine AppDB",
     sc: "Downloads (apps)",
     t: "wine",
@@ -115585,7 +115558,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "windows.microsoft.com",
-    r: 4,
+    r: 0,
     s: "Microsoft Windows",
     sc: "Misc",
     t: "win",
@@ -115612,7 +115585,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "thewirecutter.com",
-    r: 71,
+    r: 103,
     s: "The Wirecutter",
     sc: "Tech",
     t: "wirecutter",
@@ -115621,7 +115594,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.wired.com",
-    r: 45,
+    r: 34,
     s: "Wired",
     sc: "Blogs",
     t: "wired",
@@ -115630,7 +115603,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.thewire.co.uk",
-    r: 3,
+    r: 0,
     s: "The Wire",
     sc: "Audio",
     t: "wire",
@@ -115693,7 +115666,7 @@ export const bangs = [
   {
     c: "Research",
     d: "is.wikipedia.org",
-    r: 3,
+    r: 4,
     s: "Wikipedia IS",
     sc: "Reference",
     t: "wis",
@@ -115702,7 +115675,7 @@ export const bangs = [
   {
     c: "Research",
     d: "el.m.wiktionary.org",
-    r: 4,
+    r: 0,
     s: "Wiktionary(GR)",
     sc: "Academic",
     t: "witgr",
@@ -115720,7 +115693,7 @@ export const bangs = [
   {
     c: "Research",
     d: "it.wikipedia.org",
-    r: 843,
+    r: 785,
     s: "Wikipedia (IT)",
     sc: "Academic",
     t: "wit",
@@ -115729,7 +115702,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 1238,
+    r: 1129,
     s: "Wikipedia",
     sc: "Reference",
     t: "wi",
@@ -115738,7 +115711,7 @@ export const bangs = [
   {
     c: "Research",
     d: "zh.wikipedia.org",
-    r: 20,
+    r: 29,
     s: "wikipedia(Chinese)",
     sc: "Reference (words)",
     t: "wizh",
@@ -115747,7 +115720,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ja.wikipedia.org",
-    r: 481,
+    r: 360,
     s: "Wikipedia (JA)",
     sc: "Academic",
     t: "wja",
@@ -115774,7 +115747,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ja.wikipedia.org",
-    r: 322,
+    r: 564,
     s: "Wikipedia in Japanese",
     sc: "Reference",
     t: "wj",
@@ -115810,7 +115783,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.wikidex.net",
-    r: 8,
+    r: 46,
     s: "Wikidex",
     sc: "Games (Pokemon)",
     t: "wkdx",
@@ -115819,7 +115792,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "it.wiktionary.org",
-    r: 0,
+    r: 5,
     s: "Wiktionary (Italian)",
     sc: "Tools (URLs)",
     t: "wkit",
@@ -115873,7 +115846,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ko.wikipedia.org",
-    r: 44,
+    r: 62,
     s: "Wikipedia (KO)",
     sc: "Learning",
     t: "wko",
@@ -115900,7 +115873,7 @@ export const bangs = [
   {
     c: "Research",
     d: "species.wikimedia.org",
-    r: 43,
+    r: 0,
     s: "Wikispecies",
     sc: "Learning",
     t: "wks",
@@ -115909,7 +115882,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wiktionary.org",
-    r: 29,
+    r: 16,
     s: "Wiktionary German",
     sc: "Reference (words intl)",
     t: "wktde",
@@ -115918,7 +115891,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 733,
+    r: 797,
     s: "Wiktionary English",
     sc: "Reference (words)",
     t: "wkten",
@@ -115936,7 +115909,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikipedia.org",
-    r: 1537,
+    r: 1491,
     s: "wikipedia",
     sc: "Academic",
     t: "wk",
@@ -115954,7 +115927,7 @@ export const bangs = [
   {
     c: "Research",
     d: "la.wikipedia.org",
-    r: 0,
+    r: 8,
     s: "Latin Wikipedia",
     sc: "Reference",
     t: "wla",
@@ -115981,7 +115954,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.willhaben.at",
-    r: 4,
+    r: 0,
     s: "Willhaben",
     sc: "Online (marketplace)",
     t: "wlhb",
@@ -115990,7 +115963,7 @@ export const bangs = [
   {
     c: "Research",
     d: "a.next.westlaw.com",
-    r: 0,
+    r: 6,
     s: "WestlawNext",
     sc: "Law",
     t: "wln",
@@ -116008,7 +115981,7 @@ export const bangs = [
   {
     c: "Research",
     d: "lt.wikipedia.org",
-    r: 6,
+    r: 9,
     s: "Vikipedija (Wikipedia LT)",
     sc: "Reference",
     t: "wlt",
@@ -116017,7 +115990,7 @@ export const bangs = [
   {
     c: "Research",
     d: "lv.wikipedia.org",
-    r: 0,
+    r: 3,
     s: "Wikipedia (LV)",
     sc: "Learning",
     t: "wlv",
@@ -116026,7 +115999,7 @@ export const bangs = [
   {
     c: "Research",
     d: "search.wikileaks.org",
-    r: 8,
+    r: 12,
     s: "WikiLeaks",
     sc: "Government",
     t: "wl",
@@ -116053,7 +116026,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "commons.wikimedia.org",
-    r: 139,
+    r: 174,
     s: "Wikimedia Commons",
     sc: "General",
     t: "wmc",
@@ -116062,7 +116035,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.m.wikipedia.org",
-    r: 29,
+    r: 35,
     s: "Wikipedia Deutsch Mobile",
     sc: "Learning",
     t: "wmde",
@@ -116071,7 +116044,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.whatsmydns.net",
-    r: 4,
+    r: 0,
     s: "What's My DNS",
     sc: "Tools (URLs)",
     t: "wmdns",
@@ -116179,7 +116152,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.m.wikipedia.org",
-    r: 201,
+    r: 174,
     s: "Wikipedia mobile",
     sc: "Academic",
     t: "wm",
@@ -116233,7 +116206,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordnik.com",
-    r: 45,
+    r: 30,
     s: "Wordnik",
     sc: "Reference (words)",
     t: "wnk",
@@ -116242,7 +116215,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nl.wikipedia.org",
-    r: 902,
+    r: 723,
     s: "Wikipedia (NL)",
     sc: "Reference",
     t: "wnl",
@@ -116251,7 +116224,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nn.wikipedia.org",
-    r: 3,
+    r: 0,
     s: "Wikipedia Nynorsk",
     sc: "Academic",
     t: "wnn",
@@ -116260,7 +116233,7 @@ export const bangs = [
   {
     c: "Research",
     d: "no.wikipedia.org",
-    r: 160,
+    r: 201,
     s: "Norwegian Wikipedia",
     sc: "Academic",
     t: "wno",
@@ -116287,7 +116260,7 @@ export const bangs = [
   {
     c: "News",
     d: "en.wikinews.org",
-    r: 14,
+    r: 10,
     s: "Wikinews",
     sc: "Aggregators",
     t: "wn",
@@ -116296,7 +116269,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.wnyc.org",
-    r: 9,
+    r: 0,
     s: "WNYC",
     sc: "Broadcast",
     t: "wnyc",
@@ -116305,7 +116278,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.worldofboardgames.com",
-    r: 3,
+    r: 0,
     s: "World of Boardgames",
     sc: "Online (intl)",
     t: "wob",
@@ -116341,7 +116314,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wolframalpha.com",
-    r: 59,
+    r: 33,
     s: "Wolfram|Alpha",
     sc: "Academic",
     t: "wolframalpha",
@@ -116350,7 +116323,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wolframalpha.com",
-    r: 601,
+    r: 447,
     s: "Wolfram|Alpha",
     sc: "Academic",
     t: "wolfram",
@@ -116359,7 +116332,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wolframalpha.com",
-    r: 247,
+    r: 125,
     s: "Wolfram Alpha",
     sc: "Academic (math/cs)",
     t: "wolf",
@@ -116377,7 +116350,7 @@ export const bangs = [
   {
     c: "Research",
     d: "wol.jw.org",
-    r: 56,
+    r: 47,
     s: "Watchtower Online Library",
     sc: "Reference (religion)",
     t: "wol",
@@ -116422,7 +116395,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wood-database.com",
-    r: 0,
+    r: 3,
     s: "The Wood Database",
     sc: "Topical",
     t: "wood",
@@ -116431,7 +116404,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "starwars.wikia.com",
-    r: 5,
+    r: 11,
     s: "Star Wars Wiki",
     sc: "TV",
     t: "wookieepedia",
@@ -116440,7 +116413,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "starwars.wikia.com",
-    r: 8,
+    r: 32,
     s: "Wookiepedia",
     sc: "Misc",
     t: "wookie",
@@ -116449,7 +116422,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.wook.pt",
-    r: 6,
+    r: 12,
     s: "Wook",
     sc: "Online",
     t: "wook",
@@ -116458,7 +116431,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.woolworths.com.au",
-    r: 6,
+    r: 0,
     s: "Woolworths",
     sc: "Big box/department",
     t: "woolies",
@@ -116467,7 +116440,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.woolworths.com.au",
-    r: 10,
+    r: 3,
     s: "Woolworths",
     sc: "Big box/department",
     t: "woolworths",
@@ -116476,7 +116449,7 @@ export const bangs = [
   {
     c: "Research",
     d: "woordenlijst.org",
-    r: 0,
+    r: 3,
     s: "Woordenlijst",
     sc: "Reference (words)",
     t: "woordenlijst",
@@ -116485,7 +116458,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.woorden.org",
-    r: 3,
+    r: 8,
     s: "Woorden.org",
     sc: "Reference (words)",
     t: "woord",
@@ -116503,7 +116476,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "wooordhunt.ru",
-    r: 22,
+    r: 54,
     s: "WooordHunt",
     sc: "General",
     t: "woo",
@@ -116530,7 +116503,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordhippo.com",
-    r: 52,
+    r: 43,
     s: "word hippo",
     sc: "Tools",
     t: "wordhippo",
@@ -116566,7 +116539,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordnik.com",
-    r: 68,
+    r: 55,
     s: "Wordnik",
     sc: "Reference (words)",
     t: "wordnik",
@@ -116575,7 +116548,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wordpress.org",
-    r: 0,
+    r: 8,
     s: "WordPress.org",
     sc: "Tools",
     t: "wordpress",
@@ -116584,7 +116557,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 143,
+    r: 91,
     s: "WordReference",
     sc: "Reference (words)",
     t: "wordreference",
@@ -116611,7 +116584,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordnik.com",
-    r: 49,
+    r: 54,
     s: "Wordnik",
     sc: "Tools",
     t: "word",
@@ -116620,7 +116593,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "workatremote.com",
-    r: 0,
+    r: 4,
     s: "WorkAtRemote",
     sc: "Jobs",
     t: "workatremote",
@@ -116674,7 +116647,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.worldcat.org",
-    r: 59,
+    r: 68,
     s: "WorldCat.org",
     sc: "Libraries/Frameworks",
     t: "worldcat",
@@ -116710,7 +116683,7 @@ export const bangs = [
   {
     c: "News",
     d: "world.wng.org",
-    r: 25,
+    r: 0,
     s: "WORLD Magazine",
     sc: "Magazine",
     t: "world",
@@ -116719,7 +116692,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "worms2d.info",
-    r: 5,
+    r: 0,
     s: "Worms Knowledge Base",
     sc: "Games (specific)",
     t: "worms",
@@ -116728,7 +116701,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wormbase.org",
-    r: 17,
+    r: 6,
     s: "Wormbase",
     sc: "Academic",
     t: "worm",
@@ -116782,7 +116755,7 @@ export const bangs = [
   {
     c: "Research",
     d: "gateway.webofknowledge.com",
-    r: 4,
+    r: 3,
     s: "Web of Science",
     sc: "Academic",
     t: "wosc",
@@ -116791,7 +116764,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wiki.openstreetmap.org",
-    r: 190,
+    r: 128,
     s: "OpenStreetMap Wiki",
     sc: "Maps",
     t: "wosm",
@@ -116827,7 +116800,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "www.mywot.com",
-    r: 6,
+    r: 7,
     s: "Web of Trust",
     sc: "Tools (URLs)",
     t: "wot",
@@ -116899,7 +116872,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "classic.wowhead.com",
-    r: 8,
+    r: 0,
     s: "wowclassic",
     sc: "Games (WOW)",
     t: "wowclassic",
@@ -116917,7 +116890,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.wetteronline.de",
-    r: 60,
+    r: 21,
     s: "WetterOnline",
     sc: "Weather",
     t: "wo",
@@ -116926,7 +116899,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "fr.wowhead.com",
-    r: 18,
+    r: 4,
     s: "Wowhead",
     sc: "Games (WOW)",
     t: "wowfr",
@@ -116935,7 +116908,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "classic.wowhead.com",
-    r: 27,
+    r: 0,
     s: "wowhead classic",
     sc: "Games (WOW)",
     t: "wowhc",
@@ -116944,7 +116917,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "de.wowhead.com",
-    r: 3,
+    r: 7,
     s: "Wowhead german",
     sc: "Games (WOW)",
     t: "wowheadde",
@@ -116962,7 +116935,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.wowhead.com",
-    r: 100,
+    r: 118,
     s: "WowHead",
     sc: "Games (WOW)",
     t: "wowhead",
@@ -116989,7 +116962,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.wowhead.com",
-    r: 95,
+    r: 86,
     s: "Wowhead",
     sc: "Games (WOW)",
     t: "wowh",
@@ -116998,7 +116971,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.wowpedia.org",
-    r: 3,
+    r: 0,
     s: "Wowpedia",
     sc: "Games (WOW)",
     t: "wowpedia",
@@ -117034,7 +117007,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "worldofwarcraft.com",
-    r: 31,
+    r: 24,
     s: "World of Warcraft",
     sc: "Games (WOW)",
     t: "wow",
@@ -117070,7 +117043,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wpackagist.org",
-    r: 3,
+    r: 0,
     s: "WordPress Packagist",
     sc: "Programming",
     t: "wpackagist",
@@ -117097,7 +117070,7 @@ export const bangs = [
   {
     c: "Research",
     d: "developer.wordpress.org",
-    r: 31,
+    r: 12,
     s: "WordPress Code Reference",
     sc: "Reference",
     t: "wpdev",
@@ -117115,7 +117088,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fr.wikipedia.org",
-    r: 14,
+    r: 12,
     s: "Wikipedia (FR)",
     sc: "Learning (intl)",
     t: "wpfr",
@@ -117124,7 +117097,7 @@ export const bangs = [
   {
     c: "Research",
     d: "pl.wikipedia.org",
-    r: 574,
+    r: 500,
     s: "Wikipedia (PL)",
     sc: "Academic",
     t: "wpl",
@@ -117133,16 +117106,16 @@ export const bangs = [
   {
     c: "News",
     d: "www.washingtonpost.com",
-    r: 22,
+    r: 7,
     s: "Washington Post",
     sc: "Newspaper",
     t: "wpost",
-    u: "http://www.washingtonpost.com/newssearch/search.html?st={{{s}}}",
+    u: "https://www.washingtonpost.com/search/?query={{{s}}}",
   },
   {
     c: "Online Services",
     d: "wordpress.org",
-    r: 4,
+    r: 0,
     s: "WordPress.org Plugins",
     sc: "Tools",
     t: "wpplugins",
@@ -117169,7 +117142,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "wordpress.org",
-    r: 4,
+    r: 0,
     s: "WordPress Plugin Directory",
     sc: "Downloads",
     t: "wpp",
@@ -117196,7 +117169,7 @@ export const bangs = [
   {
     c: "Research",
     d: "pt.wikipedia.org",
-    r: 248,
+    r: 290,
     s: "Wikipedia (PT)",
     sc: "Academic",
     t: "wpt",
@@ -117214,7 +117187,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "wordpress.org",
-    r: 104,
+    r: 122,
     s: "WordPress.org",
     sc: "Tools",
     t: "wp",
@@ -117268,7 +117241,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikiquote.org",
-    r: 75,
+    r: 59,
     s: "WikiQuote",
     sc: "Reference",
     t: "wq",
@@ -117286,7 +117259,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wolframalpha.com",
-    r: 26,
+    r: 39,
     s: "Wolfram|Alpha",
     sc: "Academic",
     t: "wra",
@@ -117295,7 +117268,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 5,
+    r: 12,
     s: "Word Reference French Conjugate",
     sc: "Reference (words)",
     t: "wrcfr",
@@ -117313,7 +117286,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 20,
+    r: 12,
     s: "WordReference",
     sc: "Reference (words intl)",
     t: "wrdeen",
@@ -117322,7 +117295,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 4,
+    r: 0,
     s: "WordReference DE -> FR",
     sc: "Tools",
     t: "wrdefr",
@@ -117331,7 +117304,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 20,
+    r: 0,
     s: "Word Reference",
     sc: "Search",
     t: "wrden",
@@ -117358,7 +117331,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 630,
+    r: 547,
     s: "Wordreference en->fr",
     sc: "Reference (words)",
     t: "wref",
@@ -117367,7 +117340,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 40,
+    r: 34,
     s: "Word Reference EN-IT",
     sc: "Learning",
     t: "wrei",
@@ -117376,7 +117349,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 6,
+    r: 7,
     s: "WordReference en->de",
     sc: "Reference (words)",
     t: "wrende",
@@ -117385,7 +117358,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 270,
+    r: 224,
     s: "WordReference",
     sc: "Reference (words intl)",
     t: "wrenes",
@@ -117394,7 +117367,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 245,
+    r: 235,
     s: "WordReference",
     sc: "Tools",
     t: "wrenfr",
@@ -117403,7 +117376,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 7,
+    r: 5,
     s: "wordreference english to greek translation",
     sc: "Tools",
     t: "wrengr",
@@ -117412,7 +117385,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 353,
+    r: 242,
     s: "Wordreference en->it",
     sc: "Reference (words)",
     t: "wrenit",
@@ -117430,7 +117403,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 5,
+    r: 0,
     s: "Word Reference",
     sc: "Tools",
     t: "wrenpl",
@@ -117466,7 +117439,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 5,
+    r: 7,
     s: "WordReference.com English Synonyms",
     sc: "Tools",
     t: "wrensyn",
@@ -117475,7 +117448,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 64,
+    r: 45,
     s: "WordReference (EN)",
     sc: "Tools",
     t: "wren",
@@ -117502,7 +117475,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 209,
+    r: 196,
     s: "WordReference",
     sc: "Reference (words intl)",
     t: "wresen",
@@ -117511,7 +117484,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 33,
+    r: 28,
     s: "Wordreference",
     sc: "Reference (words intl)",
     t: "wresfr",
@@ -117520,7 +117493,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 18,
+    r: 10,
     s: "WordReference es > it",
     sc: "Reference (words)",
     t: "wresit",
@@ -117529,7 +117502,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 3,
+    r: 0,
     s: "WordReference",
     sc: "Reference (words)",
     t: "wrespt",
@@ -117538,7 +117511,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 3,
+    r: 0,
     s: "WordReference.com sin\u00f3nimos en espa\u00f1ol",
     sc: "Tools",
     t: "wressin",
@@ -117547,7 +117520,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 43,
+    r: 33,
     s: "WordReference (ES)",
     sc: "Tools",
     t: "wres",
@@ -117565,7 +117538,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 320,
+    r: 317,
     s: "Wordreference fr->en",
     sc: "Reference (words)",
     t: "wrfe",
@@ -117592,7 +117565,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 187,
+    r: 193,
     s: "Word Reference",
     sc: "Reference (words)",
     t: "wrfren",
@@ -117601,7 +117574,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 8,
+    r: 21,
     s: "Wordreference",
     sc: "Reference (words)",
     t: "wrfres",
@@ -117610,7 +117583,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 3,
+    r: 0,
     s: "wordreference greek to english translation",
     sc: "Tools",
     t: "wrgren",
@@ -117637,7 +117610,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 45,
+    r: 28,
     s: "Word Reference IT-EN",
     sc: "Learning",
     t: "wrie",
@@ -117655,7 +117628,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 0,
+    r: 3,
     s: "WordReference Italian Conjugator",
     sc: "Tools",
     t: "writconj",
@@ -117664,7 +117637,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 182,
+    r: 150,
     s: "Wordreference it->en",
     sc: "Reference (words)",
     t: "writen",
@@ -117682,7 +117655,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 23,
+    r: 6,
     s: "WordReference (IT definition)",
     sc: "Reference (words intl)",
     t: "writ",
@@ -117700,7 +117673,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 5,
+    r: 0,
     s: "WordReference (EN)",
     sc: "Tools",
     t: "wrn",
@@ -117709,7 +117682,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ro.wikipedia.org",
-    r: 16,
+    r: 22,
     s: "wikipedia",
     sc: "Learning",
     t: "wro",
@@ -117727,7 +117700,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 3,
+    r: 0,
     s: "Word Reference",
     sc: "Tools",
     t: "wrplen",
@@ -117736,7 +117709,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 0,
+    r: 9,
     s: "WordReference",
     sc: "Learning (intl)",
     t: "wrpten",
@@ -117763,7 +117736,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wordreference.com",
-    r: 57,
+    r: 10,
     s: "Wordreference",
     sc: "Tools",
     t: "wrse",
@@ -117808,7 +117781,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 141,
+    r: 54,
     s: "WordReference English-Spanish",
     sc: "Reference",
     t: "wrs",
@@ -117826,7 +117799,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ru.wikipedia.org",
-    r: 4,
+    r: 0,
     s: "Russian Wikipedia",
     sc: "Reference",
     t: "w.ru",
@@ -117835,7 +117808,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ru.wikipedia.org",
-    r: 205,
+    r: 266,
     s: "Wikipedia (RU)",
     sc: "Learning",
     t: "wru",
@@ -117844,7 +117817,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wordreference.com",
-    r: 845,
+    r: 651,
     s: "WordReference Definition",
     sc: "Learning",
     t: "wr",
@@ -117898,7 +117871,7 @@ export const bangs = [
   {
     c: "Research",
     d: "se.wikipedia.org",
-    r: 7,
+    r: 12,
     s: "Wikipedia \u2013 Friddje diehtos\u00e1tnegirji",
     sc: "Reference",
     t: "wse",
@@ -117907,7 +117880,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fr.wikisource.org",
-    r: 13,
+    r: 0,
     s: "Wikisource (FR)",
     sc: "Reference",
     t: "wsfr",
@@ -117952,7 +117925,7 @@ export const bangs = [
   {
     c: "Research",
     d: "simple.wikipedia.org",
-    r: 12,
+    r: 0,
     s: "Wikipedia (Simple English)",
     sc: "Reference",
     t: "wsimple",
@@ -117979,7 +117952,7 @@ export const bangs = [
   {
     c: "Research",
     d: "wsjp.pl",
-    r: 9,
+    r: 0,
     s: "Wielki S\u0142ownik J\u0119zyka Polskiego",
     sc: "Reference (words)",
     t: "wsjp",
@@ -117988,7 +117961,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.wsj.com",
-    r: 236,
+    r: 134,
     s: "The Wall Street Journal",
     sc: "Newspaper",
     t: "wsj",
@@ -117997,7 +117970,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sk.wikipedia.org",
-    r: 8,
+    r: 7,
     s: "Wikip\u00e9dia Sloven\u010dina",
     sc: "Learning",
     t: "wsk",
@@ -118006,7 +117979,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sl.wikipedia.org",
-    r: 3,
+    r: 10,
     s: "Wikipedia (SL)",
     sc: "Learning (intl)",
     t: "wsl",
@@ -118015,7 +117988,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wallstreetoasis.com",
-    r: 0,
+    r: 5,
     s: "Wall Street Oasis Forums",
     sc: "Social news/links",
     t: "wso",
@@ -118033,7 +118006,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "sr.wikipedia.org",
-    r: 13,
+    r: 8,
     s: "https://sr.wikipedia.org/wiki/",
     sc: "Tools",
     t: "wsr",
@@ -118051,7 +118024,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sv.wikipedia.org",
-    r: 346,
+    r: 298,
     s: "Wikipedia (SV)",
     sc: "Academic",
     t: "wsv",
@@ -118060,7 +118033,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "en.wikisource.org",
-    r: 43,
+    r: 139,
     s: "Wikisource",
     sc: "Books",
     t: "ws",
@@ -118114,7 +118087,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "br.wiktionary.org",
-    r: 0,
+    r: 5,
     s: "Wiktkionary e brezhoneg",
     sc: "Search",
     t: "wtbr",
@@ -118123,7 +118096,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ca.wiktionary.org",
-    r: 3,
+    r: 0,
     s: "Wiktionary Catalan",
     sc: "Learning",
     t: "wtca",
@@ -118132,7 +118105,7 @@ export const bangs = [
   {
     c: "Research",
     d: "cs.wiktionary.org",
-    r: 0,
+    r: 3,
     s: "Wiktionary (Czech)",
     sc: "Reference (words intl)",
     t: "wtcz",
@@ -118141,7 +118114,7 @@ export const bangs = [
   {
     c: "Research",
     d: "de.wiktionary.org",
-    r: 189,
+    r: 253,
     s: "Wiktionary (Deutsch)",
     sc: "Reference (words intl)",
     t: "wtde",
@@ -118159,7 +118132,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 2351,
+    r: 2664,
     s: "Wiktionary",
     sc: "Reference (words)",
     t: "wten",
@@ -118168,7 +118141,7 @@ export const bangs = [
   {
     c: "Research",
     d: "eo.wiktionary.org",
-    r: 0,
+    r: 5,
     s: "Vikivortaro",
     sc: "Learning",
     t: "wteo",
@@ -118177,7 +118150,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.test.de",
-    r: 0,
+    r: 27,
     s: "Stiftung Warentest",
     sc: "Services",
     t: "wtest",
@@ -118186,7 +118159,7 @@ export const bangs = [
   {
     c: "Research",
     d: "es.wiktionary.org",
-    r: 26,
+    r: 70,
     s: "Wikcionario",
     sc: "Reference (words)",
     t: "wtes",
@@ -118195,7 +118168,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "te.wikipedia.org",
-    r: 0,
+    r: 6,
     s: "Telugu Wikipedia (tewiki)",
     sc: "Search",
     t: "wte",
@@ -118204,7 +118177,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fi.wiktionary.org",
-    r: 118,
+    r: 43,
     s: "Wiktionary (Finnish)",
     sc: "Reference (words intl)",
     t: "wtfi",
@@ -118213,7 +118186,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.mirbsd.org",
-    r: 0,
+    r: 8,
     s: "MirBSD Acronyms Database",
     sc: "Reference (words)",
     t: "wtf",
@@ -118222,7 +118195,7 @@ export const bangs = [
   {
     c: "Research",
     d: "fr.wiktionary.org",
-    r: 575,
+    r: 512,
     s: "Wiktionary french",
     sc: "Reference (words)",
     t: "wtfr",
@@ -118249,7 +118222,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 133,
+    r: 110,
     s: "Wikitionary",
     sc: "Learning",
     t: "wtionary",
@@ -118267,7 +118240,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "ja.wiktionary.org",
-    r: 18,
+    r: 12,
     s: "Wiktionary (Japan)",
     sc: "Search (non-US)",
     t: "wtja",
@@ -118276,7 +118249,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 49,
+    r: 35,
     s: "Wiktionary",
     sc: "Reference (words intl)",
     t: "wtla",
@@ -118285,7 +118258,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "whatthefuckshouldilistentorightnow.com",
-    r: 0,
+    r: 3,
     s: "What the fuck should I listen to right now",
     sc: "Audio",
     t: "wtl",
@@ -118294,7 +118267,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.m.wiktionary.org",
-    r: 26,
+    r: 13,
     s: "Wiktionary Mobile",
     sc: "Reference (words)",
     t: "wtm",
@@ -118303,7 +118276,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nl.wiktionary.org",
-    r: 58,
+    r: 95,
     s: "WikiWoordenboek",
     sc: "Reference (words intl)",
     t: "wtnl",
@@ -118330,7 +118303,7 @@ export const bangs = [
   {
     c: "Research",
     d: "pl.wiktionary.org",
-    r: 47,
+    r: 52,
     s: "Wiktionary (PL)",
     sc: "Reference (words)",
     t: "wtpl",
@@ -118339,7 +118312,7 @@ export const bangs = [
   {
     c: "Research",
     d: "pt.wiktionary.org",
-    r: 12,
+    r: 15,
     s: "Wiktionary (portuguese)",
     sc: "Reference (words intl)",
     t: "wtpt",
@@ -118357,7 +118330,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ru.wiktionary.org",
-    r: 88,
+    r: 99,
     s: "ru.wiktionary.org",
     sc: "Reference (words)",
     t: "wtru",
@@ -118366,7 +118339,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tr.wikipedia.org",
-    r: 19,
+    r: 86,
     s: "Vikipedi (Turkish Wikipedia)",
     sc: "Reference",
     t: "wtr",
@@ -118384,7 +118357,7 @@ export const bangs = [
   {
     c: "Research",
     d: "sv.wiktionary.org",
-    r: 61,
+    r: 45,
     s: "Wiktionary (SV)",
     sc: "Reference (words intl)",
     t: "wtsv",
@@ -118393,7 +118366,7 @@ export const bangs = [
   {
     c: "Research",
     d: "ta.wiktionary.org",
-    r: 6,
+    r: 3,
     s: "\u0bb5\u0bbf\u0b95\u0bcd\u0b9a\u0ba9\u0bb0\u0bbf (Wiktionary Tamil)",
     sc: "Reference (words intl)",
     t: "wtta",
@@ -118420,7 +118393,7 @@ export const bangs = [
   {
     c: "Research",
     d: "tt.wikipedia.org",
-    r: 5,
+    r: 0,
     s: "Wikipedia Tatar",
     sc: "Reference",
     t: "wtt",
@@ -118429,7 +118402,7 @@ export const bangs = [
   {
     c: "Research",
     d: "vi.wiktionary.org",
-    r: 3,
+    r: 0,
     s: "Wiktionary ti\u1ebfng Vi\u1ec7t",
     sc: "Reference (words)",
     t: "wtvi",
@@ -118438,7 +118411,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wiktionary.org",
-    r: 16682,
+    r: 16575,
     s: "Wiktionary",
     sc: "Reference (words)",
     t: "wt",
@@ -118447,7 +118420,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wiki.warthunder.com",
-    r: 5,
+    r: 0,
     s: "War Thunder Wiki",
     sc: "Games (general)",
     t: "wtw",
@@ -118456,7 +118429,7 @@ export const bangs = [
   {
     c: "Research",
     d: "zh.wiktionary.org",
-    r: 4,
+    r: 0,
     s: "Wiktionary (Chinese)",
     sc: "Reference (words intl)",
     t: "wtzh",
@@ -118474,7 +118447,7 @@ export const bangs = [
   {
     c: "Research",
     d: "uk.wikipedia.org",
-    r: 34,
+    r: 25,
     s: "Wikipedia (UK)",
     sc: "Academic",
     t: "wuk",
@@ -118510,7 +118483,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.wunderground.com",
-    r: 14,
+    r: 25,
     s: "Weather Underground",
     sc: "Weather",
     t: "wunderground",
@@ -118555,7 +118528,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.walmart.com",
-    r: 81,
+    r: 165,
     s: "Walmart US",
     sc: "Search",
     t: "wus",
@@ -118564,7 +118537,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.wunderground.com",
-    r: 175,
+    r: 108,
     s: "Weather Underground",
     sc: "Weather",
     t: "wu",
@@ -118681,7 +118654,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.wikivoyage.org",
-    r: 250,
+    r: 239,
     s: "Wikivoyage",
     sc: "Travel",
     t: "wv",
@@ -118726,7 +118699,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wikiwand.com",
-    r: 0,
+    r: 3,
     s: "Wikiwand in english",
     sc: "Reference",
     t: "wwen",
@@ -118771,7 +118744,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "en.wikipedia.org",
-    r: 189946,
+    r: 183076,
     s: "Wikipedia",
     sc: "Search",
     t: "w",
@@ -118780,7 +118753,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wegenwiki.nl",
-    r: 0,
+    r: 3,
     s: "Wegenwiki",
     sc: "Travel",
     t: "wwiki",
@@ -118834,7 +118807,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.89porno.com",
-    r: 20,
+    r: 24,
     s: "Porno \u0130zle",
     sc: "Video",
     t: "www.89porno.com",
@@ -118843,7 +118816,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.wikiwand.com",
-    r: 63,
+    r: 70,
     s: "Wikiwand",
     sc: "Reference",
     t: "ww",
@@ -118852,7 +118825,7 @@ export const bangs = [
   {
     c: "Research",
     d: "nihongo.monash.edu",
-    r: 3,
+    r: 6,
     s: "WWWJDIC",
     sc: "Reference (words)",
     t: "wwwjdic",
@@ -118888,7 +118861,7 @@ export const bangs = [
   {
     c: "Research",
     d: "synonyme.woxikon.de",
-    r: 4,
+    r: 0,
     s: "Woxikon.de",
     sc: "Reference (words)",
     t: "wxd",
@@ -118942,7 +118915,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "wynncraft.gamepedia.com",
-    r: 8,
+    r: 0,
     s: "Wynncraft Wiki",
     sc: "Games (Minecraft)",
     t: "wynn",
@@ -118951,7 +118924,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.wykop.pl",
-    r: 10,
+    r: 11,
     s: "Wykop.pl",
     sc: "Social news/links",
     t: "wy",
@@ -118960,7 +118933,7 @@ export const bangs = [
   {
     c: "Research",
     d: "zh.wikipedia.org",
-    r: 165,
+    r: 154,
     s: "Wikipedia (ZH)",
     sc: "Learning",
     t: "wzh",
@@ -118996,7 +118969,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "x.com",
-    r: 7870,
+    r: 7661,
     s: "X",
     sc: "Social",
     t: "x",
@@ -119032,7 +119005,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.xbox.com",
-    r: 18,
+    r: 11,
     s: "Xbox",
     sc: "Games (general)",
     t: "xbox",
@@ -119041,7 +119014,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "github.com",
-    r: 0,
+    r: 6,
     s: "Void Packages",
     sc: "Sysadmin (packages)",
     t: "xbps",
@@ -119077,7 +119050,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "forum.xda-developers.com",
-    r: 6,
+    r: 9,
     s: "XDA Developers",
     sc: "Programming",
     t: "xda",
@@ -119086,7 +119059,7 @@ export const bangs = [
   {
     c: "News",
     d: "xe.com",
-    r: 210,
+    r: 25,
     s: "https://xe.com/",
     sc: "Business",
     t: "xe",
@@ -119113,7 +119086,7 @@ export const bangs = [
   {
     c: "Research",
     d: "en.xen.wiki",
-    r: 36,
+    r: 16,
     s: "Xenharmonic Wiki",
     sc: "Reference (science)",
     t: "xen",
@@ -119158,7 +119131,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.robertchristgau.com",
-    r: 15,
+    r: 7,
     s: "Robert Christgau",
     sc: "Music",
     t: "xgau",
@@ -119185,7 +119158,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.xing.com",
-    r: 0,
+    r: 3,
     s: "Xing.de",
     sc: "Social",
     t: "xing",
@@ -119203,7 +119176,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "learnxinyminutes.com",
-    r: 8,
+    r: 5,
     s: "Learn X in Y Minutes",
     sc: "Programming",
     t: "xiny",
@@ -119221,7 +119194,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "xivdb.com",
-    r: 8,
+    r: 4,
     s: "XIV:DB",
     sc: "Games (specific)",
     t: "xiv",
@@ -119239,7 +119212,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "xkcd.com",
-    r: 12,
+    r: 4,
     s: "XKCD Number",
     sc: "Comics",
     t: "xkcdn",
@@ -119248,7 +119221,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "",
-    r: 110,
+    r: 98,
     s: "xkcd",
     sc: "Comics",
     t: "xkcd",
@@ -119284,7 +119257,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "xploremycity.com",
-    r: 0,
+    r: 5,
     s: "Xploremycity",
     sc: "Search (Real-time)",
     t: "xmc",
@@ -119347,7 +119320,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "explainshell.com",
-    r: 7,
+    r: 0,
     s: "ExplainShell",
     sc: "Sysadmin (man)",
     t: "xsh",
@@ -119356,7 +119329,7 @@ export const bangs = [
   {
     c: "Research",
     d: "xtupleuniversity.xtuple.com",
-    r: 18,
+    r: 7,
     s: "xTuple",
     sc: "Reference",
     t: "xt",
@@ -119392,7 +119365,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "xxl.no",
-    r: 3,
+    r: 0,
     s: "XXL.no",
     sc: "Online",
     t: "xxl",
@@ -119428,7 +119401,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.yad2.co.il",
-    r: 3,
+    r: 0,
     s: "Yad2- Search Second hand items (Hebrew)",
     sc: "Online (marketplace)",
     t: "yad2",
@@ -119446,7 +119419,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.com",
-    r: 147,
+    r: 54,
     s: "Yandex",
     sc: "Search (non-US)",
     t: "yaen",
@@ -119455,11 +119428,11 @@ export const bangs = [
   {
     c: "News",
     d: "au.finance.yahoo.com",
-    r: 3,
+    r: 0,
     s: "Yahoo Finance Australia",
     sc: "Business",
     t: "yahoofinau",
-    u: "https://au.finance.yahoo.com/q?s={{{s}}}",
+    u: "https://au.finance.yahoo.com/quote/{{{s}}}",
   },
   {
     c: "Research",
@@ -119473,7 +119446,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.yahoo.com",
-    r: 53,
+    r: 62,
     s: "Yahoo!",
     sc: "Search",
     t: "yahoo",
@@ -119482,7 +119455,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "auctions.search.yahoo.co.jp",
-    r: 96,
+    r: 220,
     s: "Yahoo! Auctions Japan",
     sc: "Online (marketplace)",
     t: "yajp",
@@ -119500,7 +119473,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "market.yandex.ru",
-    r: 25,
+    r: 6,
     s: "Yandex.Market",
     sc: "Online (marketplace)",
     t: "yama",
@@ -119527,7 +119500,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "music.yandex.ru",
-    r: 12,
+    r: 29,
     s: "yandex music",
     sc: "Music",
     t: "yamu",
@@ -119536,7 +119509,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.yammer.com",
-    r: 0,
+    r: 3,
     s: "Yammer",
     sc: "Social",
     t: "yam",
@@ -119545,7 +119518,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.com",
-    r: 174,
+    r: 145,
     s: "Yandex",
     sc: "Search (non-US)",
     t: "yandexen",
@@ -119554,7 +119527,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.yandex.ru",
-    r: 18,
+    r: 14,
     s: "Yandex Maps",
     sc: "Maps",
     t: "yandexmaps",
@@ -119563,7 +119536,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "market.yandex.ru",
-    r: 0,
+    r: 13,
     s: "Yandex Market",
     sc: "Search (non-US)",
     t: "yandexm",
@@ -119581,7 +119554,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.ru",
-    r: 1672,
+    r: 1629,
     s: "Yandex.Ru",
     sc: "Search (non-US)",
     t: "yandex",
@@ -119599,7 +119572,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.com",
-    r: 287,
+    r: 602,
     s: "yandex.com",
     sc: "Search (Private)",
     t: "yan",
@@ -119626,7 +119599,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "yarnpkg.com",
-    r: 11,
+    r: 8,
     s: "Yarn",
     sc: "Downloads",
     t: "yarn",
@@ -119644,7 +119617,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.com.tr",
-    r: 8,
+    r: 5,
     s: "Yandex Turkey",
     sc: "Search",
     t: "yatr",
@@ -119662,7 +119635,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.yandex.com",
-    r: 215,
+    r: 144,
     s: "Yandex Translate",
     sc: "Search",
     t: "yat",
@@ -119671,7 +119644,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.ru",
-    r: 30,
+    r: 42,
     s: "Yandex Video",
     sc: "Search (non-US)",
     t: "yav",
@@ -119689,7 +119662,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.ru",
-    r: 6866,
+    r: 6496,
     s: "Yandex",
     sc: "Search (non-US)",
     t: "ya",
@@ -119707,7 +119680,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.yay.bg",
-    r: 5,
+    r: 12,
     s: "YAY.BG",
     sc: "Online (deals)",
     t: "yay",
@@ -119716,7 +119689,7 @@ export const bangs = [
   {
     c: "News",
     d: "hn.algolia.com",
-    r: 151,
+    r: 104,
     s: "Hacker News Search",
     sc: "Aggregators",
     t: "yc",
@@ -119734,7 +119707,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "dict.youdao.com",
-    r: 21,
+    r: 0,
     s: "Youdao Dict",
     sc: "Search",
     t: "ydd",
@@ -119761,7 +119734,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.yourdictionary.com",
-    r: 15,
+    r: 16,
     s: "YourDictionary",
     sc: "Reference (words)",
     t: "yd",
@@ -119788,7 +119761,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.yeggi.com",
-    r: 66,
+    r: 86,
     s: "Yeggi",
     sc: "Search",
     t: "yeggi",
@@ -119833,7 +119806,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.yelp.com",
-    r: 210,
+    r: 135,
     s: "Yelp",
     sc: "Food",
     t: "yelp",
@@ -119869,11 +119842,11 @@ export const bangs = [
   {
     c: "News",
     d: "finance.yahoo.com",
-    r: 17,
+    r: 0,
     s: "Yahoo Finance Charts",
     sc: "Business",
     t: "yfc",
-    u: "http://finance.yahoo.com/echarts?s={{{s}}}",
+    u: "https://finance.yahoo.com/quote/{{{s}}}/chart",
   },
   {
     c: "Research",
@@ -119887,34 +119860,34 @@ export const bangs = [
   {
     c: "News",
     d: "finance.yahoo.com",
-    r: 18,
+    r: 3,
     s: "Yahoo Finance",
     sc: "Business",
     t: "yfinance",
-    u: "http://finance.yahoo.com/q?s={{{s}}}",
+    u: "https://finance.yahoo.com/quote/{{{s}}}",
   },
   {
     c: "News",
     d: "finance.yahoo.com",
-    r: 6,
+    r: 0,
     s: "Yahoo Finance (Company Profile)",
     sc: "Business",
     t: "yfp",
-    u: "http://finance.yahoo.com/q/pr?s={{{s}}}+Profile",
+    u: "https://finance.yahoo.com/quote/{{{s}}}/profile",
   },
   {
-    c: "Research",
+    c: "News",
     d: "finance.yahoo.com",
-    r: 3407,
+    r: 2261,
     s: "Yahoo Finance",
-    sc: "Health",
+    sc: "Business",
     t: "yf",
-    u: "http://finance.yahoo.com/q?s={{{s}}}",
+    u: "https://finance.yahoo.com/quote/{{{s}}}",
   },
   {
     c: "Entertainment",
     d: "yugioh.wikia.com",
-    r: 0,
+    r: 4,
     s: "Yu-Gi-Oh! Wikia",
     sc: "Games (specific)",
     t: "ygo",
@@ -119932,7 +119905,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.com.tr",
-    r: 6,
+    r: 13,
     s: "Yandex Haritalar",
     sc: "Maps",
     t: "yh",
@@ -119959,7 +119932,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "images.search.yahoo.com",
-    r: 9,
+    r: 0,
     s: "Yahoo! Images",
     sc: "Images",
     t: "yimages",
@@ -119986,7 +119959,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "images.search.yahoo.com",
-    r: 31,
+    r: 16,
     s: "Yahoo Image Search",
     sc: "Search",
     t: "yi",
@@ -120004,7 +119977,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "map.yahoo.co.jp",
-    r: 3,
+    r: 25,
     s: "yahoo japan map",
     sc: "Maps",
     t: "yjm",
@@ -120013,7 +119986,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.yahoo.co.jp",
-    r: 73,
+    r: 56,
     s: "Yahoo! Japan",
     sc: "Search (non-US)",
     t: "yjp",
@@ -120022,7 +119995,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.yahoo.co.jp",
-    r: 1224,
+    r: 1068,
     s: "Yahoo! Japan Realtime",
     sc: "Search (Real-time)",
     t: "yjr",
@@ -120049,7 +120022,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.yahoo.co.jp",
-    r: 1796,
+    r: 1887,
     s: "Yahoo Japan",
     sc: "Search (non-US)",
     t: "yj",
@@ -120058,7 +120031,7 @@ export const bangs = [
   {
     c: "News",
     d: "haku.yle.fi",
-    r: 5,
+    r: 7,
     s: "Yle",
     sc: "Broadcast",
     t: "yle",
@@ -120076,7 +120049,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "mail.yahoo.com",
-    r: 38,
+    r: 16,
     s: "Yahoo Mail",
     sc: "Search (Private)",
     t: "ymail",
@@ -120094,7 +120067,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.com",
-    r: 109,
+    r: 121,
     s: "Yandex Images",
     sc: "Search",
     t: "ymg",
@@ -120103,7 +120076,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.youneedabudget.com",
-    r: 18,
+    r: 10,
     s: "https://www.youneedabudget.com/",
     sc: "Services",
     t: "ynab",
@@ -120112,7 +120085,7 @@ export const bangs = [
   {
     c: "News",
     d: "news.search.yahoo.com",
-    r: 41,
+    r: 128,
     s: "Yahoo! News",
     sc: "Aggregators",
     t: "ynews",
@@ -120130,7 +120103,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yubnub.org",
-    r: 36,
+    r: 35,
     s: "Yubnub",
     sc: "Search",
     t: "yn",
@@ -120148,7 +120121,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.yodobashi.com",
-    r: 116,
+    r: 88,
     s: "Yodobashi.com",
     sc: "Online",
     t: "yodobashi",
@@ -120211,7 +120184,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.youdao.com",
-    r: 0,
+    r: 3,
     s: "Youdao",
     sc: "Search (non-US)",
     t: "youdao",
@@ -120220,7 +120193,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "youglish.com",
-    r: 52,
+    r: 10,
     s: "YouGlish",
     sc: "Video",
     t: "youglish",
@@ -120310,7 +120283,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "youtubeonrepeat.com",
-    r: 3,
+    r: 6,
     s: "Youtube on Repeat",
     sc: "Video",
     t: "youtubeonrepeat",
@@ -120319,7 +120292,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 12544,
+    r: 11932,
     s: "YouTube",
     sc: "Video",
     t: "youtube",
@@ -120337,7 +120310,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "yout.com",
-    r: 8,
+    r: 9,
     s: "yout.com",
     sc: "Video",
     t: "yout",
@@ -120355,7 +120328,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.youtube.com",
-    r: 6301,
+    r: 6337,
     s: "YouTube",
     sc: "Misc",
     t: "you",
@@ -120364,7 +120337,7 @@ export const bangs = [
   {
     c: "Research",
     d: "yochicago.com",
-    r: 21,
+    r: 10,
     s: "YoChicago",
     sc: "Real Estate",
     t: "yo",
@@ -120373,7 +120346,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "yppedia.puzzlepirates.com",
-    r: 4,
+    r: 0,
     s: "Puzzle Pirates YPPedia",
     sc: "Games (specific)",
     t: "ypp",
@@ -120391,7 +120364,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.yellowpages.com",
-    r: 6,
+    r: 5,
     s: "YellowPages",
     sc: "Search",
     t: "yp",
@@ -120409,7 +120382,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yandex.com",
-    r: 31,
+    r: 13,
     s: "Yandex",
     sc: "Search",
     t: "yri",
@@ -120418,7 +120391,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.yahoo.co.jp",
-    r: 350,
+    r: 413,
     s: "Yahoo! Japan Realtime",
     sc: "Search (Real-time)",
     t: "yrtjp",
@@ -120427,7 +120400,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.yr.no",
-    r: 343,
+    r: 390,
     s: "yr.no/NRK/Meteorologisk institutt Weather",
     sc: "Weather",
     t: "yr",
@@ -120454,7 +120427,7 @@ export const bangs = [
   {
     c: "Research",
     d: "slovari.yandex.ru",
-    r: 3,
+    r: 11,
     s: "\u042f\u043d\u0434\u0435\u043a\u0441.\u0421\u043b\u043e\u0432\u0430\u0440\u0438",
     sc: "Reference (words)",
     t: "ys",
@@ -120472,7 +120445,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 1336,
+    r: 1243,
     s: "Youtube",
     sc: "Video",
     t: "ytb",
@@ -120499,7 +120472,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 7,
+    r: 0,
     s: "Youtube Channel Videos",
     sc: "Video",
     t: "ytcv",
@@ -120508,7 +120481,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.youtube.com",
-    r: 21,
+    r: 13,
     s: "Youtube Channel",
     sc: "Misc",
     t: "ytc",
@@ -120517,7 +120490,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 70,
+    r: 8,
     s: "YouTube",
     sc: "Video",
     t: "ytdate",
@@ -120526,7 +120499,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 71,
+    r: 51,
     s: "YouTube",
     sc: "Video",
     t: "ytday",
@@ -120535,7 +120508,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 41,
+    r: 46,
     s: "Youtube",
     sc: "Video",
     t: "ytde",
@@ -120544,7 +120517,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 17,
+    r: 0,
     s: "YouTube",
     sc: "Video",
     t: "ytd",
@@ -120553,7 +120526,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.youtube.com",
-    r: 7,
+    r: 0,
     s: "Youtube ES",
     sc: "TV",
     t: "ytes",
@@ -120562,7 +120535,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.fr",
-    r: 117,
+    r: 193,
     s: "YouTube France",
     sc: "Video",
     t: "ytfr",
@@ -120580,7 +120553,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "gaming.youtube.com",
-    r: 16,
+    r: 10,
     s: "Youtube Gaming",
     sc: "Video",
     t: "ytg",
@@ -120589,7 +120562,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.youtube.com",
-    r: 12,
+    r: 24,
     s: "Youtube History",
     sc: "Reference",
     t: "yth",
@@ -120598,7 +120571,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "in.youtube.com",
-    r: 105,
+    r: 46,
     s: "YouTube India",
     sc: "Video",
     t: "yti",
@@ -120625,7 +120598,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 11,
+    r: 10,
     s: "YouTube - long",
     sc: "Video",
     t: "ytl",
@@ -120634,7 +120607,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "ytmnd.com",
-    r: 0,
+    r: 7,
     s: "YTMND",
     sc: "Misc",
     t: "ytmnd",
@@ -120643,7 +120616,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "music.youtube.com",
-    r: 427,
+    r: 650,
     s: "YouTube Music",
     sc: "Music",
     t: "ytmusic",
@@ -120652,7 +120625,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "music.youtube.com",
-    r: 19,
+    r: 50,
     s: "YouTube Music",
     sc: "Music",
     t: "ytmu",
@@ -120661,7 +120634,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.youtube.com",
-    r: 10,
+    r: 0,
     s: "YouTube (MX)",
     sc: "Google",
     t: "ytmx",
@@ -120670,7 +120643,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "music.youtube.com",
-    r: 4430,
+    r: 5447,
     s: "Youtube Music",
     sc: "Video",
     t: "ytm",
@@ -120679,7 +120652,7 @@ export const bangs = [
   {
     c: "News",
     d: "youtubenews.de",
-    r: 9,
+    r: 16,
     s: "YouTube News DE",
     sc: "Magazine",
     t: "ytn",
@@ -120697,7 +120670,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 26,
+    r: 30,
     s: "Youtube playlists",
     sc: "Video",
     t: "ytp",
@@ -120706,7 +120679,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "youtrack.jetbrains.com",
-    r: 0,
+    r: 3,
     s: "YouTrack",
     sc: "Programming",
     t: "ytrack",
@@ -120715,7 +120688,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.yandex.com",
-    r: 3,
+    r: 0,
     s: "Yandex.Translate",
     sc: "Tools",
     t: "ytren",
@@ -120724,7 +120697,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "translate.yandex.ru",
-    r: 244,
+    r: 215,
     s: "Yandex.Translate",
     sc: "Tools",
     t: "ytr",
@@ -120733,7 +120706,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "tv.youtube.com",
-    r: 6,
+    r: 3,
     s: "Youtube TV",
     sc: "TV",
     t: "yttv",
@@ -120742,7 +120715,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.youtube.com",
-    r: 44,
+    r: 142,
     s: "YouTube (US)",
     sc: "Google",
     t: "ytus",
@@ -120751,7 +120724,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 28,
+    r: 366,
     s: "Youtube video",
     sc: "Video",
     t: "ytvideo",
@@ -120769,7 +120742,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "tw.dictionary.search.yahoo.com",
-    r: 0,
+    r: 9,
     s: "Yahoo\u5947\u6469\u5b57\u5178",
     sc: "Tools",
     t: "ytwd",
@@ -120778,7 +120751,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "tw.search.yahoo.com",
-    r: 4,
+    r: 0,
     s: "Yahoo! Taiwan",
     sc: "Search (non-US)",
     t: "ytw",
@@ -120787,7 +120760,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.youtube.com",
-    r: 463021,
+    r: 458810,
     s: "YouTube",
     sc: "Video",
     t: "yt",
@@ -120796,7 +120769,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "yubnub.org",
-    r: 10,
+    r: 8,
     s: "YubNub",
     sc: "Search",
     t: "yubnub",
@@ -120814,7 +120787,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "yugipedia.com",
-    r: 73,
+    r: 13,
     s: "Yu-Gi-Oh! Wikia",
     sc: "Games (offline)",
     t: "yugioh",
@@ -120823,7 +120796,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "hooktube.com",
-    r: 14,
+    r: 10,
     s: "HookTube",
     sc: "Video",
     t: "yu",
@@ -120868,7 +120841,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "video.search.yahoo.com",
-    r: 4,
+    r: 0,
     s: "Yahoo Video Search",
     sc: "Video",
     t: "yv",
@@ -120877,7 +120850,7 @@ export const bangs = [
   {
     c: "News",
     d: "duckduckgo.com",
-    r: 10,
+    r: 6,
     s: "Yahoo! Weather",
     sc: "Weather",
     t: "yw",
@@ -120886,7 +120859,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "maps.yandex.ru",
-    r: 12,
+    r: 9,
     s: "Maps.Yandex",
     sc: "Maps",
     t: "yxmaps",
@@ -120895,7 +120868,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "search.yahoo.com",
-    r: 1614,
+    r: 1425,
     s: "Yahoo!",
     sc: "Search",
     t: "y",
@@ -120913,7 +120886,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "youzeek.com",
-    r: 19,
+    r: 23,
     s: "youzeek",
     sc: "Music",
     t: "yz",
@@ -120949,7 +120922,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.zakonypreludi.sk",
-    r: 3,
+    r: 0,
     s: "Z\u00e1kony pre \u013eud\u00ed",
     sc: "Law",
     t: "zakony",
@@ -120967,7 +120940,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zalando.co.uk",
-    r: 0,
+    r: 3,
     s: "Zalando",
     sc: "Online",
     t: "zalando",
@@ -121030,7 +121003,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zappos.com",
-    r: 7,
+    r: 6,
     s: "Zappos",
     sc: "Online (marketplace)",
     t: "zappos",
@@ -121039,7 +121012,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zap.co.il",
-    r: 33,
+    r: 12,
     s: "Zap",
     sc: "Online",
     t: "zap",
@@ -121093,7 +121066,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.zentralblatt-math.org",
-    r: 0,
+    r: 8,
     s: "Zentralblatt MATH Database",
     sc: "Academic (math/cs)",
     t: "zbmath",
@@ -121102,7 +121075,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zbozi.cz",
-    r: 5,
+    r: 32,
     s: "Zbo\u017e\u00ed.cz",
     sc: "Online (marketplace)",
     t: "zbozi",
@@ -121120,7 +121093,7 @@ export const bangs = [
   {
     c: "Multimedia",
     d: "www.zdf.de",
-    r: 57,
+    r: 35,
     s: "ZDF",
     sc: "Video",
     t: "zdf",
@@ -121129,7 +121102,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.zdic.net",
-    r: 6,
+    r: 0,
     s: "\u6c49\u5178",
     sc: "Reference (words intl)",
     t: "zdic",
@@ -121147,7 +121120,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "zdoom.org",
-    r: 13,
+    r: 7,
     s: "ZDoom Wiki",
     sc: "Programming",
     t: "zdoom",
@@ -121174,7 +121147,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "www.zeldadungeon.net",
-    r: 4,
+    r: 0,
     s: "Zelda Dungeon",
     sc: "Games (specific)",
     t: "zd",
@@ -121210,7 +121183,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.zeit.de",
-    r: 22,
+    r: 18,
     s: "Zeit Online",
     sc: "Newspaper",
     t: "zeit",
@@ -121282,7 +121255,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "arcade.zenzo.io",
-    r: 3,
+    r: 4,
     s: "ZENZO Arcade",
     sc: "Online (marketplace)",
     t: "zen",
@@ -121363,7 +121336,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.zhihu.com",
-    r: 24,
+    r: 26,
     s: "\u77e5\u4e4e",
     sc: "Search (non-US)",
     t: "zhihu",
@@ -121381,7 +121354,7 @@ export const bangs = [
   {
     c: "News",
     d: "www.zerohedge.com",
-    r: 145,
+    r: 176,
     s: "Zero Hedge",
     sc: "Business",
     t: "zh",
@@ -121408,7 +121381,7 @@ export const bangs = [
   {
     c: "Research",
     d: "www.zillow.com",
-    r: 1454,
+    r: 1169,
     s: "Zillow",
     sc: "Real Estate",
     t: "zillow",
@@ -121417,7 +121390,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "www.zip-codes.com",
-    r: 0,
+    r: 4,
     s: "Zip-Codes.com",
     sc: "Tools",
     t: "zip",
@@ -121435,7 +121408,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "zkillboard.com",
-    r: 20,
+    r: 5,
     s: "zKillboard",
     sc: "Games (specific)",
     t: "zkb",
@@ -121453,7 +121426,7 @@ export const bangs = [
   {
     c: "Entertainment",
     d: "zkillboard.com",
-    r: 0,
+    r: 19,
     s: "zKillboard",
     sc: "Games (general)",
     t: "zkill",
@@ -121480,7 +121453,7 @@ export const bangs = [
   {
     c: "Tech",
     d: "search.zoho.com",
-    r: 6,
+    r: 0,
     s: "Zoho",
     sc: "Companies",
     t: "zoho",
@@ -121489,7 +121462,7 @@ export const bangs = [
   {
     c: "Online Services",
     d: "zomato.com",
-    r: 0,
+    r: 3,
     s: "Zomato",
     sc: "Search",
     t: "zomato",
@@ -121498,7 +121471,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zoom.com.br",
-    r: 3,
+    r: 4,
     s: "Zoom ",
     sc: "Online (intl)",
     t: "zoombr",
@@ -121525,7 +121498,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zoom.com.br",
-    r: 30,
+    r: 17,
     s: "Zoom",
     sc: "Online (marketplace)",
     t: "zoom",
@@ -121615,7 +121588,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zvab.com",
-    r: 5,
+    r: 9,
     s: "ZVAB",
     sc: "Online",
     t: "zvab",
@@ -121642,7 +121615,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zalando.de",
-    r: 60,
+    r: 58,
     s: "www.zalando.de",
     sc: "Online",
     t: "z",
@@ -121678,7 +121651,7 @@ export const bangs = [
   {
     c: "Shopping",
     d: "www.zzounds.com",
-    r: 0,
+    r: 4,
     s: "ZZounds",
     sc: "Online",
     t: "zzounds",
