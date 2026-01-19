@@ -1,21 +1,33 @@
 import { bangs } from "./bang";
 import "./global.css";
 
+type Bang = (typeof bangs)[number];
+
+const searchIndex = {
+    byTrigger: new Map<string, Bang>(),
+    triggerList: [] as string[],
+};
+
+for (const bang of bangs) {
+    searchIndex.byTrigger.set(bang.t, bang);
+    searchIndex.triggerList.push(bang.t);
+}
+
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 2rem;">
-    <div style="max-width: 900px; width: 100%;">
+  <div class="search-container">
+    <div class="search-content">
       <h1>Search Bangs</h1>
       <input
         type="text"
         id="search"
+        class="search-input"
         placeholder="Search by command, name, or domain..."
-        style="width: 100%; padding: 0.75rem; margin-bottom: 1rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem;"
         autofocus
       />
-      <div id="results" style="margin-top: 1rem;"></div>
-      <footer class="footer" style="margin-top: 2rem;">
+      <div id="results" class="search-results"></div>
+      <footer class="footer search-footer">
         <a href="/">back to home</a>
       </footer>
     </div>
@@ -25,9 +37,17 @@ app.innerHTML = `
 const searchInput = document.getElementById("search") as HTMLInputElement;
 const resultsDiv = document.getElementById("results")!;
 
-function renderResults(filtered: typeof bangs) {
+function escapeHtml(str: string): string {
+    return str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+}
+
+function renderResults(filtered: Bang[]) {
     if (filtered.length === 0) {
-        resultsDiv.innerHTML = "<p>No bangs found</p>";
+        resultsDiv.innerHTML = '<p class="no-results">No bangs found</p>';
         return;
     }
 
@@ -35,18 +55,18 @@ function renderResults(filtered: typeof bangs) {
     const items = filtered.slice(0, 100);
 
     resultsDiv.innerHTML = `
-    <p style="margin-bottom: 0.5rem; color: #666;">${count}</p>
-    <div style="display: grid; gap: 0.5rem;">
+    <p class="results-count">${count}</p>
+    <div class="results-grid">
       ${items
             .map(
                 (b) => `
-        <div style="padding: 0.75rem; border: 1px solid #eee; border-radius: 4px;">
-          <div style="display: flex; gap: 1rem; align-items: baseline;">
-            <code style="font-weight: bold; color: #0066cc;">!${b.t}</code>
-            <span>${b.s}</span>
-            <span style="color: #666; font-size: 0.875rem;">${b.d}</span>
+        <div class="bang-card">
+          <div class="bang-header">
+            <code class="bang-trigger">!${escapeHtml(b.t)}</code>
+            <span class="bang-name">${escapeHtml(b.s)}</span>
+            <span class="bang-domain">${escapeHtml(b.d)}</span>
           </div>
-          <div style="font-size: 0.875rem; color: #666; margin-top: 0.25rem;">${b.u}</div>
+          <div class="bang-url" title="${escapeHtml(b.u)}">${escapeHtml(b.u)}</div>
         </div>
       `
             )
@@ -55,38 +75,51 @@ function renderResults(filtered: typeof bangs) {
   `;
 }
 
-renderResults(bangs.slice(0, 100));
+function debounce(fn: (query: string) => void, delay: number): (query: string) => void {
+    let timeoutId: ReturnType<typeof setTimeout>;
+    return (query: string) => {
+        clearTimeout(timeoutId);
+        timeoutId = setTimeout(() => fn(query), delay);
+    };
+}
 
-searchInput.addEventListener("input", (e) => {
-    const query = (e.target as HTMLInputElement).value.toLowerCase().trim();
-
+function filterBangs(query: string): Bang[] {
     if (!query) {
-        renderResults(bangs.slice(0, 100));
-        return;
+        return bangs.slice(0, 100);
     }
 
     const isBangSearch = query.startsWith("!");
     const cleanQuery = isBangSearch ? query.slice(1) : query;
+    const lowerQuery = cleanQuery.toLowerCase();
 
     if (isBangSearch) {
-        // For !command searches, show exact match first, then partial matches
-        const exactMatch = bangs.find((b) => b.t === cleanQuery);
+        // For !command searches, use the index for exact match
+        const exactMatch = searchIndex.byTrigger.get(cleanQuery);
         const partialMatches = bangs.filter(
-            (b) => b.t !== cleanQuery && (b.t.includes(cleanQuery) || b.s.toLowerCase().includes(cleanQuery) || b.d.toLowerCase().includes(cleanQuery))
-        );
-
-        const filtered = exactMatch ? [exactMatch, ...partialMatches] : partialMatches;
-        renderResults(filtered);
-    } else {
-        // For text searches, filter normally
-        const filtered = bangs.filter(
             (b) =>
-                b.t.toLowerCase().includes(cleanQuery) ||
-                b.s.toLowerCase().includes(cleanQuery) ||
-                b.d.toLowerCase().includes(cleanQuery) ||
-                b.u.toLowerCase().includes(cleanQuery)
+                b.t !== cleanQuery &&
+                (b.t.includes(lowerQuery) ||
+                    b.s.toLowerCase().includes(lowerQuery) ||
+                    b.d.toLowerCase().includes(lowerQuery))
         );
-
-        renderResults(filtered);
+        return exactMatch ? [exactMatch, ...partialMatches] : partialMatches;
     }
+
+    return bangs.filter(
+        (b) =>
+            b.t.includes(lowerQuery) ||
+            b.s.toLowerCase().includes(lowerQuery) ||
+            b.d.toLowerCase().includes(lowerQuery) ||
+            b.u.toLowerCase().includes(lowerQuery)
+    );
+}
+
+renderResults(bangs.slice(0, 100));
+
+const handleSearch = debounce((query: string) => {
+    renderResults(filterBangs(query.trim()));
+}, 100);
+
+searchInput.addEventListener("input", (e) => {
+    handleSearch((e.target as HTMLInputElement).value);
 });

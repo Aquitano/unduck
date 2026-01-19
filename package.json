@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "bun merge-bangs && vite",
-    "build": "bun merge-bangs && tsc && vite build",
+    "build": "bun merge-bangs && vite build",
     "preview": "vite preview",
-    "merge-bangs": "bun merge-bangs.ts"
+    "merge-bangs": "bun merge-bangs.ts",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",
