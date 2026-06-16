@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 src/bang.ts
+src/popular-bangs.ts
 
 # Editor directories and files
 .vscode/*

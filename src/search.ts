@@ -1,17 +1,18 @@
-import { bangs } from "./bang";
 import "./global.css";
 
-type Bang = (typeof bangs)[number];
-
-const searchIndex = {
-    byTrigger: new Map<string, Bang>(),
-    triggerList: [] as string[],
+type Bang = {
+    c?: string;
+    d: string;
+    r: number;
+    s: string;
+    sc?: string;
+    t: string;
+    u: string;
 };
 
-for (const bang of bangs) {
-    searchIndex.byTrigger.set(bang.t, bang);
-    searchIndex.triggerList.push(bang.t);
-}
+// Loaded lazily so the page shell paints before the ~2MB dataset is parsed.
+let bangs: Bang[] = [];
+const byTrigger = new Map<string, Bang>();
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
@@ -94,7 +95,7 @@ function filterBangs(query: string): Bang[] {
 
     if (isBangSearch) {
         // For !command searches, use the index for exact match
-        const exactMatch = searchIndex.byTrigger.get(cleanQuery);
+        const exactMatch = byTrigger.get(cleanQuery);
         const partialMatches = bangs.filter(
             (b) =>
                 b.t !== cleanQuery &&
@@ -114,12 +115,19 @@ function filterBangs(query: string): Bang[] {
     );
 }
 
-renderResults(bangs.slice(0, 100));
-
 const handleSearch = debounce((query: string) => {
     renderResults(filterBangs(query.trim()));
 }, 100);
 
 searchInput.addEventListener("input", (e) => {
     handleSearch((e.target as HTMLInputElement).value);
+});
+
+resultsDiv.innerHTML = '<p class="results-count">Loading bangs…</p>';
+
+import("./bang").then(({ bangs: loaded }) => {
+    bangs = loaded;
+    for (const bang of bangs) byTrigger.set(bang.t, bang);
+    // Render with whatever the user may have already typed.
+    renderResults(filterBangs(searchInput.value.trim()));
 });

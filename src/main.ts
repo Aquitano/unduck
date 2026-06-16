@@ -1,37 +1,55 @@
-import { bangs } from "./bang";
+import { popularBangs } from "./popular-bangs";
+import { POPULAR } from "./popular-list";
 import "./global.css";
 
-type Bang = (typeof bangs)[number];
+type Bang = {
+    c?: string;
+    d: string;
+    r: number;
+    s: string;
+    sc?: string;
+    t: string;
+    u: string;
+};
 
 const LS_DEFAULT_BANG_KEY = "unduck_default_bang";
 const FALLBACK_DEFAULT_BANG = "brave";
 
-const bangMap = new Map<string, Bang>(bangs.map((b) => [b.t, b]));
+// Small map of the most common bangs, baked into this bundle so the common
+// redirect resolves instantly without parsing the full ~2MB dataset.
+const popularMap = new Map<string, Bang>(popularBangs.map((b) => [b.t, b]));
 
-const popularBangs = [
-    { t: "g", name: "Google" },
-    { t: "ddg", name: "DuckDuckGo" },
-    { t: "b", name: "Bing" },
-    { t: "brave", name: "Brave" },
-    { t: "sp", name: "Startpage" },
-    { t: "yt", name: "YouTube" },
-    { t: "gh", name: "GitHub" },
-    { t: "w", name: "Wikipedia" },
-    { t: "t3", name: "T3 Chat" },
-    { t: "ppx", name: "Perplexity" },
-    { t: "cg", name: "ChatGPT" },
-].filter((b) => bangMap.has(b.t));
+// The full dataset is loaded on demand (and cached locally by the service
+// worker) only when a bang isn't in the popular set.
+let fullMapPromise: Promise<Map<string, Bang>> | null = null;
+function loadFullBangs(): Promise<Map<string, Bang>> {
+    if (!fullMapPromise) {
+        fullMapPromise = import("./bang").then(
+            ({ bangs }) => new Map(bangs.map((b) => [b.t, b]))
+        );
+    }
+    return fullMapPromise;
+}
+
+async function resolveBang(trigger: string): Promise<Bang | undefined> {
+    const popular = popularMap.get(trigger);
+    if (popular) return popular;
+    const full = await loadFullBangs();
+    return full.get(trigger);
+}
+
+const dropdownBangs = POPULAR.filter((b) => popularMap.has(b.t));
 
 function getDefaultBangTrigger(): string {
     const stored = localStorage.getItem(LS_DEFAULT_BANG_KEY);
-    if (stored && bangMap.has(stored)) {
-        return stored;
-    }
+    // Defaults are only ever set from the popular set, so this stays on the
+    // fast path (no full-dataset load needed to resolve the default).
+    if (stored && popularMap.has(stored)) return stored;
     return FALLBACK_DEFAULT_BANG;
 }
 
 function setDefaultBangTrigger(trigger: string): void {
-    if (bangMap.has(trigger)) {
+    if (popularMap.has(trigger)) {
         localStorage.setItem(LS_DEFAULT_BANG_KEY, trigger);
     }
 }
@@ -39,7 +57,7 @@ function setDefaultBangTrigger(trigger: string): void {
 function noSearchDefaultPageRender() {
     const app = document.querySelector<HTMLDivElement>("#app")!;
     const currentDefault = getDefaultBangTrigger();
-    const currentBang = bangMap.get(currentDefault);
+    const currentBang = popularMap.get(currentDefault);
 
     app.innerHTML = `
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
@@ -61,7 +79,7 @@ function noSearchDefaultPageRender() {
         <div class="settings-section">
           <label for="default-bang-select" class="settings-label">Default search engine:</label>
           <select class="settings-select" id="default-bang-select">
-            ${popularBangs
+            ${dropdownBangs
             .map(
                 (b) =>
                     `<option value="${b.t}" ${b.t === currentDefault ? "selected" : ""}>!${b.t} - ${b.name}</option>`
@@ -69,7 +87,7 @@ function noSearchDefaultPageRender() {
             .join("")}
           </select>
           <p class="settings-current">
-            Currently using <code>!${currentDefault}</code> - ${currentBang?.s ?? "Unknown"}
+            Currently using <code>!${currentDefault}</code> - ${currentBang?.s ?? currentDefault}
           </p>
         </div>
       </div>
@@ -101,14 +119,14 @@ function noSearchDefaultPageRender() {
     const defaultBangSelect = document.getElementById("default-bang-select") as HTMLSelectElement;
     defaultBangSelect.addEventListener("change", () => {
         const selectedBang = defaultBangSelect.value;
-        if (bangMap.has(selectedBang)) {
+        if (popularMap.has(selectedBang)) {
             setDefaultBangTrigger(selectedBang);
             noSearchDefaultPageRender();
         }
     });
 }
 
-function getBangredirectUrl() {
+async function getBangredirectUrl(): Promise<string | null> {
     const url = new URL(window.location.href);
     const query = url.searchParams.get("q")?.trim() ?? "";
     if (!query) {
@@ -117,11 +135,12 @@ function getBangredirectUrl() {
     }
 
     const match = query.match(/!(\S+)/i);
-
     const bangCandidate = match?.[1]?.toLowerCase();
     const defaultBangTrigger = getDefaultBangTrigger();
-    const defaultBang = bangMap.get(defaultBangTrigger);
-    const selectedBang = bangCandidate ? bangMap.get(bangCandidate) ?? defaultBang : defaultBang;
+
+    const selectedBang = bangCandidate
+        ? (await resolveBang(bangCandidate)) ?? (await resolveBang(defaultBangTrigger))
+        : await resolveBang(defaultBangTrigger);
 
     // Remove the first bang from the query
     const cleanQuery = query.replace(/!\S+\s*/i, "").trim();
@@ -142,8 +161,8 @@ function getBangredirectUrl() {
     return searchUrl;
 }
 
-function doRedirect() {
-    const searchUrl = getBangredirectUrl();
+async function doRedirect() {
+    const searchUrl = await getBangredirectUrl();
     if (!searchUrl) return;
     window.location.replace(searchUrl);
 }
