@@ -10,6 +10,7 @@ type Bang = {
     sc?: string;
     t: string;
     u: string;
+    usePlusEncoding?: boolean;
 };
 
 const LS_DEFAULT_BANG_KEY = "unduck_default_bang";
@@ -149,12 +150,15 @@ async function getBangredirectUrl(): Promise<string | null> {
     if (cleanQuery === "")
         return selectedBang ? `https://${selectedBang.d}` : null;
 
+    const encodedQuery = encodeURIComponent(cleanQuery)
+        // Replace %2F with / to fix formats like "!ghr+t3dotgg/unduck"
+        .replace(/%2F/g, "/");
+
     // Format of the url is:
     // https://www.google.com/search?q={{{s}}}
     const searchUrl = selectedBang?.u.replace(
         "{{{s}}}",
-        // Replace %2F with / to fix formats like "!ghr+t3dotgg/unduck"
-        encodeURIComponent(cleanQuery).replace(/%2F/g, "/"),
+        selectedBang.usePlusEncoding ? encodedQuery.replace(/%20/g, "+") : encodedQuery,
     );
     if (!searchUrl) return null;
 

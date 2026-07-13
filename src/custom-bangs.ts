@@ -26,6 +26,7 @@ export const customBangs = [
         s: "Google Gemini",
         sc: "AI",
         t: "gmi",
+        usePlusEncoding: true,
         u: "https://gemini.google.com/app?q={{{s}}}",
     },
     {
