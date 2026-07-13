@@ -20,6 +20,15 @@ export const customBangs = [
         u: "https://www.perplexity.ai/search?s=o&q={{{s}}}",
     },
     {
+        c: "AI",
+        d: "gemini.google.com",
+        r: 0,
+        s: "Google Gemini",
+        sc: "AI",
+        t: "gmi",
+        u: "https://gemini.google.com/app?q={{{s}}}",
+    },
+    {
         c: "ChatGPT",
         d: "chatgpt.com",
         r: 0,

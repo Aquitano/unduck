@@ -18,6 +18,7 @@ export const POPULAR: { t: string; name: string }[] = [
     { t: "w", name: "Wikipedia" },
     { t: "t3", name: "T3 Chat" },
     { t: "ppx", name: "Perplexity" },
+    { t: "gmi", name: "Google Gemini" },
     { t: "cg", name: "ChatGPT" },
     { t: "a", name: "Amazon" },
     { t: "r", name: "Reddit" },
